@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArganonä wǝddase “The Harp of Praise”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArganonä wǝddase “The Harp of Praise”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀArganonä wǝddase “The Harp of Praise” (fols. 1ra-268vb), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾArganonä wǝddase “The Harp of Praise” (fols. 1ra-268vb), incomplete&#13;
 I-1) Monday (fols. 1ra-2vb, 260, 3ra-16vb, 167, 17ra-22vb, 23ra-28vb, 29ra-40ra)&#13;
 I-2) Tuesday (fols. 40ra-64vb, 65ra-71vb, 72ra-74vb, 75, 76ra-79vb, 80ra-81vb, 82ra-85vb, 86ra-96ra)&#13;
 I-3) Wednesday (fols. 96ra-101vb, 102ra-108vb, 109ra-127vb, 128, 134ra- 140vb, 94, 141ra-146vb, 149ra-150vb, 153ra)&#13;
@@ -23,18 +23,18 @@ I-7) Sunday (fols. 245rb l. 4-248vb, 148, 249ra-254vb, 259, 258, 255, 261ra-268v
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Tälawe Krəstos is mentioned in the supplication formulas on fols. 5ra, 21vb, 31vb, 40ra, 45ra, 54va, 96ra, 104rb, 132va, 148vb, 153ra.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Tälawe Krǝstos is mentioned in the supplication formulas on fols. 5ra, 21vb, 31vb, 40ra, 45ra, 54va, 96ra, 104rb, 132va, 148vb, 153ra.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1650</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1720</tdating>
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Late 17th cent. &#13;
-Tälawe Krəstos is known as a contemporary of King ˀIyasu II (r. 1682-1706).</dcomment>
+Tälawe Krǝstos is known as a contemporary of King ʾIyasu II (r. 1682-1706).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

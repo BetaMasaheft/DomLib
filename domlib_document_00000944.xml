@@ -11,12 +11,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Zä-Mikaˀel ˀArägawi "Vita of Zä-Mikaˀel ˀArägawi" / Ṭǝntä lǝdätomu lä-mänäkosat "Origin of the Monks" / Mälkəˀa Zä-Mikaˀel ˀArägawi "Image of Zä-Mikaˀel ˀArägawi"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Zä-Mikaʾel ʾArägawi "Vita of Zä-Mikaʾel ʾArägawi" / Ṭǝntä lǝdätomu lä-mänäkosat "Origin of the Monks" / Mälkǝʾa Zä-Mikaʾel ʾArägawi "Image of Zä-Mikaʾel ʾArägawi"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following texts: &#13;
-I) Gädlä Zä-Mikaˀel ˀArägawi "Vita of Zä-Mikaˀel ˀArägawi" / (fols. 3ra-46ra l.1) &#13;
+I) Gädlä Zä-Mikaʾel ʾArägawi "Vita of Zä-Mikaʾel ʾArägawi" / (fols. 3ra-46ra l.1) &#13;
 II) Ṭǝntä lǝdätomu lä-mänäkosat "Origin of the Monks" (fols. 46ra l. 2-46va l.10), in Amharic&#13;
-III) Mälkəˀa Zä-Mikaˀel ˀArägawi "Image of Zä-Mikaˀel ˀArägawi" (fols. 46va l.11-49vb)&#13;
+III) Mälkǝʾa Zä-Mikaʾel ʾArägawi "Image of Zä-Mikaʾel ʾArägawi" (fols. 46va l.11-49vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -148,7 +148,7 @@ The name of the original donor, mentioned in the supplication formulas, has been
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Corrections written over erased words and passages: e.g., fols. 4rb, 11vb, 13vb, 14ra, 28ra.&#13;
 - Interlineal corrections: e.g., fols. 7va, 9va, 13ra, 47ra, 48ra.&#13;
 - Erased notes: fols. 27r, 41r, 48v, 49r.&#13;
-- The names ˀArägawi and Zä- Mikaˀel are crudely written in pen: fols. 1r, 17v.&#13;
+- The names ʾArägawi and Zä- Mikaʾel are crudely written in pen: fols. 1r, 17v.&#13;
 - Some lines are drawn in the midst of the text by secondary hand, in ink, pen and pencil: fols. 6va, 31va, 33ra&#13;
 - Crude drawings and scribbles, in pen and pencil: e.g., fols. 8r, 10r, 13r, 18r, 45v, 51v, 53r.</extra>
 </extras>

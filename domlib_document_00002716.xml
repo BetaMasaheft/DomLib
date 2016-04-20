@@ -10,27 +10,27 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary" (fols. 2ra-70ra)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 2ra-6rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary" (fols. 2ra-70ra)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 2ra-6rb)&#13;
 I-2) Introductory exhortation and hymns (fols. 6rb-8vb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fols. 8vb-9va)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: 65 miracles (fols. 9va-70ra)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fols. 8vb-9va)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: 65 miracles (fols. 9va-70ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Kǝnfä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Kǝnfä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Kǝnfä Mikaˀel is mentioned as he scribe in the concluding formula on fol. 70ra.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Kǝnfä Mikaʾel is mentioned as he scribe in the concluding formula on fol. 70ra.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas (in the main hand): Wälättä Qwǝrban (e.g., fols. 9vb, 11ra, 12ra), Sǝbḥat Lä- ˀAb (e.g., fols. 28va, 35vb, 43ra), ˁAmdä	Ṣǝyon (e.g., fols. 60ra, 61rb, 62ra) and Täklä Yoḥannǝs (fol. 70ra). These names have been overwritten with that of Täsfa Mikaˀel in a secondary hand, in black (cp., Ms. BMQM-003).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas (in the main hand): Wälättä Qwǝrban (e.g., fols. 9vb, 11ra, 12ra), Sǝbḥat Lä- ʾAb (e.g., fols. 28va, 35vb, 43ra), ʿAmdä	Ṣǝyon (e.g., fols. 60ra, 61rb, 62ra) and Täklä Yoḥannǝs (fol. 70ra). These names have been overwritten with that of Täsfa Mikaʾel in a secondary hand, in black (cp., Ms. BMQM-003).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

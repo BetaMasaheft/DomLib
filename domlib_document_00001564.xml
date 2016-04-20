@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 1ra- 174rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 1ra- 174rb)&#13;
 I-1) Introduction (fols. 1ra-3ra)&#13;
 I-2) Eve of Palm Sunday (fols. 3ra-5rb)&#13;
 I-3) Palm Sunday (fols. 5rb-10vc)&#13;
@@ -30,24 +30,24 @@ I-7) Thursday (fols. 53rc-69rb)&#13;
 - Day hours (fols. 55vc-69rb)&#13;
 I-8) Friday (fols. 69rc-138rb)&#13;
 - Night hours (fols. 74vb-99vb), including: Mäṣḥafä dorho “Book of the Cock” (fols. 69rc-73rb); Homily by Ephrem on  the Passion of Our Lord and on the thief on the right hand (fols. 78rc-80ra); Homily by Jaqob of Serug on the angel and the thief (fols. 80ra-84rb); Homily by Dionysius the Aeropagite on the crucifixion (fols. 84rb-84vc); Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 89rb-92rb)&#13;
-- Day hours (fols. 99vb-137rb), including: Homily by Jaqob of Serug on Abraham (fols. 109rc-114vb); Mäḥaləyä mäḥaləy “Song of Songs” (fols. 135va-137vb)&#13;
+- Day hours (fols. 99vb-137rb), including: Homily by Jaqob of Serug on Abraham (fols. 109rc-114vb); Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 135va-137vb)&#13;
 I-9) Saturday (fols. 138rb-163rc)&#13;
-- Night hours (fols. 138rb-163rc), including: Raˀəyä Yoḥannəs “Revelation of John” (fols. 141vc-153rb); Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 159vc-161rb)&#13;
+- Night hours (fols. 138rb-163rc), including: Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 141vc-153rb); Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 159vc-161rb)&#13;
 I-10) Homily of Cyriacus of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 164ra-174rb)&#13;
  &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Ḥəywät</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Ḥǝywät</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Ḥəywät is mentioned as the scribe in the subscription on fol. 163rb.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Ḥǝywät is mentioned as the scribe in the subscription on fol. 163rb.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Kidanä Maryam, baptismal name of Ras Səbḥat (Arägawi? b. ca. 1844, d. 1914), is mentioned as the donor in Additio 1 and in the supplication formulas throughout the Ms. Other members of his family are mentioned in the colophon.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Kidanä Maryam, baptismal name of Ras Sǝbḥat (Arägawi? b. ca. 1844, d. 1914), is mentioned as the donor in Additio 1 and in the supplication formulas throughout the Ms. Other members of his family are mentioned in the colophon.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1889</fdating>
 </fdatings>
@@ -135,7 +135,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; name of the scribe (fol. 163rb); name of the ruling king (fol. 65rc); names of the donor´s relatives in the colophon; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines e.g., fols. 1r, 5rb, 13ra, 20rb, 25va, 39va, 55rc, 68vb, 85r, 103vb, 114vb, 164r; excerpts of hymns for the Good Friday (fols. 101v, 102r, 102v, 107v, 108r, 108v, 120v, 121r, 121v, 127v);  titles of the Biblical books and other works; directives for the ministers or their abbreviations; elements of quire mark (fol. 1r); names of Hebrew letters in fols. 130rc-130vc (Lam. 3); the words, yəbe, yəbəl, yətärägwəm, mätärgwəm, nastäbäqqwəˁ ḫabekä (fols. 65ra-65rc), zä-ˀəmṗäraqliṭos (fols. 84vc-87ra), dorho (in Mäṣḥafä dorho, Text 1-8), täzäkärännä, yətäqənäyu, yaṭəfˁu (fols. 122ra-122va), ṣälläyu (fol. 139r); ˀəgziˀo täśähalännä (fols. 161va-168vb ); the letters sə (fols. 133va-133vc), ˀo (fols. 138vb-138vc); initial words in “Təmḫərtä ḫəbuˀat” (Text 1-9); elements of the punctuation signs; elements of the text dividers; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; name of the scribe (fol. 163rb); name of the ruling king (fol. 65rc); names of the donor´s relatives in the colophon; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines e.g., fols. 1r, 5rb, 13ra, 20rb, 25va, 39va, 55rc, 68vb, 85r, 103vb, 114vb, 164r; excerpts of hymns for the Good Friday (fols. 101v, 102r, 102v, 107v, 108r, 108v, 120v, 121r, 121v, 127v);  titles of the Biblical books and other works; directives for the ministers or their abbreviations; elements of quire mark (fol. 1r); names of Hebrew letters in fols. 130rc-130vc (Lam. 3); the words, yǝbe, yǝbǝl, yǝtärägwǝm, mätärgwǝm, nastäbäqqwǝʿ ḫabekä (fols. 65ra-65rc), zä-ʾǝmṗäraqliṭos (fols. 84vc-87ra), dorho (in Mäṣḥafä dorho, Text 1-8), täzäkärännä, yǝtäqǝnäyu, yaṭǝfʿu (fols. 122ra-122va), ṣälläyu (fol. 139r); ʾǝgziʾo täśähalännä (fols. 161va-168vb ); the letters sǝ (fols. 133va-133vc), ʾo (fols. 138vb-138vc); initial words in “Tǝmḫǝrtä ḫǝbuʾat” (Text 1-9); elements of the punctuation signs; elements of the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይሕ፡ for ይብል፡ ሕዝብ፡&#13;
 ይካ፡ for ይብል፡ ካህን፡ &#13;
@@ -149,7 +149,7 @@ The bottom line is written above the ruling.</ruling>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts from hymns for the Good Friday (?) added in the upper margin: fols. 101v, 102r, 102v, 107v, 108r, 108v, 120v, 121r, 121v, 127v.&#13;
 - Corrections written with blue pen: fol. 51r.&#13;
-- Stamp with the name of the donor (ras Səbḥat): fols. 1r, 55r, 95r, 142r, 164r, 174r.</extra>
+- Stamp with the name of the donor (ras Sǝbḥat): fols. 1r, 55r, 95r, 142r, 164r, 174r.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>
@@ -161,12 +161,12 @@ The bottom line is written above the ruling.</ruling>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- The time and respective readings are written, within a decorative frame, in the upper margin:&#13;
-bä-räbuˀ dərsan zä-dänagəl: fol. 40v &#13;
-mäṣḥafä dorho bä-ˁarb: fol. 69r&#13;
-dərsanä fäyatawi zä-yətnäbbäb bä-6 säˁat: fol. 78r&#13;
-bä-ˀəntä mälˀak wäfäyatawi bä-ˀarb; zä-yətnäbbäb bä-7 säˀat zä-ˀarb: fol. 80r&#13;
-ˀAbuqälämsis; zä-yətnäbbäb bä-6 säˁat: fols. 141v-142r&#13;
-laḥa Maryam dəngəl; mənbab bä-lelitä tənśaˀe: fol. 164r</txfindingaid>
+bä-räbuʾ dǝrsan zä-dänagǝl: fol. 40v &#13;
+mäṣḥafä dorho bä-ʿarb: fol. 69r&#13;
+dǝrsanä fäyatawi zä-yǝtnäbbäb bä-6 säʿat: fol. 78r&#13;
+bä-ʾǝntä mälʾak wäfäyatawi bä-ʾarb; zä-yǝtnäbbäb bä-7 säʾat zä-ʾarb: fol. 80r&#13;
+ʾAbuqälämsis; zä-yǝtnäbbäb bä-6 säʿat: fols. 141v-142r&#13;
+laḥa Maryam dǝngǝl; mǝnbab bä-lelitä tǝnśaʾe: fol. 164r</txfindingaid>
 </txfindingaids>
 <drawings class="DLMiniature" heritable="false" notinherit="false"><drawing xml:lang="en" inherited="0"><info>Fol. 1r (bottom): three Stars of David, in black and red ink.</info></drawing>
 <drawing xml:lang="en" inherited="0"><info>Fol. 84v (bottom): Star of David, in black and red ink.</info></drawing>

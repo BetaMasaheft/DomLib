@@ -10,27 +10,27 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary" / Excerpt from a lectionary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary" / Excerpt from a lectionary</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 2ra-28va)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 2ra-5rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 2ra-28va)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 2ra-5rb)&#13;
 I-2) Introductory exhortation and hymns (fols. 5rb-8rb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... "I worship Thee ..." (fol. 8va-9va)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 20 miracles (fols. 9va-28va)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... "I worship Thee ..." (fol. 8va-9va)&#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 20 miracles (fols. 9va-28va)&#13;
 II) Excerpt from a lectionary (fols. 29ra-36vb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabǝḥer</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabǝḥer is mentioned as the scribe in a few supplications (fols. 7ra, 12ra). Furthermore, he is referred to as the husband of ˁAmätä Ṣǝyon (e.g., fols. 5va, 11ra, 24ra). The same scribe produced Ms. GKM-012.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer is mentioned as the scribe in a few supplications (fols. 7ra, 12ra). Furthermore, he is referred to as the husband of ʿAmätä Ṣǝyon (e.g., fols. 5va, 11ra, 24ra). The same scribe produced Ms. GKM-012.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˁAmätä Ṣǝyon is mentioned in many supplications (e.g., fols. 7ra, 12ra, 14vb), many other names are written throughout the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʿAmätä Ṣǝyon is mentioned in many supplications (e.g., fols. 7ra, 12ra, 14vb), many other names are written throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -100,8 +100,8 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; groups of lines on the incipit page of Texts I-1 and II; a few lines on the incipit page of Texts I-2 and I-3; incipit of Text I-4 and of sections; the word täfäśśǝḥi “rejoice”; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-2 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 7rb-va) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."(fols. 7va-8rb).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 7rb-va) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."(fols. 7va-8rb).&#13;
 &#13;
 The miracles of Text I-4 are not numbered. &#13;
 &#13;

@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary" (fols. 1ra-64va)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 7ra-12ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary" (fols. 1ra-64va)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 7ra-12ra)&#13;
 I-2) Introductory exhortation and hymns (fols. 12ra-15rb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fols. 3ra-rb, 4ra-va, 15va-vb)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: 54 miracles (fols. 1ra-2vb, 3va-vb, 5ra-vb, 6ra-vb, 16ra-64va)</shortcontent>
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fols. 3ra-rb, 4ra-va, 15va-vb)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: 54 miracles (fols. 1ra-2vb, 3va-vb, 5ra-vb, 6ra-vb, 16ra-64va)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaˀel Bet Mäḵaˁ / DSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaˀel Bet Mäḵaˁ / DSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Tälawe Krǝstos is mentioned in the supplication formulas.</donor>
 </donors>
@@ -31,7 +31,7 @@ I-4) Täˀamrä Maryam “Miracles of Mary”: 54 miracles (fols. 1ra-2vb, 3va-v
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1720</tdating>
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Late 17th cent.&#13;
-Tälawe Krəstos is known as a contemporary of King ˀIyasu II (r. 1682-1706), cp. Mss. DMD-002, UM-052.</dcomment>
+Tälawe Krǝstos is known as a contemporary of King ʾIyasu II (r. 1682-1706), cp. Mss. DMD-002, UM-052.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

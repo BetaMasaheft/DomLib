@@ -10,26 +10,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” / Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus” / Täˀamrä ˀIyäsus “Miracles of Jesus” / Mälkəˀa Gäbrä Mänfäs Qəddus “Image of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” / Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus” / Täʾamrä ʾIyäsus “Miracles of Jesus” / Mälkǝʾa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 3ra-46ra)&#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 13 miracles (fols. 46ra-60ra)&#13;
-III) Täˀamrä ˀIyäsus “Miracles of Jesus”: 1 miracle (fol. 60ra-va)&#13;
-IV) Mälkəˀa Gäbrä Mänfäs Qəddus “Image of Gäbrä Mänfäs Qəddus” (fols. 61ra-62va).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 3ra-46ra)&#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 13 miracles (fols. 46ra-60ra)&#13;
+III) Täʾamrä ʾIyäsus “Miracles of Jesus”: 1 miracle (fol. 60ra-va)&#13;
+IV) Mälkǝʾa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus” (fols. 61ra-62va).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub04"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täklä Haymanot</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Priest (qäsis) Täklä Haymanot (s. fol. 62va).&#13;
 The same scribe wrote DMB-009.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many individuals are mentioned in the supplication formulas: Kidanä Maryam (fol. 3va); Wällätä Mikaˀel (fol. 3va); Wälättä ˀƎgziˀ (fol. 3va); Täwäldä Bərhan (fol. 3va); Wälättä Tənśaˀe (fol. 7rb); Wälättä Śəllase (fol. 11va); ˀabunä Kidanä Maryam (fol. 23va); Gäbrä Śəllase (fol. 23va); Gäbrä Maryam (fol. 23va); Gäbrä ˀArägawi (fol. 51ra); Gäbrä Ṣadəqan (fol. 51ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many individuals are mentioned in the supplication formulas: Kidanä Maryam (fol. 3va); Wällätä Mikaʾel (fol. 3va); Wälättä ʾƎgziʾ (fol. 3va); Täwäldä Bǝrhan (fol. 3va); Wälättä Tǝnśaʾe (fol. 7rb); Wälättä Śǝllase (fol. 11va); ʾabunä Kidanä Maryam (fol. 23va); Gäbrä Śǝllase (fol. 23va); Gäbrä Maryam (fol. 23va); Gäbrä ʾArägawi (fol. 51ra); Gäbrä Ṣadǝqan (fol. 51ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>

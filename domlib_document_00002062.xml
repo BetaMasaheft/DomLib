@@ -7,7 +7,7 @@
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-06-01</regdate>
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəňňa"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝňňa"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
@@ -17,15 +17,15 @@
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000221" xlink:title="Qäqäma Däbrä Gännät Qəddəst   / QDGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000221" xlink:title="Qäqäma Däbrä Gännät Qǝddǝst   / QDGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000221" xlink:title="Qäqäma Däbrä Gännät Qəddəst   / QDGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000221" xlink:title="Qäqäma Däbrä Gännät Qǝddǝst   / QDGM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˁAbiyä ˀƎgziˀ</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʿAbiyä ʾƎgziʾ</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˁAbiyä ˀƎgziˀ is mentioned as the scribe in the supplication formula on fol. 4rb.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʿAbiyä ʾƎgziʾ is mentioned as the scribe in the supplication formula on fol. 4rb.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ˀƎgziˀ, Wälättä Mädḫən and Täwäldä Mädḫən are mentioned in the concluding supplication on fol. 67v. They are also mentioned in the supplication formulas: Wälättä Mädḫən (fols. 4rb, 46va 53ra, 58ra), Täwäldä Mädḫən (fol. 53ra), Wäldä Śəllase (fol. 33ra), Gäbrä Mädḫən (fol. 46va), Ḥaylä Śəllase (fols. 57vb-58ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ʾƎgziʾ, Wälättä Mädḫǝn and Täwäldä Mädḫǝn are mentioned in the concluding supplication on fol. 67v. They are also mentioned in the supplication formulas: Wälättä Mädḫǝn (fols. 4rb, 46va 53ra, 58ra), Täwäldä Mädḫǝn (fol. 53ra), Wäldä Śǝllase (fol. 33ra), Gäbrä Mädḫǝn (fol. 46va), Ḥaylä Śǝllase (fols. 57vb-58ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -100,7 +100,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 70r: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 70r:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4755;&amp;#4845; &amp;#4688;&amp;#4688;&amp;#4635; &amp;#4872;&amp;#4851;&amp;#4637; &amp;#4848;&amp;#4709;&amp;#4648; &amp;#4872;&amp;#4752;&amp;#4725;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is crudely written in pen in Təgrəñña. It states that the book belongs to the Däbrä Gännät Qäqäma monastery.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 70r: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 70r:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4755;&amp;#4845; &amp;#4688;&amp;#4688;&amp;#4635; &amp;#4872;&amp;#4851;&amp;#4637; &amp;#4848;&amp;#4709;&amp;#4648; &amp;#4872;&amp;#4752;&amp;#4725;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is crudely written in pen in Tǝgrǝñña. It states that the book belongs to the Däbrä Gännät Qäqäma monastery.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Omitted letters and words are written interlineally, in the main hand: fols. 4vb, 5rb, 8ra, 11rb, 11vb, 12v, 19vb, 20r, 20vb, 22rb, 25rb, 26ra, 27va, 31va, 35rb, 37rb, 52vb.&#13;
 - Omitted letters and words are written interlineally, in a secondary hand, in pen: 7vab, 8ra, 11ra&#13;
@@ -122,6 +122,6 @@ The bottom line is written above the ruling.</rl-info></taunit>
 ሰንበት: fol. 56vb.&#13;
 The beginning of the reading is marked in the text with a sign of cross.</txfindingaid>
 </txfindingaids>
-<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 68v: St. Kiros</info><details>Legend: ˀAbunä Kiros “Our Father Kiros”</details></miniature>
+<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 68v: St. Kiros</info><details>Legend: ʾAbunä Kiros “Our Father Kiros”</details></miniature>
 </miniatures>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2014-03-27T15:27:36.774Z</servdate><servdate inherited="0" type="modifydate">2015-05-28T13:28:16.838Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">MKrzyzanowska</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

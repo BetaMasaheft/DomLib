@@ -10,35 +10,35 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śəryätä ḫaṭiˀat “Prayer of Absolution of Sins”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śǝryätä ḫaṭiʾat “Prayer of Absolution of Sins”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 2ra-157rb)&#13;
 - Introduction (fols. 2ra-6ra)&#13;
 - Discourse of St. Athanasius on death (fols. 9rb-13vb)&#13;
 - Mängädä sämay “Journey to Heaven” (fols. 17ra-17va, 94va-109vb)&#13;
-- Mäṣḥaf zä-wäḍˀat ˀǝm-ˀIyärusalem “Book that Came from Jerusalem” (fols. 17vb-24ra)&#13;
-- Antiphons (kəśtät, ˀaryam, sälam, mäzmur) (fols. 31va-32ra, 52rb-53rb, 58rb-vb, 60ra-61ra, 66ra-66vb, 68rb, 73rb-va, 76va-vb)&#13;
+- Mäṣḥaf zä-wäḍʾat ʾǝm-ʾIyärusalem “Book that Came from Jerusalem” (fols. 17vb-24ra)&#13;
+- Antiphons (kǝśtät, ʾaryam, sälam, mäzmur) (fols. 31va-32ra, 52rb-53rb, 58rb-vb, 60ra-61ra, 66ra-66vb, 68rb, 73rb-va, 76va-vb)&#13;
 - Homily by St. Jacob of Sarug for the funeral of priests and deacons (fols. 78va-82vb)&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 97vb-108va)&#13;
-II) Ṣälotä śəryätä ḫaṭiˀat “Prayer of Absolution of Sins” (fols. 127va-131vb), (cp. EMML 427(9)).</shortcontent>
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 97vb-108va)&#13;
+II) Ṣälotä śǝryätä ḫaṭiʾat “Prayer of Absolution of Sins” (fols. 127va-131vb), (cp. EMML 427(9)).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub22"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Məhərka Dəngəl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Mǝhǝrka Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Məhərka Dəngəl is mentioned as the scribe on fols. 97vb, 100ra.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Mǝhǝrka Dǝngǝl is mentioned as the scribe on fols. 97vb, 100ra.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names ˀabunä Gäbrä Ḥəywät and ˀabunä Baḥrä Śəllase are mentioned as commissioners on fol. 97vb. Besides, two other names Gäbrä Śəllase and Wälättä Mikaˀel are written in the supplication formulas.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names ʾabunä Gäbrä Ḥǝywät and ʾabunä Baḥrä Śǝllase are mentioned as commissioners on fol. 97vb. Besides, two other names Gäbrä Śǝllase and Wälättä Mikaʾel are written in the supplication formulas.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1869</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1876</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The metropolitan ˀabunä ˀAtnatewos (in tenure 1869-76) and King Yoḥannəs IV (r. 1872-89) are mentioned in the supplication formulas on fols. 46vb, 143ra-rb, 143v-vb, 146ra.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The metropolitan ʾabunä ʾAtnatewos (in tenure 1869-76) and King Yoḥannǝs IV (r. 1872-89) are mentioned in the supplication formulas on fols. 46vb, 143ra-rb, 143v-vb, 146ra.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -108,7 +108,7 @@ The scribe disregarded the ruling on fol. E.g., 23rv, 84r-86v, 96r-97v.</rl-info
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Change of hand is visible; may be because of change of nib by the same scribe e.g., fols. 81rb-82va, 112va-113rb.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I and on fol. 14r, alternating with black lines; two initial lines of each section of the text; names of Hebrew letters in Ps. 118 (e.g., fols. 34vb, 36rb, 43vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words: halle luya (e.g., fols. 9vb, 10ra), ṣälləyu (e.g., fols. 12va, 27vb), ˀәgäle (e.g., fols. 26rb, 28ra), kəśtät (e.g., fols. 31va, 52rb).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I and on fol. 14r, alternating with black lines; two initial lines of each section of the text; names of Hebrew letters in Ps. 118 (e.g., fols. 34vb, 36rb, 43vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words: halle luya (e.g., fols. 9vb, 10ra), ṣällǝyu (e.g., fols. 12va, 27vb), ʾәgäle (e.g., fols. 26rb, 28ra), kǝśtät (e.g., fols. 31va, 52rb).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ካ፡ for ይበል፡ ካሕን፡ (e.g., fols. 28rb, 30rb)&#13;
 ይ፡ ዲ፡ for ይበል፡ ዲያቆን፡ (e.g., fols. 27vb, 28ra, 30rb)&#13;

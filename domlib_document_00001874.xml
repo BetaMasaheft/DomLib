@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 1ra-6v), fragment&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 1ra-6v), fragment&#13;
 I-I) Introduction (fols. 1ra-vb, 3ra l.13)&#13;
 - Story of the family of Adam (fols. 1ra-vb, 3ra l.13), incomplete&#13;
-I-2) Täˀamrä ˀIyäsus “Miracles of Jesus”: 2 miracles (fol. 3ra l.13-6vb), incomplete.</shortcontent>
+I-2) Täʾamrä ʾIyäsus “Miracles of Jesus”: 2 miracles (fol. 3ra l.13-6vb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -23,7 +23,7 @@ I-2) Täˀamrä ˀIyäsus “Miracles of Jesus”: 2 miracles (fol. 3ra l.13-6vb
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000111" xlink:title="Bet Ḥawaryat / SSB"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name of the original owner has been erased and replaced with Wäldä Mikaˀel (fols. 2ra, 6va), Gäbrä Mikaˀel (fol. 2ra), Nəblä Dəngəl (fols. 5rb, 6va), Säbänä Dəngəl (fol. 6vab).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name of the original owner has been erased and replaced with Wäldä Mikaʾel (fols. 2ra, 6va), Gäbrä Mikaʾel (fol. 2ra), Nǝblä Dǝngǝl (fols. 5rb, 6va), Säbänä Dǝngǝl (fol. 6vab).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

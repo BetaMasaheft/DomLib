@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäzmur, Antiphones for Sundays of the year / Dəggwa, Antiphonary / Unidentified chant / Zǝmmare, Eucharistic hymns</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäzmur, Antiphones for Sundays of the year / Dǝggwa, Antiphonary / Unidentified chant / Zǝmmare, Eucharistic hymns</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Mäzmur, Antiphones for Sundays of the year (fols. 3ra-39ra l.17)&#13;
 - Table of halleluiatic chants (fols. 36va-39ra)&#13;
-II)	Dəggwa, Antiphonary (fols. 39ra l.18-57vb), incomplete&#13;
--	Dəggwa, Antiphonary (from the feast of St. John the Baptist to St. Stephan) (fols. 39ra l.18-42vb)&#13;
--	Dəggwa, Antiphonary (from the feast of St. Michael to St. Cyriacus) (fols. 43ra-57vb)&#13;
+II)	Dǝggwa, Antiphonary (fols. 39ra l.18-57vb), incomplete&#13;
+-	Dǝggwa, Antiphonary (from the feast of St. John the Baptist to St. Stephan) (fols. 39ra l.18-42vb)&#13;
+-	Dǝggwa, Antiphonary (from the feast of St. Michael to St. Cyriacus) (fols. 43ra-57vb)&#13;
 III)	Unidentified chant (fols. 58ra-60rb), incomplete&#13;
 I)	Mäzmur, Antiphones for Lent (fols. 62ra-66va l.17)&#13;
-II)	Dəggwa, Antiphonary (fols. 66va l.18-70rb), incomplete&#13;
--	Dəggwa, Antiphonary (from the feast of St. Michael to the Righteous Ones) (fols. 66va l.18-69va l.4) &#13;
--	Dəggwa, Antiphonary (from the Covenant of Mercy to St. George) (fols. 69va l.5-70rb) &#13;
+II)	Dǝggwa, Antiphonary (fols. 66va l.18-70rb), incomplete&#13;
+-	Dǝggwa, Antiphonary (from the feast of St. Michael to the Righteous Ones) (fols. 66va l.18-69va l.4) &#13;
+-	Dǝggwa, Antiphonary (from the Covenant of Mercy to St. George) (fols. 69va l.5-70rb) &#13;
 IV)	Zǝmmare, Eucharistic hymns (fols. 71ra-76ra)&#13;
 &#13;
 Additiones 1-3.</shortcontent>
@@ -32,9 +32,9 @@ Additiones 1-3.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mәdrä Ruba Sәllase /MR"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Yämanä Bərhan</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Yämanä Bǝrhan</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe’s signature (s. Additio 2) mentions Yämanä Bərhan as the scribe of the text on fols. 3ra-39ra l.17 (hand a).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe’s signature (s. Additio 2) mentions Yämanä Bǝrhan as the scribe of the text on fols. 3ra-39ra l.17 (hand a).</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -157,11 +157,11 @@ Hand d: fols. 69va l.5-70rb; slender, broadly spaced letters of angular shape, s
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; elements of the punctuation signs; Ethiopic numerals or their elements.&#13;
 Text I&#13;
-Two initial lines on the incipit page; a few lines, alternating with black lines, on fol. 18r; names of sections (mäzmur) preceded or followed by feast names or dates; names of antiphons and their abbreviations followed by initial words or letters (e.g., zä-ˀamlakiyä, ˁəzl, śäläst, sälam, bä-5-tu, ˀabun, maḫlet, yətbaräk); names of other chants (e.g., məlṭan); musical notation signs: intratextual (e.g., ḥaḍä, ˁararay, bä-zema, nahu) and marginal (entire or elements); elements of the Table of halleluiatic chants.&#13;
+Two initial lines on the incipit page; a few lines, alternating with black lines, on fol. 18r; names of sections (mäzmur) preceded or followed by feast names or dates; names of antiphons and their abbreviations followed by initial words or letters (e.g., zä-ʾamlakiyä, ʿǝzl, śäläst, sälam, bä-5-tu, ʾabun, maḫlet, yǝtbaräk); names of other chants (e.g., mǝlṭan); musical notation signs: intratextual (e.g., ḥaḍä, ʿararay, bä-zema, nahu) and marginal (entire or elements); elements of the Table of halleluiatic chants.&#13;
 Text II&#13;
-Names of sections and their abbreviations (wazema); names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, yətbaräk, ˁəzl); names of other chants (e.g., məlṭan); musical notation: intratextual signs (e.g., ˁararat, ˀak,  bä-ze, qalä ˀawadi) and elements of marginal signs.&#13;
+Names of sections and their abbreviations (wazema); names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, yǝtbaräk, ʿǝzl); names of other chants (e.g., mǝlṭan); musical notation: intratextual signs (e.g., ʿararat, ʾak,  bä-ze, qalä ʾawadi) and elements of marginal signs.&#13;
 Text III&#13;
-Two initial lines on the incipit page; names of sections (zəmmare) followed by feast names; word ḫəbəst “eucharistic bread”.</rubrication>
+Two initial lines on the incipit page; names of sections (zǝmmare) followed by feast names; word ḫǝbǝst “eucharistic bread”.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Some of the abbreviations used throughout the text:&#13;
 ም፡/ምል፡/ምልጣ፡ for ምልጣን፡&#13;
@@ -185,11 +185,11 @@ Repeated versicles are often written in an abbreviated form, e.g., መን፤ ግ
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 1v: Excerpt from &lt;/span&gt;&lt;span style="color: black; line-height: 115%;"&gt;M&amp;#228;zmur, Antiphones for seasons of the year.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The excerpt is carelessly written in the same hand as Additio 3.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 39ra: Scribe&amp;#8217;s signature.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 39ra:&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&amp;#4720;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4633;&amp;#4651;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4656;&amp;#4755;&amp;#4709;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4656;&amp;#4619;&amp;#4632;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4757;&amp;#4962;&lt;/span&gt;&lt;/div&gt;&#13;
 &lt;div style="line-height: normal;"&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4920;&amp;#4624;&amp;#4938;&amp;#4609;&amp;#4961; &amp;#4653;&amp;#4773;&amp;#4656;&amp;#4961; &amp;#4848;&amp;#4709;&amp;#4653;&amp;#4961; &amp;#4840;&amp;#4635;&amp;#4752;&amp;#4961; &amp;#4709;&amp;#4653;&amp;#4611;&amp;#4757;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</add><tran>&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 39ra: M&amp;#228;zmurat for Sundays have been completed in God&amp;#8217;s peace, Amen.&lt;/span&gt;&lt;/div&gt;&#13;
-&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;His scribe (is) r&amp;#601;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#601;s&amp;#228; d&amp;#228;br (the Head of the Monastery) &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Y&amp;#228;man&amp;#228; B&amp;#601;rhan.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</tran><det>The note is written in the main hand. It mentions Yämanä Bərhan, rəˀəsä däbr (the Head of the Monastery), as the scribe.</det></additional>
+&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;His scribe (is) r&amp;#601;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#601;s&amp;#228; d&amp;#228;br (the Head of the Monastery) &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Y&amp;#228;man&amp;#228; B&amp;#601;rhan.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</tran><det>The note is written in the main hand. It mentions Yämanä Bǝrhan, rǝʾǝsä däbr (the Head of the Monastery), as the scribe.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 70v: Excerpt from the beginning of &lt;/span&gt;&lt;span style="color: black; line-height: 115%;"&gt;Z&amp;#477;mmare, Eucharistic hymns.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The excerpt is carelessly written in the same hand as Additio 1.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">-	Tämälläs-signs, in the shape of a cross, indicate the place where the omissions, written in the margins, belong: fols.14ra l.16, 16rb l.16, 24ra l.17, 25vb l.6, 34ra l.10, 66vb l.9, 67va l.3, 67va l.15. &#13;
--	Name of the feast zä-Yoḥannəs “of John” (the Baptist) is written in the upper margin of fol. 36rb.&#13;
+-	Name of the feast zä-Yoḥannǝs “of John” (the Baptist) is written in the upper margin of fol. 36rb.&#13;
 -	Passages omitted in the main text are written in the margins, in the main hand: fols. 6vb, 9va, 15rb, 15vb, 28vb, 31va, 36vb.&#13;
 -	In Text III there are unfilled spaces left for rubrication.&#13;
 -	Corrections written interlineally: fols. 7ra, 7vb. &#13;

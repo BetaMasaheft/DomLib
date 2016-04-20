@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀǝgzǝˀtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” / Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” / Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀǝgzǝˀtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos”&#13;
-II) Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos”&#13;
+II) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000277" xlink:title="ˀƎndamosa Däbrä Sälam Mäzgäbä Śəllase / EMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000277" xlink:title="ʾƎndamosa Däbrä Sälam Mäzgäbä Śǝllase / EMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000277" xlink:title="ˀƎndamosa Däbrä Sälam Mäzgäbä Śəllase / EMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000277" xlink:title="ʾƎndamosa Däbrä Sälam Mäzgäbä Śǝllase / EMS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1400</fdating>
 </fdatings>

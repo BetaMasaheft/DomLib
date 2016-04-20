@@ -11,23 +11,23 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols.1ra-119v) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols.1ra-119v) &#13;
 I-1) Introduction (fols. 1ra-2vb, 67ra-68rb l.6), incomplete [the middle part of the text is in MGM-008a]&#13;
 - On John the Evangelist as the author of the book (fol. 1ra-vb) &#13;
 - Story of the family of Adam (fols. 2ra-vb, 67ra-68rb l.6) &#13;
-I-2) Täˀamrä ˀIyäsus “Miracles of Jesus”: 47 miracles (fols. 3ra-119vb).</shortcontent>
+I-2) Täʾamrä ʾIyäsus “Miracles of Jesus”: 47 miracles (fols. 3ra-119vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Haymanot is mentioned in the concluding supplication formulas on fol. 117va and on fol. 119rb, and in the supplication formulas throughout the Ms. &#13;
-Nəblä Dəngəl is mentioned in the supplication formulas on fols. 10vb, 13rb. &#13;
-Wälättä Mikaˀel is mentioned in the supplication formulas in the part of the Ms. written by hand b.</donor>
+Nǝblä Dǝngǝl is mentioned in the supplication formulas on fols. 10vb, 13rb. &#13;
+Wälättä Mikaʾel is mentioned in the supplication formulas in the part of the Ms. written by hand b.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -124,7 +124,7 @@ Hand b: fols. 25r-30v, 93r-111v, 112r-113v, 118r-119v</pchangeofhand>
 &#13;
 A few groups of lines on the incipit page of Text I-2.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">-	The miracles are introduced with the words məˁəraf “chapter”, täˀamər “miracle”, täˀamrihu “his miracle”, nägär “speech”. &#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">-	The miracles are introduced with the words mǝʿǝraf “chapter”, täʾamǝr “miracle”, täʾamrihu “his miracle”, nägär “speech”. &#13;
 -	Sections of Text I-1 have been treated as miracles and given numbers 1-3. Thus, the 1st miracle proper bears number 4 (fol. 68rb). The numeration is correct.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

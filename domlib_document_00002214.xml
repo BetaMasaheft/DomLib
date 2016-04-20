@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krǝstǝnna “Book of the Christening” / Excerpt from a lectionary / Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krǝstǝnna “Book of the Christening” / Excerpt from a lectionary / Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä krәstәnna “Book of the Christening” (fols. 1ra-18va, 27ra-28vb), incomplete&#13;
 II) Excerpt from a lectionary (fols. 19ra-26vb, 29ra-35rb, 36ra-rb), unidentified&#13;
-III) Täˀamrä Maryam “Miracles of Mary” &#13;
+III) Täʾamrä Maryam “Miracles of Mary” &#13;
 III-1) Introductory exhortation (fol. 35va-vb, 37ra-vb), incomplete&#13;
 IV) Excerpt from Mäṣḥafä krǝstǝnna “Book of the Christening” (fols. 38va-39vb)</shortcontent>
 </shortcontents>
@@ -22,13 +22,13 @@ IV) Excerpt from Mäṣḥafä krǝstǝnna “Book of the Christening” (fols. 
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Ṣәge Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Ṣәge Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Ṣәge Mikaˀel is mentioned as the scribe for Text I (s. fol. 18va).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Ṣәge Mikaʾel is mentioned as the scribe for Text I (s. fol. 18va).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Ḥәywät is mentioned in supplication formula on fol. 35vb.</donor>
 </donors>
@@ -112,7 +112,7 @@ Hand b: fols. 19ra-26vb, 29ra-35rb, 36ra-rb.&#13;
 Hand c: fols. 35va-vb, 37ra-vb.&#13;
 Hand d: fols. 38va-39rb.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; name of the scribe; name of the donor; directive to the minister and their abbreviations; the word ˀәgäle; initial line of the prayers; titles of the books to be read; element of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; name of the scribe; name of the donor; directive to the minister and their abbreviations; the word ʾәgäle; initial line of the prayers; titles of the books to be read; element of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 1r, few lines are rubricated (alternating witn black lines).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;

@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 1ra-170va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 1ra-170va)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 170va-173ra)&#13;
 - Table of contents (fol. 173ra-va)&#13;
 &#13;
@@ -24,8 +24,8 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000171" xlink:title="Koholo Yoá¸¥annÇ&#157;s DÃ¤brÃ¤ Betel / KY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAminadab is mentioned as the original donor of the Ms. in Additio 1. &#13;
-In a more recent note written in red (Additio 2), another person, Wälättä Bǝrḥan, appears as the donor, mentioned with her many relatives (?), who are referred to also elsewhere: Wälättä Bǝrḥan (fols. 1ra, 3vb, 7ra), Wälättä Yoḥannǝs (e.g., fols. 1rb, 3vb, 5rc), Wälättä ˀAbǝyä-ˀƎgziˀ (e.g., fols. 1rb, 41rc, 64vc), Wälättä Mikaˀel (fols. 1rc, 4ra, 24vc), Wälättä Gäbrǝˀel (e.g., fols. 1rc, 25ra, 29rb), ˀabunä Gäbrä Maryam (fols. 2rc, 13ra, 44va), ˀabunä Täklä Haymanot (fols. 2vc, 153vc, 169vc), Wälättä ˀIyäsus (e.g., fols. 3rc, 6vb, 55vb), Kǝnfä Mikaˀel (fols. 6vc, 173ra), ˀabunä Gäbrä Śǝllase (e.g., fols. 7rb, 7va, 49vb), ˀabunä Gäbrä Täklä Haymanot (e.g., fols. 16rc, 75rb, 80ra), ˀabunä Ḫaylä Śǝllase (fols. 16vb, 17vb, 63va), Kidanä Maryam (fols. 17vb, 68va, 74va), Gäbrä Hǝywät (e.g., fols. 17vb, 24vb, 37rc), Wälättä Śǝllase (e.g., fols. 28rb, 36rb, 100vb), Wälättä Mädḫǝn (e.g., fols. 31vc, 112rb, 122va), Gäbrä ˀIyäsus (e.g., fols. 36vb, 41rb, 56vc), Wälättä Mäsqäl (e.g., fols. 39va, 71ra, 103va), Wälättä Maryam (fol. 41va), Gäbrä Tǝnśaˀe (e.g., fols. 42vc, 70vc, 108vb), Wälättä ˀƎgziˀ (fols. 47va), ˀAmätä Maryam (fol. 90vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAminadab is mentioned as the original donor of the Ms. in Additio 1. &#13;
+In a more recent note written in red (Additio 2), another person, Wälättä Bǝrḥan, appears as the donor, mentioned with her many relatives (?), who are referred to also elsewhere: Wälättä Bǝrḥan (fols. 1ra, 3vb, 7ra), Wälättä Yoḥannǝs (e.g., fols. 1rb, 3vb, 5rc), Wälättä ʾAbǝyä-ʾƎgziʾ (e.g., fols. 1rb, 41rc, 64vc), Wälättä Mikaʾel (fols. 1rc, 4ra, 24vc), Wälättä Gäbrǝʾel (e.g., fols. 1rc, 25ra, 29rb), ʾabunä Gäbrä Maryam (fols. 2rc, 13ra, 44va), ʾabunä Täklä Haymanot (fols. 2vc, 153vc, 169vc), Wälättä ʾIyäsus (e.g., fols. 3rc, 6vb, 55vb), Kǝnfä Mikaʾel (fols. 6vc, 173ra), ʾabunä Gäbrä Śǝllase (e.g., fols. 7rb, 7va, 49vb), ʾabunä Gäbrä Täklä Haymanot (e.g., fols. 16rc, 75rb, 80ra), ʾabunä Ḫaylä Śǝllase (fols. 16vb, 17vb, 63va), Kidanä Maryam (fols. 17vb, 68va, 74va), Gäbrä Hǝywät (e.g., fols. 17vb, 24vb, 37rc), Wälättä Śǝllase (e.g., fols. 28rb, 36rb, 100vb), Wälättä Mädḫǝn (e.g., fols. 31vc, 112rb, 122va), Gäbrä ʾIyäsus (e.g., fols. 36vb, 41rb, 56vc), Wälättä Mäsqäl (e.g., fols. 39va, 71ra, 103va), Wälättä Maryam (fol. 41va), Gäbrä Tǝnśaʾe (e.g., fols. 42vc, 70vc, 108vb), Wälättä ʾƎgziʾ (fols. 47va), ʾAmätä Maryam (fol. 90vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -95,7 +95,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, by a well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donor and members of the families; a few lines on the incipit page, alternating with black lines; two initial lines of each section of the text; some words like kəfl (e.g., fols. 5va, 13ra, 28rb), fəkkare (e.g., fols. 155rc, 156ra, 158rc), rabˁ (fols. 157ra, 162ra), qädamay (e.g., fols. 157rb, 161vb, 169vc), yǝbe (e.g., fols. 166vb, 167ra, 167vb), tǝˀǝzaz (fols. 169vc, 170ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donor and members of the families; a few lines on the incipit page, alternating with black lines; two initial lines of each section of the text; some words like kǝfl (e.g., fols. 5va, 13ra, 28rb), fǝkkare (e.g., fols. 155rc, 156ra, 158rc), rabʿ (fols. 157ra, 162ra), qädamay (e.g., fols. 157rb, 161vb, 169vc), yǝbe (e.g., fols. 166vb, 167ra, 167vb), tǝʾǝzaz (fols. 169vc, 170ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ክ/ክፍ for ክፍል (e.g., fols. 5va, 13vc, 17vb).&#13;
 ፍ/ፍካ for ፍካሬ (e.g., fols. 155ra, 155vb).&#13;

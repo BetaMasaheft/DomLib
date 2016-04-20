@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Tǝmhǝrtä ḫǝbuˀat “Teaching of Mysteries” / ˀAsmat-prayer against snake bites / Wǝddase Maryam “Praise of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” / ʾAsmat-prayer against snake bites / Wǝddase Maryam “Praise of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 1r-40v)&#13;
-II) Tǝmhǝrtä ḫǝbuˀat “Teaching of Mysteries” (fols. 41r-54r)&#13;
-III) ˀAsmat-prayer against snake bites (fols. 54v-55v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 1r-40v)&#13;
+II) Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 41r-54r)&#13;
+III) ʾAsmat-prayer against snake bites (fols. 54v-55v)&#13;
 IV) Wǝddase Maryam “Praise of Mary” (fols. 56r-74v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaˀel / QMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaʾel / QMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaˀel / QMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaʾel / QMM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˁAsratä Maryam</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʿAsratä Maryam</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˁAsratä Maryam is mendioned as the scribe in the supplication formula, fol. 40v.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʿAsratä Maryam is mendioned as the scribe in the supplication formula, fol. 40v.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donors or owners has been erased (fols. 2v, 40v, on fol. 54r only a part of the name, Ṣəyon, is readable), but appears still readable in the supplication (addded later, but in the main hand?) on fol. 74v: Habtä Śəllase.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donors or owners has been erased (fols. 2v, 40v, on fol. 54r only a part of the name, Ṣǝyon, is readable), but appears still readable in the supplication (addded later, but in the main hand?) on fol. 74v: Habtä Śǝllase.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1820</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1850</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ˁAsratä Maryam also wrote Mss GMS-010, datable to 1841-52, DMA-009 and DMD-007. Perhaps this Ms. belongs to one of his earlier productions.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ʿAsratä Maryam also wrote Mss GMS-010, datable to 1841-52, DMA-009 and DMD-007. Perhaps this Ms. belongs to one of his earlier productions.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

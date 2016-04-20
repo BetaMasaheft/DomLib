@@ -11,29 +11,29 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gospel of Matthew (fols. 3ra-43rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 3ra-43rb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 3ra-43rb)&#13;
 - Short postscript (fol. 43rb)&#13;
 II) Gospel of Mark (fols. 44ra-66vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 44ra-66vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 44ra-66vb)&#13;
 III) Gospel of Luke (fols. 68ra-110rb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 68ra-110rb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 68ra-110rb)&#13;
 - Postscript (fol. 110rb)&#13;
 IV) Gospel of John (fols. 110va-143ra)&#13;
 - Biography of John (fol. 110va-vb)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 110vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 111ra-142vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 111ra-142vb)&#13;
 - Postscript (fol. 143ra)&#13;
 &#13;
 Additiones 1-8.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor has been erased from the heading for Matthew (fol. 3r).</donor>
 </donors>
@@ -41,7 +41,7 @@ Additiones 1-8.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1597</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King [Śärḍä] Dəngəl (1563-97) seems to have been mentioned in the supplication formula on fol. 44r, but the first part of the name is erased.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King [Śärḍä] Dǝngǝl (1563-97) seems to have been mentioned in the supplication formula on fol. 44r, but the first part of the name is erased.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -109,25 +109,25 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, regular, by a well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of all texts; incipits and headings of Gospel chapters and minor texts; short postscript to the Gospel of Matthew; chapter numbers and titles and the word məˁəraf; numbers of the “tituli”; elements of the punctuation signs; Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of all texts; incipits and headings of Gospel chapters and minor texts; short postscript to the Gospel of Matthew; chapter numbers and titles and the word mǝʿǝraf; numbers of the “tituli”; elements of the punctuation signs; Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The traditional "Introduction" is missing.&#13;
 The canon tables are missing.&#13;
-The "Golden Gospel" of Däbrä Sälam Qəddus Mikaˀel Nəḥbi gädam.</otherdetail>
+The "Golden Gospel" of Däbrä Sälam Qǝddus Mikaʾel Nǝḥbi gädam.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 2r: Ownership or donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Names of the owners/donors (possibly also other proper names) erased.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: "&gt;Fol. 2r: Record concerning a litigation about inheritance issues.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 2v:&amp;#160;Transaction note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 18 Ḫədar, 1942 year of mercy (= 27 November 1949 A.D.).&#13;
-Kahsay Wäldä Maryam mentioned in the text may be the same person as ˀato Kahsay in Additio 7.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 2v:&amp;#160;Transaction note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 18 Ḫǝdar, 1942 year of mercy (= 27 November 1949 A.D.).&#13;
+Kahsay Wäldä Maryam mentioned in the text may be the same person as ʾato Kahsay in Additio 7.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 43v: Short prayers with &amp;#704;asmat for different day times (?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is partly erased.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 67ra-vb: Excerpt from the &amp;#7778;&amp;#228;lot&amp;#228; &amp;#705;&amp;#601;&amp;#7789;an(?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a neat, careful secondary hand.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 143r:&amp;#160;Transaction note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 7 Säne 1937 year of mercy (= 14 June, 1945 A.D.). ˀAto Dästa Gäbrä ˀArägawi mentioned in the note is evidently the same person as the seller in Additio 8.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 143v: Record concerning a litigation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a well trained hand in Amharic. Parts of the note have been erased. The note mentions a number of localities, including May ˀAbˁa, ˀAndel, Gəlamo. &#13;
-ˀAto Kahsay mentioned at the end of the text may be the same person as Kahsay Wäldä Maryam in Additio 3.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 143r:&amp;#160;Transaction note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 7 Säne 1937 year of mercy (= 14 June, 1945 A.D.). ʾAto Dästa Gäbrä ʾArägawi mentioned in the note is evidently the same person as the seller in Additio 8.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 143v: Record concerning a litigation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a well trained hand in Amharic. Parts of the note have been erased. The note mentions a number of localities, including May ʾAbʿa, ʾAndel, Gǝlamo. &#13;
+ʾAto Kahsay mentioned at the end of the text may be the same person as Kahsay Wäldä Maryam in Additio 3.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 144v: Transaction note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 29 Näḥase 1919 year of mercy (= 4 September 1927 A.D.).&#13;
-ˀAto Dästa Gäbrä ˀArägawi mentioned in the note is evidently the same person as the seller in Additio 6.</det></additional>
+ʾAto Dästa Gäbrä ʾArägawi mentioned in the note is evidently the same person as the seller in Additio 6.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Writing exercise (fragment of the genealogy of Christ in Mt. 1): fol. 1r.&#13;
 - Traces of stamps: fols. 3r, 5r, 36v, 84v, 85r, 110v.&#13;

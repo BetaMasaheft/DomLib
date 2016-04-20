@@ -11,18 +11,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ˀaślәṭi, Lectionary for the week / Barәkännä ˀәgziˀo… “Bless us, O Lord…”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaślәṭi, Lectionary for the week / Barәkännä ʾәgziʾo… “Bless us, O Lord…”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ˀaślәṭi, Lectionary for the week (fols. 4ra-28rb) &#13;
-II) Barәkännä ˀәgziˀo… “Bless us, O Lord…” (Blessing prayer) (fols. 28rb-29va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaślәṭi, Lectionary for the week (fols. 4ra-28rb) &#13;
+II) Barәkännä ʾәgziʾo… “Bless us, O Lord…” (Blessing prayer) (fols. 28rb-29va)&#13;
 &#13;
 Additio 1; colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Haymanot according to the colophon; his father Gäbrä Yoḥannәs and his mother Wälättä Bәrhan are also mentioned.</donor>
 </donors>
@@ -99,7 +99,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; incipit of Text I; titles of books to be read; initial line of the readings; the word barәkännä… “bless us…” in Text II; elements of the punctuation signs; elements of Ethiopic numerals. &#13;
 On the incipit pages of Text I (fols.4r), a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The work (Texts I-II) is called Mäṣḥafä ˀaslәṭ in the colophon (fol. 9ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The work (Texts I-II) is called Mäṣḥafä ʾaslәṭ in the colophon (fol. 9ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

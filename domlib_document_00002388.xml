@@ -11,25 +11,25 @@
 </wsystems>
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Synaxarion (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for second half of the year (fols. 2ra-162ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for second half of the year (fols. 2ra-162ra)&#13;
 I-1) Mäggabit (fols. 2ra-26vb)&#13;
 I-2) Miyazya (fols. 27ra-45rc)&#13;
-I-3) Gənbot (fols. 45va-71v)&#13;
+I-3) Gǝnbot (fols. 45va-71v)&#13;
 I-4) Säne (fols. 72ra-98vc)&#13;
 I-5) Ḥamle (fols. 98va-134vc)&#13;
 I-6) Näḥase (fols. 134va-157ra)&#13;
-I-7) Ṗagwəmen (fols. 157rb-162ra)&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+I-7) Ṗagwǝmen (fols. 157rb-162ra)&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golˁa Däbrä Bərhan Yoḥannəs/ BGY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golʿa Däbrä Bǝrhan Yoḥannǝs/ BGY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golˁa Däbrä Bərhan Yoḥannəs/ BGY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golʿa Däbrä Bǝrhan Yoḥannǝs/ BGY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased from the supplications formulas. On some fols. (2ra, 25rc, 45rc, 79vb, etc.) the name of Zärˀa Ḥawaryat appears, written in a secondary hand, in black ink, over the erased name. On some fols., this name itself has been blotted out (fol. 19ra, 68rb, 70vc). The same name also appears on fol. 71v.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased from the supplications formulas. On some fols. (2ra, 25rc, 45rc, 79vb, etc.) the name of Zärʾa Ḥawaryat appears, written in a secondary hand, in black ink, over the erased name. On some fols., this name itself has been blotted out (fol. 19ra, 68rb, 70vc). The same name also appears on fol. 71v.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -98,11 +98,11 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the first line (or the first word) of the ˁarke-hymns after commemorative notes; five groups of red lines alternating with black lines on the incipit page of the months Mäggabit, Miyazya; four groups of red lines alternating with black lines on the incipit page of the months Gənbot, Säne, Ḥamle; three groups of red lines alternating with black lines on the incipit page of the month Näḥase; the name of the original donor in the supplication formulas (blotted out); two initial lines of the beginning of commemorative notices for each day; one initial line of each commemorative notice; elements of the punctuation signs; elements of Ethiopic numbers; ዘአቅረብኩ and ዘጸሐፎ in the concluding prayers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the first line (or the first word) of the ʿarke-hymns after commemorative notes; five groups of red lines alternating with black lines on the incipit page of the months Mäggabit, Miyazya; four groups of red lines alternating with black lines on the incipit page of the months Gǝnbot, Säne, Ḥamle; three groups of red lines alternating with black lines on the incipit page of the month Näḥase; the name of the original donor in the supplication formulas (blotted out); two initial lines of the beginning of commemorative notices for each day; one initial line of each commemorative notice; elements of the punctuation signs; elements of Ethiopic numbers; ዘአቅረብኩ and ዘጸሐፎ in the concluding prayers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ፡ for ሰላም፡ (fols. 18ra, 34rb, 34vc, 57va etc.)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The subsections for some months starts on verso-side: Gənbot on fol. 45va; Ḥamle on fol. 98v; Näḥase on fol. 135v.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The subsections for some months starts on verso-side: Gǝnbot on fol. 45va; Ḥamle on fol. 98v; Näḥase on fol. 135v.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -123,7 +123,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
-<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Names of months are written in red ink, in the upper margin on the incipit page of months Mäggabit, Miyazya, Säne, Ṗagwəmen (sometimes in red or black dot frame, or ornamented with dots):&#13;
+<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Names of months are written in red ink, in the upper margin on the incipit page of months Mäggabit, Miyazya, Säne, Ṗagwǝmen (sometimes in red or black dot frame, or ornamented with dots):&#13;
 ወርኃ መጋቢት: fol. 2r&#13;
 ወርኃ ሚያዝያ ቡሩክ: fol. 27r&#13;
 ወርኃ ሰኔ ቡሩክ: fol. 72r&#13;

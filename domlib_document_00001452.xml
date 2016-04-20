@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04" other="http://mycms.rrz.uni-hamburg.de/domlib/editor_fo"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 2ra-248va) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 2ra-248va) &#13;
 I-1) Introduction (fols. 2ra-4vb) &#13;
 I-2) Eve of Palm Sunday (fols. 4vb-7vb) &#13;
 I-3) Palm Sunday (fols. 8ra-18rb) &#13;
@@ -33,7 +33,7 @@ I-8) Friday (fols. 115ra-180va) &#13;
 - Day hours (fols. 130ra-180va), including: Homily by Jacob of Serug on Abraham (fols. 148vb-155va) &#13;
 I-9) Saturday (fols. 180va-205rb)&#13;
 - Night hours (fols. 180va-196va)&#13;
-- Mass (fols. 196va-205rb), including: Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 203vb-205rb)&#13;
+- Mass (fols. 196va-205rb), including: Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 203vb-205rb)&#13;
 I-10) Mäṣḥafä dorho “Book of the Cock” (fols. 205va-219ra)&#13;
 I-11) Homilies on Passion of Christ&#13;
 - Homily by Ephrem on Passion of Our Lord and on the thief on the right hand (fols. 219ra-222rb) &#13;
@@ -41,20 +41,20 @@ I-11) Homilies on Passion of Christ&#13;
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mäsqäl is mentioned in most of the supplication formulas of the text (e.g., fols. 8rb, 8va, 17ra, 67vb), usually with "his lady and beloved" (ˀǝgzǝˀtu wä-fǝqǝrtu) Wälättä Qǝddusan.&#13;
-On fols. 2ra and 5rb,  her  name occurs together with those of King ˀIyasu, Queen Wälättä Giyorgis and ras Wäldä Lǝˁul, all of them mentioned as her children; later in the text she is mentioned, more specifically, as the mother of Queen Wälättä Giyorgis (esp. fols. 156ra, 165vab) and of ras Wäldä Lǝˁul (esp. fol. 156rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mäsqäl is mentioned in most of the supplication formulas of the text (e.g., fols. 8rb, 8va, 17ra, 67vb), usually with "his lady and beloved" (ʾǝgzǝʾtu wä-fǝqǝrtu) Wälättä Qǝddusan.&#13;
+On fols. 2ra and 5rb,  her  name occurs together with those of King ʾIyasu, Queen Wälättä Giyorgis and ras Wäldä Lǝʿul, all of them mentioned as her children; later in the text she is mentioned, more specifically, as the mother of Queen Wälättä Giyorgis (esp. fols. 156ra, 165vab) and of ras Wäldä Lǝʿul (esp. fol. 156rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1733</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1755</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">1733-1755 (?). In the supplication formula of fol. 2ra (incipit page of Text I-1) and fol. 5rb are mentioned ˀIyasu as king, Wälättä Giyorgis as queen, and Wäldä Lǝˁul as ras. On fol. 109rb, is mentioned only King ˀIyasu together with Queen Wälättä Giyorgis. &#13;
-ˀIyasu II was King of Ethiopia in 1730-55 (cp. EAE III, 251-52); Wälättä Giyorgis is the baptismal name of Bǝrhan Mogäsa (known as Mǝntǝwwab; cp. EAE  I, 534-35 and also EAE III, 251-52), mother of  ˀIyasu II, who ruled with him. &#13;
-Ras Wäldä Lǝˁul (d. 1767; about him cp. EAE IV, 1104) was the brother of Wälättä Giyorgis. He received the title of ras in 1733.&#13;
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">1733-1755 (?). In the supplication formula of fol. 2ra (incipit page of Text I-1) and fol. 5rb are mentioned ʾIyasu as king, Wälättä Giyorgis as queen, and Wäldä Lǝʿul as ras. On fol. 109rb, is mentioned only King ʾIyasu together with Queen Wälättä Giyorgis. &#13;
+ʾIyasu II was King of Ethiopia in 1730-55 (cp. EAE III, 251-52); Wälättä Giyorgis is the baptismal name of Bǝrhan Mogäsa (known as Mǝntǝwwab; cp. EAE  I, 534-35 and also EAE III, 251-52), mother of  ʾIyasu II, who ruled with him. &#13;
+Ras Wäldä Lǝʿul (d. 1767; about him cp. EAE IV, 1104) was the brother of Wälättä Giyorgis. He received the title of ras in 1733.&#13;
 Quires XXII-XXIX are probably of a later time.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
@@ -139,8 +139,8 @@ Hand b: fols. 170ra-248va, characterized by an irregular handwriting, with chang
 </pchangeofhands>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">no</pcruxansata>
 </pcruxansatas>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the names of the donors and their relatives (ˀIyasu, Wälättä Giyorgis, Wäldä Lǝˁul).&#13;
-A few lines (4-7) alternating with black lines in the incipit page of Texts I-1 and I-8, in the incipit page of the section for the day hours of Friday (in Text I-8), and in the incipit of Text I-12; headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; directives for the ministers in Texts I-7 and I-9; names of Hebrew letters in Text I-8; the initial words of each paragraph of “Təmḫərtä ḫəbuˀat” (in Text I-9); the words: ˁƎgziˀo täśähalännä in Text I-7, and ṣällǝyu bä-ˀǝntä (and abbreviation for ṣällǝyu) in Text I-12; some interlineal corrections (e.g., fols. 217ra, ls. 8 and 13, 244vb l.2).&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the names of the donors and their relatives (ʾIyasu, Wälättä Giyorgis, Wäldä Lǝʿul).&#13;
+A few lines (4-7) alternating with black lines in the incipit page of Texts I-1 and I-8, in the incipit page of the section for the day hours of Friday (in Text I-8), and in the incipit of Text I-12; headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; directives for the ministers in Texts I-7 and I-9; names of Hebrew letters in Text I-8; the initial words of each paragraph of “Tǝmḫǝrtä ḫǝbuʾat” (in Text I-9); the words: ʿƎgziʾo täśähalännä in Text I-7, and ṣällǝyu bä-ʾǝntä (and abbreviation for ṣällǝyu) in Text I-12; some interlineal corrections (e.g., fols. 217ra, ls. 8 and 13, 244vb l.2).&#13;
 Elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ለዓ፡ ዓለ፡ አሜ፡ for ለዓለመ፡ ዓለም፡ አሜን፡ (e.g., fols. 205va l.4, 243ra l.28)&#13;
@@ -154,14 +154,14 @@ Elements of the punctuation signs; Ethiopic numerals or their elements; elements
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts from hymns for the Good Friday (?) added (in black or red ink; encircled by lines) in the upper margins of fols. 138v, 139r, 139v, 147r, 147v, 161v, 162r, 162v, 169r.&#13;
 &#13;
 - Notes (in black and red, encircled by lines or dots) written in the margins or inside the text:&#13;
-ˀAdam: fol. 193r&#13;
+ʾAdam: fol. 193r&#13;
 wä-śännay: fol. 193r&#13;
 nahu śännay: fol. 193v&#13;
-zä-yǝtnäbbäb ˀǝm-dǝḫrä raˁǝyä Yoḥannǝs: fol. 196r&#13;
-bä-6th säˁat ˀǝm-ˁǝlätä ˁarb: fol. 214vb (inside the text)&#13;
+zä-yǝtnäbbäb ʾǝm-dǝḫrä raʿǝyä Yoḥannǝs: fol. 196r&#13;
+bä-6th säʿat ʾǝm-ʿǝlätä ʿarb: fol. 214vb (inside the text)&#13;
 mäṣḥafä dorho: fol. 205v&#13;
 gäb wah (?) (repeated twice): fol. 213v&#13;
-zä-sänuy  tǝnśaˀe mǝnbab: fol. 233v&#13;
+zä-sänuy  tǝnśaʾe mǝnbab: fol. 233v&#13;
 zä-ḥamus: fol. 239va (inside the text).&#13;
 &#13;
 Only in quires XXII-XXIX (fols. 170ra-148va)&#13;

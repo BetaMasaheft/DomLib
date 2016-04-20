@@ -11,21 +11,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀAmmǝstu ˀaˁmadä mǝsṭir "The Five Pillars of Mystery’’</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾAmmǝstu ʾaʿmadä mǝsṭir "The Five Pillars of Mystery’’</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀAmmǝstu ˀaˁmadä mǝsṭir "The Five Pillars of Mystery" (fols. 5r-34r) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾAmmǝstu ʾaʿmadä mǝsṭir "The Five Pillars of Mystery" (fols. 5r-34r) &#13;
 I-1) Introduction (fols. 3r-16v) &#13;
 I-2) Mǝsṭirä śǝllase “Mystery of the Trinity” (fols. 16v-38r) &#13;
 I-3) Mǝsṭirä śǝggawe “Mystery of the Incarnation” (fols. 38r-63r) &#13;
 I-4) Mǝsṭirä ṭǝmqät “Mystery of Baptism” (fols. 63r-79r) &#13;
 I-5) Mǝsṭirä qwǝrban “Mystery of the Eucharist” (fols. 79r-93r &#13;
-I-6) Mǝsṭirä tǝnśaˀe mutan “Mystery of the Resurrection of the Dead” (fols. 93r-109r)</shortcontent>
+I-6) Mǝsṭirä tǝnśaʾe mutan “Mystery of the Resurrection of the Dead” (fols. 93r-109r)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Private possession of priest (qäšši) Kidane Gäbrä Qirqos</owner>
 </owners>
@@ -98,7 +98,7 @@ On few fols., the bottom ruling line is not use (s. e.g., fols. 7v-8r).</rl-info
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols 3r-62v.&#13;
 Hand b: fols 63r-109r.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the incipits of subsections of the text; a few words like färiha (fol. 9r), yǝśmǝrǝwwo (fol. 11r), bä-fǝrhat (14r), ˀǝndalä (16r) and qalǝnnät (fol. 20r); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the incipits of subsections of the text; a few words like färiha (fol. 9r), yǝśmǝrǝwwo (fol. 11r), bä-fǝrhat (14r), ʾǝndalä (16r) and qalǝnnät (fol. 20r); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 3r), few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

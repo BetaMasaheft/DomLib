@@ -11,35 +11,35 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Mälkəˁa Täklä Haymanot “Image of Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of ˀabunä Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Mälkǝʿa Täklä Haymanot “Image of Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of ʾabunä Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 4ra-88vb; 90ra-96vb) &#13;
-II) Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fol. 97ra-vb)&#13;
+II) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fol. 97ra-vb)&#13;
 - Genealogy of Täklä Haymanot (fols. 97ra-vb) &#13;
-- Wä-näbärä ˀabba Yoḥanni bä-Däbrä Dammo... “And ˀabba Yoḥanni lived in Däbrä Dammo...” (fols. 97vb-98vb) &#13;
-III) Mälkəˀa Täklä Haymanot “Image of Täklä Haymanot”(fols. 100ra-102ra) &#13;
-IV) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 16 miracles (fols. 104vb-113ra) &#13;
+- Wä-näbärä ʾabba Yoḥanni bä-Däbrä Dammo... “And ʾabba Yoḥanni lived in Däbrä Dammo...” (fols. 97vb-98vb) &#13;
+III) Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot”(fols. 100ra-102ra) &#13;
+IV) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 16 miracles (fols. 104vb-113ra) &#13;
 &#13;
 Additiones 1-4; colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śəllase of Däbrä Dammo</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase of Däbrä Dammo</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms was written by Wäldä Śəllase of Däbrä Dammo.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms was written by Wäldä Śǝllase of Däbrä Dammo.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Dəngəl (mentioned in the supplication formulas, fols. 4ra, 13va, 60vb, 88vb; depicted as donor on fol. 89v). His wife Wälättä Ḥəywät, their sons Zä-Śəllase and Kidanä Maryam are also mentioned on fol. 4ra. Gäbäz Dəmḍä Mikaˀel is referred to as the second donor in the colophon (his name is added interlineally, in a secondary hand, in reddish brown ink, on fol. 48rb).&#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Dǝngǝl (mentioned in the supplication formulas, fols. 4ra, 13va, 60vb, 88vb; depicted as donor on fol. 89v). His wife Wälättä Ḥǝywät, their sons Zä-Śǝllase and Kidanä Maryam are also mentioned on fol. 4ra. Gäbäz Dǝmḍä Mikaʾel is referred to as the second donor in the colophon (his name is added interlineally, in a secondary hand, in reddish brown ink, on fol. 48rb).&#13;
 Gäbrä Täklä Haymanot appears to have been the donor for the part containing the Miracles (quire XIII; s. fols. 106ra, 107ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1847</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1848</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon states that the Ms. was written “at the time of our bishop ˀabba Sälama, at the time of his retirement to Däbrä Dammo”. Sälama III, Metropolitan of Ethiopia in 1841-67, stayed the monastery of Däbrä Dammo from the end of 1847 till the end of 1848, where he withdrew after a conflict with King Tewodros II. Cp. M. ABIR, Ethiopia: The Era of the Princes. The Challenge of Islam and the Re-unification of the Christian Empire 1769-1855, London, 1970, 134-35. &#13;
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon states that the Ms. was written “at the time of our bishop ʾabba Sälama, at the time of his retirement to Däbrä Dammo”. Sälama III, Metropolitan of Ethiopia in 1841-67, stayed the monastery of Däbrä Dammo from the end of 1847 till the end of 1848, where he withdrew after a conflict with King Tewodros II. Cp. M. ABIR, Ethiopia: The Era of the Princes. The Challenge of Islam and the Re-unification of the Christian Empire 1769-1855, London, 1970, 134-35. &#13;
 Quire XIII (Text IV) dates to a later time time.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
@@ -143,9 +143,9 @@ The text from fol. 104vb continues on fol. 113ra.</otherdetail>
 </colophons>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 89ra-rb: Short version of the genealogy of T&amp;#228;kl&amp;#228; Haymanot.&lt;/span&gt;&lt;/p&gt;&#13;
 &lt;p&gt;&lt;/p&gt;</cont></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 89rb-vb: Note on the 17th-cent. history of D&amp;#228;br&amp;#228; Dammo and D&amp;#228;br&amp;#228; Libanos.&lt;/span&gt;&lt;/p&gt;</cont><det>The note recounts about the arrival of ˀabba Zä-Wängel, mämhər of Däbrä Libanos of Šäwa, at Däbrä Dammo in the eighth year of the reign of Susənyos (Śəlṭan Sägäd, r. 1607-32), i.e. 1614. It is stated that ˀabba Zä-Wängel arrived in Däbrä Dammo “desiring to renew that what had become old and follow in the footsteps of his father Täklä Haymanot”.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 89rb-vb: Note on the 17th-cent. history of D&amp;#228;br&amp;#228; Dammo and D&amp;#228;br&amp;#228; Libanos.&lt;/span&gt;&lt;/p&gt;</cont><det>The note recounts about the arrival of ʾabba Zä-Wängel, mämhǝr of Däbrä Libanos of Šäwa, at Däbrä Dammo in the eighth year of the reign of Susǝnyos (Śǝlṭan Sägäd, r. 1607-32), i.e. 1614. It is stated that ʾabba Zä-Wängel arrived in Däbrä Dammo “desiring to renew that what had become old and follow in the footsteps of his father Täklä Haymanot”.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: " unicode=""&gt;Fol. 99v:&amp;#160;Note on&amp;#160;a litigation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated 12 Miyazya, 1932 A.M. (= 20 April, 1940 A.D.). Continued in the bottom margin of fol. 100r.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: " unicode=""&gt;Fol. 102v: Record concerning a litigation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic; dated 5 Gənbot, 1937 A.M. (= 13 May, 1945 A.D.).</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: " unicode=""&gt;Fol. 102v: Record concerning a litigation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic; dated 5 Gǝnbot, 1937 A.M. (= 13 May, 1945 A.D.).</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Half-erased (ownership?) note,&lt;...&gt; ማኅበረ᎓ ቀርሰ᎓ በር᎓ ብሩካን: fol. 63v, in the bottom margin.&#13;
 - Pen trial: fol. 1r.&#13;
@@ -178,7 +178,7 @@ The text from fol. 104vb continues on fol. 113ra.</otherdetail>
 ዘነሐሴ: fol. 108v&#13;
 ዘታህሳስ: fol. 110r.</txfindingaid>
 </txfindingaids>
-<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 89v: St. Täklä Haymanot with Wäldä Dəngəl, donor.</info><details>Wäldä Dəngəl is the commissioner of the Ms.</details></miniature>
+<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 89v: St. Täklä Haymanot with Wäldä Dǝngǝl, donor.</info><details>Wäldä Dǝngǝl is the commissioner of the Ms.</details></miniature>
 </miniatures>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 4r: wide coloured (red, green, yellow, white) ornamental frame with one central and two lateral pendants reaching page bottom; geometric and floral motifs.&#13;
 - Fol. 5vb: Coloured (red, yellow, white) ornamental band; geometric motif.&#13;

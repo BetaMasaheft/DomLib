@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśəˀt, Antiphonary for feasts and funeral service</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśǝʾt, Antiphonary for feasts and funeral service</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Zǝmmare, Eucharistic hymns (fols. 3ra-64vc)&#13;
-II)	Mäwaśəˀt, Antiphonary for feasts and funeral service (fols. 66ra-94ra)&#13;
+II)	Mäwaśǝʾt, Antiphonary for feasts and funeral service (fols. 66ra-94ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -113,9 +113,9 @@ Hand b: fols. 93vb-94ra, omitted words and passages, corrections (s. Varia)</pch
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; musical notation signs or their elements in the margin; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 Text I:&#13;
-Two groups of lines (alternating with black lines) on the incipit page of Texts I and II; names of sections (zəmmare) followed by feast or day names and occasionally preceded by the date; names of subsections and their abbreviations (ḫəbəst, mänfäs, ṣəwwaˁ) occasionally followed by feast names; names of antiphons on fol. 33vb; versicles which are to be repeated and their abbreviations (e.g., ḫaylä mäläkotu and its abbreviations ḫa, ḫay on fol. 4vab).&#13;
+Two groups of lines (alternating with black lines) on the incipit page of Texts I and II; names of sections (zǝmmare) followed by feast or day names and occasionally preceded by the date; names of subsections and their abbreviations (ḫǝbǝst, mänfäs, ṣǝwwaʿ) occasionally followed by feast names; names of antiphons on fol. 33vb; versicles which are to be repeated and their abbreviations (e.g., ḫaylä mäläkotu and its abbreviations ḫa, ḫay on fol. 4vab).&#13;
 Text II:&#13;
-Names of antiphons (mäwaśǝˀt) followed by feast or day names; elements of the numbers of psalms; names of sections of antiphons and their abbreviations (məlṭan); the words yəbarəkəwwo, ṣälot, səbḥəwwo and their abbreviations.</rubrication>
+Names of antiphons (mäwaśǝʾt) followed by feast or day names; elements of the numbers of psalms; names of sections of antiphons and their abbreviations (mǝlṭan); the words yǝbarǝkǝwwo, ṣälot, sǝbḥǝwwo and their abbreviations.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ዝ፡/ዝማ፡ for ዝማሬ፡ &#13;
 መ፡/መን፡/መንፈ፡ for መንፈስ፡ &#13;
@@ -126,7 +126,7 @@ Names of antiphons (mäwaśǝˀt) followed by feast or day names; elements of th
 ጸሎ፡ for ጸሎት፡&#13;
 ስብ፡/ስብሕ፡ for ስብሕዎ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- A portion of Mäwaśəˀt dedicated to St. Mary (Mäwaśəˀt zä-ˀəgzəˀtənä Maryam), omitted in the main text, has been written at the end of Text II (fols. 93vc-94ra), in hand b. It should be inserted into fol. 89va l.1 before the part beginning with “ˁəzl”.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- A portion of Mäwaśǝʾt dedicated to St. Mary (Mäwaśǝʾt zä-ʾǝgzǝʾtǝnä Maryam), omitted in the main text, has been written at the end of Text II (fols. 93vc-94ra), in hand b. It should be inserted into fol. 89va l.1 before the part beginning with “ʿǝzl”.&#13;
 - The quires are numbered separately for Texts I and II. Quire number 6 is skipped (Text I).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

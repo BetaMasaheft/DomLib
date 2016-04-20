@@ -7,7 +7,7 @@
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2011-05-18</regdate>
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəñña"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝñña"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
@@ -20,17 +20,17 @@ Additio 1.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub11"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub12"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Priest (qäšši) Bǝrhanä Täsfǝy Gäbrä Tǝnśaˀe, according to Additio 1. The names of the original donors or owners are not known since the space for rubricated names was left unfilled (the first part of the name was probably Ḫaylä, cp. fol. 4v).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Priest (qäšši) Bǝrhanä Täsfǝy Gäbrä Tǝnśaʾe, according to Additio 1. The names of the original donors or owners are not known since the space for rubricated names was left unfilled (the first part of the name was probably Ḫaylä, cp. fol. 4v).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1939</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1956</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śǝllase (r. 1930-1974) and Bishop ˀabba Yoḥannǝs (tenure 1939-56) are mentioned on fol. 15r.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śǝllase (r. 1930-1974) and Bishop ʾabba Yoḥannǝs (tenure 1939-56) are mentioned on fol. 15r.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St03"/>
 </catstates>
@@ -104,7 +104,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;Fol. 49v: Ownership note&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 49v: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4720;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4624;&amp;#4851;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4661;&amp;#4725;&amp;#4617;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; 24/12/96&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4819;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;/&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4637; &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4773;&amp;#4826; &amp;#4632;&amp;#4933;&amp;#4624;&amp;#4941; &amp;#4632;&amp;#4941;&amp;#4725;&amp;#4612;&amp;#4961; &amp;#4661;&amp;#4651;&amp;#4845; &amp;#4755;&amp;#4845; &amp;#4672;&amp;#4666; &amp;#4709;&amp;#4653;&amp;#4611;&amp;#4752; &amp;#4720;&amp;#4661;&amp;#4941;&amp;#4845; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4725;&amp;#4757;&amp;#4659;&amp;#4772;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>Written in a crude secondary hand with red and blue ballpoint pen on cardboard, in Tǝgrǝñña. It states that the book belongs to qäšši Bǝrhanä Täsfǝy Gäbrä Tǝnśaˀe. The date 24/12/96 A.M. (= 2003/04 A.D.) is mentioned.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;Fol. 49v: Ownership note&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 49v: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4720;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4624;&amp;#4851;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4661;&amp;#4725;&amp;#4617;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; 24/12/96&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4819;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;/&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4637; &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4773;&amp;#4826; &amp;#4632;&amp;#4933;&amp;#4624;&amp;#4941; &amp;#4632;&amp;#4941;&amp;#4725;&amp;#4612;&amp;#4961; &amp;#4661;&amp;#4651;&amp;#4845; &amp;#4755;&amp;#4845; &amp;#4672;&amp;#4666; &amp;#4709;&amp;#4653;&amp;#4611;&amp;#4752; &amp;#4720;&amp;#4661;&amp;#4941;&amp;#4845; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4725;&amp;#4757;&amp;#4659;&amp;#4772;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>Written in a crude secondary hand with red and blue ballpoint pen on cardboard, in Tǝgrǝñña. It states that the book belongs to qäšši Bǝrhanä Täsfǝy Gäbrä Tǝnśaʾe. The date 24/12/96 A.M. (= 2003/04 A.D.) is mentioned.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Erasures: fols. 31v, 36r.&#13;
 - Omitted words or letters written interlineally: fols. 13v, 21r.&#13;

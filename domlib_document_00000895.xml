@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 3ra-25rb)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 25rb-63rb)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 25rb-63rb)&#13;
 III) Anaphoras (fols. 63rb-174ra)&#13;
 III-1) Anaphora of the Apostles (fols. 63rb-77vb)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 77vb-82ra)&#13;
@@ -39,7 +39,7 @@ Additiones 1-2; colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe’s name has been erased (s. the colophon; the first part of the scribe's name may be Wäldä &lt;...&gt;).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions ˀabba Wäldä Giworgis as the donor (s. also fol. 19r, bottom margin).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions ʾabba Wäldä Giworgis as the donor (s. also fol. 19r, bottom margin).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -149,7 +149,7 @@ The text on fol. 3r and the incipits of most Anaphoras are written alternately i
 </desccontents>
 <colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;Fol. 174ra: &lt;span style="font-size: large;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4845;&amp;#4725;&amp;#4707;&amp;#4648;&amp;#4781;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4754;&amp;#4961; &amp;#4616;&amp;#4872;&amp;#4709;&amp;#4649;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala; font-size: 14pt; mso-fareast-language: DE; mso-fareast-font-family: 'Arial Unicode MS'; mso-bidi-font-family: 'Arial Unicode MS'; mso-ansi-language: EN-US; mso-bidi-language: AR-SA"&gt; &amp;lt;&amp;#8230;&amp;gt;&lt;/span&gt;&lt;/p&gt;</col><tran>&lt;p&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: "&gt;Fol. 74ra: Blessed be the Lord who has enabled me, His servant &amp;lt;&amp;#8230;&amp;gt;, to bring (the book) to completion.&lt;/span&gt;&lt;/p&gt;</tran><det>The scribe’s name has been erased (the first part of the name may be Wäldä?).</det></colophon>
 </colophons>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-US" unicode="" arial="" style="line-height: 115%; font-family: "&gt;Fol. 1v: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><det>Crudely written in pencil in two different hands, poorly legible. The donor’s name is apparently ˀabba Wäldä Giworgis.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-US" unicode="" arial="" style="line-height: 115%; font-family: "&gt;Fol. 1v: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><det>Crudely written in pencil in two different hands, poorly legible. The donor’s name is apparently ʾabba Wäldä Giworgis.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: " arial="" unicode=""&gt;Fol. 2r: Purchase note (?).&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 2r:&lt;span style="font-size: large;"&gt; &lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4611;&amp;#4616;&amp;#4675;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4661;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4676;&amp;#4661;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4661;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4720;&amp;#4672;&amp;#4709;&amp;#4622;&amp;#4773;&amp;#4841;&amp;#4961; &amp;#4824;&amp;#4622;&amp;#4981;&amp;#4971;&amp;#4768;&amp;#4632;&amp;#4720;&amp;#4961; &amp;#4637;&amp;#4613;&amp;#4648;&amp;#4725;&amp;#4961; &amp;#4978;&amp;#4972;&amp;#4672;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: " arial="" unicode=""&gt;Fol. 2r: Hal&amp;#228;qa G&amp;#228;br&amp;#228; S&amp;#477;llase, priest G&amp;#228;br&amp;#228; S&amp;#477;llase has received. (In) the 43th Year of Mercy, (on) the 14&lt;sup&gt;th&lt;/sup&gt; day.&lt;/span&gt;&lt;/p&gt;</tran><det>Crudely written in a recent hand, in pen. The verb form is in Tǝgrǝñña. Dated to the 43th year of mercy (1943 E.C. = 1950/51 A.D.?). It is unclear whether the day mentioned is the 14th in the year or in a month.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fols. 2r, 174v, 175r: Traces of crude notes.&#13;

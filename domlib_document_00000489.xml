@@ -10,36 +10,36 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 2ra-5va)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 2ra-4rb, l.11)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 2ra-4rb, l.11)&#13;
 - Letter of Eusebius to Carpianus (fol. 4rb, ls.11-57)&#13;
 - “Synopsis of Classes” (fol. 5va)&#13;
 II) Gospel of Matthew (fols. 7ra-51rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 7ra-51ra)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 7ra-51ra)&#13;
 - Postscript (fol. 51ra-rb)&#13;
 III) Gospel of Mark (fols. 5va-vb; 51ra-72vb)&#13;
 - Biography of Mark (fol. 51ra-vb)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fol. 5va-vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 52ra-72va)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 52ra-72va)&#13;
 - Postscript (fol. 72va-vb)&#13;
 IV) Gospel of Luke (fols. 73ra-110vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 73ra-110vb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 73ra-110vb)&#13;
 - Postscript (fol. 110vb)&#13;
 V) Gospel of John (fols. 111ra-139vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 111ra-139vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 111ra-139vb)&#13;
 - Postscript (fol. 139vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ʿƎmbäyto Täklä Haymanot / ETH"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ʿƎmbäyto Täklä Haymanot / ETH"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Gərma</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Gǝrma</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀabunä Wäldä Gərma (mentioned in supplication formulas on fols. 51rb, 110vb, 139vb), commissioned by ˀabunä Gäbrä ˀƎgziˀabǝḥer (mentioned in a supplication formula on fol. 139vb).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾabunä Wäldä Gǝrma (mentioned in supplication formulas on fols. 51rb, 110vb, 139vb), commissioned by ʾabunä Gäbrä ʾƎgziʾabǝḥer (mentioned in a supplication formula on fol. 139vb).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ḫaylä Maryam (mentioned in supplication formulas on fols. 51rb, 73r, 139rb), Wälättä Maryam (mentioned in a supplication formula on fol. 72vb).</donor>
 </donors>
@@ -105,12 +105,12 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Regular, by a well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; titles and numbers of the chapters, the word məˁəraf and x-shaped signs after chapter numbers; elements of the punctuation signs; elements of Ethiopic numerals; parts of quire marks and running titles; names of the donors, the scribe and the commissioner.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; titles and numbers of the chapters, the word mǝʿǝraf and x-shaped signs after chapter numbers; elements of the punctuation signs; elements of Ethiopic numerals; parts of quire marks and running titles; names of the donors, the scribe and the commissioner.&#13;
 On the incipit page of each Gospel, a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For details concerning the traditional introduction texts s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
 - The canon tables are missing.&#13;
-- X-shaped sign after chapter numbers or after the word məˁəraf (not regular).</otherdetail>
+- X-shaped sign after chapter numbers or after the word mǝʿǝraf (not regular).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

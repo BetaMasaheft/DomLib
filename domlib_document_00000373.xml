@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 7ra-10vc)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 7ra-10vc)&#13;
 - Letter of Eusebius to Carpianus (fols. 10vc-11rc)&#13;
 - The “Synopsis of Classes” (fols. 11rc-11vb)&#13;
 - On the reliability of the Gospels (fols. 11vb-11vc)&#13;
@@ -21,22 +21,22 @@
 - Statement about the Eusebian sections (fol. 11vc)&#13;
 - Canon tables (fols. 12ra-14ra)&#13;
 II) Gospel of Matthew (fols. 15ra-57ra)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols.15ra-56vc) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols.15ra-56vc) &#13;
 - Postscript (fols. 56vc-57ra)&#13;
 III) Gospel of Mark (fols. 57ra-82rc)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fols. 57ra-57rc)&#13;
 - Biography of Mark (fols. 57rc-57vc)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 58ra-82rc)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 58ra-82rc)&#13;
 - Postscript (fol. 82rc)&#13;
 IV) Gospel of Luke (fols.82va-117rc)&#13;
 - List of the “tituli” for the Gospel of Luke: 83 titles (fols. 82va-82vb)&#13;
 - Biography of Luke (fols. 82vb-82vc)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 83ra-117rc)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 83ra-117rc)&#13;
 - Postscript (fol. 117rc)&#13;
 V) Gospel of John (fols. 117va-143vb)&#13;
 - Biography of John (fols. 117va-117vc)&#13;
 - List of the “tituli” for the Gospel of John: 19 titles (fol. 117vc)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 118ra-143vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 118ra-143vb)&#13;
 - Postscript (fols. 143vb-143vc).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
@@ -108,7 +108,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; number of the chapters and the word məˁəraf; elements of the punctuation signs and numerals; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; number of the chapters and the word mǝʿǝraf; elements of the punctuation signs and numerals; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The Four Gospels book seems to have substituted for the old "Golden Gospel" of Däbrä Zäyt, DZ-001.</otherdetail>
 </otherdetails>

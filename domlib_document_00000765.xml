@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ˀamlak “Praise of God”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ʾamlak “Praise of God”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ˀamlak “Praise of God” (fols. 1ra-160vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ʾamlak “Praise of God” (fols. 1ra-160vb)&#13;
 I-1) Monday’s prayer of Basil of Caesarea (fols. 1ra-25rb)&#13;
 I-2) Tuesday’s prayer of Efrem the Syrian (fols. 25va-55rb)&#13;
 I-3) Wednesday’s prayer of Efrem the Syrian (fols. 55vb-77rb)&#13;
-I-4) Thursday’s prayer of John Saba (ˀArägawi Mänfäsawi) (fols. 77va-104va)&#13;
+I-4) Thursday’s prayer of John Saba (ʾArägawi Mänfäsawi) (fols. 77va-104va)&#13;
 I-5) Friday’s prayer of Shenute (fols. 104va-116rb) and Pachomius (fols. 116rb-126va)&#13;
 I-6) Saturday’s prayer of Athanasius of Alexandria (fols. 126vb-143ra)&#13;
 I-7) Sunday’s prayer of Cyril of Alexandria (fols. 143rb-160vb).</shortcontent>
@@ -27,7 +27,7 @@ I-7) Sunday’s prayer of Cyril of Alexandria (fols. 143rb-160vb).</shortcontent
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="Ë&#129;Addi Qiyaá¸¥to QÉ&#153;ddÉ&#153;st Maryam / QQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Wäldä Samuˀel has been erased on fols. 5vb, 20va, 84ra, 95ra, 113vb, 123ra, 126vb, 134vb, 138ra, 139rb, 146va, but preserved on fols. 145rb and 150va. In some cases this and another illegible name are replaced with the following names: Gäbrä Śǝllase (104va, 126va, 127vb, 136rb, 143rb), Gäbrä Ḥǝywät (123ra, 123vb, 125va, 136ra) and Wäldä Maryam (141ra, 144vb, 146ra).   &#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Wäldä Samuʾel has been erased on fols. 5vb, 20va, 84ra, 95ra, 113vb, 123ra, 126vb, 134vb, 138ra, 139rb, 146va, but preserved on fols. 145rb and 150va. In some cases this and another illegible name are replaced with the following names: Gäbrä Śǝllase (104va, 126va, 127vb, 136rb, 143rb), Gäbrä Ḥǝywät (123ra, 123vb, 125va, 136ra) and Wäldä Maryam (141ra, 144vb, 146ra).   &#13;
 All names are written in strong vermilion in a crude hand, different from the main hand (possibly the same hand as that of the prayer on fol. 85v).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1650</fdating>
@@ -111,7 +111,7 @@ On fols. 72r-104v, 115r-128v the bottom ruled line is not used.</rl-info></tauni
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few groups of lines in the incipit page of Texts I-1; a few lines (alternating with black lins) of the incipit of Texts I-2 to I-7; two initial lines of the subsections; names of the days of the week (fols. 77va, 127vb, 149rb); the concluding formula of the work (fol. 160vb); elements of the punctuation signs and Ethiopic numerals.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The texts are divided into sections distinguished by means of rubrication of the first two lines. In Ms. DD-023 the sections are called mǝˀǝraf. &#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The texts are divided into sections distinguished by means of rubrication of the first two lines. In Ms. DD-023 the sections are called mǝʾǝraf. &#13;
 The division of Text I-1) differs from the one introduced in Ms. DD-023. Only the first two and the last sections of both Mss. correspond to each other. In Ms. QQM-002 the scribe refers to the monastic garb in the rubricated lines. In Ms. DD-023 these lines are not present.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

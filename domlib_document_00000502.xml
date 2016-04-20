@@ -11,7 +11,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
 - Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 6ra-13vb), incomplete&#13;
@@ -52,9 +52,9 @@ Additiones 1-9.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam (s. supplication formula, fol. 133rb), but different from the scribe of QSM-001, UM-041.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Ḥawaryat and her husband Zä-ˀAmanuˀel (s. supplication formulas, fols. 20r, 62, 133; donation note fol. 131vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Ḥawaryat and her husband Zä-ʾAmanuʾel (s. supplication formulas, fols. 20r, 62, 133; donation note fol. 131vb).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">A short, partly preserved note (fol. 1r, upper margin, s. "Varia") hints to the former owner, the church Mädḫane ˁAläm, which is the church at Mäqdäla founded by Tewodros II (r. 1855-68).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">A short, partly preserved note (fol. 1r, upper margin, s. "Varia") hints to the former owner, the church Mädḫane ʿAläm, which is the church at Mäqdäla founded by Tewodros II (r. 1855-68).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -148,7 +148,7 @@ The ruling pattern for the canon tables is different.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of the chapters; numbers of the chapters and the word məˁəraf; elements of the punctuation signs; chapter dividers; elements of Ethiopic numerals; on the incipit page of the Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of the chapters; numbers of the chapters and the word mǝʿǝraf; elements of the punctuation signs; chapter dividers; elements of Ethiopic numerals; on the incipit page of the Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 6ra-13vb) is incomplete, the eighth "period of instruction" is missing.&#13;
 - Running titles throughout large portions of the Ms., esp. through Mark and Luke.</otherdetail>

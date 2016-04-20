@@ -10,23 +10,23 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Giyorgis “Vita of George” / Täˀamrä Giyorgis “Miracles of George”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Giyorgis “Vita of George” / Täʾamrä Giyorgis “Miracles of George”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Giyorgis “Vita of George” (fols. 3r-38vb)&#13;
-II) Täˀamrä Giyorgis “Miracles of George”: 11 miracles (fols. 38vb-73vb), the 11th miracle is incomplete.</shortcontent>
+II) Täʾamrä Giyorgis “Miracles of George”: 11 miracles (fols. 38vb-73vb), the 11th miracle is incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The handwriting is similar to that of Zä-Wäldä Maryam (s. UM-024 and other Mss.).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the donors mentioned in the supplication formula, were corrected several (at least three) times.&#13;
-The name of a person who was perhaps the original donor, Täklä Giyorgis, alongside with his wife’s name Wälättä Maryam, has been deleted (washed out) or corrected respectively into Gäbrä Giyorgis and Wälättä Giyorgis (in black ink). Some other names written in the original hand, are still readable: Gäbrä Krəstos (fols. 3va, 20ra, 38vb).</donor>
+The name of a person who was perhaps the original donor, Täklä Giyorgis, alongside with his wife’s name Wälättä Maryam, has been deleted (washed out) or corrected respectively into Gäbrä Giyorgis and Wälättä Giyorgis (in black ink). Some other names written in the original hand, are still readable: Gäbrä Krǝstos (fols. 3va, 20ra, 38vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1650</fdating>
 </fdatings>

@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase, Missal</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 7ra-24va)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 24vb-50rc)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 24vb-50rc)&#13;
 III) Anaphoras (fols. 50va-140rb)&#13;
 III-1) Anaphora of the Apostles (fols. 50va-60ra)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 60vb-63vb), preceded by an excerpt from “The Book of the Testament” (fol. 60ra-vb)&#13;
@@ -34,9 +34,9 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000211" xlink:title="Säglat Qəddus Mikaˀel / SQMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000211" xlink:title="Säglat Qǝddus Mikaʾel / SQMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000211" xlink:title="Säglat Qəddus Mikaˀel / SQMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000211" xlink:title="Säglat Qǝddus Mikaʾel / SQMM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor’s name in supplication formulas has been either erased or left out.</donor>
 </donors>
@@ -44,7 +44,7 @@ Additio 1.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1779</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Fols. 23rb-rc, 44rb: Sälomon is mentioned as the ruling king. Fol. 34vc: Ṗeṭros is mentioned as the Patriarch and ˀIyosab as the Metropolitan. Fol. 50vb: Yoḥannǝs is mentioned as “our bishop”. Sälomon II was the king of Ethiopia in 1777-79; Sälomon III was the king of Ethiopia in 1796-97 and in 1799. ˀIyosab II was the metropolitan of Ethiopia in 1770-1803. John XVIII was the patriarch of Alexandria in 1769-96. The name of Ṗeṭros as the Alexandrian patriarch is mentioned for unclear reasons.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Fols. 23rb-rc, 44rb: Sälomon is mentioned as the ruling king. Fol. 34vc: Ṗeṭros is mentioned as the Patriarch and ʾIyosab as the Metropolitan. Fol. 50vb: Yoḥannǝs is mentioned as “our bishop”. Sälomon II was the king of Ethiopia in 1777-79; Sälomon III was the king of Ethiopia in 1796-97 and in 1799. ʾIyosab II was the metropolitan of Ethiopia in 1770-1803. John XVIII was the patriarch of Alexandria in 1769-96. The name of Ṗeṭros as the Alexandrian patriarch is mentioned for unclear reasons.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -127,7 +127,7 @@ The incipits or incipit pages of most of the constituent texts are written alter
 ቅዱስ፡ ቅ፡ ቅ፡ for ቅዱስ፡ ቅዱስ፡ ቅዱስ፡&#13;
 አ፡ አ፡ አ፡ for አሜን፡ አሜን፡ አሜን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Fols. 2-5 are of considerably smaller size than the rest of the folios. They have probably been appended to SQMM-008 at a later stage. The folios contain the hymn Śärawitä mälaˀǝktihu lä-mädḫane ˁaläm “The hosts of the angels of the Saviour of the world” written out for various liturgical occasions.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Fols. 2-5 are of considerably smaller size than the rest of the folios. They have probably been appended to SQMM-008 at a later stage. The folios contain the hymn Śärawitä mälaʾǝktihu lä-mädḫane ʿaläm “The hosts of the angels of the Saviour of the world” written out for various liturgical occasions.&#13;
 Anaphora of St. Athanasius of Alexandria (text III-10) is not inscribed with the saint’s name.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

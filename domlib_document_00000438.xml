@@ -11,9 +11,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qəddase “Missal”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śərˤatä qəddase “Order of the Mass” (fols. 1ra l.1–30va l.12), incomplete, the beginning is missing&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrˤatä qǝddase “Order of the Mass” (fols. 1ra l.1–30va l.12), incomplete, the beginning is missing&#13;
 II) Anaphoras (fols. 30vb–146rb)&#13;
 II-1) Anaphora of the Apostles (fols. 30vb l.1–44vb l.4)&#13;
 II-2) Anaphora of Our Lord Jesus Christ (fols. 44vb l.5–49vb l.11)&#13;
@@ -39,9 +39,9 @@ Additiones 1-5.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1660</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Marqos mentioned as patriarch of Alexandria and  Mikaˀel as metropolitan of Ethiopia (fol. 113ra). Fasilädäs is mentioned as the king (fol. 13rb). &#13;
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Marqos mentioned as patriarch of Alexandria and  Mikaʾel as metropolitan of Ethiopia (fol. 113ra). Fasilädäs is mentioned as the king (fol. 13rb). &#13;
 Mark VI was the patriarch of Alexandria in 1645-60; &#13;
-Mikaˀel IV was the metropolitan of Ethiopia in 1650-63; King Fasilädäs reigned in 1632-67.</dcomment>
+Mikaʾel IV was the metropolitan of Ethiopia in 1650-63; King Fasilädäs reigned in 1632-67.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

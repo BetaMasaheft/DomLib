@@ -12,7 +12,7 @@
 </wsystems>
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 3r-31v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 3r-31v)&#13;
 II) Anaphoras (fols. 31v-110r)&#13;
 II-1) Anaphora of the Apostles (fols. 31va l.12–41vb l.17)&#13;
 II-2) Anaphora of Our Lord Jesus Christ (fols. 42ra l.1- 45vb l.5), preceded by the “Testament that Jesus Christ told…”&#13;
@@ -20,7 +20,7 @@ II-3) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 45va l.6-52vb l.10)
 II-4) Anaphora of St. John, son of Thunder (fols. 53ra l.1–59vb l.8)&#13;
 II-5) Anaphora of the 318 Orthodox Fathers of Nicaea (fols. 59va l.11–65vb l.27), preceded by the Nicene Creed (Ṣälotä haymanot)&#13;
 II-6) Anaphora of St. Athanasius (fols. 66ra l.3–72vb l.15)&#13;
-II-7) Anaphora of St. Basil of Cesarea, followed by Śǝrˁatä bäwiˀotä qǝddase zähośaˀǝna (fols. 73ra l.4–79vb l.15)&#13;
+II-7) Anaphora of St. Basil of Cesarea, followed by Śǝrʿatä bäwiʾotä qǝddase zähośaʾǝna (fols. 73ra l.4–79vb l.15)&#13;
 II-8) Anaphora of St. Gregory of Nyssa (fols. 80ra l.1- 84vb l.19)&#13;
 II-9) Anaphora of St. Epiphanius (fols. 85ra l.1–90rb l.20)&#13;
 II-10) Anaphora of St. John Chrysostom (fols. 90va l.1– 95vb l.4)&#13;
@@ -34,17 +34,17 @@ Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additiones 1 and 2 mention wäyzäro Bǝrritu as the donor. Elsewhere, ˀabunä Kidanä Maryam, Wälättä Ṣadəqan, Gäbrä ˀƎgziˀabəḥer are mentioned (s. fol. 59vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additiones 1 and 2 mention wäyzäro Bǝrritu as the donor. Elsewhere, ʾabunä Kidanä Maryam, Wälättä Ṣadǝqan, Gäbrä ʾƎgziʾabǝḥer are mentioned (s. fol. 59vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1950</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1973</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Second half of the 20th cent. The Ms. has been paid and then donated to Qärsäbär Mikaˀel in 1966 A.M. (= 1973/74 A.D.) (s. Additiones 1-2). The dates 1965 A.M. (= 1972/73 A.D.) and 1973 are written after the text of the Nicene Creed on fol. 60r) in European numerals.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Second half of the 20th cent. The Ms. has been paid and then donated to Qärsäbär Mikaʾel in 1966 A.M. (= 1973/74 A.D.) (s. Additiones 1-2). The dates 1965 A.M. (= 1972/73 A.D.) and 1973 are written after the text of the Nicene Creed on fol. 60r) in European numerals.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -136,10 +136,10 @@ The bottom line is written above the ruling.</ruling>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 123rb:&lt;/span&gt; &lt;span style="line-height: 115%"&gt;Donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note mentions that the Ms. has been donated to Qärsäbär Mikaˀel in 1966 A.M. (= 1973/74 A.D.) by wäyzäro Bǝrritu.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 123rb:&lt;/span&gt; &lt;span style="line-height: 115%"&gt;Donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note mentions that the Ms. has been donated to Qärsäbär Mikaʾel in 1966 A.M. (= 1973/74 A.D.) by wäyzäro Bǝrritu.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 123v:&lt;/span&gt; &lt;span style="line-height: 115%"&gt;Purchase note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Hardly readable. The note mentions that wäyzäro Bǝrritu paid for the Ms. 110 Birr, in 1966 A.M. (= 1973/74 A.D.).</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fol. 2v: Table of contents precedes the texts, with the titles of the texts and their ordinal numbers (the pages are not indicated). In the table of contents the Anaphoras go first, followed by Śǝrˁatä qǝddase, while in the Ms. itself the order is vice versa.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fol. 2v: Table of contents precedes the texts, with the titles of the texts and their ordinal numbers (the pages are not indicated). In the table of contents the Anaphoras go first, followed by Śǝrʿatä qǝddase, while in the Ms. itself the order is vice versa.&#13;
 - Fols. 4r, 13v, 14r, 17v, 20v, 22v, 35r, 60r, 61r, 80r, 85r, 104v: Notes in the upper margin.&#13;
 - Fol. 29v. Note in the bottom margin.&#13;
 - Fols. 12rb, 41vb,  52vb, 72va, 72vb, 79rb, 79va, 84vb, 90rb, 99vb, 107rb, 110v: Lists of masculine and feminine personal names, only partly coincide with one another.&#13;

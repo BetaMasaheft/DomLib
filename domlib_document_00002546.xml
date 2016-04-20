@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Täˀamrä ˀIyäsus “Miracles of Jesus” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Täʾamrä ʾIyäsus “Miracles of Jesus” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary" (fols. 4ra-94rb)&#13;
-I-1) Excerpt from the Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 4ra-va)&#13;
-I-2) ˀAkkonu bəˀəsi... “Does not the man...” (fols. 4va-8ra) &#13;
-I-3) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 9ra-12va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary" (fols. 4ra-94rb)&#13;
+I-1) Excerpt from the Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 4ra-va)&#13;
+I-2) ʾAkkonu bǝʾǝsi... “Does not the man...” (fols. 4va-8ra) &#13;
+I-3) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 9ra-12va)&#13;
 I-4) Introductory exhortation and hymns (fols. 12vb-15rb)&#13;
-I-5) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fols. 15va-16rb)&#13;
-I-6) Täˀamrä Maryam “Miracles of Mary”: 60 miracles (fols. 16rb-94ra)&#13;
-I-7) Sälam läki ḫoḫətä məśraq... “Salutation to you, Threshold of the East…” (fol. 94ra-rb)&#13;
-II) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 95ra-125rb) &#13;
+I-5) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fols. 15va-16rb)&#13;
+I-6) Täʾamrä Maryam “Miracles of Mary”: 60 miracles (fols. 16rb-94ra)&#13;
+I-7) Sälam läki ḫoḫǝtä mǝśraq... “Salutation to you, Threshold of the East…” (fol. 94ra-rb)&#13;
+II) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 95ra-125rb) &#13;
 II-1) Story of the family of Adam (fols. 95ra-99vb) &#13;
-II-2) Täˀamrä ˀIyasus “Miracles of Jesus”: 18 miracles (fols. 99vb-125rb)&#13;
+II-2) Täʾamrä ʾIyasus “Miracles of Jesus”: 18 miracles (fols. 99vb-125rb)&#13;
 III) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 126ra-133va)&#13;
 &#13;
 Additiones 1-4.</shortcontent>
@@ -30,15 +30,15 @@ Additiones 1-4.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Lǝˁulä Qal</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Lǝʿulä Qal</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Lǝˁulä Qal (hand b) is mentioned as the scribe in the concluding supplication of Text I-6 on fol. 93vb.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Lǝʿulä Qal (hand b) is mentioned as the scribe in the concluding supplication of Text I-6 on fol. 93vb.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 3, the Ms. was commissioned by community of ˀAbrəqo during the tenure of qes gäbäz Tewodros and, after him, qäsis Täsfa Ṣǝyon. Both names are written in supplication formulas (fols. 12vb, 16rb, 20vb etc), in hand b. In addition, many other names are mentioned like Zä-ˀIyäsus (fols. 23vb, 25vb, 28ra etc.) and ˀAmdä Mikaˀel (fols. 26rb, 30vb, 37ra etc.); interlineally in a secondary hand: Fǝśśǝḥa Giyorgis and Täklä Giyorgis (fols. 12vb, 18rb, 32rb, 44ra etc.).&#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 3, the Ms. was commissioned by community of ʾAbrǝqo during the tenure of qes gäbäz Tewodros and, after him, qäsis Täsfa Ṣǝyon. Both names are written in supplication formulas (fols. 12vb, 16rb, 20vb etc), in hand b. In addition, many other names are mentioned like Zä-ʾIyäsus (fols. 23vb, 25vb, 28ra etc.) and ʾAmdä Mikaʾel (fols. 26rb, 30vb, 37ra etc.); interlineally in a secondary hand: Fǝśśǝḥa Giyorgis and Täklä Giyorgis (fols. 12vb, 18rb, 32rb, 44ra etc.).&#13;
 The nameof Tewodros Wäldä Giyorgis is written, not rubricated, in the supplication on fol. 4va, in hand a.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -125,7 +125,7 @@ Some fols. have one or two additional ruled lines at the bottom (fols. 21rv, 26r
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Hand a: careful. Hand b: mediocre.</phandwriting>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 4ra-8ra (quire I); conspicuously right-sloping letters with long vowel markers.&#13;
-Hand b, Lǝˁulä Qal: fols. 9ra-133va (quires II-XIV); broad, roundly shaped letters, thick vertical lines.</pchangeofhand>
+Hand b, Lǝʿulä Qal: fols. 9ra-133va (quires II-XIV); broad, roundly shaped letters, thick vertical lines.</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the commissioners; the word sälam "salutation" in Texts I-3 and I-5, abbreviated directives for the ministers in Text I-3, the word sänbät “Sabbath” in Text III; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.&#13;
 &#13;
@@ -134,16 +134,16 @@ Two lines of the incipit of Text I-1, alternating with black lines; the first wo
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-2 comprises 31 strophes which are strophes 1-5, 7-31, 33 according to GrohHymn pp. 336-53.&#13;
 &#13;
 Text I-3, partly with interlineal musical notation, contains:&#13;
-- Ṣälotä [zä-yǝbǝl] ˀǝmqǝdmä [yanbǝbu] täˀamǝr ... “Prayer [recited] before [reading] the Miracles ..." (fols. 12va)&#13;
+- Ṣälotä [zä-yǝbǝl] ʾǝmqǝdmä [yanbǝbu] täʾamǝr ... “Prayer [recited] before [reading] the Miracles ..." (fols. 12va)&#13;
 &#13;
 Text I-4 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam wäladitä ˀamlak ... “O my Lady, Holy Virgin Mary, Godbearing ...” (fols. 14rb l.3-rb l.18)&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam Mariham ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 14rb-va) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fols. 14va-15rb).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam wäladitä ʾamlak ... “O my Lady, Holy Virgin Mary, Godbearing ...” (fols. 14rb l.3-rb l.18)&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam Mariham ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 14rb-va) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fols. 14va-15rb).&#13;
 &#13;
 The miracles of Mary (Text I-6) are numbered. Text I-7 is followed by a short note which determines when the short hymn has to be read. &#13;
 &#13;
-The miracles of Jesus (Text II-2) are numbered. The scribe numbered the introduction as miracles 1 and 2. Text II is followed by a short hymn: ˀƎgziˀa sänbät wäld …, the incipit reads as follows, fol. 125rb:  እግዚአ፡ ሰንበት፡ ወልድ፡ ሶበ፡ አርአየ፡ ነቢረ፡ ተአምር፡ በሰንበት፡ …</otherdetail>
+The miracles of Jesus (Text II-2) are numbered. The scribe numbered the introduction as miracles 1 and 2. Text II is followed by a short hymn: ʾƎgziʾa sänbät wäld …, the incipit reads as follows, fol. 125rb:  እግዚአ፡ ሰንበት፡ ወልድ፡ ሶበ፡ አርአየ፡ ነቢረ፡ ተአምር፡ በሰንበት፡ …</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -153,7 +153,7 @@ The miracles of Jesus (Text II-2) are numbered. The scribe numbered the introduc
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 125va-vb: T&amp;#228;&amp;#704;amr&amp;#228; G&amp;#228;br&amp;#228; M&amp;#228;nf&amp;#228;s Q&amp;#601;ddus "Miracles of G&amp;#228;br&amp;#228; M&amp;#228;nf&amp;#228;s Q&amp;#601;ddus": 1 miracle.&lt;/span&gt;&lt;/p&gt;</cont><det>Two initial lines and the name of the protagonist are rubricated.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 134ra-rb: Note on commissioning the writing.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 134ra: &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4632;&amp;#4677;&amp;#4848;&amp;#4656;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4829;&amp;#4773;&amp;#4725;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4678;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4811;&amp;#4961; &amp;#4704;&amp;#4969;&amp;#4961; &amp;#4637;&amp;#4781;&amp;#4653;&amp;#4961; &amp;#4848;&amp;#4674;&amp;#4672;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4678;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961; &amp;#4676;&amp;#4661;&amp;#4961; &amp;#4872;&amp;#4704;&amp;#4829;&amp;#4961; &amp;#4724;&amp;#4814;&amp;#4853;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4637;&amp;#4853;&amp;#4741;&amp;#4652;&amp;#4609;&amp;#4961; &amp;#4672;&amp;#4658;&amp;#4661;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4925;&amp;#4846;&amp;#4757;&amp;#4961; &amp;#4808;&amp;#4808;&amp;#4608;&amp;#4709;&amp;#4811;&amp;#4961; &amp;#4616;&amp;#4773;&amp;#4877;&amp;#4829;&amp;#4773;&amp;#4725;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4725;&amp;#4777;&amp;#4758;&amp;#4633;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4739;&amp;#4754;&amp;#4720;&amp;#4961; &amp;#4752;&amp;#4941;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4645;&amp;#4875;&amp;#4961; &amp;#4824;&amp;#4640;&amp;#4648;&amp;#4811;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4936;&amp;#4624;&amp;#4683;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4720;&amp;#4768;&amp;#4872;&amp;#4619;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4720;&amp;#4883;&amp;#4629;&amp;#4616;&amp;#4811;&amp;#4961; &amp;#4704;&amp;#4645;&amp;#4621;&amp;#4899;&amp;#4752;&amp;#4961; &amp;#4916;&amp;#4901;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4915;&amp;#4813;&amp;#4622;&amp;#4661;&amp;#4961; &amp;#4813;&amp;#4873;&amp;#4824;&amp;#4961; &amp;#4616;&amp;#4845;&amp;#4777;&amp;#4757;&amp;#4962;&lt;/p&gt;&#13;
 &lt;p&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4645;&amp;#4653;&amp;#4755;&amp;#4845;&amp;#4961; &amp;#4813;&amp;#4773;&amp;#4721;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4621;&amp;#4710;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4851;&amp;#4853;&amp;#4961; &amp;#4773;&amp;#4616;&amp;#4961; &amp;#4723;&amp;#4752;&amp;#4709;&amp;#4705;&amp;#4961; &amp;#4672;&amp;#4658;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4813;&amp;#4961; &amp;#4850;&amp;#4843;&amp;#4678;&amp;#4757;&amp;#4961; &amp;#4770;&amp;#4725;&amp;#4653;&amp;#4645;&amp;#4817;&amp;#4754;&amp;#4961; &amp;#4874;&amp;#4828;&amp;#4961; &amp;#4920;&amp;#4622;&amp;#4725;&amp;#4962;&lt;/p&gt;&#13;
-&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;Fol. 134rb: &amp;#4808;&amp;#4779;&amp;#4821;&amp;#4704;&amp;#4961; &amp;#4773;&amp;#4752;&amp;#4877;&amp;#4648;&amp;#4781;&amp;#4633;&amp;#4961; &amp;#4774;&amp;#4768;&amp;#4704;&amp;#4813;&amp;#4840;&amp;#4961; &amp;#4779;&amp;#4613;&amp;#4755;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4739;&amp;#4813;&amp;#4840;&amp;#4961; &amp;#4850;&amp;#4843;&amp;#4678;&amp;#4755;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4770;&amp;#4723;&amp;#4925;&amp;#4653;&amp;#4817;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4704;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4704;&amp;#4704;&amp;#4819;&amp;#4619;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4808;&amp;#4704;&amp;#4656;&amp;#4757;&amp;#4704;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4704;&amp;#4704;&amp;#4819;&amp;#4619;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4829;&amp;#4773;&amp;#4725;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4770;&amp;#4725;&amp;#4741;&amp;#4880;&amp;#4617;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4707;&amp;#4648;&amp;#4776;&amp;#4723;&amp;#4961; &amp;#4616;&amp;#4853;&amp;#4757;&amp;#4877;&amp;#4621;&amp;#4961; &amp;#4757;&amp;#4925;&amp;#4629;&amp;#4725;&amp;#4962;&lt;/div&gt;</add><det>The note is written in the main hand. It states that the Ms. was commissioned by the community of ˀAbrəqo during the tenure of qes gäbäz Tewodros and, after him, qäsis Täsfa Ṣǝyon. &#13;
+&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;Fol. 134rb: &amp;#4808;&amp;#4779;&amp;#4821;&amp;#4704;&amp;#4961; &amp;#4773;&amp;#4752;&amp;#4877;&amp;#4648;&amp;#4781;&amp;#4633;&amp;#4961; &amp;#4774;&amp;#4768;&amp;#4704;&amp;#4813;&amp;#4840;&amp;#4961; &amp;#4779;&amp;#4613;&amp;#4755;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4739;&amp;#4813;&amp;#4840;&amp;#4961; &amp;#4850;&amp;#4843;&amp;#4678;&amp;#4755;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4770;&amp;#4723;&amp;#4925;&amp;#4653;&amp;#4817;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4704;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4704;&amp;#4704;&amp;#4819;&amp;#4619;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4808;&amp;#4704;&amp;#4656;&amp;#4757;&amp;#4704;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4704;&amp;#4704;&amp;#4819;&amp;#4619;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4829;&amp;#4773;&amp;#4725;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4770;&amp;#4725;&amp;#4741;&amp;#4880;&amp;#4617;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4707;&amp;#4648;&amp;#4776;&amp;#4723;&amp;#4961; &amp;#4616;&amp;#4853;&amp;#4757;&amp;#4877;&amp;#4621;&amp;#4961; &amp;#4757;&amp;#4925;&amp;#4629;&amp;#4725;&amp;#4962;&lt;/div&gt;</add><det>The note is written in the main hand. It states that the Ms. was commissioned by the community of ʾAbrǝqo during the tenure of qes gäbäz Tewodros and, after him, qäsis Täsfa Ṣǝyon. &#13;
 The note is followed by an exhortation to read this Ms. on the feast days of God, on Sunday and on the feast days of St. Mary.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Lists of the members of the local maḥbär-association (?), in ink, pen and pencil: fols. 1r-2r.&#13;

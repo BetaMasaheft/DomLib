@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 3ra-17rb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 3ra-9vb)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 3ra-9vb)&#13;
 - Letter of Eusebius to Carpianus (fols. 9vb-10rb)&#13;
 - Canon tables (fols. 10ra-16ra)&#13;
 - On the reliability of the Gospels (fol. 17ra-17rb)&#13;
@@ -22,38 +22,38 @@
 - Biography of John (fol. 18ra-rb)&#13;
 - List of the “tituli” for the Gospel of John – 20 titles (fols. 18rb)&#13;
 II) Gospel of Matthew (fols. fol. 17rb-vb, 19ra-71vb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 19ra-71vb) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 19ra-71vb) &#13;
 - Postscript (fols. 71vb)&#13;
 III) Gospel of Mark (fols. 72ra-106rb)&#13;
 - Biography of Mark (fol. 72ra-72rb)&#13;
 - List of the “tituli” for the Gospel of Mark – 48 titles (fols. 72va-73ra)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 74ra-105vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 74ra-105vb)&#13;
 - Postscript (fols. 105vb-106ra)&#13;
 - Extended opening formula (of biography of Luke?) (fols. 106ra-106rb)&#13;
 IV) Gospel of Luke (fols. 106va-160vb)&#13;
 - Biography of Luke (fol. 106va-106vb)&#13;
 - List of the “tituli” for the Gospel of Luke – 83 titles (fols. 107ra-108ra)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 109ra-160vb&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 109ra-160vb&#13;
 V) Gospel of John (fols. 18r, 161ra-217vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 161ra-217vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 161ra-217vb)&#13;
 - Postscript (fol. 217ra-217vb)&#13;
 &#13;
 Additio: 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor, ˀAˀzanä Krəstos,has been erased from the headings of the Gospels, fully or partly, but has been preserved on fol. 106ra. On fol. 19r "his assistant" (rädəˀu) is mentioned, the first part of the name being Wäldä. &#13;
-Additio 1 mentions ras Səbḥat (Səbḥat ˀArägawi, 1844-1914), a governor of ˁAgamä, whose baptismal name is Kidanä Maryam, as the donor; besides, it mentions his mother Wälättä Səllase, his wife Wälättä Maryam and his sons Gäbrä Ḥəywät, Wäldä Gäbrəˀel, ˀArˀaya Śəllase.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor, ʾAʾzanä Krǝstos,has been erased from the headings of the Gospels, fully or partly, but has been preserved on fol. 106ra. On fol. 19r "his assistant" (rädǝʾu) is mentioned, the first part of the name being Wäldä. &#13;
+Additio 1 mentions ras Sǝbḥat (Sǝbḥat ʾArägawi, 1844-1914), a governor of ʿAgamä, whose baptismal name is Kidanä Maryam, as the donor; besides, it mentions his mother Wälättä Sǝllase, his wife Wälättä Maryam and his sons Gäbrä Ḥǝywät, Wäldä Gäbrǝʾel, ʾArʾaya Śǝllase.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Səbḥat ˀArägawi received the title of ras from ras Mängäša Yoḥannəs in 1892. See EAE IV, 587-589.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Sǝbḥat ʾArägawi received the title of ras from ras Mängäša Yoḥannǝs in 1892. See EAE IV, 587-589.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -122,7 +122,7 @@ The ruling pattern is different for the Canon tables and the Introduction texts.
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Smaller script is used for the prefatory texts.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; chapter numbers and the word məˁəraf; elements of the punctuation signs and numbers; on the incipit page of each Gospel, a few lines are rubricated (alternating with black lines); letters ወ and ደ in the word ወልደ, in the genealogy of Christ (fols. 116v-117r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; chapter numbers and the word mǝʿǝraf; elements of the punctuation signs and numbers; on the incipit page of each Gospel, a few lines are rubricated (alternating with black lines); letters ወ and ደ in the word ወልደ, in the genealogy of Christ (fols. 116v-117r).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -132,10 +132,10 @@ This Four Gospel book is of ras S&amp;#601;b&amp;#7717;at who bought it with his
 &lt;/span&gt;&lt;/p&gt;&#13;
 &lt;p&gt;&lt;/p&gt;</tran></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Stamp of ras Səbḥat ˀArägawi: fols. 2r, 4r, 19r, 73v, 109r, 161r. &#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Stamp of ras Sǝbḥat ʾArägawi: fols. 2r, 4r, 19r, 73v, 109r, 161r. &#13;
 - Decorated title of the Gospel is inserted in the center of the upper margin of the incipit page (esp. elaborate for the Gospel of Matthew, fol. 19r), fols. 19v-20r (repeated), 74r, 109r (added in a secondary hand).&#13;
 - Two erased notes on fol. 2r.&#13;
-- Names of some individuals are written on fol. 2: qes gäbäz Bəsratä Maryam, ˀƎqubä Yoḥannəs, Gäbrä Yoḥannəs.</extra>
+- Names of some individuals are written on fol. 2: qes gäbäz Bǝsratä Maryam, ʾƎqubä Yoḥannǝs, Gäbrä Yoḥannǝs.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>

@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers (fols. 2ra, l.1 – 6vb, l.2)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 6vb, l.3 – 20ra, l.9)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 6vb, l.3 – 20ra, l.9)&#13;
 III) Anaphoras (fols. 23ra – 91ra)&#13;
 III-1) Anaphora of the Apostles (fols. 23ra, l.10 – 30rb, l.1)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 30rb, l.2 – 34vb, l.1)&#13;
@@ -23,7 +23,7 @@ III-5) Anaphora of St. John Chrysostom (fols. 52ra, l.1 – 59va, l.6)&#13;
 III-6) Anaphora of the 318 Orthodox Fathers of Nicaea (fols. 59va, l.7 – 70rb, l.4)&#13;
 III-7) Anaphora of St. Jacob of Serug (fols. 70rb, l.4 – 78rb, l.6)&#13;
 III-8) Anaphora of St. Athanasius (fols. 78rb, l.7 – 91ra, l.9)&#13;
-IV) Various supplications (mästäbqwǝˁ), usually included in Daily Office Prayers (fols. 91ra, l.15 – 95rb, l.6)&#13;
+IV) Various supplications (mästäbqwǝʿ), usually included in Daily Office Prayers (fols. 91ra, l.15 – 95rb, l.6)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -35,17 +35,17 @@ Additio 1.</shortcontent>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Muse</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀAbunä Wäldä Muse (s. Additio 1).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾAbunä Wäldä Muse (s. Additio 1).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mentioned in the supplication formulas: Yǝtbaräk ˀAb and his wife ˀAmätä Mikaˀel (fols. 23ra, 34vb, 47vb, etc.), Gäbrä Ṣadǝq (fols. 30rb, 52ra, etc.).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mentioned in the supplication formulas: Yǝtbaräk ʾAb and his wife ʾAmätä Mikaʾel (fols. 23ra, 34vb, 47vb, etc.), Gäbrä Ṣadǝq (fols. 30rb, 52ra, etc.).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Additio 1, the Ms. belonged to (the church of)ˀAbaˁko Maryam (not identical to Mәdrä Ruba?)</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Additio 1, the Ms. belonged to (the church of)ʾAbaʿko Maryam (not identical to Mәdrä Ruba?)</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1869</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1870</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">On fol. 95ra, ll.7-10 and elsewhere Dimäṭros (Demetrius II, 1862-1870) is mentioned as the Patriarch of the Coptic Church and ˀAtnatewos (in tenure 1869-76) as the Metropolitan of Ethiopia.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">On fol. 95ra, ll.7-10 and elsewhere Dimäṭros (Demetrius II, 1862-1870) is mentioned as the Patriarch of the Coptic Church and ʾAtnatewos (in tenure 1869-76) as the Metropolitan of Ethiopia.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

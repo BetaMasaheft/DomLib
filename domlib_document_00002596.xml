@@ -12,7 +12,7 @@
 </wsystems>
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 121ra-128vb; 1ra-5ra), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 121ra-128vb; 1ra-5ra), incomplete&#13;
 II) Anaphoras (fols. 5ra-118vb)&#13;
 II-1) Anaphora of the Apostles (fols. 5ra-18va)&#13;
 II-2) Anaphora of Our Lord Jesus Christ (fols. 19va-23va), preceded by an excerpt from (fols. 18va-19va)&#13;
@@ -28,9 +28,9 @@ II-11) Anaphora of St. Gregory (“Hosanna-liturgy of St. Gregory”) (fols. 111
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest Naryus is mentioned in supplication formulas on fols. 23vb, 48va, 57va-vb, 84rb.</donor>
 </donors>

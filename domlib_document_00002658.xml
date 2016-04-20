@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśǝˀt, Antiphonary for feasts and funeral service</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśǝʾt, Antiphonary for feasts and funeral service</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Zǝmmare, Eucharistic hymns (fols. 2ra-66vc)&#13;
-II) Mäwaśǝˀt, Antiphonary for feasts and funeral service (fols. 67ra-110vb).</shortcontent>
+II) Mäwaśǝʾt, Antiphonary for feasts and funeral service (fols. 67ra-110vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -84,9 +84,9 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I and II, alternating with black lines; elements of musical notation signs; elements of Ethiopic numerals; elements of punctuation signs and text dividers.&#13;
 Text I:&#13;
-Names of sections (zəmmare) followed by feast or day names and occasionally preceded by the date; names of subsections and their abbreviations (e.g., mänfäs, ṣəwwaˁ).&#13;
+Names of sections (zǝmmare) followed by feast or day names and occasionally preceded by the date; names of subsections and their abbreviations (e.g., mänfäs, ṣǝwwaʿ).&#13;
 Text II:&#13;
-Names of antiphons (mäwaśǝˀt) followed by feast or day names; names of sections of antiphons and their abbreviations (e.g., məlṭan, ˁadi); names of the categories of melody and their abbreviations (e.g., ˁəzl, ˀararay).</rubrication>
+Names of antiphons (mäwaśǝʾt) followed by feast or day names; names of sections of antiphons and their abbreviations (e.g., mǝlṭan, ʿadi); names of the categories of melody and their abbreviations (e.g., ʿǝzl, ʾararay).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Some of the abbreviations used throughout the text:&#13;
 ም፡/ምል፡/ምልጣ፡ for ምልጣን፡ (e.g., fols. 87vc, 98vb)&#13;

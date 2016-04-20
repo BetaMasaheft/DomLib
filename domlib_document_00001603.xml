@@ -16,23 +16,23 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter” (fols. 2r-153v) &#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 2r-117v) &#13;
-I-2) Mäḥaləyä näbiyat “The Canticles of the Prophets” (fols. 118r-129v) &#13;
-I-3) Mäḥaləyä mäḥaləy “Song of Songs” (fols. 129v-136r) &#13;
-I-4) Wəddase Maryam “Praise of Mary” (fols. 138ra-148rb)&#13;
-I-5) ˀAnqäṣä bǝrhan “The Gate of Light” (fols. 148rb-153ra) &#13;
+I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 118r-129v) &#13;
+I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 129v-136r) &#13;
+I-4) Wǝddase Maryam “Praise of Mary” (fols. 138ra-148rb)&#13;
+I-5) ʾAnqäṣä bǝrhan “The Gate of Light” (fols. 148rb-153ra) &#13;
 &#13;
 Additiones 1-6.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the original donor/owner and his family members have been erased from Additio 3.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 5 mentions ˀabeto Yəḥdägo as the owner.&#13;
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 5 mentions ʾabeto Yǝḥdägo as the owner.&#13;
 Additio 1 mentions the “cenobitic community” as the owner.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -143,7 +143,7 @@ Text I-5&#13;
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;Fol. 1v: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 1v:&lt;/span&gt; &lt;span style="font-size: large"&gt;&amp;#4829;&amp;#4632;&amp;#4930;&amp;#4611;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4635;&amp;#4613;&amp;#4704;&amp;#4653;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4853;&amp;#4752;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</add><det>The note mentions the “cenobitic community” as the owner. Below this note, another note mentions the scribe Ḍägga lä-ˀƎgziˀab(he)r (?).</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;Fol. 1v: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 1v:&lt;/span&gt; &lt;span style="font-size: large"&gt;&amp;#4829;&amp;#4632;&amp;#4930;&amp;#4611;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4635;&amp;#4613;&amp;#4704;&amp;#4653;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4853;&amp;#4752;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</add><det>The note mentions the “cenobitic community” as the owner. Below this note, another note mentions the scribe Ḍägga lä-ʾƎgziʾab(he)r (?).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;&lt;span style="line-height: 115%"&gt;Fol. 115v (above): Excerpt from a prayer to St. Mary.&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%" unicode=""&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><det>The text is partially rhymed.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 115v (below): A&amp;#160;common prayer after the reading of Psalms of David.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is crudely written, in the same hand as Additio 4.</det></additional>

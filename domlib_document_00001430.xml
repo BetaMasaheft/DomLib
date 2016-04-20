@@ -13,8 +13,8 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Liturgical miscellanea</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Liturgical miscellanea&#13;
-I-1) Excerpts from Säˁatat zä-lelit “Horologium for the Night Hours” (fols. 5r-12v)&#13;
-I-2) Excerpt from Mäṣḥafä ˀaslәṭi, Lectionary for the entire year (fols. 12v-22v)&#13;
+I-1) Excerpts from Säʿatat zä-lelit “Horologium for the Night Hours” (fols. 5r-12v)&#13;
+I-2) Excerpt from Mäṣḥafä ʾaslәṭi, Lectionary for the entire year (fols. 12v-22v)&#13;
 I-3) Excerpts from Mäṣḥafä qәddase “Missal” (fols. 22r-47r)&#13;
 - Fәtḥat zä-wäld “Absolution of the Son” (fols. 22r-24v)&#13;
 &#13;
@@ -26,11 +26,11 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000053" xlink:title="Säbäya Maryam /SM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä ˀArägawi</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä ʾArägawi</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀabunä Wäldä ˀArägawi is mentioned as the scribe in Additio 1.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾabunä Wäldä ʾArägawi is mentioned as the scribe in Additio 1.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Gärima, Wälättä ˀƎgziˀ and Wälättä Tәnsaˀe (s. supplication formulas on fols. 7v, 9r, 42v).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Gärima, Wälättä ʾƎgziʾ and Wälättä Tәnsaʾe (s. supplication formulas on fols. 7v, 9r, 42v).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1956</fdating>
 </fdatings>
@@ -129,9 +129,9 @@ The bottom line is written above the ruling.</ruling>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 47r l. 11-13: Scribe&amp;#180;s note on completing the work.&lt;/p&gt;</cont><det>Rubricated, written in the same hand as the main text. The note mentions ˀabunä Wäldä ˀArägawi, which is most probably the scribe.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 47r l. 11-13: Scribe&amp;#180;s note on completing the work.&lt;/p&gt;</cont><det>Rubricated, written in the same hand as the main text. The note mentions ʾabunä Wäldä ʾArägawi, which is most probably the scribe.</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Titles ˀAslәṭi and Säˁatat are written on the front and back boards.</extra>
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Titles ʾAslәṭi and Säʿatat are written on the front and back boards.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>
@@ -142,10 +142,10 @@ The bottom line is written above the ruling.</ruling>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Decorated notes, written in the upper margin in the main hand, indicate assigned readings for Text I:&#13;
-zä-ˁәhud: fol. 12v&#13;
-zä-mälaˁәkt: fol. 15v&#13;
+zä-ʿәhud: fol. 12v&#13;
+zä-mälaʿәkt: fol. 15v&#13;
 zä-ṣadәqan: fol. 18r&#13;
-zä-sämaˁtat: fol. 19v.</txfindingaid>
+zä-sämaʿtat: fol. 19v.</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 5r: Crude coloured (black, red) band.</frame>
 </frames>

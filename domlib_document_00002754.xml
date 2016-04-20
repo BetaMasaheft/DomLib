@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Qirqos “Vita of Cyricus” / Täˀamrä Qirqos “Miracles of Cyricus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Qirqos “Vita of Cyricus” / Täʾamrä Qirqos “Miracles of Cyricus”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Qirqos “Vita of Cyricus” (fols. 3ra-98vb) &#13;
-II) Täˀamrä Qirqos “Miracles of Cyricus” (fols. 99ra-130rb): 33 miracles.</shortcontent>
+II) Täʾamrä Qirqos “Miracles of Cyricus” (fols. 99ra-130rb): 33 miracles.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many names are mentioned in the supplication formulas ("her servants" and "her maids"), e.g. Gäbrä ˀƎgziˀabǝḥer, Wäldä Gäbrǝˀel and Wälattä Yoḥannǝs, Wälättä ˀIyäsus (fol. 23ra); Wäldä Gäbrǝˀel, Gäbrä Śǝllase with Wälättä Ḥǝwät, Wälättä Gärima (fol. 34rb);  Gäbrä Ḥawarya (fol. 34va, 45ra) and Wälättä ˀƎgziˀ (fol. 45ra); Wälättä Mikaˀel and Täklä Mikaˀel (fol. 37va, 94ra); Wäldä Libanos and  Wälattä ˀIyäsus (fol. 76va, 130rb); Wälättä Täklä Haymanot, Ḫaylä Maryam and Gäbrä Mikaˀel (fol. 130r).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many names are mentioned in the supplication formulas ("her servants" and "her maids"), e.g. Gäbrä ʾƎgziʾabǝḥer, Wäldä Gäbrǝʾel and Wälattä Yoḥannǝs, Wälättä ʾIyäsus (fol. 23ra); Wäldä Gäbrǝʾel, Gäbrä Śǝllase with Wälättä Ḥǝwät, Wälättä Gärima (fol. 34rb);  Gäbrä Ḥawarya (fol. 34va, 45ra) and Wälättä ʾƎgziʾ (fol. 45ra); Wälättä Mikaʾel and Täklä Mikaʾel (fol. 37va, 94ra); Wäldä Libanos and  Wälattä ʾIyäsus (fol. 76va, 130rb); Wälättä Täklä Haymanot, Ḫaylä Maryam and Gäbrä Mikaʾel (fol. 130r).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -92,7 +92,7 @@ Two bottom ruled lines have not been used by the scribe on fols. 20rv and 25rv.<
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists (Qirqos and ˀIyäluṭa); names of the donors; a group of lines alternating with black lines in the incipit page of Texts I and II; the initial lines of each section (for the monthly readings) and subsection in Text I; the initial lines of each miracle in Text II; &#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists (Qirqos and ʾIyäluṭa); names of the donors; a group of lines alternating with black lines in the incipit page of Texts I and II; the initial lines of each section (for the monthly readings) and subsection in Text I; the initial lines of each miracle in Text II; &#13;
 some corrections interlineally; elements of Ethiopian numerals and of punctuation signs.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ለዓለ/ለዓ፡ ዓለ፡ አሜን፡ (e.g., fols. 12va, 68ra, 103ra).</abbreviation>

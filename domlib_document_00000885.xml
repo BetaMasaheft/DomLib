@@ -8,7 +8,7 @@
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
 <language inherited="0" classid="domlib_class_00000001" categid="Lan01"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəñña"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝñña"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
@@ -16,10 +16,10 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter”&#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 3r-116v) &#13;
-I-2) Mäḥaləyä näbiyat “The Canticles of the Prophets” (fols. 116v-129v) &#13;
-I-3) Mäḥaləyä mäḥaləy “Song of Songs” (fols. 129v-136r) &#13;
-I-4) Wəddase Maryam “Praise of Mary” (fols. 136v-146r) &#13;
-I-5) ˀAnqäṣä bǝrhan “The Gate of Light” (fols. 147v-150v)&#13;
+I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 116v-129v) &#13;
+I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 129v-136r) &#13;
+I-4) Wǝddase Maryam “Praise of Mary” (fols. 136v-146r) &#13;
+I-5) ʾAnqäṣä bǝrhan “The Gate of Light” (fols. 147v-150v)&#13;
 &#13;
 Additiones 1-9.</shortcontent>
 </shortcontents>
@@ -149,7 +149,7 @@ The bottom line is written above the ruling.</ruling>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 1v: Unidentified protective text, probably a protextive prayer against calumny.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 1v: &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4773;&amp;#4933;&amp;#4653;&amp;#4961; &amp;#4616;&amp;#4821;&amp;#4853;&amp;#4961; &amp;#4704;&amp;#4773;&amp;#4853;&amp;#4961; &amp;#4875;&amp;#4845;&amp;#4757;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4638;&amp;#4757;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4941;&amp;#4616;&lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>Some parts of the text are blurred and hardly readable.&#13;
 Written crudely in angular script, in the same hand as Additiones 2 and 5.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal"&gt;&lt;span style="font-size: 10pt"&gt;Fol. 1v: Unidentified text.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 1v: &amp;lt;...&amp;gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4616;&amp;#4632;&amp;#4726;&amp;#4961; &amp;#4808;&amp;#4624;&amp;#4632;&amp;#4632;&amp;#4726;&amp;#4961; &amp;#4773;&amp;#4808;&amp;#4845;&amp;#4661;: ...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>In Gəˁəz and Amharic with numerous abbreviations. Written in the same hand as Additiones 1 and 5.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal"&gt;&lt;span style="font-size: 10pt"&gt;Fol. 1v: Unidentified text.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 1v: &amp;lt;...&amp;gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4616;&amp;#4632;&amp;#4726;&amp;#4961; &amp;#4808;&amp;#4624;&amp;#4632;&amp;#4632;&amp;#4726;&amp;#4961; &amp;#4773;&amp;#4808;&amp;#4845;&amp;#4661;: ...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>In Gǝʿǝz and Amharic with numerous abbreviations. Written in the same hand as Additiones 1 and 5.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 2rab: Excerpt from&amp;#160;Lk 1:26-38.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a fine hand.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 2rb: &lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Litany to St. Mary.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a fine hand.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal"&gt;&lt;span style="font-size: 10pt"&gt;Fol. 2v: Protective text with an &lt;/span&gt;&lt;span style="font-size: 10pt"&gt;&amp;#704;&lt;/span&gt;&lt;span style="font-size: 10pt"&gt;asmat-prayer.&lt;/span&gt;&lt;/div&gt;</cont><det>Written crudely in angular script, in the same hand as Additiones 1 and 2.</det></additional>
@@ -167,12 +167,12 @@ Written in violet ink.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of the Ms., ዳዊት, is written on the cover and on fol. 1r, at the bottom. &#13;
 - The title of the Ms., መዝሙር, is written on the inner face of the front board.&#13;
-- Some verses of Psalms and Canticles of the Prophets have commentaries, in Gәˁәz and Amharic, written on the right and left side or interlineally, e.g., fols. 6r, 7r, 11r, 121v. &#13;
-- In Psalm 118, at the beginning of each strophe, there is a Gәˁәz commentary to the Hebrew letter.&#13;
+- Some verses of Psalms and Canticles of the Prophets have commentaries, in Gәʿәz and Amharic, written on the right and left side or interlineally, e.g., fols. 6r, 7r, 11r, 121v. &#13;
+- In Psalm 118, at the beginning of each strophe, there is a Gәʿәz commentary to the Hebrew letter.&#13;
 - All commentaries are written by trained hand in small letters. &#13;
 - There is a line of alternating red and black dots made (most often very crudely) after almost every group of 10 psalms, e.g., fols. 9r, 46r. &#13;
 - The ultimate line of many Psalms is followed by a chain of black and red nine-dot-asterisks connected with 4-5 black and red parallel lines, e.g., fols. 46r, 65v, 78r, 89v, 93v, 101r. &#13;
-- Poorly written, partly unreadable recent note in Təgrəñña, in pen: fol. 10r&#13;
+- Poorly written, partly unreadable recent note in Tǝgrǝñña, in pen: fol. 10r&#13;
 - Missing verses completed by a different hand: fols. 28v, 29v, 53r, 56r, 91r&#13;
 - Supplication notes: fols. 116v, 129v&#13;
 - Tämälläs-sign (+) indicating the place in the main text where the omission (written in the upper margin) belongs: fol. 151vb l.13: &#13;

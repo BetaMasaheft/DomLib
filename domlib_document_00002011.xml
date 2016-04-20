@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 5ra-21va)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 21va-47va)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 21va-47va)&#13;
 III) Anaphoras (fols. 47va-126rb)&#13;
 III-1) Anaphora of the Apostles (fols. 47va-57rb)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 57rb-60va)&#13;
@@ -42,7 +42,7 @@ Colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe Gäbrä Giyorgis is mentioned in the colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The colophon mentions ˀato Täfäri Gäbray, whose baptismal name was Gäbrä Śǝllase, as the commissioner (the colophon also mentions names of several other persons, some of them also appear in supplication formulas, in the main text).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The colophon mentions ʾato Täfäri Gäbray, whose baptismal name was Gäbrä Śǝllase, as the commissioner (the colophon also mentions names of several other persons, some of them also appear in supplication formulas, in the main text).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1946</fdating>
 </fdatings>
@@ -132,7 +132,7 @@ The incipit parts of some of the texts are written alternately in red and black 
 እግ፡ ተሠ፡ for እግዚኦ፡ ተሣሀለነ፡&#13;
 ሰላ፡ ለኵ፡ for ሰላም፡ ለኵልክሙ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The hymn Śärawitä mälaˀǝktihu lä-mädḫane ˁaläm „Hosts of the angels of the Saviour of the world“ is usually written in compressed script (s. fols. 60ra, 68rab, 74va, etc.).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The hymn Śärawitä mälaʾǝktihu lä-mädḫane ʿaläm „Hosts of the angels of the Saviour of the world“ is usually written in compressed script (s. fols. 60ra, 68rab, 74va, etc.).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

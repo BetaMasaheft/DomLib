@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ˀardəˀət “Book of the Disciples” / Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾardǝʾǝt “Book of the Disciples” / Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ˀardəˀət “Book of the Disciples” (fols. 1-48r)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾardǝʾǝt “Book of the Disciples” (fols. 1-48r)&#13;
 II) Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours” (fols. 50ra-58vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub11"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">ˀAmməḫa Giyorgis is mentioned in the supplication formulas in Text I (fols. 4v, 5r, 9v, 10v, 13v, 17r, 18r).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">ʾAmmǝḫa Giyorgis is mentioned in the supplication formulas in Text I (fols. 4v, 5r, 9v, 10v, 13v, 17r, 18r).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>

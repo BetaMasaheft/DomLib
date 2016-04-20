@@ -10,17 +10,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus "Miracles of Jesus"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus "Miracles of Jesus"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus "Miracles of Jesus": 7 miracles (fols. 1r-16v)&#13;
-- A short (qəne?) poem about the second coming of Jesus (አመ፡ ትመጽእ፡ ለኰንኖ፡ ምስለ፡ ደመ፡ ገቦ፡ ወአዕጋር...).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus "Miracles of Jesus": 7 miracles (fols. 1r-16v)&#13;
+- A short (qǝne?) poem about the second coming of Jesus (አመ፡ ትመጽእ፡ ለኰንኖ፡ ምስለ፡ ደመ፡ ገቦ፡ ወአዕጋር...).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ˀAgärhǝse ˀAbunä Mamas / AQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ʾAgärhǝse ʾAbunä Mamas / AQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ˀAgärhǝse ˀAbunä Mamas / AQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ʾAgärhǝse ʾAbunä Mamas / AQM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gälawdewos is mentioned in the supplication formulas throughout the Ms.</donor>
 </donors>
@@ -96,7 +96,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Rather fine</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the word ˀǝgziˀ "Lord"; name of the donor; incipit of sections and subsections of Text I and incipit of Text II; elements of the punctuation signs and text dividers; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the word ʾǝgziʾ "Lord"; name of the donor; incipit of sections and subsections of Text I and incipit of Text II; elements of the punctuation signs and text dividers; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

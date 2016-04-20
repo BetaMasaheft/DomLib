@@ -12,20 +12,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zena ˀAyhud “History of the Jews” / Apostolic Epistles / Tərgwame ˀAbräksis, Сommentary on the Acts of the Apostles / Homily by John Chrysostom on the Lord's Prayer / Ḥasabä säˁatat, Computus</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zena ʾAyhud “History of the Jews” / Apostolic Epistles / Tǝrgwame ʾAbräksis, Сommentary on the Acts of the Apostles / Homily by John Chrysostom on the Lord's Prayer / Ḥasabä säʿatat, Computus</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Zena ˀAyhud “History of the Jews” (fols. 5ra-158vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Zena ʾAyhud “History of the Jews” (fols. 5ra-158vb)&#13;
 II) Apostolic Epistles (fols. 161ra-168rb)&#13;
-II-1) Mälˀǝktä Ṗeṭros qädamawi “First Epistle of Peter” [1 Peter] (fols. 161ra-163rb) &#13;
-II-2)  Mälˀǝktä Ṗeṭros dagǝmawi “Second Epistle of Peter” [2 Peter] (fols. 163rb-164rb) &#13;
-II-3)  Mälˀǝktä Yoḥannǝs qädamawi “First Epistle of John” [1 John] (fols. 164rb-166ra) &#13;
-II-4)  Mälˀǝktä Yoḥannǝs dagǝmawi “Second Epistle of John” [2 John] (fols. 166ra-rb) &#13;
-II-5)  Mälˀǝktä Yoḥannǝs śalǝsawi “Third Epistle of John” [3 John] (fol. 166rb) &#13;
-II-6 ) Mälˀǝktä Yaˁqob “Epistle of Jacob” [Jas.] (fols. 166rb-167vb)&#13;
-II-7)  Mälˀǝktä Yǝhuda “Epistle of Judah” [Jude]  (fols. 167vb-168rb)&#13;
-III) Tərgwame ˀAbräksis, Commentary on the Acts of the Apostles (fols. 168rb-vb), unidentified&#13;
+II-1) Mälʾǝktä Ṗeṭros qädamawi “First Epistle of Peter” [1 Peter] (fols. 161ra-163rb) &#13;
+II-2)  Mälʾǝktä Ṗeṭros dagǝmawi “Second Epistle of Peter” [2 Peter] (fols. 163rb-164rb) &#13;
+II-3)  Mälʾǝktä Yoḥannǝs qädamawi “First Epistle of John” [1 John] (fols. 164rb-166ra) &#13;
+II-4)  Mälʾǝktä Yoḥannǝs dagǝmawi “Second Epistle of John” [2 John] (fols. 166ra-rb) &#13;
+II-5)  Mälʾǝktä Yoḥannǝs śalǝsawi “Third Epistle of John” [3 John] (fol. 166rb) &#13;
+II-6 ) Mälʾǝktä Yaʿqob “Epistle of Jacob” [Jas.] (fols. 166rb-167vb)&#13;
+II-7)  Mälʾǝktä Yǝhuda “Epistle of Judah” [Jude]  (fols. 167vb-168rb)&#13;
+III) Tǝrgwame ʾAbräksis, Commentary on the Acts of the Apostles (fols. 168rb-vb), unidentified&#13;
 IV) Homily by John Chrysostom on the Lord's Prayer (fols. 168vb-172rb) (cp. Ms. BN éth. 157, no. 3, ZotBNat 257-58)&#13;
-V) Ḥasabä säˁatat, Computus (fols. 172rb-173rb)&#13;
+V) Ḥasabä säʿatat, Computus (fols. 172rb-173rb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -33,9 +33,9 @@ Additio 1.</shortcontent>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -121,7 +121,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The work contains an embedded colophon (copied together with the text) on fol. 158rb-vb.&#13;
 [fol. 158rb] ተፈጸመ፡ መጽሐፈ፡ ዮሴፍ፡ ወልደ፡ ከርዮን፡ ካህን፡ ዘያየድዕ፡ ዜና፡ አይሁድ፡ ውስተ፡ ቤት፡ ዳግማዊ። ወዝክረ፡ ነገሥቶሙ፡ ወነገር፡ ዘኮነ፡ በመዋዕሊሆሙ፡ እም፡ አመ፡ ሕንጸተ፡ ቤት፡ ዳግማዊ፡ ወግአቶሙ፡ ኀቤሁ፡ እስከ፡ ተነሥተ፡ ወተፄወው፡ እምኔሁ። ስብሐት፡ ወአኰቴት። ዝማሬ፡ ወዕበይ፡ [fol. 158v] ስጊድ፡ ወክብር። ግናይ፡ ወውዳሴ፡ ክብር: ለእግዚአብሔር፡ ክቡር፡ ወልዑል። እስከ፡ ለዓለመ፡ ዓለም። ወለትውልደ፡ ትውልድ፡ ዘኢየሐልቅ፡ አሜን። ወአሜን፡ለይኩን፡ ለይኩ[sic]&#13;
--	Other mss. containing Zena ˀAyhud “History of the Jews” are, e.g.:&#13;
+-	Other mss. containing Zena ʾAyhud “History of the Jews” are, e.g.:&#13;
 EMML No. 4773 (16th/17th cent.), fols. 1a-108b (EMML X, 306)&#13;
 Orient. 822 (17th cent.) (WrBriMus no. 378, 288-289)&#13;
 Orient. 825 (18th cent.) (WrBriMus no. 379, 289)&#13;

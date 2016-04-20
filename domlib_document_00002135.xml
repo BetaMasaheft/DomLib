@@ -10,37 +10,37 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Collection of sälam-hymns and səbḥat-praises</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Collection of sälam-hymns and sǝbḥat-praises</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Collection of sälam-hymns (fols. 3r-24r), possibly an excerpt from the Horologium&#13;
 I-1) Sälam-hymn for Mary (fols. 3r-3v) (ChRep 196, no. 91)&#13;
-I-2) Səbḥat-praise for Jesus (fols. 3v-4v)&#13;
-I-3) Səbḥat-praise for the Trinity (fols. 4v-5v)&#13;
+I-2) Sǝbḥat-praise for Jesus (fols. 3v-4v)&#13;
+I-3) Sǝbḥat-praise for the Trinity (fols. 4v-5v)&#13;
 I-4) Sälam-hymn for Mary (fols. 5v-6r)&#13;
-I-5) Səbḥat-praise for Jesus (fols. 6r-7r)&#13;
-I-6) Səbḥat-praise for the Trinity (fols. 7r-8r)&#13;
+I-5) Sǝbḥat-praise for Jesus (fols. 6r-7r)&#13;
+I-6) Sǝbḥat-praise for the Trinity (fols. 7r-8r)&#13;
 I-7) Sälam-hymn for Mary (fols. 8r-9r)&#13;
-I-8) Səbḥat-praise for Jesus (fols. 9r-10r)&#13;
-I-9) Səbḥat-praise for the Trinity (fols. 10r-11r)&#13;
+I-8) Sǝbḥat-praise for Jesus (fols. 9r-10r)&#13;
+I-9) Sǝbḥat-praise for the Trinity (fols. 10r-11r)&#13;
 I-10) Sälam-hymn for Mary (fols. 11r-12r)&#13;
-I-11) Səbḥat-praise for Jesus (fols. 12r-13v)&#13;
-I-12) Səbḥat-praise for the Trinity (fols. 13v-14r)&#13;
+I-11) Sǝbḥat-praise for Jesus (fols. 12r-13v)&#13;
+I-12) Sǝbḥat-praise for the Trinity (fols. 13v-14r)&#13;
 I-13) Sälam-hymn for Mary (fols. 14r-15r)&#13;
-I-14) Səbḥat-praise for Jesus (fols. 15r-16r)&#13;
-I-15) Səbḥat-praise for the Trinity (fols. 16r-17r)&#13;
+I-14) Sǝbḥat-praise for Jesus (fols. 15r-16r)&#13;
+I-15) Sǝbḥat-praise for the Trinity (fols. 16r-17r)&#13;
 I-16) Sälam-hymn for Mary (fols. 17r-18v) (ChRep 196, no. 92)&#13;
-I-17) Səbḥat-praise for Jesus (fols. 18v-19v)&#13;
-I-18) Səbḥat-praise for the Trinity (fols. 19v-20v)&#13;
+I-17) Sǝbḥat-praise for Jesus (fols. 18v-19v)&#13;
+I-18) Sǝbḥat-praise for the Trinity (fols. 19v-20v)&#13;
 I-19) Sälam-hymn for Mary (fols. 20v-22v)&#13;
-I-20) Səbḥat-praise for Jesus (fols. 22v-23v)&#13;
-I-21) Səbḥat-praise for the Trinity (fols. 23v-24r)&#13;
-I-22) Səbḥat-praise for God (fol. 24r)</shortcontent>
+I-20) Sǝbḥat-praise for Jesus (fols. 22v-23v)&#13;
+I-21) Sǝbḥat-praise for the Trinity (fols. 23v-24r)&#13;
+I-22) Sǝbḥat-praise for God (fol. 24r)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaˀel  / QMB"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaʾel  / QMB"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaˀel  / QMB"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaʾel  / QMB"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

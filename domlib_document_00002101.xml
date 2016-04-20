@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ˀAbrəham “Book of Abraham” / Täˀamrä Śəllase “Miracles of the Trinity”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾAbrǝham “Book of Abraham” / Täʾamrä Śǝllase “Miracles of the Trinity”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ˀAbrəham “Book of Abraham” (fols. 3r-28vb), incomplete, inidentified&#13;
-II) Täˀamrä Śəllase “Miracles of the Trinity”: 7 miracles (fols. 29ra-45vb), incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾAbrǝham “Book of Abraham” (fols. 3r-28vb), incomplete, inidentified&#13;
+II) Täʾamrä Śǝllase “Miracles of the Trinity”: 7 miracles (fols. 29ra-45vb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäˁar Qәddәst Maryam / MQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäʿar Qәddәst Maryam / MQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäˁar Qәddәst Maryam / MQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäʿar Qәddәst Maryam / MQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the original donors have been erased on fols. 3ra, 5vb, 18vb, 21rb. ˀAbunä Wäldä Rufaˀel is mentioned in the supplication formula on fol. 40vb.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the original donors have been erased on fols. 3ra, 5vb, 18vb, 21rb. ʾAbunä Wäldä Rufaʾel is mentioned in the supplication formula on fol. 40vb.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. is owned by the church of Gäbrä Mänfäs Qəddus ˁOna Maˁḍo.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. is owned by the church of Gäbrä Mänfäs Qǝddus ʿOna Maʿḍo.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -104,7 +104,7 @@ The upper line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of Text I is written in Gəˁəz and English in red and blue pen: fol. 2r and 2v, መፅሓፈ፡ አብርሃም , and fol. 2r "Book of Abriham(sic)"&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of Text I is written in Gǝʿǝz and English in red and blue pen: fol. 2r and 2v, መፅሓፈ፡ አብርሃም , and fol. 2r "Book of Abriham(sic)"&#13;
 - Lacunas: fols. 10ra, 15va, 18va, 25va.&#13;
 - Scribbles in the margin: fol. 6r, 9v, 11r, 12r, 24r, 30r, 32v, 42v, 45v.</extra>
 </extras>

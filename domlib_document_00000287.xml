@@ -11,33 +11,33 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the first half of the year (fols. 4ra-188va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the first half of the year (fols. 4ra-188va)&#13;
 I-1) Mäskäräm (fols. 4ra-35vc)&#13;
-I-2) Ṭəqəmt (fols. 36ra-63vc)&#13;
-I-3) Ḫədar (fols. 64ra-92vc)&#13;
+I-2) Ṭǝqǝmt (fols. 36ra-63vc)&#13;
+I-3) Ḫǝdar (fols. 64ra-92vc)&#13;
 I-4) Taḫśaś (fols. 93ra-127vc)&#13;
-I-5) Ṭərr (fols. 128ra-162rc l.7)&#13;
+I-5) Ṭǝrr (fols. 128ra-162rc l.7)&#13;
 I-6) Yäkkatit (fols. 162ra l.8 - 188va)&#13;
-- Zä-ˀaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 188va &#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+- Zä-ʾaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 188va &#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Śəllase, ˀabunä Ṣəge Śəllase, ˀabunä  Gäbrä Śəllase are mentioned in the supplication formulas; cp. Additio 1 mentioning the same names with ecclesiastic titles.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase, ʾabunä Ṣǝge Śǝllase, ʾabunä  Gäbrä Śǝllase are mentioned in the supplication formulas; cp. Additio 1 mentioning the same names with ecclesiastic titles.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1921</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1922</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The date 1914 E.C. (= 1921/22) is mentioned in the colophon. However, the names mentioned are those of King Mənilək, Bishop Ṗeṭros, the governor (mäsfən) ras Wäldä Maryam.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The date 1914 E.C. (= 1921/22) is mentioned in the colophon. However, the names mentioned are those of King Mǝnilǝk, Bishop Ṗeṭros, the governor (mäsfǝn) ras Wäldä Maryam.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

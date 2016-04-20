@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 2ra-3vb; 4r-5v)&#13;
 - Letter of Eusebius to Carpianus (fol. 2ra-vb)&#13;
@@ -18,25 +18,25 @@
 - Canon tables (fols. 4r-5v)&#13;
 II) Gospel of Matthew (fols. 3v; 6r-44rc)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fols. 3v, 6r-v)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 7ra-44rc)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 7ra-44rc)&#13;
 III) Gospel of Mark (fols. 44v-72ra)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fols. 44v-45r)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 46ra-72ra)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 46ra-72ra)&#13;
 IV) Gospel of Luke (fols. 72v-115rc)&#13;
 - List of the “tituli” for the Gospel of Luke: 93 titles (fols. 72v-74r)&#13;
-- Bəsratä Luqas (fols. 75ra-115rb)&#13;
+- Bǝsratä Luqas (fols. 75ra-115rb)&#13;
 - Short postscript (fol. 115rc)&#13;
 V) Gospel of John (fols. 115v-145rc)&#13;
 - List of the “tituli” for the Gospel of John: 18 titles (fol. 115v)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 116ra-145rc).</shortcontent>
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 116ra-145rc).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäˁar Qәddәst Maryam / MQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäʿar Qәddәst Maryam / MQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäˁar Qәddәst Maryam / MQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000119" xlink:title="Däbrä Mäʿar Qәddәst Maryam / MQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Rətuˁ ˀAmlak (mentioned in the supplication formulas on fols. 7r, 75r, 116r); Ker ˀƎgziˀ and Gädä Maryam (mentioned in the supplication formula on fol. 46r).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Rǝtuʿ ʾAmlak (mentioned in the supplication formulas on fols. 7r, 75r, 116r); Ker ʾƎgziʾ and Gädä Maryam (mentioned in the supplication formula on fol. 46r).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -125,7 +125,7 @@ The ruling pattern is different for the Canon tables.</ruling>
 </pcoroniss>
 <pchirhosigns class="MCRMetaLangText" heritable="false" notinherit="false"><pchirhosign xml:lang="en" inherited="0" form="plain">s. fols. 23v, 25v, 27r, etc.</pchirhosign>
 </pchirhosigns>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts (occasionally in alternating red and black lines); short postscript to the Gospel of Luke; the word məˁəraf, numbers, x-shaped signs and incipits of the chapters; numbers of the “tituli”; some of the marginal notes indicating liturgical occasions on which a given section should be recited; elements of the punctuation signs; elements of the Ethiopic numerals; names of the donors; chi rho and coronis.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts (occasionally in alternating red and black lines); short postscript to the Gospel of Luke; the word mǝʿǝraf, numbers, x-shaped signs and incipits of the chapters; numbers of the “tituli”; some of the marginal notes indicating liturgical occasions on which a given section should be recited; elements of the punctuation signs; elements of the Ethiopic numerals; names of the donors; chi rho and coronis.&#13;
 On the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- X-shaped (rubricated) sign with dashes above and below stands between the number of the chapter and its incipit (not quite regular, s., e. g., fols. 31r-v; 46v-47r, etc.).&#13;

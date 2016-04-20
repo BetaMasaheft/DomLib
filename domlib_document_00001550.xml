@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following text: &#13;
-I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-128vc)&#13;
+I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-128vc)&#13;
 I-1) Introduction (fols. 3ra-4va)&#13;
 I-2) Eve of Palm Sunday (fols. 4va-6va)&#13;
 I-3) Palm Sunday (fols. 6va-11vb)&#13;
@@ -31,8 +31,8 @@ I-7) Thursday (fols. 42rc-54vb)&#13;
 - Day hours (fols. 43vc-54vb)&#13;
 I-8) Friday (fols. 54vb- 104vc)&#13;
 - Night hours (fols. 54vb-60vc) &#13;
-- Day hours (fols. 61r-104vc), including: Homily by Jaqob of Serug on Abraham (fols. 74vb-79vc); Mäṣḥafä dorho “Book of the Cock” (fols. 86vc-95ra); Mäḥaləyä mäḥaləy “Song of Songs” (fols. 103rb-104va)&#13;
-I-9) Saturday (fols. 104vc-121rb), including: Raˀəyä Yoḥannəs “Revelation of John” (fols. 107ra-115rb); Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 120rb-121ra)&#13;
+- Day hours (fols. 61r-104vc), including: Homily by Jaqob of Serug on Abraham (fols. 74vb-79vc); Mäṣḥafä dorho “Book of the Cock” (fols. 86vc-95ra); Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 103rb-104va)&#13;
+I-9) Saturday (fols. 104vc-121rb), including: Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 107ra-115rb); Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 120rb-121ra)&#13;
 I-10) Homily of Cyriacus of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 121rb-128vc)&#13;
 &#13;
 Additio 1.</shortcontent>
@@ -43,13 +43,13 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥәdo Qәddәst Maryam / KTM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˀAkälä Mäsqäl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAkälä Mäsqäl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀAkälä Mäsqäl is mentioned as the scribe in the subscription in fol. 128vc.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾAkälä Mäsqäl is mentioned as the scribe in the subscription in fol. 128vc.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel, Wälättä Śəllase, Zä-Wäldä Maryam, Wälättä Wahəd, Wäldä ˀIyäsus, Wälättä Nəgəśt are mentioned in the supplication formulas and in the subscription on fol. 128vb-vc. According to the subscription, Wälättä Nəgəśt is the owner of the book, her father is Wäldä Mikaˀel, her mother is Wälättä Śəllase, her daughter is Wälättä Wahəd and Zä-Wäldä Maryam is the one who intermediated for the acquisition of the book.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel, Wälättä Śǝllase, Zä-Wäldä Maryam, Wälättä Wahǝd, Wäldä ʾIyäsus, Wälättä Nǝgǝśt are mentioned in the supplication formulas and in the subscription on fol. 128vb-vc. According to the subscription, Wälättä Nǝgǝśt is the owner of the book, her father is Wäldä Mikaʾel, her mother is Wälättä Śǝllase, her daughter is Wälättä Wahǝd and Zä-Wäldä Maryam is the one who intermediated for the acquisition of the book.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Wälättä Nəgəśt according to the subscription, fol. 128vb.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Wälättä Nǝgǝśt according to the subscription, fol. 128vb.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -114,7 +114,7 @@ The last ruled line was not used by the scribe in fols. 13r, 13v, 15r, 18r, 18v,
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines in fols. 3r, 61r, 107r; titles of the Biblical books and other works; excerpts of hymns for the Good Friday (fols. 67v, 68r, 73r, 73v, 83v, 84r); names of Hebrew letters in fols. 100ra-100rc (Lam. 3); directives for the ministers; the words yəbe, yəbəl, yətärägwəm, mätärgwəm; the letter ˀo in fols. 105rb-105rc; elements of the punctuation signs; elements of the text dividers; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines in fols. 3r, 61r, 107r; titles of the Biblical books and other works; excerpts of hymns for the Good Friday (fols. 67v, 68r, 73r, 73v, 83v, 84r); names of Hebrew letters in fols. 100ra-100rc (Lam. 3); directives for the ministers; the words yǝbe, yǝbǝl, yǝtärägwǝm, mätärgwǝm; the letter ʾo in fols. 105rb-105rc; elements of the punctuation signs; elements of the text dividers; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ተሠ፡ ጸል፡ for ተሠሃለነ፡ ጸልዩ፡ &#13;
 እግዚ፡ ተ፡ ጸል፡ for እግዚኦ፡ ተሠሃለነ፡ ጸልዩ፡&#13;

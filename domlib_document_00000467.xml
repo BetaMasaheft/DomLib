@@ -11,10 +11,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Introduction (fols. 5ra-11va; 13ra-18vb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 5ra-10ra)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 5ra-10ra)&#13;
 - The “Synopsis of Classes” (fol. 10ra-va)&#13;
 - Discourse on the 72 disciples (fol. 10va-vb)&#13;
 - Letter of Eusebius to Carpianus (fols. 10vb-11rb)&#13;
@@ -23,21 +23,21 @@
 - Canon tables (fols. 13ra-18vb)&#13;
 II) Gospel of Matthew (fols. 11vb-12rb; 19ra-102ra)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fols. 11vb-12rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 19ra-101vb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 19ra-101vb)&#13;
 - Postscript (fols. 101vb-102ra)&#13;
 III) Gospel of Mark (fols. 102rb-103vb; 105ra-145va)&#13;
 - Biography of Mark (fols. 102rb-103ra)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fol. 103rb-vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 105ra-145rb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 105ra-145rb)&#13;
 - Postscript (fol. 145rb-va)&#13;
 IV) Gospel of Luke (fols. 147ra-233va)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 147ra-233ra)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 147ra-233ra)&#13;
 - Postscript (fol. 233rb-va)&#13;
 V) Gospel of John (fols. 233va-234vb; 236ra-281rb)&#13;
 - Biography of John (fols. 233va-234va)&#13;
 - Fragment of the same biography written by a different hand (fol. 235ra-rb)&#13;
 - List of the “tituli” for the Gospel of John: 18 titles (fol. 234va-vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 236ra-281rb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 236ra-281rb)&#13;
 - Short postscript (fol. 281rb)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
@@ -45,9 +45,9 @@ Additiones 1-5.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Giyorgis (s. Additio 3 and supplication formulas in the incipit page of each Gospel).</donor>
 </donors>
@@ -121,7 +121,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, very regular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and heading of the texts; chapter titles and the words məˁəraf and kəfl; numbers of the “tituli”; elements of the punctuation signs and Ethiopic numerals; elements of the quire marks and titles in the upper margin; parts of the Canon tables; name of the owner.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and heading of the texts; chapter titles and the words mǝʿǝraf and kǝfl; numbers of the “tituli”; elements of the punctuation signs and Ethiopic numerals; elements of the quire marks and titles in the upper margin; parts of the Canon tables; name of the owner.&#13;
 On fol. 21rb, the rubricated signs in the margin between the columns are probably the quotation markers.&#13;
 Incipits of each Gospel and Additio I are written alternately in red and black lines.</rubrication>
 </rubrications>
@@ -129,8 +129,8 @@ Incipits of each Gospel and Additio I are written alternately in red and black l
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 1ra-4vb; 145va-146vb: Theological treatise composed of the quotations from the Church Fathers, unidentified.&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 1ra-4vb:&lt;/span&gt;&lt;span style="font-size: large;"&gt; &amp;#4773;&amp;#4637;&amp;#4675;&amp;#4616;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4676;&amp;#4653;&amp;#4622;&amp;#4661;&amp;#4961; &amp;#4618;&amp;#4672;&amp;#4961; &amp;#4915;&amp;#4915;&amp;#4659;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4616;&amp;#4773;&amp;#4661;&amp;#4781;&amp;#4757;&amp;#4853;&amp;#4653;&amp;#4843;&amp;#4961; &amp;#4813;&amp;#4773;&amp;#4721;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4744;&amp;#4621;&amp;#4678;&amp;#4633;&amp;#4961; &amp;#4616;&amp;#4768;&amp;#4704;&amp;#4813;&amp;#4961; &amp;#4618;&amp;#4675;&amp;#4752;&amp;#4961; &amp;#4915;&amp;#4915;&amp;#4659;&amp;#4725;&amp;#4961; &amp;#4979;&amp;#4808;&amp;#4972;&amp;#4961; &amp;#4704;&amp;#4643;&amp;#4621;&amp;#4661;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4853;&amp;#4653;&amp;#4659;&amp;#4755;&amp;#4722;&amp;#4609;&amp;#4962;...&lt;/span&gt;&lt;/p&gt;</add><det>Written possibly in the main hand or in a similar hand. The text continues from 4vb onto fol. 145va, after the Gospel of Mark (this is also indicated by the note ሀሎ፡ በፍጻሜ፡ ማርቆስ, in the bottom margin fol. rv). It includes quotations from St. Cyril of Alexandria, John Chrysostom, Hippolytus, Heraclius, Theodotos, Gregory of Nazianzos, Severos, John of Alexandria, Cyriacus, Theodosius, Basil, John of Antiochia, Sanutius, Zakariah Yahya, Philotheus, Athanasius, Ignatios, Innocentius, John of Jerusalem, Epiphanius of Cyprus. The quotations mostly corresponds to the text of Haymanotä ˀabäw, cp. the  EOTC, Addis Abäba 1967 A.M. (and usually follow one another, e.g.:&#13;
-fol. 2rab (አቡሊድስ), fol. 2ra lines 3-5 correspond to Haymanotä ˀabäw 132, verse 2, line 1;&#13;
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 1ra-4vb; 145va-146vb: Theological treatise composed of the quotations from the Church Fathers, unidentified.&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 1ra-4vb:&lt;/span&gt;&lt;span style="font-size: large;"&gt; &amp;#4773;&amp;#4637;&amp;#4675;&amp;#4616;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4676;&amp;#4653;&amp;#4622;&amp;#4661;&amp;#4961; &amp;#4618;&amp;#4672;&amp;#4961; &amp;#4915;&amp;#4915;&amp;#4659;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4616;&amp;#4773;&amp;#4661;&amp;#4781;&amp;#4757;&amp;#4853;&amp;#4653;&amp;#4843;&amp;#4961; &amp;#4813;&amp;#4773;&amp;#4721;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4744;&amp;#4621;&amp;#4678;&amp;#4633;&amp;#4961; &amp;#4616;&amp;#4768;&amp;#4704;&amp;#4813;&amp;#4961; &amp;#4618;&amp;#4675;&amp;#4752;&amp;#4961; &amp;#4915;&amp;#4915;&amp;#4659;&amp;#4725;&amp;#4961; &amp;#4979;&amp;#4808;&amp;#4972;&amp;#4961; &amp;#4704;&amp;#4643;&amp;#4621;&amp;#4661;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4853;&amp;#4653;&amp;#4659;&amp;#4755;&amp;#4722;&amp;#4609;&amp;#4962;...&lt;/span&gt;&lt;/p&gt;</add><det>Written possibly in the main hand or in a similar hand. The text continues from 4vb onto fol. 145va, after the Gospel of Mark (this is also indicated by the note ሀሎ፡ በፍጻሜ፡ ማርቆስ, in the bottom margin fol. rv). It includes quotations from St. Cyril of Alexandria, John Chrysostom, Hippolytus, Heraclius, Theodotos, Gregory of Nazianzos, Severos, John of Alexandria, Cyriacus, Theodosius, Basil, John of Antiochia, Sanutius, Zakariah Yahya, Philotheus, Athanasius, Ignatios, Innocentius, John of Jerusalem, Epiphanius of Cyprus. The quotations mostly corresponds to the text of Haymanotä ʾabäw, cp. the  EOTC, Addis Abäba 1967 A.M. (and usually follow one another, e.g.:&#13;
+fol. 2rab (አቡሊድስ), fol. 2ra lines 3-5 correspond to Haymanotä ʾabäw 132, verse 2, line 1;&#13;
 fol. 2ra lines 5-9 correspond to 132, verse 3, line 1 - verse 4, line 1;&#13;
 fol. 2ra lines 9-10 correspond to 132, verse 5, line 1;&#13;
 fol. 2ra lines 11-12 correspond to 133, verse 11;&#13;

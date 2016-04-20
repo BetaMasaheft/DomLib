@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäwaśǝˀt, Antiphonary for feasts and funeral service / Ṣomä dǝggwa, Antiphonary for Lent</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäwaśǝʾt, Antiphonary for feasts and funeral service / Ṣomä dǝggwa, Antiphonary for Lent</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäwaśǝˀt, Antiphonary for feasts and funeral service (fols. 5ra-104vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäwaśǝʾt, Antiphonary for feasts and funeral service (fols. 5ra-104vb)&#13;
 II) Ṣomä dǝggwa, Antiphonary for Lent (fols. 105ra-184va)&#13;
 - Table of halleluiatic chants (fols. 184va-186vb) &#13;
-III) Excerpt from Dǝggwa, Antiphonary (1st Ḫədar, ˀabba Yoḥanni; Ṣadəqan, Ḫədar Ṣəyon etc.) (fols. 186vb-189rb), incomplete&#13;
+III) Excerpt from Dǝggwa, Antiphonary (1st Ḫǝdar, ʾabba Yoḥanni; Ṣadǝqan, Ḫǝdar Ṣǝyon etc.) (fols. 186vb-189rb), incomplete&#13;
 IV) Directives for the ministers, incomplete (fols. 189va-191ra)&#13;
 &#13;
 Additiones 1-6.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -100,9 +100,9 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I and II, alternating with black lines; elements of musical notation signs; elements of Ethiopic numerals; elements of punctuation signs and text dividers.&#13;
 Text I:&#13;
-Names of antiphons (mäwaśǝˀt) followed by feast or day names; names of sections of antiphons and their abbreviations (məlṭan); the words yəbarəkəwwo, ṣälot and their abbreviations.&#13;
+Names of antiphons (mäwaśǝʾt) followed by feast or day names; names of sections of antiphons and their abbreviations (mǝlṭan); the words yǝbarǝkǝwwo, ṣälot and their abbreviations.&#13;
 Text II:&#13;
-Names of sections (wazema); names of antiphons and their abbreviations sometimes followed by the name of the day or part of the day (e.g., maḫəlet, mäzmur, sälam, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, zä-ˀamlakiyä); names of other chants sometimes followed by the name of the day (e.g., məlṭan, qənnəwat, ˁəzl); elements of the Table of halleluiatic chants; names of the categories of melody and their abbreviations (ˁəzl, gəˁəz).</rubrication>
+Names of sections (wazema); names of antiphons and their abbreviations sometimes followed by the name of the day or part of the day (e.g., maḫǝlet, mäzmur, sälam, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, zä-ʾamlakiyä); names of other chants sometimes followed by the name of the day (e.g., mǝlṭan, qǝnnǝwat, ʿǝzl); elements of the Table of halleluiatic chants; names of the categories of melody and their abbreviations (ʿǝzl, gǝʿǝz).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Some of the abbreviations used throughout the text:&#13;
 ም፡, ምል፡, ምልጣ፡ for ምልጣን፡ &#13;
@@ -125,7 +125,7 @@ Names of sections (wazema); names of antiphons and their abbreviations sometimes
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;Fols. 191rb-191va: Excerpt from an Antiphonary (?).&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a crude hand, partly illegible.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt;Fols. 191vb-192v: Excerpt from a story about the Holy Cross (?).&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fols. 191vb-192r: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4725;&amp;#4708;&amp;#4622;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4621;&amp;#4768;&amp;#4781;&amp;#4961; &amp;#4757;&amp;#4877;&amp;#4648;&amp;#4754;&amp;#4961; &amp;#4704;&amp;#4773;&amp;#4757;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4920;&amp;#4961; &amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4845;&amp;#4708;&amp;#4619;&amp;#4961; &amp;#4632;&amp;#4621;&amp;#4768;&amp;#4781;&amp;#4961; &amp;#4773;&amp;#4921;&amp;#4709;&amp;#4961; &amp;#4752;&amp;#4710;&amp;#4649;&amp;#4961; &amp;#4704;&amp;#4773;&amp;#4757;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&amp;#4962; &amp;#4773;&amp;#4757;&amp;#4824;&amp;#4961; &amp;#4608;&amp;#4622;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4853;&amp;#4961; &amp;#4813;&amp;#4661;&amp;#4720;&amp;#4961; &amp;#4613;&amp;#4925;&amp;#4752;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4757;&amp;#4613;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4613;&amp;#4704;&amp;#4653;&amp;#4961; &amp;#4632;&amp;#4619;&amp;#4773;&amp;#4781;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&lt;!--?--&gt;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4720;&amp;#4755;&amp;#4877;&amp;#4654;&amp;#4961; &amp;#4704;&amp;#4773;&amp;#4757;&amp;#4720;&amp;#4961; &amp;#4813;&amp;#4773;&amp;#4721;&amp;#4961; &amp;#4773;&amp;#4920;&amp;#4961; &amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&amp;#4961; &amp;#4781;&amp;#4705;&amp;#4653;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>Written in pencil in a crude hand.</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fols. 4ra, 191vb: Short ownership notes that state that the book belongs to the church of May ˀAbˀa Maryam.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fols. 4ra, 191vb: Short ownership notes that state that the book belongs to the church of May ʾAbʾa Maryam.&#13;
 - Fols. 104rb-104vb have been affected by humidity. The text was rewritten in a crude secondary hand.&#13;
 - Erasures: e.g., fols. 28rb, 32rab, 34va, 38rb, 40rb, 51v.&#13;
 - Erasures marked by thin lines: fol. 140rb.&#13;

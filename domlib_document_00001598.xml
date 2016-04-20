@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäwaśəˀt, Antiphonary for feasts and funeral service / Zǝmmare, Eucharistic hymns</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäwaśǝʾt, Antiphonary for feasts and funeral service / Zǝmmare, Eucharistic hymns</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Mäwaśəˀt, Antiphonary for feasts and funeral service (fols. 4ra-38vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Mäwaśǝʾt, Antiphonary for feasts and funeral service (fols. 4ra-38vb)&#13;
 II)	Zǝmmare, Eucharistic hymns (fols. 39ra-125va).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
@@ -97,9 +97,9 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; elements of the punctuation signs, Ethiopic numerals or their elements.&#13;
 Text I&#13;
-Groups of lines (alternating with black lines) in the incipit page; names of antiphons (mäwaśǝˀt) followed by feast names; numbers of psalms; names of sections of antiphons and their abbreviations (məlṭan and mäzmur); chains of black and red dots separating antiphones.&#13;
+Groups of lines (alternating with black lines) in the incipit page; names of antiphons (mäwaśǝʾt) followed by feast names; numbers of psalms; names of sections of antiphons and their abbreviations (mǝlṭan and mäzmur); chains of black and red dots separating antiphones.&#13;
 Text II&#13;
-Groups of lines (alternating with black lines) in the incipit page; names of sections (zəmmare) followed by feast or day names; names of subsections and their abbreviations (ḫəbəst, mänfäs, ṣəwwaˁ) followed by feast names and occasionally by the date of the feast; musical notation: intratextual signs, interlinear signs (e.g., fols. 40rc, 43vab, 45rbc, 48rbc, 48v, 61ra, 70r, 101rv) and elements of marginal signs.</rubrication>
+Groups of lines (alternating with black lines) in the incipit page; names of sections (zǝmmare) followed by feast or day names; names of subsections and their abbreviations (ḫǝbǝst, mänfäs, ṣǝwwaʿ) followed by feast names and occasionally by the date of the feast; musical notation: intratextual signs, interlinear signs (e.g., fols. 40rc, 43vab, 45rbc, 48rbc, 48v, 61ra, 70r, 101rv) and elements of marginal signs.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ም፡, ምል፡ for ምልጣን፡&#13;
 መዋስ፡, መዋስዕ፡ for መዋሥዕት፡ &#13;
@@ -128,11 +128,11 @@ Groups of lines (alternating with black lines) in the incipit page; names of sec
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">Feast names are crudely written in pen, in a secondary hand, in the upper margins:&#13;
-zä-Səbkät zəmmare: fol. 66va&#13;
-zä-Hosaˁna: fol. 82ra, &#13;
+zä-Sǝbkät zǝmmare: fol. 66va&#13;
+zä-Hosaʿna: fol. 82ra, &#13;
 zä-Ḥamus: fol. 82vb&#13;
 zä-Qädam: fol. 82vc&#13;
-zä-Tənśaˀe: fol. 83ra.</txfindingaid>
+zä-Tǝnśaʾe: fol. 83ra.</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 4ra-b-c (incipit of Text I): elaborate coloured (red, black, yellow) ornamental band; geometric, floral and zoomorphic motifs (birds).&#13;
 - Fol. 38ra: two simple coloured (red and black) ornamental bands; floral and zoomorphic motifs.&#13;

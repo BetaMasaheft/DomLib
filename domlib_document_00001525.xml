@@ -12,19 +12,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArganonä wǝddase “The Harp of Praise” / ˀAstäbqwəˁot ˀəntä zä-Səmˁon ˁamdawi “Prayers of Simeon Stylite” / Unidentified text concerning penitence</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArganonä wǝddase “The Harp of Praise” / ʾAstäbqwǝʿot ʾǝntä zä-Sǝmʿon ʿamdawi “Prayers of Simeon Stylite” / Unidentified text concerning penitence</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀArganonä wǝddase “The harp of praise” (fols. 2ra-77vb) (s. P. LEANDER, ʼArgānōna Ŭeddāsē, Leipzig 1922)&#13;
-II) ˀAstäbqwəˁot ˀəntä zä-Səmˁon ˁamdawi “Prayers of Simeon Stylite” (fols. 78ra-94va) (s. P. LEANDER, "ˀAstabqueˁōt ˀənta za-Semˁōn ˁamdāwī, nach Handschriften in Uppsala und Berlin herausgegeben", Le Monde Oriental 11, 1917, 81-130)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾArganonä wǝddase “The harp of praise” (fols. 2ra-77vb) (s. P. LEANDER, ʼArgānōna Ŭeddāsē, Leipzig 1922)&#13;
+II) ʾAstäbqwǝʿot ʾǝntä zä-Sǝmʿon ʿamdawi “Prayers of Simeon Stylite” (fols. 78ra-94va) (s. P. LEANDER, "ʾAstabqueʿōt ʾǝnta za-Semʿōn ʿamdāwī, nach Handschriften in Uppsala und Berlin herausgegeben", Le Monde Oriental 11, 1917, 81-130)&#13;
 III) Unidentified text concerning penitence (possibly Mäṣḥafä nuzaze?) (fols. 94vb-95vb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor has been erased in the supplication formulas. Only on fol. 89va the second part of the name, Krəstos, has been preserved.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor has been erased in the supplication formulas. Only on fol. 89va the second part of the name, Krǝstos, has been preserved.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -100,7 +100,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </pchangeofhands>
 <pchirhosigns class="MCRMetaLangText" heritable="false" notinherit="false"><pchirhosign xml:lang="en" inherited="0" form="plain">Fols. 1r-v</pchirhosign>
 </pchirhosigns>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts II and III alternating with black lines; two initial lines of each section of Texts I, II and III; elements of the punctuation signs; elements of Ethiopic numerals; the word məˁəraf (e.g., fols. 84ra, 85vb, 90rb); days of the week: zä-śälus (fol. 15r), zä-ˁarb (fol. 53r), zä-ˀəḥud (fol. 72r) in the margins.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts II and III alternating with black lines; two initial lines of each section of Texts I, II and III; elements of the punctuation signs; elements of Ethiopic numerals; the word mǝʿǝraf (e.g., fols. 84ra, 85vb, 90rb); days of the week: zä-śälus (fol. 15r), zä-ʿarb (fol. 53r), zä-ʾǝḥud (fol. 72r) in the margins.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -114,6 +114,6 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
-<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Daily readings are indicated with the names of the days of the week written in the upper margin, encircled by dot lines: zä-sänuy (e.g., fols. 2r, 3r, 78r), zä-śälus (e.g., fols. 15r, 16r, 79r), zä-rəbuˁ (e.g., fols. 28r, 29r, 80r), zä-ḥamus (fols. 40r, 83r), zä-ˁarb (fol. 53r, 85r), zä-qädamit (fols. 65r, 88r), zä-ˀəḥud (fols. 72r, 90r).</txfindingaid>
+<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Daily readings are indicated with the names of the days of the week written in the upper margin, encircled by dot lines: zä-sänuy (e.g., fols. 2r, 3r, 78r), zä-śälus (e.g., fols. 15r, 16r, 79r), zä-rǝbuʿ (e.g., fols. 28r, 29r, 80r), zä-ḥamus (fols. 40r, 83r), zä-ʿarb (fol. 53r, 85r), zä-qädamit (fols. 65r, 88r), zä-ʾǝḥud (fols. 72r, 90r).</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-06-18T17:28:17.888Z</servdate><servdate inherited="0" type="modifydate">2014-11-16T13:16:53.682Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">AAdugna</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

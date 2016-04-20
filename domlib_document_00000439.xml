@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gospel of Matthew (fols. 2ra – 55rb)&#13;
 - List of the “tituli” for the Gospel of Matthew: 60 titles (fols. 2ra-3ra)&#13;
 - List of the “tituli” for the Gospel of John: 19 titles (fol. 3ra-rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 4ra-55rb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 4ra-55rb)&#13;
 II) Gospel of Mark (fols. 55va-86va)&#13;
 - List of the “tituli” for the Gospel of Mark: 44 titles (fol. 55va-vb) &#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 56ra-86va)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 56ra-86va)&#13;
 - Short postscript to the Gospel of Mark (fol. 86va)&#13;
 III) Gospel of Luke (fols. 86vb-137vb)&#13;
 - List of the “tituli” for the Gospel of Luke: 93 titles (fols. 86vb-87va) &#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 88ra-137vb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 88ra-137vb)&#13;
 - Short postscript to the Gospel of Luke (fol. 137vb)&#13;
 IV) Gospel of John (fols. 138ra-179vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 138ra-179vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 138ra-179vb)&#13;
 - Short postscript to the Gospel of John (fol. 179vb)&#13;
 - General postscript to the Four Gospels (fol. 179vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000093" xlink:title="ˀAgamyo Qǝddus Mikaˀel / AGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000093" xlink:title="ʾAgamyo Qǝddus Mikaʾel / AGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000093" xlink:title="ˀAgamyo Qǝddus Mikaˀel / AGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000093" xlink:title="ʾAgamyo Qǝddus Mikaʾel / AGM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1570</fdating>
 </fdatings>
@@ -118,13 +118,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">yes</pcruxansata>
 </pcruxansatas>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; postscripts to the Gospels of Mark, Luke and John; marginal notes repeating chapter titles or indicating Gospel readings for certain occasions; chi rho and crux ansata signs; elements of the punctuation signs; chapter numbers and the word məˤəraf.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; postscripts to the Gospels of Mark, Luke and John; marginal notes repeating chapter titles or indicating Gospel readings for certain occasions; chi rho and crux ansata signs; elements of the punctuation signs; chapter numbers and the word mǝˤǝraf.&#13;
 &#13;
 Incipits of the Gospel texts are written alternately in red and black lines (fols. 4r, 56r, 88r, 138r).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Chi rho sing (s. fols. 12r, 31r, 104r, etc.).&#13;
 &#13;
-The Golden Gospel of ˀAgamyo Qəddus Mikaˀel church.</otherdetail>
+The Golden Gospel of ʾAgamyo Qǝddus Mikaʾel church.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

@@ -15,12 +15,12 @@
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälotä kidan zä-nägh "Morning Prayer of the Covenant" (fols. 2ra – 8ra, l.7)&#13;
 II) Anaphoras (fols. 8ra – 22va, 91ra – 124va)&#13;
 II-1) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 8ra, l.8 – 22va, l.14)&#13;
-III) Ṣälotä ˁǝṭan "Prayer of the Incense" (fols. 22vb, l.1 – 53rb, l.13)&#13;
-IV) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 53rb, l.14 – 91va, l.3)&#13;
+III) Ṣälotä ʿǝṭan "Prayer of the Incense" (fols. 22vb, l.1 – 53rb, l.13)&#13;
+IV) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 53rb, l.14 – 91va, l.3)&#13;
 II-2) Anaphora of the Apostles (fols. 91ra, l.4 – 106vb, l.10)&#13;
 II-3) Anaphora of St. Jacob of Serug (fols. 106vb, l.11 – 114vb, l.12)&#13;
 II-4) Anaphora of Our Lord Jesus Christ (fols. 114vb, l.13 – 120ra, l.16)&#13;
-II-5) Anaphora of St. Dioscorus (fols. 120rb, l.1 – 124ra, l.9; the ˀAnbǝro ˀǝd of this Anaphora is added after the colophon, s. Additio 1)&#13;
+II-5) Anaphora of St. Dioscorus (fols. 120rb, l.1 – 124ra, l.9; the ʾAnbǝro ʾǝd of this Anaphora is added after the colophon, s. Additio 1)&#13;
 &#13;
 Additio 1; colophon.</shortcontent>
 </shortcontents>
@@ -32,7 +32,7 @@ Additio 1; colophon.</shortcontent>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe has been effaced from the colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Some persons are mentioned in the supplications at the beginning and at the end of the Anaphoras: ˀabunä Wäldä Tǝnśaˀe (fols. 8rb, 106vb), ˀabunä Gäbrä Śǝllase (fol. 91va), Wäldä Gäbrǝˀel (fol. 106vb), Wäldä Qirqos (fol. 106vb), Wäldä ˁAbiyä ˀƎgziˀ (fols. 106vb, 120rb), ˀabunä Gäbrä Ḥǝywät (fol. 106vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Some persons are mentioned in the supplications at the beginning and at the end of the Anaphoras: ʾabunä Wäldä Tǝnśaʾe (fols. 8rb, 106vb), ʾabunä Gäbrä Śǝllase (fol. 91va), Wäldä Gäbrǝʾel (fol. 106vb), Wäldä Qirqos (fol. 106vb), Wäldä ʿAbiyä ʾƎgziʾ (fols. 106vb, 120rb), ʾabunä Gäbrä Ḥǝywät (fol. 106vb).</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">In the colophon, Sähasǝḥlä Qirqos (a church or monastery, or a personal name?) is mentioned as the original owner of the Ms.</owner>
 </owners>
@@ -40,7 +40,7 @@ Additio 1; colophon.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1867</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colopnon, the book was written 22,5 years after the coming of ˀabunä Sälama (in office 1841-67; he is mentioned elsewhere, e.g., fol. 9ra); and 12 years after the coronation of King Tewodros II (r. 1855-68). The resulting dates are 1863 and 1867.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colopnon, the book was written 22,5 years after the coming of ʾabunä Sälama (in office 1841-67; he is mentioned elsewhere, e.g., fol. 9ra); and 12 years after the coronation of King Tewodros II (r. 1855-68). The resulting dates are 1863 and 1867.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

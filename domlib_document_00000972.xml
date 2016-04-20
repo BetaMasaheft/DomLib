@@ -11,12 +11,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä ˀƎsṭifanos zä-Gunda Gunde “Vita of ˀƎsṭifanos of Gunda Gunde” / Mälkǝˀa ˀƎsṭifanos zä-Gunda Gunde “Image of ˀƎsṭifanos of Gunda Gunde” / Täˀamrä ˀƎsṭifanos zä-Gunda Gunde “Miracles of ˀƎsṭifanos zä-Gunda Gunde / Sälam–hymn for ˀƎsṭifanos of Gunda Gunde</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä ʾƎsṭifanos zä-Gunda Gunde “Vita of ʾƎsṭifanos of Gunda Gunde” / Mälkǝʾa ʾƎsṭifanos zä-Gunda Gunde “Image of ʾƎsṭifanos of Gunda Gunde” / Täʾamrä ʾƎsṭifanos zä-Gunda Gunde “Miracles of ʾƎsṭifanos zä-Gunda Gunde / Sälam–hymn for ʾƎsṭifanos of Gunda Gunde</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä ˀƎsṭifanos zä-Gunda Gunde “Vita of ˀƎsṭifanos of Gunda Gunde” (fols. 3ra-52rb)&#13;
-II) Mälkǝˀa ˀƎsṭifanos zä-Gunda Gunde “Image of ˀƎsṭifanos of Gunda Gunde” (fols. 52va-54vb l.7)&#13;
-III) Täˀamrä ˀƎsṭifanos zä-Gunda Gunde “Miracles of ˀƎsṭifanos of Gunda Gunde – 9 miracles (fols. 54vb l.8-59va l.4)&#13;
-IV) Sälam–hymn for ˀƎsṭifanos of Gunda Gunde (fol. 59va l.4-22), incomplete (?), only the beginning&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä ʾƎsṭifanos zä-Gunda Gunde “Vita of ʾƎsṭifanos of Gunda Gunde” (fols. 3ra-52rb)&#13;
+II) Mälkǝʾa ʾƎsṭifanos zä-Gunda Gunde “Image of ʾƎsṭifanos of Gunda Gunde” (fols. 52va-54vb l.7)&#13;
+III) Täʾamrä ʾƎsṭifanos zä-Gunda Gunde “Miracles of ʾƎsṭifanos of Gunda Gunde – 9 miracles (fols. 54vb l.8-59va l.4)&#13;
+IV) Sälam–hymn for ʾƎsṭifanos of Gunda Gunde (fol. 59va l.4-22), incomplete (?), only the beginning&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -26,9 +26,9 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="Ë&#128;Andel QÇ&#157;ddÇ&#157;st Maryam / MA"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel is mentioned as the scribe in supplication formulas on fols. 3ra l.20, 59va l.3.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel is mentioned as the scribe in supplication formulas on fols. 3ra l.20, 59va l.3.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

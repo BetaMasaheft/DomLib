@@ -25,9 +25,9 @@ II-8) Anaphora of St. Gregory (“Hosanna-liturgy of St. Gregory”) (fol. 83vb)
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Kǝflä Giyorgis is mentioned in supplication formulas on fols. 19ra, 38va, 68va, 75va, etc.</donor>
 </donors>
@@ -35,7 +35,7 @@ II-8) Anaphora of St. Gregory (“Hosanna-liturgy of St. Gregory”) (fol. 83vb)
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1726</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ˀAbba Ṗeṭros is mentioned as the patriarch and ˀabba Krǝsto Däwälu as the metropolitan on fol. 68vb. Peter VI was the Patriarch of Alexandria in 1718-26. Krǝstodolu III was the Metropolitan of Ethiopia in 1720-35.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ʾAbba Ṗeṭros is mentioned as the patriarch and ʾabba Krǝsto Däwälu as the metropolitan on fol. 68vb. Peter VI was the Patriarch of Alexandria in 1718-26. Krǝstodolu III was the Metropolitan of Ethiopia in 1720-35.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

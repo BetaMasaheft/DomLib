@@ -10,14 +10,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw (fols. 2ra-25va)&#13;
-II) Täˀamrä Maryam “Miracles of Mary” (fols. 25vb-117vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw (fols. 2ra-25va)&#13;
+II) Täʾamrä Maryam “Miracles of Mary” (fols. 25vb-117vb)&#13;
 II-1) Introductory exhortation (fols. 25vb-26va)&#13;
-II-2) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 27ra-31rb)&#13;
-II-3) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee...” (fols. 31rb-31vb)&#13;
-II-4) Täˀamrä Maryam: 103 miracles (fols. 32ra-117vb), possibly incomplete, fols. are misplaced.&#13;
+II-2) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 27ra-31rb)&#13;
+II-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee...” (fols. 31rb-31vb)&#13;
+II-4) Täʾamrä Maryam: 103 miracles (fols. 32ra-117vb), possibly incomplete, fols. are misplaced.&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -28,7 +28,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Tabotä Wälda and Lahəyä Dəngəl are mentioned in the supplication formulas, e.g., on fols. 102vb, 103ra. ˀAtnatewos is mentioned on fols. 108-110.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Tabotä Wälda and Lahǝyä Dǝngǝl are mentioned in the supplication formulas, e.g., on fols. 102vb, 103ra. ʾAtnatewos is mentioned on fols. 108-110.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1550</fdating>
 </fdatings>

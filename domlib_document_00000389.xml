@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
 - The “Synopsis of Classes” (fols. 2ra-2vb)&#13;
@@ -19,24 +19,24 @@
 - Canon tables (fols. 5v-8v)&#13;
 - The 72 disciples (fol. 184ra-rb) (misplaced)&#13;
 II) Gospel of Matthew (fols.14ra-62rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 14ra-62rb) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 14ra-62rb) &#13;
 III) Gospel of Mark (fols. 64ra-92va)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 64ra-92va)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 64ra-92va)&#13;
 IV) Gospel of Luke (fols. 92vb-144ra)&#13;
 - List of “tituli” for the Gospel of Luke: 83 titles (fols. 92vb-93vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 95ra-144ra)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 95ra-144ra)&#13;
 V) Gospel of John (fols. 144rb-183va)&#13;
 - List of the “tituli” of the Gospel of John: 19 titles (fol. 144rb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 146ra-183va)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 146ra-183va)&#13;
 - Postscript (fol. 183va-183vb)&#13;
 &#13;
 Additiones 1-4.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1450</fdating>
 </fdatings>
@@ -101,7 +101,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </pcruxansatas>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; numbers and titles of the chapters in the upper margins of the fols.; elements of the punctuation signs and numbers; in the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines); crux ansata.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The "Golden Gospel" of Qärsäbär Mikaˀel.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The "Golden Gospel" of Qärsäbär Mikaʾel.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -113,7 +113,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 94r-b: Y&amp;#228;-Q&amp;#228;rs&amp;#228;b&amp;#228;r &amp;#7717;&amp;#601;gg, Note concerning customary law of Q&amp;#228;rs&amp;#228;b&amp;#228;r.&lt;/p&gt;</cont><tran>&lt;p&gt;The note is dated to 1929 year of mercy.&lt;/p&gt;</tran></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title is inserted above, in the decorative band, in the incipit page of each Gospel.&#13;
-- A short note concerning the death of an individual has been written in a more recent hand, in the bottom margin of fol. 13r: ˀəm-ḥamusu lä-Näḥase ˀaˁräfä Kəflä ˀIyäsus. &#13;
+- A short note concerning the death of an individual has been written in a more recent hand, in the bottom margin of fol. 13r: ʾǝm-ḥamusu lä-Näḥase ʾaʿräfä Kǝflä ʾIyäsus. &#13;
 - Tämälläs-sign indicating the place where the omission, written in the upper margin, belongs: fol. 50v.&#13;
 - An extensive note has been washed out: fol. 144v.</extra>
 </extras>
@@ -140,6 +140,6 @@ The bottom line is written above the ruling.</rl-info></taunit>
 Fol. 14ra (incipit page of Matthew): elaborate coloured (blue, green, yellow, red) ornamental frame: two horizontal bands; interlaces with the title (Wängel zä-Matewos); one central and two short lateral extensions.&#13;
 Fol. 64ra (incipit page of Mark): elaborate coloured (blue, green, yellow, red) ornamental frame: two horizontal bands; interlaces with the title  (Wängel zä-Marqos); one central and two short lateral extensions. &#13;
 Fol. 95ra (incipit page of Luke): elaborate coloured (blue, green, yellow, red) ornamental frame: two horizontal bands; interlaces with the title  (Wängel zä-Luqas). Central and lateral extensions are very short.&#13;
-Fol. 146r (incipit page of John) elaborate coloured (blue, green, yellow, red) ornamental frame; interlaces with the title (Wängel zä-Yoḥannəs) written below; one central and two short lateral extensions (longer than on fol. 95r).</frame>
+Fol. 146r (incipit page of John) elaborate coloured (blue, green, yellow, red) ornamental frame; interlaces with the title (Wängel zä-Yoḥannǝs) written below; one central and two short lateral extensions (longer than on fol. 95r).</frame>
 </frames>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2011-02-24T11:15:36.299Z</servdate><servdate inherited="0" type="modifydate">2015-10-29T15:57:13.964Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

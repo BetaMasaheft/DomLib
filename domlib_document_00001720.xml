@@ -14,15 +14,15 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣalotä ˤǝṭan “Prayer of Incense”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣalotä ˤǝṭan “Prayer of Incense” (fols. 5ra-57vb)&#13;
-- Prayer of Incense for Sunday (ˁәlätä ˀәḥud) (fols. 40va-55vb) &#13;
+- Prayer of Incense for Sunday (ʿәlätä ʾәḥud) (fols. 40va-55vb) &#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe (and probably the place of his origin) has been erased from the concluding supplication formula on fol. 57rb.</copyist>
 </copyists>
@@ -33,7 +33,7 @@ On fol. 57vb, the name of the original donor has been erased.</donor>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1938</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Text I mentions on fol. 57v the names of Archbishop ˀAbrәham (archbishop of Ethiopia in 1937-38, mentioned also on fol. 27rb) and Bishop Marqos (officially bishop of Eritrea and Tәgray in 1937-41, but unofficially until 1951 and his appointment as bishop of Eritrea, mentioned also on fol. 33ra).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Text I mentions on fol. 57v the names of Archbishop ʾAbrәham (archbishop of Ethiopia in 1937-38, mentioned also on fol. 27rb) and Bishop Marqos (officially bishop of Eritrea and Tәgray in 1937-41, but unofficially until 1951 and his appointment as bishop of Eritrea, mentioned also on fol. 33ra).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -111,7 +111,7 @@ On the incipit page of Text I (fol. 5r), a few lines are rubricated (alternating
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fols. 1va-4rb: Excerpt from the Anaphora of the Apostles (Benediction of St. Basil?).&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a careful secondary hand.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 57vb-58rb: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><det>Partly in Amharic, crudely written in pencil in a secondary hand and hardly readable. The note mentions that the book was donated by ras Gäbrä Mädhәn to the church Qärsäbär Mikaˀel in Ṭәrr 13 (?) [19]39 A.M. (= January 1946 A.D.) during the time of Ḫaylä Śәllase I (r. 1930-74) and Bishop Marqos (r. 1937-1951, as Bishop of Tәgray and Eritrea).</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 57vb-58rb: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><det>Partly in Amharic, crudely written in pencil in a secondary hand and hardly readable. The note mentions that the book was donated by ras Gäbrä Mädhәn to the church Qärsäbär Mikaʾel in Ṭәrr 13 (?) [19]39 A.M. (= January 1946 A.D.) during the time of Ḫaylä Śәllase I (r. 1930-74) and Bishop Marqos (r. 1937-1951, as Bishop of Tәgray and Eritrea).</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Crude note in pen: fol. 4v.&#13;
 - Crude notes written in the margins: fols. 10v, 17v. &#13;

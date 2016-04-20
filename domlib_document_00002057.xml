@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Homily by Rətuˁa Haymanot on the Four Living Creatures / Dərsanä Mikaˀel, Homiliary for the feasts of St. Michael / Täˀamrä Mikaˀel "Miracles of Michael" / Nǝgǝränni sǝmäkä … "Tell me your name …"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Homily by Rǝtuʿa Haymanot on the Four Living Creatures / Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael / Täʾamrä Mikaʾel "Miracles of Michael" / Nǝgǝränni sǝmäkä … "Tell me your name …"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Homily by Rətuˁa Haymanot on the Four Living Creatures (fols. 5ra-14ra)&#13;
-II) Dǝrsanä Mikaˀel, Homiliary for the feasts of St. Michael (fols. 15ra-26rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Homily by Rǝtuʿa Haymanot on the Four Living Creatures (fols. 5ra-14ra)&#13;
+II) Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael (fols. 15ra-26rb)&#13;
 II-1) Homily by an anonymous author for the 12th of Ḫǝdar [Taḫśaś] (fols. 15ra-19vb)&#13;
-II-2) Homily by Yoḥannǝs, Metropolitan of ˀAksum [for Säne] (fols. 19vb-26rb)&#13;
-III)Täˀamrä Mikaˀel "Miracles of Michael": 4 miracles (fols. 26rb-31ra)&#13;
+II-2) Homily by Yoḥannǝs, Metropolitan of ʾAksum [for Säne] (fols. 19vb-26rb)&#13;
+III)Täʾamrä Mikaʾel "Miracles of Michael": 4 miracles (fols. 26rb-31ra)&#13;
 IV) Nǝgǝränni sǝmäkä ... "Tell me your name ..." (fols. 31ra-32rb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
@@ -32,7 +32,7 @@ IV) Nǝgǝränni sǝmäkä ... "Tell me your name ..." (fols. 31ra-32rb)</shortc
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The Ms. is written in the same hand as MKL-016 (with the name of the scribe mentioned), QSM-001 and QSM-007.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original donor was probably Diyonasyos whose name is mentioned throughout the Ms. He is stated as the commissioner of the miniature on fol. 14vb. &#13;
-The names of Gäbrä Krǝstos, ˁAmdä Mikaˀel, Fäsilädas and Gäbrä Śǝllase are written in a secondary hand (brown ink) on fol. 14rab and were added to the supplication formulas throughout the Ms.</donor>
+The names of Gäbrä Krǝstos, ʿAmdä Mikaʾel, Fäsilädas and Gäbrä Śǝllase are written in a secondary hand (brown ink) on fol. 14rab and were added to the supplication formulas throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>

@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 2ra-133va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 2ra-133va)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 133va-135rc)&#13;
 - Table of contents (fols. 135va-136r).</shortcontent>
 </shortcontents>
@@ -106,7 +106,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page, alternating with black lines; two initial lines of each subsection of the text; elements of punctuation signs; elements of Ethiopic numerals; some words like kǝfl (e.g., fols. 9ra, 13rb, 24ra), fǝkkare (e.g., fols. 121rb, 121va, 122ra), rabǝˁ (e.g., fols.122vc, 124rb, 126va), yǝbe (e.g., fols. 130ra, 130va), tǝˁǝzaz (e.g., fols. 132vc, 133ra).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page, alternating with black lines; two initial lines of each subsection of the text; elements of punctuation signs; elements of Ethiopic numerals; some words like kǝfl (e.g., fols. 9ra, 13rb, 24ra), fǝkkare (e.g., fols. 121rb, 121va, 122ra), rabǝʿ (e.g., fols.122vc, 124rb, 126va), yǝbe (e.g., fols. 130ra, 130va), tǝʿǝzaz (e.g., fols. 132vc, 133ra).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ክ፡/ክፍ፡ for ክፍል፡ (e.g., fols. 39rb, 39vb, 64rb)&#13;
 ራብ፡ for ራብዕ፡ (fol. 122ra)</abbreviation>

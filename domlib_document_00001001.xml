@@ -11,7 +11,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä śǝnä fǝṭrät “Book of the Beauty of Creation’’ / ˀAmmǝstu ˀaˁmadä mǝsṭir “The Five Pillars of Mystery’’</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä śǝnä fǝṭrät “Book of the Beauty of Creation’’ / ʾAmmǝstu ʾaʿmadä mǝsṭir “The Five Pillars of Mystery’’</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä śǝnä fǝṭrät "Book of the Beauty of Creation" (fols. 3r-98v). In Amharic (cp. EMML no. 1392)&#13;
 I-1) Introduction: a treatise on creation (fols. 3r-5v)&#13;
@@ -24,17 +24,17 @@ I-7) Friday (fols. 48r-57r)&#13;
 I-8) Saturday (fol. 57r)&#13;
 I-9) Symbolic interpretation of the creation (fols. 57v-70v)&#13;
 I-10) Creation of Eve (fols. 70v-98v) &#13;
-II) ˀAmmǝstu ˀaˁmadä mǝsṭir "The Five Pillars of Mystery" (fols. 99r-144v)&#13;
+II) ʾAmmǝstu ʾaʿmadä mǝsṭir "The Five Pillars of Mystery" (fols. 99r-144v)&#13;
 II-1) Introduction (fols. 99r-103r)&#13;
 II-2) Mǝsṭirä śǝllase “Mystery of the Trinity” (fol. 103r)&#13;
 II-3) Mǝsṭirä śǝggawe “Mystery of the Incarnation” (fol. 103r)&#13;
 II-4) Mǝsṭirä ṭǝmqät “Mystery of Baptism” (fol. 103v)&#13;
 II-5) Mǝsṭirä qwǝrban “Mystery of the Eucharist” (fols. 103v-104r)&#13;
-II-6) Mǝsṭirä tǝnśaˀe mutan “Mystery of the Resurrection of the Dead” (fol. 104r)&#13;
+II-6) Mǝsṭirä tǝnśaʾe mutan “Mystery of the Resurrection of the Dead” (fol. 104r)&#13;
 II-7) Symbolic interpretation of words Five, Pillar, and Mystery (fols. 104r-110v)&#13;
 II-8) Mǝgbarat “Good Deeds” (fols. 110v-121r) (cp. EMML no. 1315 2)(19))&#13;
 II-9) Haymanot kä-mǝgbar “Faith and Good Deed” (fols. 121r-132v)&#13;
-II-10) Ṣadəqan “The Righteous Ones” (fols. 132v-142v)&#13;
+II-10) Ṣadǝqan “The Righteous Ones” (fols. 132v-142v)&#13;
 II-11) Adam’s Faith (fols. 142v-144v).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
@@ -43,7 +43,7 @@ II-11) Adam’s Faith (fols. 142v-144v).</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000200" xlink:title="á¸¤angoda DÃ¤brÃ¤ MÉ&#153;á¸¥rÃ¤t QÉ&#153;ddus MikaË&#128;el / HMM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. was probably in private possession of an individual mentioned in Additio 2 (only the second part of his name, ˀIyäsus, can be guessed). The ownership right of the Ms. possibly passed to the church after the owner diseased.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. was probably in private possession of an individual mentioned in Additio 2 (only the second part of his name, ʾIyäsus, can be guessed). The ownership right of the Ms. possibly passed to the church after the owner diseased.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -139,12 +139,12 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; three pairs of lines on the incipit page of Text I alternating with black lines; the initial line in the beginnings of sections of Text I and II; two initial lines on the incipit page of Text II; corrections written interlineally (e.g., fols. 12v, 18r, 37v); elements of the punctuation signs; the word kǝfǝl “Part”; elements of Ethiopic numerals; some other words, e.g., wängel “Gospel” (fols. 15v, 17v, 30r), ˀorit, “Pentateuch” (fols. 25r, 48v), dǝrsan “Homily” (fol. 66v), liqawǝnt “Scholars”(fol. 120v).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; three pairs of lines on the incipit page of Text I alternating with black lines; the initial line in the beginnings of sections of Text I and II; two initial lines on the incipit page of Text II; corrections written interlineally (e.g., fols. 12v, 18r, 37v); elements of the punctuation signs; the word kǝfǝl “Part”; elements of Ethiopic numerals; some other words, e.g., wängel “Gospel” (fols. 15v, 17v, 30r), ʾorit, “Pentateuch” (fols. 25r, 48v), dǝrsan “Homily” (fol. 66v), liqawǝnt “Scholars”(fol. 120v).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 1v: Scribe&amp;#8217;s entreat to God for help during the writing.&lt;/span&gt;&lt;/p&gt;</cont></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 98v: Ownership note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: medium"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala"&gt;Fol. 98v: &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#5011;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala"&gt; &amp;#4824;&amp;lt;...&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 98v: This book is of &amp;lt;&amp;#8230;&amp;gt; (144v)&lt;/span&gt;&lt;/p&gt;</tran><det>- The note is written in the same hand as the main text. The personal name was scratched out but its second part might be ˀIyäsus.&#13;
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 98v: Ownership note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: medium"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala"&gt;Fol. 98v: &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#5011;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala"&gt; &amp;#4824;&amp;lt;...&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 98v: This book is of &amp;lt;&amp;#8230;&amp;gt; (144v)&lt;/span&gt;&lt;/p&gt;</tran><det>- The note is written in the same hand as the main text. The personal name was scratched out but its second part might be ʾIyäsus.&#13;
 - An identical ownership note at the end of Text II, fol. 144r.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Corrections written in the upper margin on fols. 32r, 38r, 38v.&#13;

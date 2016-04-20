@@ -15,12 +15,12 @@
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter” (fols. 1r-114v, 117r-176v, 180v-204vb), incomplete &#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 1r-88v, 89r-92v, 94r-100v, 107r-112v, 117r-159v)&#13;
 from Psalter AM-015β (fols. 101r-106v, 113r-114v, 201r-202v)&#13;
-I-2) Mäḥaləyä näbiyat “The Canticles of the Prophets” (fols. 160r-176v)&#13;
-I-3) Mäḥaləyä mäḥaləy “Song of Songs” (fols. 180v-186r)&#13;
-I-4) Wəddase Maryam “Praise of Mary” (fols. 93r-v, 187r-197ra)&#13;
-I-5) Anqäṣä bərhan “The Gate of Light” (fols. 197ra-200vb, 203ra-204vb)&#13;
-II) Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 177ra-180rb)&#13;
-III) Bəsratä Yoḥannəs “Gospel of John” (fols. 115r-116v), incomplete.&#13;
+I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 160r-176v)&#13;
+I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 180v-186r)&#13;
+I-4) Wǝddase Maryam “Praise of Mary” (fols. 93r-v, 187r-197ra)&#13;
+I-5) Anqäṣä bǝrhan “The Gate of Light” (fols. 197ra-200vb, 203ra-204vb)&#13;
+II) Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 177ra-180rb)&#13;
+III) Bǝsratä Yoḥannǝs “Gospel of John” (fols. 115r-116v), incomplete.&#13;
 &#13;
 Additiones 1-4.</shortcontent>
 </shortcontents>
@@ -91,8 +91,8 @@ Two pairs of sewing stations.</binding>
 </squires>
 <taunits class="DLTextArea" heritable="false" notinherit="false"><taunit xml:lang="en" inherited="0"><ta-width>15.0</ta-width><ta-height>15.5</ta-height><mr-top>2.5</mr-top><mr-left>1.0</mr-left><mr-right>2.0</mr-right><mr-bottom>3.5</mr-bottom><mr-info>Text I-1, I-2, I-3; Psalter AM-15α: all data for fol. 2r.</mr-info><rl-info>The bottom ruled line was not used by the scribe on fols. 65r-72v.</rl-info></taunit>
 <taunit xml:lang="en" inherited="0"><ta-width>15.0</ta-width><ta-height>13.5</ta-height><mr-top>2.7</mr-top><mr-left>1.5</mr-left><mr-right>3.0</mr-right><mr-bottom>5.0</mr-bottom><mr-info>Text I-1; Psalter AM-015β: all data for fol.</mr-info></taunit>
-<taunit xml:lang="en" inherited="0"><mr-top>2.0</mr-top><mr-left>1.0</mr-left><mr-col2>1.6</mr-col2><mr-right>1.0</mr-right><mr-bottom>3.0</mr-bottom><mr-info>Fols. 115r-116v (Wängelä Yoḥannəs)</mr-info></taunit>
-<taunit xml:lang="en" inherited="0"><mr-top>2.0</mr-top><mr-left>1.0</mr-left><mr-col2>1.25</mr-col2><mr-col3>2.25</mr-col3><mr-bottom>4.0</mr-bottom><mr-info>Fols. 177r-180r (Təmḫərtä ḫəbuˀat)</mr-info></taunit>
+<taunit xml:lang="en" inherited="0"><mr-top>2.0</mr-top><mr-left>1.0</mr-left><mr-col2>1.6</mr-col2><mr-right>1.0</mr-right><mr-bottom>3.0</mr-bottom><mr-info>Fols. 115r-116v (Wängelä Yoḥannǝs)</mr-info></taunit>
+<taunit xml:lang="en" inherited="0"><mr-top>2.0</mr-top><mr-left>1.0</mr-left><mr-col2>1.25</mr-col2><mr-col3>2.25</mr-col3><mr-bottom>4.0</mr-bottom><mr-info>Fols. 177r-180r (Tǝmḫǝrtä ḫǝbuʾat)</mr-info></taunit>
 </taunits>
 <ptypeofscripts class="MCRMetaLangText" heritable="false" notinherit="false"><ptypeofscript xml:lang="en" inherited="0" form="plain">17th-18th century</ptypeofscript>
 </ptypeofscripts>
@@ -105,7 +105,7 @@ I. colon &#13;
 II. nine dot asterisk; four dot asterisks (in red, for the titles of the Psalms)&#13;
 III. chain of black and red dots (fol. 160r); doubled nine dot asterisks with two lines in between (fol. 187ra); doubled nine dot asterisks and two lines (fol. 180r).</ppunctuation>
 </ppunctuations>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Titles and numbers of the Psalms; titles of the other texts; incipits and headings; nomina sacra; elements of punctuation signs; abbreviations [esp. in Wəddase Maryam]; ornamental band on fol. 61r over the beginning of Ps. 101; names of Ethiopic letters in Ps. 118; the words አመ፡ ተንሥአ፡ ወአንሥአ፡ ኵሎ፡ ሙታነ፡ አፍቅሮን፡ እስከ፡ አመ፡ ፈቀደ ።</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Titles and numbers of the Psalms; titles of the other texts; incipits and headings; nomina sacra; elements of punctuation signs; abbreviations [esp. in Wǝddase Maryam]; ornamental band on fol. 61r over the beginning of Ps. 101; names of Ethiopic letters in Ps. 118; the words አመ፡ ተንሥአ፡ ወአንሥአ፡ ኵሎ፡ ሙታነ፡ አፍቅሮን፡ እስከ፡ አመ፡ ፈቀደ ።</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The traditional titles of the Pss. are not present.</otherdetail>
 </otherdetails>
@@ -113,7 +113,7 @@ III. chain of black and red dots (fol. 160r); doubled nine dot asterisks with tw
 BritMus Orient. 12467 (1660), fols. 8r-129r (StrBritLib 22, no. 17 [s. also nos. 18-25]);&#13;
 JRyM Ethiopian 5 (18th cent.), fols. 4r-163vb (StrJRyM 7-9, no. 5 and pl. 8)</mss><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink><text>Editions:&#13;
 K. STOFFREGEN-PEDERSEN, Traditional Biblical Exegesis of the Book of Psalms, Wiesbaden 1995 (AeF 36);&#13;
-TÄSFA GÄBRÄ ŚƏLLASE zä-bəḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫaləyä Sälomon, wəddase Maryam məslä anqäṣä bərhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
+TÄSFA GÄBRÄ ŚǝLLASE zä-bǝḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫalǝyä Sälomon, wǝddase Maryam mǝslä anqäṣä bǝrhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
 J.A.B. DORN, De Psalterio Aethiopico commentario, Lipsiae 1825;&#13;
 EAE IV, “Psalter”;&#13;
 M. KNIBB, Translating the Bible. The Ethiopic Version of the Old Testament, Oxford 1999 (The Schweich Lectures of the British Academy 1995), 46–52; &#13;
@@ -323,7 +323,7 @@ div.WordSection1&#13;
 BritMus Orient. 12467 (1660), fols. 8r-129r (StrBritLib 22, no. 17 [s. also nos. 18-25]);&#13;
 JRyM Ethiopian 5 (18th cent.), fols. 4r-126r (StrJRyM 7-9, no. 5 and pl. 8)</mss><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink><text>Editions:&#13;
 K. STOFFREGEN-PEDERSEN, Traditional Biblical Exegesis of the Book of Psalms, Wiesbaden 1995 (AeF 36);&#13;
-TÄSFA GÄBRÄ ŚƏLLASE zä-bəḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫaləyä Sälomon, wəddase Maryam məslä anqäṣä bərhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
+TÄSFA GÄBRÄ ŚǝLLASE zä-bǝḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫalǝyä Sälomon, wǝddase Maryam mǝslä anqäṣä bǝrhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
 J.A.B. DORN, De Psalterio Aethiopico commentario, Lipsiae 1825;&#13;
 EAE IV, “Psalter”;&#13;
 M. KNIBB, Translating the Bible. The Ethiopic Version of the Old Testament, Oxford 1999 (The Schweich Lectures of the British Academy 1995), 46–52; &#13;
@@ -364,7 +364,7 @@ B. TURAEV, “Iz efiopskoj otrečonnoj literatury. I. Psalmy kak zagovory” (�
 BritMus Orient. 12467 (1660), fols. 8r-129r (StrBritLib 22, no. 17 [s. also nos. 18-25]);&#13;
 JRyM Ethiopian 5 (18th cent.), fols. 4r-126r (StrJRyM 7-9, no. 5 and pl. 8)</mss><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink><text>Editions:&#13;
 K. STOFFREGEN-PEDERSEN, Traditional Biblical Exegesis of the Book of Psalms, Wiesbaden 1995 (AeF 36);&#13;
-TÄSFA GÄBRÄ ŚƏLLASE zä-bəḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫaləyä Sälomon, wəddase Maryam məslä anqäṣä bərhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
+TÄSFA GÄBRÄ ŚǝLLASE zä-bǝḥerä Bulga, Mäzmurä Dawit. Ṡälotatä näbiyat, wä- mäḫalǝyä Sälomon, wǝddase Maryam mǝslä anqäṣä bǝrhan…, Addis Abäba 1991 (and other editions).</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>M.S. DEVENS, A Concordance to Psalms in the Ethiopic Version, Wiesbaden 2001 (AeF 59);&#13;
 J.A.B. DORN, De Psalterio Aethiopico commentario, Lipsiae 1825;&#13;
 EAE IV, “Psalter”;&#13;
 M. KNIBB, Translating the Bible. The Ethiopic Version of the Old Testament, Oxford 1999 (The Schweich Lectures of the British Academy 1995), 46–52; &#13;

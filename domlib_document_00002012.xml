@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sinodos "Senodos"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sinodos (fols. 2ra-105vb), incomplete &#13;
-I-1) Statutes or Commandments (təˀəzazat) of the Apostles (fols. 2ra-2vb, 6ra-11vb, 18ra-18vb, 20ra-26vb, 54ra-54vb, 76ra-80vb, 82ra-82vb, 105ra-105vb), incomplete &#13;
+I-1) Statutes or Commandments (tǝʾǝzazat) of the Apostles (fols. 2ra-2vb, 6ra-11vb, 18ra-18vb, 20ra-26vb, 54ra-54vb, 76ra-80vb, 82ra-82vb, 105ra-105vb), incomplete &#13;
 I-2) Canons of the Council of Nicaea (20) (fols. 3ra-3vb, 12ra-12vb, 14ra-14va [explicit]), incomplete &#13;
 I-3) Canons of the Council of Nicaea (84) (fols. 4ra-4vb, 13ra-rb, 14va [incipit]-17vb, 27ra-28rb [explicit], 29ra-34vb), incomplete&#13;
 I-4) Exposition and admonition to believers on wise conduct (fols. 5ra-5vb, 57va [incipit]-63vb, 99ra-100vb), incomplete&#13;
@@ -39,9 +39,9 @@ Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub20"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1400</fdating>
 </fdatings>
@@ -118,7 +118,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 1r-v: G&amp;#228;dl&amp;#228; s&amp;#228;ma&amp;#705;tat, Vitae of Saints and Martyrs, fragment (incipit page of the Vita of Hernewos).&lt;/p&gt;</cont><det>The leaf originates from the 15th-cent. manuscript AQG-005.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 19r-v: G&amp;#228;dl&amp;#228; s&amp;#228;ma&amp;#705;tat, Vitae of Saints and Martyrs, fragment.&lt;/p&gt;</cont><det>The leaf originates from the 15th-cent. manuscript AQG-005. It contains the colophon mentioning 6955 year of mercy (= 1463 A.D.) as the date of completion of the writing, and ˀabunä Ṗeṭros as the commissioner. The colophon is preceded by an extensive (historiographic?) note (fol. 19r) mentioning Metropolitan Gäbrәˀel (who arrived in Ethiopia in 1438 and died possibly in 1458, s. EAE II, 632).</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 19r-v: G&amp;#228;dl&amp;#228; s&amp;#228;ma&amp;#705;tat, Vitae of Saints and Martyrs, fragment.&lt;/p&gt;</cont><det>The leaf originates from the 15th-cent. manuscript AQG-005. It contains the colophon mentioning 6955 year of mercy (= 1463 A.D.) as the date of completion of the writing, and ʾabunä Ṗeṭros as the commissioner. The colophon is preceded by an extensive (historiographic?) note (fol. 19r) mentioning Metropolitan Gäbrәʾel (who arrived in Ethiopia in 1438 and died possibly in 1458, s. EAE II, 632).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 106r-v: G&amp;#228;dl&amp;#228; s&amp;#228;ma&amp;#705;tat, Vitae of Saints and Martyrs, fragment.&lt;/p&gt;</cont><det>The leaf originates from the 15th-cent. manuscript AQG-005.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Unclear note (possibly a directive for the minister): fol. 35v.</extra>

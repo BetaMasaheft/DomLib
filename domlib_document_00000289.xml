@@ -11,18 +11,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” / Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” / Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 5ra-87va)&#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 13 miracles (fols. 87va-109vb).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 5ra-87va)&#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 13 miracles (fols. 87va-109vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabəḥer; Wälättä Giyorgis; Gäbrä ˀArägawi; Wälättä Krəstos; Gäbrä Mikaˀel; Wälättä ˀArägawi; Gäbrä Mädḫən; Gäbrä Śəllase; Ḫaylä Maryam; Wälättä Gäbrəˀel; Wäldä Gäbrəˀel (s. fol. 109va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer; Wälättä Giyorgis; Gäbrä ʾArägawi; Wälättä Krǝstos; Gäbrä Mikaʾel; Wälättä ʾArägawi; Gäbrä Mädḫǝn; Gäbrä Śǝllase; Ḫaylä Maryam; Wälättä Gäbrǝʾel; Wäldä Gäbrǝʾel (s. fol. 109va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -87,10 +87,10 @@ Two pairs of sewing stations.</binding>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures><incipit>&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/p&gt;</incipit></desccontent>
 </desccontents>
 <miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 1v: Angel.</info></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 2r: St. Gäbrä Mänfäs Qəddus.</info></miniature>
+<miniature xml:lang="en" inherited="0"><info>Fol. 2r: St. Gäbrä Mänfäs Qǝddus.</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 3v. Donor (?).</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Forl. 4r: Virgin with her Child.</info></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 110r: St. Gäbrä Mänfäs Qəddus (?).</info></miniature>
+<miniature xml:lang="en" inherited="0"><info>Fol. 110r: St. Gäbrä Mänfäs Qǝddus (?).</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 110v: Angel.</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 111r: Angel.</info></miniature>
 </miniatures>

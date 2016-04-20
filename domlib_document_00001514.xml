@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following text: &#13;
-I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-173ra)&#13;
+I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-173ra)&#13;
 I-1) Introduction (fols. 3ra-5ra)&#13;
 I-2) Eve of Palm Sunday (fols. 5ra-7va)&#13;
 I-3) Palm Sunday (fols. 7va-14ra)&#13;
@@ -31,14 +31,14 @@ I-7) Thursday (fols. 62va-83rb)&#13;
 - Day hours (fols. 64ra-83rb)&#13;
 I-8) Friday (fols. 83rb-163rb)&#13;
 - Night hours (fols. 83rb-99vb) &#13;
-- Day hours (fols. 99vb-163rb), including: Mäḥaləyä mäḥaləy “Song of Songs” (fols. 146v-149r);´Raˀəyä Yoḥannəs “Revelation of John” (fols. 151ra-162vb)&#13;
+- Day hours (fols. 99vb-163rb), including: Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 146v-149r);´Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 151ra-162vb)&#13;
 I-9) Saturday (fols. 163rb-176ra)&#13;
-- Night hours (fols. 163rb-174ra), including: Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 174rb-175vb)  &#13;
+- Night hours (fols. 163rb-174ra), including: Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 174rb-175vb)  &#13;
 I-10) Homilies on Passion of Christ (fols. 176ra-204r) &#13;
 - Homily by Ephrem on Satan and on the death (fols. 176ra-179rb)&#13;
 - Homily by Ephrem on Passion of Our Lord and on the thief on the right hand (fols. 179rb-181va) &#13;
 - Homily by Jaqob of Serug on the angel and the thief (fols. 181va-186vb) &#13;
-- Homily by ˀAnǝsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 186vb-191va) &#13;
+- Homily by ʾAnǝsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 186vb-191va) &#13;
 - Homily by John Chrysostom on the Passion of Our Lord (fols. 191va-194rb) &#13;
 I-11) Mäṣḥafä dorho “Book of the Cock” ( (fols. 194rb-204r)&#13;
 &#13;
@@ -139,7 +139,7 @@ The bottom line is written above the ruling.</ruling>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting is characterized by letters of small size; the width of the letters is larger than their height.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines on fol. 3r; titles of the Biblical books and other works; directives for the ministers or their abbreviations; names of Hebrew letters on fols. 128r-129v (Lam. 3); the words ḫayləyä (Text I-3), nastäbäqqwəˁakä or its abbreviation (Text I-7), məˁəraf (fol. 113ra, Text I-8), qädami (fol. 123va, Text I-8), ṣälləyu (Text I-8), ˀəgziˀo täśähalännä (fol.  175vb, Text I-9), several words in “Təmḫərtä ḫəbuˀat” (Text I-9); quire mark on fol. 2r or elements of it on fol. 173v; elements of the punctuation signs; elements of the text dividers; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings and incipits of the texts, their sections and subsections; a few lines are rubricated alternating with black lines on fol. 3r; titles of the Biblical books and other works; directives for the ministers or their abbreviations; names of Hebrew letters on fols. 128r-129v (Lam. 3); the words ḫaylǝyä (Text I-3), nastäbäqqwǝʿakä or its abbreviation (Text I-7), mǝʿǝraf (fol. 113ra, Text I-8), qädami (fol. 123va, Text I-8), ṣällǝyu (Text I-8), ʾǝgziʾo täśähalännä (fol.  175vb, Text I-9), several words in “Tǝmḫǝrtä ḫǝbuʾat” (Text I-9); quire mark on fol. 2r or elements of it on fol. 173v; elements of the punctuation signs; elements of the text dividers; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይሕ፡ for ይብል፡ ሕዝብ፡&#13;
 ይካ፡ for ይብል፡ ካህን፡ &#13;
@@ -159,7 +159,7 @@ normal"&gt;&lt;span style="font-size: small;"&gt; &lt;/span&gt;&lt;/div&gt;</co
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts of hymns for the Good Friday (?) added in the upper margins of fols. 122v, 123r, 123v, 127v, 128r.&#13;
 - Crude notes written in blue, red pen and pencil on fols 4r, 33v, 34v, 51r, 52r, 53v, 55v, 103, 148v, 154v, 171v, 173v.&#13;
-- The words ˀəläf kämäḉärräšaw are written, framed by dots, in the margin between columns on fol. 13r.&#13;
+- The words ʾǝläf kämäḉärräšaw are written, framed by dots, in the margin between columns on fol. 13r.&#13;
 - Numbers (?) are added between columns on fols 37v, 44r, 49v and in the left margin of fol. 76r.&#13;
 - Tämälläs-signs (in the shape of +) indicating the place where the omissions, written in the margin, or interlineally, belong: fols. 28r, 33r. &#13;
 - Immediate corrections marked by thin lines below words (e.g. fols. 32ra, 54va, 63vb, 84va, 113vb) and by thin lines above (fol. 128vb).&#13;

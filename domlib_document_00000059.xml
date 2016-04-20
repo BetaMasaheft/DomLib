@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 4ra-118rb)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 4ra-6va)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäkki... "I worship Thee..." (fols. 6va-7rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 4ra-118rb)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 4ra-6va)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäkki... "I worship Thee..." (fols. 6va-7rb)&#13;
 I-3) Introductory exhortation and hymns (fols. 7rb-9ra)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 151 miracles (fols. 9ra-118rb)</shortcontent>
+I-4) Täʾamrä Maryam "Miracles of Mary": 151 miracles (fols. 9ra-118rb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas throughout the Ms. (s. also concluding formula on fol. 118rb): Gäbrä Giyorgis and Wälättä Mäsqäl, Gäbrä Mikaˀel, Kəflä Maryam and Wälättä Śǝllase, Wälättä Haymanot, Gäbrä Qiroqos, Gäbrä Mädḫən, Wälättä Kidan.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas throughout the Ms. (s. also concluding formula on fol. 118rb): Gäbrä Giyorgis and Wälättä Mäsqäl, Gäbrä Mikaʾel, Kǝflä Maryam and Wälättä Śǝllase, Wälättä Haymanot, Gäbrä Qiroqos, Gäbrä Mädḫǝn, Wälättä Kidan.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -108,13 +108,13 @@ Ornamental band (s. fol. 07rb).</ppunctuation>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Throughout the Ms.:&#13;
 ለ(ዓ)፡ ዓ(ለ)፡ አ፡ for ለዓለመ፡ ዓለም፡ አሜን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 includes excerpts from Säˁatat zä-lelit  “Horologium for the Night” (fols. 5va-6rb, with the hymn:&#13;
-Sälam läki ḫoḫətä məśraq... “Salutation to you, Threshold of the East…”, fol. 6ra).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 includes excerpts from Säʿatat zä-lelit  “Horologium for the Night” (fols. 5va-6rb, with the hymn:&#13;
+Sälam läki ḫoḫǝtä mǝśraq... “Salutation to you, Threshold of the East…”, fol. 6ra).&#13;
 &#13;
 Text I-3 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəlt bä-kəlˀe Maryam... "O my Holy Lady Mary and Two-fold Virgin..." (fol. 8rb-va)&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam ˀəmmu lä-ˀIyäsus Krǝstos kähali... "O my Lady, Mary, Mother of Jesus Christ, the Almighty..." (fol. 8va-) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan... "Salutation to you, o my Lady Mary, Mother of the Saviour and Mother of the Light..." (fols. 8va-9ra).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝlt bä-kǝlʾe Maryam... "O my Holy Lady Mary and Two-fold Virgin..." (fol. 8rb-va)&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam ʾǝmmu lä-ʾIyäsus Krǝstos kähali... "O my Lady, Mary, Mother of Jesus Christ, the Almighty..." (fol. 8va-) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan... "Salutation to you, o my Lady Mary, Mother of the Saviour and Mother of the Light..." (fols. 8va-9ra).&#13;
 &#13;
 The miracles of Text I-4 are numbered.</otherdetail>
 </otherdetails>

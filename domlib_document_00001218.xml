@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” the second half of the year (fols. 3ra-142va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” the second half of the year (fols. 3ra-142va)&#13;
 I-1) Mäggabit (fols. 3ra-37vb)&#13;
 I-2) Miyazya (fols. 38ra-58vb)&#13;
-I-3) Gənbot (fols. 59ra-76vc)&#13;
+I-3) Gǝnbot (fols. 59ra-76vc)&#13;
 I-4) Säne (fols. 77ra-92rc)&#13;
 I-5) Ḥamle (fols. 93ra-120vc)&#13;
 I-6) Näḥase (fols. 121ra-137va)&#13;
-I-7) Ṗagwəmen (fols. 137vb-142va)&#13;
-- Zä-ˀaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 142va&#13;
+I-7) Ṗagwǝmen (fols. 137vb-142va)&#13;
+- Zä-ʾaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 142va&#13;
 - Postscript: fol. 142vab&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-2; colophon.</shortcontent>
 </shortcontents>
@@ -36,13 +36,13 @@ Additiones 1-2; colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Ḫaylä Maryam is mentioned as the scribe in the colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Ḫəywät (šum ˀagame Dästa or däǧǧazmač Dästa Səbḥat) is mentioned as the donor in Additio 1.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Ḫǝywät (šum ʾagame Dästa or däǧǧazmač Dästa Sǝbḥat) is mentioned as the donor in Additio 1.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1908</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Däǧǧazmač Dästa Səbḥat (d. 1908) is mentioned as donor in Additio 2.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Däǧǧazmač Dästa Sǝbḥat (d. 1908) is mentioned as donor in Additio 2.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -117,11 +117,11 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Extremely strong hairlines for all letters, to the extant that some signs are hardly distinguishable, such as ሸ and ሰ, or ች and ት.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra, the word sälam; four sets of red lines on the incipit pages of the months Mäggabit, Ḥamle, Näḥase; three sets of red lines on the incipit pages of the months Miyazya, Gənbot, Säne; two red lines on the incipit page of Ṗagwəmen; one or two initial lines of each commemorative notice; elements of the punctuation signs and of the text dividers; elements of Ethiopian numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra, the word sälam; four sets of red lines on the incipit pages of the months Mäggabit, Ḥamle, Näḥase; three sets of red lines on the incipit pages of the months Miyazya, Gǝnbot, Säne; two red lines on the incipit page of Ṗagwǝmen; one or two initial lines of each commemorative notice; elements of the punctuation signs and of the text dividers; elements of Ethiopian numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- A prayer to be recited after the reading on fol. 142va: ዘአቅረብኩ᎓ ማኅሌተ᎓ አዘኪርየ᎓ አዕላፈ። እምእለ᎓ ተጸምዱከ᎓ ዘልፈ… &#13;
 Written in the same hand as the main text.&#13;
-This prayer Zä-ˀaqräbku maḫletä... is often recited after Synaxarion readings. The same prayer can be found in Mss. DD-037, FBM-007, MR-041, FBM-007.&#13;
+This prayer Zä-ʾaqräbku maḫletä... is often recited after Synaxarion readings. The same prayer can be found in Mss. DD-037, FBM-007, MR-041, FBM-007.&#13;
 - Postscript in fol. 142va: ለዛቲ፡ መጽሐፍ፡ ስንክሳር፡ ዜና፡ መላእክት፡ ትጉሐን፨ ወተዝካረ፡ ነቢያት፡ ቅዱሳን፨ ወሰብከተ፡ ሐዋርያት፡ ፍጹማን፨ ወገድለ፡ ሰማዕታት፡ መዋዕይን። ወተዝካረ፡ ኵሎሙ፡ ጻድቃን፨ …&#13;
 Written in the same hand as the main text.</otherdetail>
 </otherdetails>
@@ -132,9 +132,9 @@ Written in the same hand as the main text.</otherdetail>
 &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>The colophon is rhymed. Ḫaylä Maryam is mentioned as the scribe.</det></colophon>
 </colophons>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:&amp;#10;justify;line-height:normal"&gt;&lt;span unicode="" style="font-size:10.0pt;Arial"&gt;Fol. 142vc: Donation note&lt;/span&gt;.&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 142vc:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4824;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4656;&amp;#4704;&amp;#4843;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4624;&amp;#4707;&amp;#4961; &amp;#4665;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4875;&amp;#4636;&amp;#4961; &amp;#4848;&amp;#4661;&amp;#4723;&amp;#4968; &amp;#4808;&amp;#4768;&amp;#4969;&amp;#4961; &amp;#4661;&amp;#4633;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4629;&amp;#4845;&amp;#4808;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4725;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4611;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4961; &amp;#4961; &amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:115%;Arial Unicode MS"&gt; &lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 142vc: This is the book of (the church of) &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Maryam &lt;/span&gt;&lt;/span&gt;S&amp;#228;b&amp;#228;ya that &amp;#353;um &amp;#704;agame D&amp;#228;sta donated, a&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;nd one (of his) name(s) is G&amp;#228;br&amp;#228; &amp;#7716;&amp;#601;yw&amp;#228;t, so that it might be for him a guide to the Kingdom of Heaven.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>Written in red and black, in a recent hand.&#13;
-The full name of the mentioned donor (šum ˀagame Dästa) is däǧǧazmač Dästa Səbḥat (d. 1908 A.D., s. EAE II, 106), who also built a residence in Säbäya. His baptismal name, Gäbrä Ḥəywät, is written in some of the supplication formulas in pencil or pen.</det></additional>
+The full name of the mentioned donor (šum ʾagame Dästa) is däǧǧazmač Dästa Sǝbḥat (d. 1908 A.D., s. EAE II, 106), who also built a residence in Säbäya. His baptismal name, Gäbrä Ḥǝywät, is written in some of the supplication formulas in pencil or pen.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size:10.0pt;Arial" unicode=""&gt;Fols. 142vc-143rc: Land donation note.&lt;/span&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 142vc:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4978;&amp;#4977; &amp;#4768;&amp;#4632;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4629;&amp;#4648;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961;&amp;#160;&amp;#4617;&amp;#4675;&amp;#4661;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:115%;Arial Unicode MS"&gt; &amp;#8230;&lt;/span&gt;&lt;/p&gt;</add><det>Recent, crudely written in red, in Amharic, barely legible. The record concerns gwəlt-land. The date indicated is 1919 A.M. (= 1926/27 A.D.). Däbrä Maˀṣo (Qəddus Yoḥannəs) is mentioned on fol. 143rb, l.11 from the bottom.</det></additional>
+&lt;p&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 142vc:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4978;&amp;#4977; &amp;#4768;&amp;#4632;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4629;&amp;#4648;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961;&amp;#160;&amp;#4617;&amp;#4675;&amp;#4661;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:115%;Arial Unicode MS"&gt; &amp;#8230;&lt;/span&gt;&lt;/p&gt;</add><det>Recent, crudely written in red, in Amharic, barely legible. The record concerns gwǝlt-land. The date indicated is 1919 A.M. (= 1926/27 A.D.). Däbrä Maʾṣo (Qǝddus Yoḥannǝs) is mentioned on fol. 143rb, l.11 from the bottom.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Numerous spaces for rubrication are left unfilled throughout the Ms.&#13;
 - Scribbles and doodles: fols. 1r, 8v, 69v, 94r, 123vc, 146v.</extra>

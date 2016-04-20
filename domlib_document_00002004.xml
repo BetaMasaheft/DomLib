@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Anaphora of Our Lady by St. Cyriacus of Behnesa / Täˀamrä Maryam "Miracles of Mary"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Anaphora of Our Lady by St. Cyriacus of Behnesa / Täʾamrä Maryam "Miracles of Mary"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 3r-29r)&#13;
-II) Täˀamrä Maryam "Miracles of Mary": 1 miracles (fols. 29r-30v)&#13;
+II) Täʾamrä Maryam "Miracles of Mary": 1 miracles (fols. 29r-30v)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1881</fdating>
 </fdatings>

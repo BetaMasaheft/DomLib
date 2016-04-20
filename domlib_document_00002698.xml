@@ -11,16 +11,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Täˀamrä Mikaˀel “Miracles of Michael” / Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Täʾamrä Mikaʾel “Miracles of Michael” / Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary" (fols. 3ra-72va)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah and hymns (fol. 3ra-7rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary" (fols. 3ra-72va)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah and hymns (fol. 3ra-7rb)&#13;
 I-2) Introductory exhortation (fols. 7va-8vb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fols. 8vb-9vb)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: 66 miracles (fols. 10ra-72va)&#13;
-I-5) ˀAkkonu bəˀəsi... “Does not the man... ” (distributed among the miracles of Mary, fols. 12rb-18rb, 66rb-68va)&#13;
-II) Täˀamrä Mikaˀel “Miracles of Michael”: 5 miracles (fols. 72vb-76rb)&#13;
-III) Täˀamrä ˀIyasus “Miracles of Jesus”: 5 miracles (fols. 76va-80vb)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fols. 8vb-9vb)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: 66 miracles (fols. 10ra-72va)&#13;
+I-5) ʾAkkonu bǝʾǝsi... “Does not the man... ” (distributed among the miracles of Mary, fols. 12rb-18rb, 66rb-68va)&#13;
+II) Täʾamrä Mikaʾel “Miracles of Michael”: 5 miracles (fols. 72vb-76rb)&#13;
+III) Täʾamrä ʾIyasus “Miracles of Jesus”: 5 miracles (fols. 76va-80vb)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
 </shortcontents>
@@ -31,7 +31,7 @@ Additiones 1-5.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000181" xlink:title="Säwnä Maryam / SDSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name ˁAmätä Maryam has been inserted into supplication formulas in a secondary hand (the same that wrote Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name ʿAmätä Maryam has been inserted into supplication formulas in a secondary hand (the same that wrote Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -103,7 +103,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre but regular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists and other characters like Gäbrǝˀel (fols. 10va, 72va); name of the donor (only the second component or a few letters of it); the word sälam “salutation” in Text II; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists and other characters like Gäbrǝʾel (fols. 10va, 72va); name of the donor (only the second component or a few letters of it); the word sälam “salutation” in Text II; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.&#13;
 &#13;
 Several groups of lines on the incipit page of Texts I-1 and I-4, alternating with black lines; a few lines in the incipit of Text I-2; two initial lines of Texts I-3, II and III; initial line of Text I-5; two initial lines of the sections of Texts I-1 (hymns), I-4, II and III (miracles), partly section numbers of Text I-4; initial line or word of each stanza of Text I-5.</rubrication>
 </rubrications>
@@ -116,21 +116,21 @@ Several groups of lines on the incipit page of Texts I-1 and I-4, alternating wi
 ለዓለ፡ ዓለም፡ for ለዓለመ፡ ዓለም፡ አሜን፡ (e.g., fols. 14vb, 17vb)</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles of St. Mary (Text I-4) are partly numbered (erroneously). The 1st miracle is followed by a hymn:&#13;
-- Sobä ṣäḥafä Däqsəyos täˀamriha ˀəludä ... "When Däqsəyos wrote the collection of her miracles ..." (fol. 11va).&#13;
+- Sobä ṣäḥafä Däqsǝyos täʾamriha ʾǝludä ... "When Däqsǝyos wrote the collection of her miracles ..." (fol. 11va).&#13;
 &#13;
-The miracles of Michael (Text II) are followed by ˁarke-hymns.</otherdetail>
+The miracles of Michael (Text II) are followed by ʿarke-hymns.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 9va: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;&lt;span style="font-size: small;"&gt;&lt;span unicode=""&gt;Fol. 9va:&lt;/span&gt;&lt;span&gt; &amp;#4829;&amp;#4757;&amp;#4721;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;&lt;span style="font-size: small;"&gt;&lt;span&gt;&amp;#4961;&lt;/span&gt;&lt;/span&gt; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4739;&amp;#4704;&amp;#4726;&amp;#4961; &amp;#4616;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4656;&amp;#4813;&amp;#4756;&amp;#4961; &amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4611;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4773;&amp;#4661;&amp;#4898;&amp;#4939;&amp;#4758;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4773;&amp;#4635;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4739;&amp;#4722;&amp;#4611;&amp;#4961; &lt;/span&gt;&lt;span&gt;&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</add><det>The note states that the Ms. was donated to the monastery of Däbrä Maryam Säwne. It mentions the name of the donor’s family members but does not reveal the name of the female donor. &#13;
-The note is written in the same hand that inserted the name ˁAmätä Maryam into supplication formulas throughout the Ms.</det></additional>
+The note is written in the same hand that inserted the name ʿAmätä Maryam into supplication formulas throughout the Ms.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;&lt;span style="font-size: small;"&gt;Fol. 9vb: Testament of w&amp;#228;y[z&amp;#228;]ro T&amp;#705;&amp;#601;be Kahsay (?)&lt;/span&gt;&lt;/div&gt;&#13;
 &lt;p&gt;&lt;span style="font-size:9.0pt;Arial" unicode=""&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in Amharic and sealed with signatures and a fingerprint.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 81ra: Excerpt from the hymn &amp;#704;&amp;#601;s&amp;#228;gg&amp;#601;d l&amp;#228;-m&amp;#228;l&amp;#228;kot&amp;#601;k&amp;#228;... &amp;#8220;I worship Thy Godhead&amp;#8230;&amp;#8221;.&lt;/span&gt;&lt;/p&gt;</cont><det>Crudely written.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 81rb-va: S&amp;#228;lam l&amp;#228;ki Maryam d&amp;#601;ng&amp;#601;l z&amp;#228;-m&amp;#228;&amp;#705;aza &amp;#704;afuki kol &amp;#8230; &amp;#8220;Salutation to you Virgin Mary, your mouth is of apple fragrance ...&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-size: small;"&gt;&amp;#8221;&lt;/span&gt; (cp. ChRep no. 91).&lt;/span&gt;&lt;/p&gt;</cont><det>Crudely written.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;&lt;span style="font-size:9.0pt;Arial&amp;quot;,sans-serif;Arial Unicode MS&amp;quot;;"&gt;Fol. 84r: Unclear note.&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="color: red;"&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><det>The note is written in Amharic and Təgrəñña (?) and sealed with signatures and two fingerprints.</det></additional>
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><det>The note is written in Amharic and Tǝgrǝñña (?) and sealed with signatures and two fingerprints.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fol. 83rv (included in quire B) contains an excerpt from the Psalter (Pss. 132-133), in the main hand.&#13;
 - Spaces for rubricated names of the donors are frequently left unfilled: fols. 7va, 11va, 15vb, 19rb etc.&#13;

@@ -18,15 +18,15 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000230" xlink:title="Tägoga Däbrä Nazret Qəddus Yoḥannəs / TNY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000230" xlink:title="Tägoga Däbrä Nazret Qǝddus Yoḥannǝs / TNY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000230" xlink:title="Tägoga Däbrä Nazret Qəddus Yoḥannəs / TNY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000230" xlink:title="Tägoga Däbrä Nazret Qǝddus Yoḥannǝs / TNY"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Ḥaylä Maryam</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Additio 1 mentions ˀabunä Ḥaylä Maryam as the scribe. His name has been also added into the concluding supplication formula on fol. 52ra, in the main hand, in strong vermilion.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Additio 1 mentions ʾabunä Ḥaylä Maryam as the scribe. His name has been also added into the concluding supplication formula on fol. 52ra, in the main hand, in strong vermilion.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 1, the donor of the book is ˀabba Ḥaylä Mikaˀel and the commissioner is Getayä Šäte. The name of ˀabba Ḥaylä Mikaˀel has been also added into the supplication formula on fol. 3ra, interlineally on fols. 19vb, 26va, 35va, 40va and into the concluding supplication formula on fol. 52ra, in the main hand, in strong vermilion.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 1, the donor of the book is ʾabba Ḥaylä Mikaʾel and the commissioner is Getayä Šäte. The name of ʾabba Ḥaylä Mikaʾel has been also added into the supplication formula on fol. 3ra, interlineally on fols. 19vb, 26va, 35va, 40va and into the concluding supplication formula on fol. 52ra, in the main hand, in strong vermilion.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1950</fdating>
 </fdatings>
@@ -96,7 +96,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 2va: Donation note. &lt;/span&gt;&lt;span style="font-size: 14pt;"&gt; &lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 2va: &lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 14pt;"&gt;ዛቲ፡ መጽሐፍ፡ ዘአባ፡ ኃይለ፡ ሚካኤል፡ ዘወሀቦ፡ ለዮሐንስ፡ ዘደብረ፡ ናዝሬት፡ ወዘአጽሐፎ፡ ጌታየ፡ ሸቴ፡ ወጸሐፊሁ፡ ኃጥእ፡ አቡነ፡ ኃይለ፡ ማርም&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt;"&gt;[sic]&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the main hand. It states that the Ms. belongs to ˀabba Ḥaylä Mikaˀel who donated it to the church of Yoḥannəs of Däbrä Nazret. The book was commissioned by Getayä Šäte and was written by ˀabunä Ḥaylä Maryam.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 2va: Donation note. &lt;/span&gt;&lt;span style="font-size: 14pt;"&gt; &lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 2va: &lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 14pt;"&gt;ዛቲ፡ መጽሐፍ፡ ዘአባ፡ ኃይለ፡ ሚካኤል፡ ዘወሀቦ፡ ለዮሐንስ፡ ዘደብረ፡ ናዝሬት፡ ወዘአጽሐፎ፡ ጌታየ፡ ሸቴ፡ ወጸሐፊሁ፡ ኃጥእ፡ አቡነ፡ ኃይለ፡ ማርም&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt;"&gt;[sic]&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the main hand. It states that the Ms. belongs to ʾabba Ḥaylä Mikaʾel who donated it to the church of Yoḥannǝs of Däbrä Nazret. The book was commissioned by Getayä Šäte and was written by ʾabunä Ḥaylä Maryam.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">-	Omitted letters or words are inserted interlineally, in ink or in pen: fols. 4rb, 5rb, 7vb, 16rb, 19rb, 21ra, 22ra, 25va, 33ra, 36va, 39vb, 47v, 51rb. &#13;
 -	Illegible note in pencil: fol. 1r.</extra>

@@ -14,7 +14,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 3ra, l.1 – 20ra, l.11)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 20ra, l.12 – 44vb, l.17)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 20ra, l.12 – 44vb, l.17)&#13;
 III) Anaphoras (fols. 45ra – 144vb)&#13;
 III-1) Anaphora of the Apostles (fols. 45ra, l.1 – 57rb, l.10)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 57rb, l.11 – 61ra, l.3)&#13;
@@ -45,7 +45,7 @@ Additiones 1-5.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1889</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">In a few cases (e.g., fol. 11ra, ll.5-7) ˀabba Ṗeṭros is mentioned as the metropolitan (1881-1917) and ˀabba Luqas as the bishop (1881-ca. 1901). On fol. 11ra, l.17 both Yoḥannǝs (1872-89) and Mǝnilǝk (1878-89 king of Šäwa; 1889-1913 emperor; here spelt Mǝnyǝlǝk, with the superscript last letter) are mentioned as kings.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">In a few cases (e.g., fol. 11ra, ll.5-7) ʾabba Ṗeṭros is mentioned as the metropolitan (1881-1917) and ʾabba Luqas as the bishop (1881-ca. 1901). On fol. 11ra, l.17 both Yoḥannǝs (1872-89) and Mǝnilǝk (1878-89 king of Šäwa; 1889-1913 emperor; here spelt Mǝnyǝlǝk, with the superscript last letter) are mentioned as kings.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -128,9 +128,9 @@ Hand b: quire XVI.</pchangeofhand>
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 1r: Calendar notes.&lt;/span&gt;&lt;/p&gt;</cont><det>A mixture of Gǝˁǝz and Amharic; written in violet ink.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 2ra, l.1 &amp;#8211; 2rb, l.4: Prayer (plea to God for the salvation of his servant Kidan&amp;#228; Maryam).&lt;/span&gt;&lt;/p&gt;</cont><det>The text consists mostly of enumeration of various biblical personages saved by God from their enemies. After erroneously mentioning the salvation of Noah from Sodom and Gomorra, the scribe has drawn a line and begun writing the text anew. For the most part the text is in Amharic, with only the opening and the concluding supplications in Gǝˁǝz.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 2rb, l.5 &amp;#8211; 2vb: &amp;#704;Asmat-prayer.&lt;/span&gt;&lt;/p&gt;</cont><det>In violet ink. Various ˀasmat are invoked, to protect the cattle of ˀabunä Wäldä Tǝnśaˀe.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 1r: Calendar notes.&lt;/span&gt;&lt;/p&gt;</cont><det>A mixture of Gǝʿǝz and Amharic; written in violet ink.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 2ra, l.1 &amp;#8211; 2rb, l.4: Prayer (plea to God for the salvation of his servant Kidan&amp;#228; Maryam).&lt;/span&gt;&lt;/p&gt;</cont><det>The text consists mostly of enumeration of various biblical personages saved by God from their enemies. After erroneously mentioning the salvation of Noah from Sodom and Gomorra, the scribe has drawn a line and begun writing the text anew. For the most part the text is in Amharic, with only the opening and the concluding supplications in Gǝʿǝz.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fol. 2rb, l.5 &amp;#8211; 2vb: &amp;#704;Asmat-prayer.&lt;/span&gt;&lt;/p&gt;</cont><det>In violet ink. Various ʾasmat are invoked, to protect the cattle of ʾabunä Wäldä Tǝnśaʾe.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 10pt; line-height: 115%"&gt;Fols. 144vb, l.4 &amp;#8211; 146ra, l.4.: Poem in praise of the Virgin Mary.&lt;/span&gt;&lt;/p&gt;</cont><det>A supplication for St. Mary to intercede for Gäbrä Ḥǝywät and other believers is added (fol. 146ra, ll.5-12).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal"&gt;&lt;span style="font-size: 10pt"&gt;Fol. 136vb, l.4: Donation note.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;!--[if gte mso 10]&gt;&#13;
 &lt;style&gt;&#13;

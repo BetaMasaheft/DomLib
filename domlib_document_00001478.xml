@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” / Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” / Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 3ra-75rb) &#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 13 miracles (fols. 75rb-95ra).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 3ra-75rb) &#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 13 miracles (fols. 75rb-95ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Maryam</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe’s name, Wäldä Maryam, is mentioned in supplication formulas on fols. 16ra, 36vb, 40vb, 57va, 77ra, 85rb, 94va.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor, Wäldä Maryam, is mentioned in supplication formulas throughout the Ms. (e.g., fols. 16ra, 24vb, 36vb, 40vb, 57va, 62ra, 85rb, 94va); also his wife, ˀAmätä Maryam, (fols. 16ra, 36vb, 40vb, 57va, 77ra, 85rb, 94va) and ˀAmätä ˀƎgziˀabəḥer (fols. 16ra, 24vb, 43rb, 57va, 62ra, 77ra, 94va) are mentioned. The name of ˀAmätä ˀƎgziˀabəḥer has been added later interlineally.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor, Wäldä Maryam, is mentioned in supplication formulas throughout the Ms. (e.g., fols. 16ra, 24vb, 36vb, 40vb, 57va, 62ra, 85rb, 94va); also his wife, ʾAmätä Maryam, (fols. 16ra, 36vb, 40vb, 57va, 77ra, 85rb, 94va) and ʾAmätä ʾƎgziʾabǝḥer (fols. 16ra, 24vb, 43rb, 57va, 62ra, 77ra, 94va) are mentioned. The name of ʾAmätä ʾƎgziʾabǝḥer has been added later interlineally.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -113,15 +113,15 @@ On some fols. the ruling is additionally executed in pencil: e.g., fols. 24r, 25
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Monthly readings are indicated by the names of the months written in the upper margin: &#13;
 zä-Mäggabit: fol. 3ra &#13;
 zä-Miyazya: fol. 16rb &#13;
-Gənbot: fol. 25ra &#13;
+Gǝnbot: fol. 25ra &#13;
 zä-Säne: fol. 36vb &#13;
 Ḥamle: fol. 40vb &#13;
 zä-Näḥase: fol. 43rb &#13;
 zä-Mäskäräm: fol. 47ra &#13;
-zä-Ṭəqəmt: fol. 51va &#13;
-zä-Ḫədar: fol. 57va &#13;
+zä-Ṭǝqǝmt: fol. 51va &#13;
+zä-Ḫǝdar: fol. 57va &#13;
 Taḥśaś: fol. 62rb &#13;
-Ṭərr: fol. 65va &#13;
+Ṭǝrr: fol. 65va &#13;
 zä-Yäkkatit: fol. 70ra.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-05-29T10:38:43.278Z</servdate><servdate inherited="0" type="modifydate">2014-11-28T14:24:30.977Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">MKrzyzanowska</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MKrzyzanowska</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

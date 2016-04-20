@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase "Missal"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office prayers and litanies  (fols. 3ra-23va)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 23va-48vb)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 23va-48vb)&#13;
 III)  Anaphoras (fols. 49ra-132rb)&#13;
 III-1) Anaphora of the Apostels (fols. 49va-61vb&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 62ra-66ra)&#13;
@@ -32,9 +32,9 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Name of the donor has been omitted in the supplication formulas throuhgout the Ms.</donor>
 </donors>

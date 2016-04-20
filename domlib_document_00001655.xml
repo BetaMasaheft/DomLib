@@ -12,10 +12,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Tǝrgwame mälˀǝktä Ṗawlos ḫabä ˀayhud zä-Yoḥannәs ˀAfä Wärq "Commentary of John Chrysostom on the Epistle of Paul to the Hebrews"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Tǝrgwame mälʾǝktä Ṗawlos ḫabä ʾayhud zä-Yoḥannәs ʾAfä Wärq "Commentary of John Chrysostom on the Epistle of Paul to the Hebrews"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Tǝrgwame mälˀǝktä Ṗawlos ḫabä ˀayhud zä-Yoḥannәs ˀAfä Wärq "Commentary of John Chrysostom on the Epistle of Paul to the Hebrews" (fols. 4ra-315vb)&#13;
-I-1) Zena Yoḥannәs ˀAfä Wärq "The Story of John Chrysostom" (fols. 4ra-8va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Tǝrgwame mälʾǝktä Ṗawlos ḫabä ʾayhud zä-Yoḥannәs ʾAfä Wärq "Commentary of John Chrysostom on the Epistle of Paul to the Hebrews" (fols. 4ra-315vb)&#13;
+I-1) Zena Yoḥannәs ʾAfä Wärq "The Story of John Chrysostom" (fols. 4ra-8va)&#13;
 I-2) Table of contents (fols. 8va-11rb)&#13;
 I-3) Introduction (fols. 11rb-16rb)&#13;
 I-4) The commentary [34 dǝrsanat "homilies" and 34 tägśaṣat "admonitions"] (fols. 18ra-315vb)</shortcontent>
@@ -23,9 +23,9 @@ I-4) The commentary [34 dǝrsanat "homilies" and 34 tägśaṣat "admonitions"] 
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Zǝkrä Maryam has been added to the embedded colophon of the work(fol. 315vb), in a different hand (?). A name has probably been erased on fol. 8va.</donor>
 </donors>
@@ -125,7 +125,7 @@ The bottom line is written above the ruling.</ruling>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-4 ends with an embedded colophon of the work including a note on translation from Arabic:  &#13;
 Fol. 315vb: ተፈጸመ፡ በረድኤተ፡ እግዚአብሔር፡ ልዑል፡ ወሀብተ፡ ጸገሁ፡ ወስብሀቲሁ፡ ትርጓሜ፡ አቡነ፡ ዓቢይ፡ በውስተ፡ ቅዱሳን፡ ዮሐንስ፡ አፈ፡ ወርቅ፡ መልእክተ፡ ጳውሎስ፡ ሐዋርያ፡ ኀበ፡ ሰብአ፡ ዕብራውያን፡ ጸሎቶሙ፡ ወበረከቶሙ፡ ወሀብተ፡ ረድኤቶሙ፡ የሀሉ፡ ምስለ፡ ገብሮሙ፡ ዝክረ፡ ማርያም። ተተርጐመት፡ እምልሳነ፡ ዓረብ፡ ለግዕዝ፡ በአፈ፡ ዕንባቆም፡ ወሚካኤል፡ በ፸፻፲ወ፭ዓመተ፡ ምሕረት። ወእምልደተ፡ ክርስቶስ፡ እግዚእነ፡ ወመድኃኒነ፡ በ፲፻ወ፭፻ዓመት። ወእምዓመተ፡ ሰማዕታትኒ፡ በ፲፻ወ፪፻፴ወ፱ዓመት፡ ወፍፃሜኒ፡ ኮነ፡ በዕለተ፡ ሰኑይ፡ በወርኃ፡ ነሐሴ፡ አሜን።&#13;
-It is stated that the commentary was translated by ˁƎnbaqom and Mikaˀel from Arabic into Gǝˁǝz in the year of mercy 7015 (=1523 A.D.), on Monday in the month of Näḥase. It mentions also the year 1500 after the birth of Jesus Christ and the year 1239 of the martyrs.</otherdetail>
+It is stated that the commentary was translated by ʿƎnbaqom and Mikaʾel from Arabic into Gǝʿǝz in the year of mercy 7015 (=1523 A.D.), on Monday in the month of Näḥase. It mentions also the year 1500 after the birth of Jesus Christ and the year 1239 of the martyrs.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

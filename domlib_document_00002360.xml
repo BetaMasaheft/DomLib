@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Säˁatat zä-lelit wä-zä-nägh “Horologium for the Night and the Morning Hours”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Säʿatat zä-lelit wä-zä-nägh “Horologium for the Night and the Morning Hours”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Säˁatat zä-lelit wä-zä-nägh “Horologium for the Night and the Morning Hours” (fols. 2r-63r): &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Säʿatat zä-lelit wä-zä-nägh “Horologium for the Night and the Morning Hours” (fols. 2r-63r): &#13;
 I-1) Introductory prayers and hymns (fols. 2r-17r l.10)&#13;
 I-2) Readings (fols. 17r l.10-21v l.12)&#13;
 I-3) Principal prayers and hymns (fols. 21v l.13-63r)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -93,9 +93,9 @@ On the incipit page of Text I (fol. 2r), few lines are rubricated alternating wi
 ገነ፡ for ገነይነለኪ፡ (fol. 13v).&#13;
 ማር/ማርያ፡ for ማርያም፡ (e.g., fols. 42r, 44r)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- About the text “Mäṣḥafä Säˁatat” and the different versions, cp. EAE V, 501-503. The text in Ms. DDM-012 seems to belong to the category described as S.2. &#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- About the text “Mäṣḥafä Säʿatat” and the different versions, cp. EAE V, 501-503. The text in Ms. DDM-012 seems to belong to the category described as S.2. &#13;
 - The text is similar, but not identical to Mss. MR-027 and QMM-027.&#13;
-- The Ms. contains most of the prayers and hymns included in the edition: Mäṣḥafä Säˁatat, bä-gǝˤǝzǝnna bä-ˀamarǝñña. Zä-lelit wä-zä-nägh, Addis Abäba 1952 A.M. [1960 A.D.].</otherdetail>
+- The Ms. contains most of the prayers and hymns included in the edition: Mäṣḥafä Säʿatat, bä-gǝˤǝzǝnna bä-ʾamarǝñña. Zä-lelit wä-zä-nägh, Addis Abäba 1952 A.M. [1960 A.D.].</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

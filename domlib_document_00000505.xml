@@ -11,7 +11,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
 - Mäqdǝmä wängel “Introduction to the Gospels” (fols. 1ra-4va; 6vb-14vb)&#13;
@@ -123,7 +123,7 @@ The bottom line is written above the ruling.</ruling>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: quire I&#13;
 Hand b: quires II-XIX</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of the chapters; chapter numbers; the word mǝˁǝraf; elements of the punctuation signs, chapter dividers and Ethiopic numerals; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of the chapters; chapter numbers; the word mǝʿǝraf; elements of the punctuation signs, chapter dividers and Ethiopic numerals; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The canon tables are missing.</otherdetail>
 </otherdetails>

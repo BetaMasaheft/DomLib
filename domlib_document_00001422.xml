@@ -11,9 +11,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” / Sälam-hymns</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” / Sälam-hymns</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 2r-140rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 2r-140rc)&#13;
 I-1) Introduction (fols. 2r-3vb)&#13;
 I-2) Eve of Palm Sunday (fols. 4ra-5vb)&#13;
 I-3) Palm Sunday (fols. 5vb-11ra)&#13;
@@ -23,12 +23,12 @@ I-6) Wednesday (fols. 37vb-48vb)&#13;
 I-7) Thursday (fols. 48vc-63vb)&#13;
 I-8) Friday (fols. 64ra-119rb)&#13;
 I-9) Saturday (fols. 120rc-130vb)&#13;
--	Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 129rc-130va)&#13;
-I-10) Raˀəyä Yoḥannəs “Revelation of John” (fols. 131ra-140rc)&#13;
+-	Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 129rc-130va)&#13;
+I-10) Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 131ra-140rc)&#13;
 II) Sälam-hymns (fols. 117vc-119vb)&#13;
 II-1) Sälam-hymn for St. Mary (fols. 117vc-118rb) (ChRep 196, no. 91)&#13;
 II-2) Sälam-hymn for St. Mary (fols. 118rb-119rb) (ChRep 191, no. 14)&#13;
-II-3) Sälam-hymn for ˀEwosṭatewos (fols. 119rc-119va) (ChRep 164, no. 64)&#13;
+II-3) Sälam-hymn for ʾEwosṭatewos (fols. 119rc-119va) (ChRep 164, no. 64)&#13;
 II-4) Sälam-hymn for Märqorewos (fols. 119va-119vb) (ChRep 192, no. 41)&#13;
 &#13;
 Additiones 1-6.</shortcontent>
@@ -40,8 +40,8 @@ Additiones 1-6.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mәḥrät / MKL"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name ˀEwosṭatewos is mentioned in the supplication formulas in fols. 16ra, 23 vc, 48vc (not rubricated).&#13;
-Wäldä Mikaˀel and Fasilidäs are mentioned in the supplication formulas throughout the Ms. and in Additio 1, possibly added later by a different (?) hand (the same as that of Additio 1). Also other names are mentioned in the supplication formula of Additio 1: Wäldä Śəllase, Mikaˀel, Ṗäladəyos, ˀAnorewos.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name ʾEwosṭatewos is mentioned in the supplication formulas in fols. 16ra, 23 vc, 48vc (not rubricated).&#13;
+Wäldä Mikaʾel and Fasilidäs are mentioned in the supplication formulas throughout the Ms. and in Additio 1, possibly added later by a different (?) hand (the same as that of Additio 1). Also other names are mentioned in the supplication formula of Additio 1: Wäldä Śǝllase, Mikaʾel, Ṗäladǝyos, ʾAnorewos.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1650</fdating>
 </fdatings>
@@ -122,7 +122,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, regular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; headings and incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, fols. 2r, 4r, 48vc, 75r, 135r); titles of the Biblical books and other works; the initial word of each section in Təmḫərtä ḫəbuˀat (Text I-9); notes indicating the readings in fols.: 4v, 10v, 11r; the word yǝtärägwǝm, mätärgwäm, yebe, yebe mätärgwäm in Text I-8; the words ḥadafe näfs in fol. 62rb; the word sälam in fols. 118rb-119va (Texts II); the word zä-Yoḥannəs between columns in fol. 100rb; names of Hebrew letters in fols. 108vb- 109rb (Lam. 3); the word ṣälləyu and its abbreviations in fols. 113va-114va; the church´s name in Additio 1; directives for the ministers and their abbreviations; quire marks; elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; headings and incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, fols. 2r, 4r, 48vc, 75r, 135r); titles of the Biblical books and other works; the initial word of each section in Tǝmḫǝrtä ḫǝbuʾat (Text I-9); notes indicating the readings in fols.: 4v, 10v, 11r; the word yǝtärägwǝm, mätärgwäm, yebe, yebe mätärgwäm in Text I-8; the words ḥadafe näfs in fol. 62rb; the word sälam in fols. 118rb-119va (Texts II); the word zä-Yoḥannǝs between columns in fol. 100rb; names of Hebrew letters in fols. 108vb- 109rb (Lam. 3); the word ṣällǝyu and its abbreviations in fols. 113va-114va; the church´s name in Additio 1; directives for the ministers and their abbreviations; quire marks; elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይሕ፡ for ይብል፡ ሕዝብ፡&#13;
 ይካ፡ for ይብል፡ ካህን፡ &#13;
@@ -141,10 +141,10 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal; margin-bottom: 0pt"&gt;&lt;span style="font-size: small"&gt;&lt;span&gt;Fol. 141r: &lt;/span&gt;&lt;span&gt;Note on assigning the land&lt;/span&gt;&lt;span&gt; (?). &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 141r:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 14pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4637;&amp;#4853;&amp;#4653;&amp;#4961; &amp;#4781;&amp;#4941;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4635;&amp;#4736;&amp;#4936;&amp;#4848;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4848;&amp;#4709;&amp;#4720;&amp;#4654;&amp;#4733;&amp;#4961; &amp;#4704;&lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;lt;&amp;#8230;&amp;gt;&lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#4961; &amp;#4848;&amp;#4766;&amp;#4728;&amp;#4637;&amp;#4961; &amp;#4632;&amp;#4637;&amp;#4629;&amp;#4649;&amp;#4961; &amp;#4752;&amp;#4910;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>In Amharic. The note is divided in six parts by means of lines. Written by the same hand as that of Additiones 2, 3, 5.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Notes indicating the readings are written (in red ink) in the upper margin of some fols.: &#13;
-mənbab zä-ˀəhud zä-sərk: fol 4v &#13;
-ˀorit zä-sämunä ḥəmamat: fol. 10v&#13;
-mənbab zä-sänuy: fol. 11r&#13;
-bä-sälästä, bä-qätr, bä-säˀat (upper margin), bä-śärk (between columns): fol. 118v&#13;
+mǝnbab zä-ʾǝhud zä-sǝrk: fol 4v &#13;
+ʾorit zä-sämunä ḥǝmamat: fol. 10v&#13;
+mǝnbab zä-sänuy: fol. 11r&#13;
+bä-sälästä, bä-qätr, bä-säʾat (upper margin), bä-śärk (between columns): fol. 118v&#13;
 zä-näwam, bä-lelit (between columns): fol. 119r&#13;
 - Titles of the subsections are repeated in the left margins of the columns in fols. 70rc-74rb.&#13;
 - Texts II-1, II-3, II-4 are included in the readings for Friday.&#13;

@@ -10,28 +10,28 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
-- Mäqdəmä Wängel “Introduction to the Gospels” (fols. 3ra-8vb), including discourses “On the 72 Disciples” (fols. 3ra-3rb) and “On the Episcopal Sees” (fol. 3rb); Letter of Eusebius to Carpianus (fols. 7vc-8rb); The “Synopsis of Classes” (fols. 8va-8vb)&#13;
+- Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 3ra-8vb), including discourses “On the 72 Disciples” (fols. 3ra-3rb) and “On the Episcopal Sees” (fol. 3rb); Letter of Eusebius to Carpianus (fols. 7vc-8rb); The “Synopsis of Classes” (fols. 8va-8vb)&#13;
 - Canon tables (fols. 9r-10v)&#13;
 - On the Reliability of the Gospels (fols. 11ra-11rc)&#13;
 II) Gospel of Matthew (fols. 11rc-59vb)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fols. 11rc-11vc)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 12ra-59vb) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 12ra-59vb) &#13;
 - Postscript (fols. 59vb)&#13;
 III) Gospel of Mark (fols.60ra-87va)&#13;
 - Biography of Mark (fols. 60ra-60rb)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fols. 60rb-60vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 61ra-87rb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 61ra-87rb)&#13;
 - Postscript (fols. 87rb-87va)&#13;
 IV) Gospel of Luke (fols. 87va-131rb)&#13;
 - Biography of Luke (fols. 87va-87vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 88ra-131rb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 88ra-131rb)&#13;
 - Postscript (fol. 131rb) &#13;
 V) Gospel of John (fols.131va-163vb)&#13;
 - Biography of John (fols. 131va-131vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 132ra-163va)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 132ra-163va)&#13;
 - Postscript (fols. 163va-163vb)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
@@ -42,17 +42,17 @@ Additiones 1-5.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000053" xlink:title="Säbäya Maryam /SM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Bäˀədä Maryam</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Bäʾǝdä Maryam</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">&lt;Bäˀədä&gt; Maryam (s. Additio 3).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">&lt;Bäʾǝdä&gt; Maryam (s. Additio 3).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀIyasu  (s. supplication formulas in fols. 59vb, 88r); ˀAqbä Mikaˀel, written by a secondary, later hand (s. supplication formula fol. 61r).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾIyasu  (s. supplication formulas in fols. 59vb, 88r); ʾAqbä Mikaʾel, written by a secondary, later hand (s. supplication formula fol. 61r).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1730</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The name ˀIyasu may refer to King ˀIyasu II (r. 1730-55) or King ˀIyasu III (r. 1784-88).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The name ʾIyasu may refer to King ʾIyasu II (r. 1730-55) or King ʾIyasu III (r. 1784-88).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -63,7 +63,7 @@ The leather cove is torn off from the spine.</txstate>
 </cbadditions>
 <restorations class="MCRMetaClassification" heritable="false" notinherit="false"><restoration inherited="0" classid="domlib_class_00000007" categid="Res02"/>
 </restorations>
-<mslits class="MCRMetaLangText" heritable="false" notinherit="false"><mslit xml:lang="en" inherited="0" form="plain">Ms. previously unknown. See S. ANCEL, "Discourse against Catholic Doctrine in Təgray (Ethiopia): A Nineteenth Century Text", Aethiopica 15, 2012, 93-104.</mslit>
+<mslits class="MCRMetaLangText" heritable="false" notinherit="false"><mslit xml:lang="en" inherited="0" form="plain">Ms. previously unknown. See S. ANCEL, "Discourse against Catholic Doctrine in Tǝgray (Ethiopia): A Nineteenth Century Text", Aethiopica 15, 2012, 93-104.</mslit>
 </mslits>
 <nmtexts class="MCRMetaNumber" heritable="false" notinherit="false"><nmtext xml:lang="en" inherited="0">5.0</nmtext>
 </nmtexts>
@@ -147,7 +147,7 @@ The ruling pattern is different for the introduction and the canon tables.</ruli
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; names of the Evangelists written in the margins; groups of lines on the incipit page of each text; incipit of sections of Text I and of each chapter of Texts II-V;  the word məˁəraf and chapter numbers; numbers of the “tituli”; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; names of the Evangelists written in the margins; groups of lines on the incipit page of each text; incipit of sections of Text I and of each chapter of Texts II-V;  the word mǝʿǝraf and chapter numbers; numbers of the “tituli”; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -717,7 +717,7 @@ mso-hansi-theme-font:minor-latin;&#13;
 mso-bidi-font-family:"Times New Roman";&#13;
 mso-bidi-theme-font:minor-bidi;}&#13;
 &lt;/style&gt;&#13;
-&lt;![endif]--&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fols. 1va-2vb: Short theological treatise entitled Haymanotä ˀabaw qäddämt “The Faith of Ancient Fathers”, written by ˀabba Gäbrä Ḥəywät.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;![endif]--&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fols. 1va-2vb: Short theological treatise entitled Haymanotä ʾabaw qäddämt “The Faith of Ancient Fathers”, written by ʾabba Gäbrä Ḥǝywät.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
 &lt;p&gt;&lt;/p&gt;</cont><det>Written by a later, 19th- or early 20th-century hand.&#13;
 See S. ANCEL, "Discourse against Catholic Doctrine in Tegray (Ethiopia): A Nineteenth Century Text", Aethiopica 15, 2012, 93-104.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;!--[endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&#13;
@@ -1003,7 +1003,7 @@ mso-bidi-font-family:"Times New Roman";&#13;
 mso-bidi-theme-font:minor-bidi;}&#13;
 &lt;/style&gt;&#13;
 &lt;![endif]--&gt;&lt;span lang="EN-GB" style="font-size: 10pt; line-height: 115%" unicode=""&gt;Fol. 163vb: Donation note.&lt;/span&gt;&lt;/p&gt;&#13;
-&lt;p&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;"&gt;Fol. 163vb, l.4:&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-GB" style="font-size: 10pt; line-height: 115%"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: Nyala;"&gt;ና&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;ሁ፡ ወሀብነ፡ ዘንተ፡ መጽሐፈ፡ ንሕነ፡ ኵልነ፡ &lt;...&gt;ተ፡ እምነ፡ ማርያም፡ ድንግል፡ ወላተ&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;[sic]&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;፡ አምላክ፡ ዘቤተ፡ እግዚእ፨ ጸወነ፡ ነዳያን፡ ወምስካየ፡ ግፉዓን፡ ሶበ፡ አደመነ፡ ቃለ፡ ዝንቱ፡ መጽሐፍ፡ ከመ፡ ይትመሀሩ፡ ቦቱ፡ ካህናቲሃ፡ ሌዋውያን፨ ወይእዜኒ፡ ባርኩ፡ ሊተ፡ አምኃነ፡ ወበሉ፡ አቡነ፡ ዘበሰማያት፡ ወሰላመ፡ ገብርኤል፡ መልአክ፨ ዘሤጦ፡ ወዘተሣየጦ፡ ለዝንቱ፡ መጽሐፍ፡ ውጉዘ፡ ለይኩን፡ ከመ፡ አርዮስ፡ ረሲዕ፡ ወከመ፡ ሴሞን፡ መሠርይ፨ በሥልጣነ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፨ ወበአፈ፡ ጴጥሮስ፡ ወጳውሎስ፡ ወበሥልጣና፡ ለእግዝእትነ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ ለዓለመ፡ ዓለም፡ አሜን፨ ወሊተኒ፡ ለኃጥእ፡ ጸሐፊሃ፡ ኃጥእ፡&lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt; &lt;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;በእደ&lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt;&gt;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;፡ ማርያም፡ ኢትርሥኡኒ፡&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The names of the donors, after the word "all of us" were erased, and are unreadable. The note is written by the same hand as the main text, by the scribe who mentiones himself by name, with the first word erased, but still readable, &lt;Bäˀədä&gt; Maryam.</det></additional>
+&lt;p&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;"&gt;Fol. 163vb, l.4:&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-GB" style="font-size: 10pt; line-height: 115%"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-family: Nyala;"&gt;ና&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;ሁ፡ ወሀብነ፡ ዘንተ፡ መጽሐፈ፡ ንሕነ፡ ኵልነ፡ &lt;...&gt;ተ፡ እምነ፡ ማርያም፡ ድንግል፡ ወላተ&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;[sic]&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;፡ አምላክ፡ ዘቤተ፡ እግዚእ፨ ጸወነ፡ ነዳያን፡ ወምስካየ፡ ግፉዓን፡ ሶበ፡ አደመነ፡ ቃለ፡ ዝንቱ፡ መጽሐፍ፡ ከመ፡ ይትመሀሩ፡ ቦቱ፡ ካህናቲሃ፡ ሌዋውያን፨ ወይእዜኒ፡ ባርኩ፡ ሊተ፡ አምኃነ፡ ወበሉ፡ አቡነ፡ ዘበሰማያት፡ ወሰላመ፡ ገብርኤል፡ መልአክ፨ ዘሤጦ፡ ወዘተሣየጦ፡ ለዝንቱ፡ መጽሐፍ፡ ውጉዘ፡ ለይኩን፡ ከመ፡ አርዮስ፡ ረሲዕ፡ ወከመ፡ ሴሞን፡ መሠርይ፨ በሥልጣነ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፨ ወበአፈ፡ ጴጥሮስ፡ ወጳውሎስ፡ ወበሥልጣና፡ ለእግዝእትነ፡ ማርያም፡ ወላዲተ፡ አምላክ፡ ለዓለመ፡ ዓለም፡ አሜን፨ ወሊተኒ፡ ለኃጥእ፡ ጸሐፊሃ፡ ኃጥእ፡&lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt; &lt;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;በእደ&lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt;&gt;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;፡ ማርያም፡ ኢትርሥኡኒ፡&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The names of the donors, after the word "all of us" were erased, and are unreadable. The note is written by the same hand as the main text, by the scribe who mentiones himself by name, with the first word erased, but still readable, &lt;Bäʾǝdä&gt; Maryam.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;m:mathpr&gt;&lt;m:mathfont m:val="Cambria Math"&gt;&lt;/m:mathfont&gt;&lt;m:brkbin m:val="before"&gt;&lt;/m:brkbin&gt;&lt;m:brkbinsub m:val="--"&gt;&lt;/m:brkbinsub&gt;&lt;m:smallfrac m:val="off"&gt;&lt;/m:smallfrac&gt;&lt;m:dispdef&gt;&lt;/m:dispdef&gt;&lt;m:lmargin m:val="0"&gt;&lt;/m:lmargin&gt;&lt;m:rmargin m:val="0"&gt;&lt;/m:rmargin&gt;&lt;m:defjc m:val="centerGroup"&gt;&lt;/m:defjc&gt;&lt;m:wrapindent m:val="1440"&gt;&lt;/m:wrapindent&gt;&lt;m:intlim m:val="subSup"&gt;&lt;/m:intlim&gt;&lt;m:narylim m:val="undOvr"&gt;&lt;/m:narylim&gt;&lt;/m:mathpr&gt;&lt;!--[endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;&#13;
 &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"&#13;
 DefSemiHidden="true" DefQFormat="false" DefPriority="99"&#13;
@@ -1307,7 +1307,7 @@ mso-bidi-theme-font:minor-bidi;}&#13;
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 164v: Crude note.&lt;/p&gt;</cont></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Running titles written in red, in the upper margin of the fols. &#13;
-- Fol. 88ra: a secondary, partly unintelligible note mentions wäyzaro (here spelled: wäğaro) Wälättä Səmˁon and ˀabeto ˀAsäffa or ˀAsru [?], possibly referring to their commemoration day.</extra>
+- Fol. 88ra: a secondary, partly unintelligible note mentions wäyzaro (here spelled: wäğaro) Wälättä Sǝmʿon and ʾabeto ʾAsäffa or ʾAsru [?], possibly referring to their commemoration day.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>

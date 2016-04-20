@@ -10,15 +10,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary" / Täˀamrä Mikaˀel "Miracles of Michael"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary" / Täʾamrä Mikaʾel "Miracles of Michael"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 2ra-94ra)&#13;
-I-1) O rǝḫrǝḫtä ḥəllina... "O tender-hearted..." (fols. 2ra-3vb) (cp. ChRep no. 368)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki... "I worship Thee..." (fols. 3vb-4rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 2ra-94ra)&#13;
+I-1) O rǝḫrǝḫtä ḥǝllina... "O tender-hearted..." (fols. 2ra-3vb) (cp. ChRep no. 368)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... "I worship Thee..." (fols. 3vb-4rb)&#13;
 I-3) Introductory exhortation (fols. 4va-5va)&#13;
-I-4) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 5va-9vb)&#13;
-I-5) Täˀamrä Maryam "Miracles of Mary": 60 miracles (fols. 11ra-94ra)&#13;
-II) Täˀamrä Mikaˀel "Miracles of Michael": 3 miracles (fols. 94ra-100ra)&#13;
+I-4) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 5va-9vb)&#13;
+I-5) Täʾamrä Maryam "Miracles of Mary": 60 miracles (fols. 11ra-94ra)&#13;
+II) Täʾamrä Mikaʾel "Miracles of Michael": 3 miracles (fols. 94ra-100ra)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
@@ -26,14 +26,14 @@ Additiones 1-2.</shortcontent>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ˁAläm / MAC"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ʿAläm / MAC"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ˁAläm / MAC"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ʿAläm / MAC"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">The scribe's name has been erased (fol. 9va).</nmcopyist>
 </nmcopyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor, Qerǝllos, has been erased throughout the Ms., but is preserved on fols. 15vb and 93va (in the latter case together with the names of his wife Wälättä Śǝllase and his father Kǝflä ˀIyäsus). &#13;
-Several names, like Gäbrä Täklä Haymanot, Gäbrä ˀIyäsus, Wälättä Muse, have been inserted into supplication formuals by a secondary hand (see also Additio 2).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor, Qerǝllos, has been erased throughout the Ms., but is preserved on fols. 15vb and 93va (in the latter case together with the names of his wife Wälättä Śǝllase and his father Kǝflä ʾIyäsus). &#13;
+Several names, like Gäbrä Täklä Haymanot, Gäbrä ʾIyäsus, Wälättä Muse, have been inserted into supplication formuals by a secondary hand (see also Additio 2).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -116,7 +116,7 @@ The scribe did not use the bottom ruled line on fols. 36v-38v, 40rv.</rl-info></
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors (erased); a few lines (alternating with black lines) on the incipit page of Texts I and II and of all sections of Text I; first word of each strophe of Text I-1; section numbers of Text I-5; elements of the punctuation signs and of the text dividers; Ethiopic numerals (in Text I-5) or their elements.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 is known as Mälkǝˁa śǝˁǝl "Image of the Icon" within the Mälkǝˁa gubaˀe "Collection of Images".&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 is known as Mälkǝʿa śǝʿǝl "Image of the Icon" within the Mälkǝʿa gubaʾe "Collection of Images".&#13;
 &#13;
 The miracles of Mary (Texts I-5) are numbered (number 22 is missing). Some of the miracles are followed by a short hymn:&#13;
 - ኦእግዝእትየ፡ ማርያም፡ ጽዋዓ፡ ልቡና፡ መለኮታዊ። ... (fol. 15vb)&#13;
@@ -138,7 +138,7 @@ Short, rhymed subscriptio (supplication for the scribe) is written on fol. 100ra
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 1ra: Excerpt from S&amp;#228;&amp;#705;atat z&amp;#228;-lelit "Horologium for the Night".&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span unicode="" style="line-height: 115%;"&gt;&lt;span style="font-size:9.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt;Fol. 1ra: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4789;&amp;#4622;&amp;#4633;&amp;#4961; &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4656;&amp;#4651;&amp;#4810;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4619;&amp;#4773;&amp;#4781;&amp;#4725;&amp;#4961; &amp;#4632;&amp;#4757;&amp;#4936;&amp;#4643;&amp;#4813;&amp;#4843;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4773;&amp;#4616;&amp;#4961; &amp;#4645;&amp;#4817;&amp;#4619;&amp;#4757;&amp;#4961;...&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 4rb: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 4rb: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4720;&amp;#4643;&amp;#4840;&amp;#4899;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4770;&amp;#4840;&amp;#4657;&amp;#4661;&amp;#4962; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note, written over erasure, states that the Ms. was purchased by Gäbrä Täklä Haymanot whose father was Gäbrä ˀIyäsus.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 4rb: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 4rb: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4720;&amp;#4643;&amp;#4840;&amp;#4899;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4770;&amp;#4840;&amp;#4657;&amp;#4661;&amp;#4962; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note, written over erasure, states that the Ms. was purchased by Gäbrä Täklä Haymanot whose father was Gäbrä ʾIyäsus.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Omissions are inserted interlineally: e.g., fols. 5rb, 14ra, 15ra, 28ra, 35ra, 43vb, 46vb, 88ra or in the margin: fols. 5rb, 12va, 41rb.&#13;
 - Corrections are written over erasures: e.g., fols. 2ra, 16ra, 89ra.&#13;
@@ -152,7 +152,7 @@ Short, rhymed subscriptio (supplication for the scribe) is written on fol. 100ra
 </txfindingaids>
 <miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 9vb: St. George slaying the dragon.</info><details>Legend, written red: ጊዮርጊስ ፡ "George".</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 10r: The Virgin and Child with the archangels Michel and Gabriel.</info><details>Legend, written red: ሚካኤል፡ "Michael". ምስለ፡ ፍቁር፡ ወልዳ ፡ "with her beloved Son". ገብርኤል፡ "Gabriel".</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 10v: Saints Täklä Haymanot and ˀƎwosṭatewos.</info><details>Legend, written red: አባ፡ ተክለ፡ ሃይማኖት፡ ወአባ፡ ኤዎስጣቴዎስ፡  "ˀabba Täklä Haymanot and ˀEwosṭatewos".  &#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 10v: Saints Täklä Haymanot and ʾƎwosṭatewos.</info><details>Legend, written red: አባ፡ ተክለ፡ ሃይማኖት፡ ወአባ፡ ኤዎስጣቴዎስ፡  "ʾabba Täklä Haymanot and ʾEwosṭatewos".  &#13;
 The legend has been partly erased.</details></miniature>
 </miniatures>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Fol. 11r (incipit page of Text I-5): coloured (red, black) ornamental band; geometric and floral motifs, crosses.&#13;

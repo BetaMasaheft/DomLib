@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” / Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” / Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following texts:&#13;
-I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 3ra-52rb)&#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 13 miracles (fols. 52va-67rb).</shortcontent>
+I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 3ra-52rb)&#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 13 miracles (fols. 52va-67rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Ḥawaryat (s. fol. 6rb); Wälättä Maryam (s. fol. 15ra); Wälättä Śəllase (s. fol. 15ra); Ḫaylä Maryam (s. fol. 18vb); ˀabunä Gäbrä Śəllase (s. fol. 27vb); ˀAmätä Maryam (s. fol. 27vb); ˀArˀaya Śəllase (s. fol. 38va); Gäbrä Ṣadəq, Wälättä ˀƎgziˀ, Wäldä Gäbrəˀel (s. fol. 67ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Ḥawaryat (s. fol. 6rb); Wälättä Maryam (s. fol. 15ra); Wälättä Śǝllase (s. fol. 15ra); Ḫaylä Maryam (s. fol. 18vb); ʾabunä Gäbrä Śǝllase (s. fol. 27vb); ʾAmätä Maryam (s. fol. 27vb); ʾArʾaya Śǝllase (s. fol. 38va); Gäbrä Ṣadǝq, Wälättä ʾƎgziʾ, Wäldä Gäbrǝʾel (s. fol. 67ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1950</fdating>
 </fdatings>

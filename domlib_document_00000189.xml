@@ -30,13 +30,13 @@ Additiones 1-4.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Names assigned to the scribes are crudely written by secondary hands and cannot be taken as genuine: haläqa Laˁəkä Maryam (s. Additio 1, fol. 2v); Gäbrəˀel (s. Additio 2, fol. 117rb, ?); Aṣbəha (s. Additio 3, fol. 117, ?).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Names assigned to the scribes are crudely written by secondary hands and cannot be taken as genuine: haläqa Laʿǝkä Maryam (s. Additio 1, fol. 2v); Gäbrǝʾel (s. Additio 2, fol. 117rb, ?); Aṣbǝha (s. Additio 3, fol. 117, ?).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 2 a 4, the donor is ˀato Täwäldä Mädhən (cp. Additio 3).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 2 a 4, the donor is ʾato Täwäldä Mädhǝn (cp. Additio 3).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -116,18 +116,18 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Daily readings are indicated by dates written in the upper margin of some fols., encircled with thin black lines:&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Yäkkatit (fol. 3ra)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäggabit (fol. 19vb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Miyazya (fol. 25ra)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Gǝnbot (fol. 28va)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Säne (fol. 34va)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḥamle (fol. 56vb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Näḥase (fol. 65rb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäskäräm (fol. 73ra)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝqǝmt (fol. 76rb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḫǝdar (fol. 81rb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Taḫsas (fol. 92vb)&#13;
-mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝrr (fol. 99va)</txfindingaid>
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Yäkkatit (fol. 3ra)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäggabit (fol. 19vb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Miyazya (fol. 25ra)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Gǝnbot (fol. 28va)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Säne (fol. 34va)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḥamle (fol. 56vb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Näḥase (fol. 65rb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäskäräm (fol. 73ra)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝqǝmt (fol. 76rb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḫǝdar (fol. 81rb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Taḫsas (fol. 92vb)&#13;
+mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝrr (fol. 99va)</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Ḥaräg 1: fol. 3r:&#13;
 - Fol. 3r: crude coloured (green, blue and red) ornamental band with one vertical extension. Interlaces.</frame>

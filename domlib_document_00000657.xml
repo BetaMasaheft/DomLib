@@ -15,10 +15,10 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter” (fols. 3r-141ra)&#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 3r-62r; 63r-110r)&#13;
-I-2) Mäḫaləyä näbiyat “The Canticles of the Prophets” (fols. 110v-121r)&#13;
-I-3) Mäḫaləyä mäḫaləy “Song of Songs” (fols. 121r-126v)&#13;
-I-4) Wəddase Maryam “The Praise of Mary” (fols. 127ra-136vb)&#13;
-I-5) ˀAnqäṣä bərhan “The Gate of Light” (fols. 136vb-141ra)&#13;
+I-2) Mäḫalǝyä näbiyat “The Canticles of the Prophets” (fols. 110v-121r)&#13;
+I-3) Mäḫalǝyä mäḫalǝy “Song of Songs” (fols. 121r-126v)&#13;
+I-4) Wǝddase Maryam “The Praise of Mary” (fols. 127ra-136vb)&#13;
+I-5) ʾAnqäṣä bǝrhan “The Gate of Light” (fols. 136vb-141ra)&#13;
 &#13;
 Additiones 1-4.</shortcontent>
 </shortcontents>
@@ -29,7 +29,7 @@ Additiones 1-4.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000171" xlink:title="Koholo Yoḥannǝs Däbrä Betel / KY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Wälättä Muse, Wäldä Śəllase and rarely Täklä ˀƎgziˀ are crudely written, possibly in the same hand as Additio 2, in black, beside the ornamental bands on e.g., fols. 3r, 56v, 105r.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Wälättä Muse, Wäldä Śǝllase and rarely Täklä ʾƎgziʾ are crudely written, possibly in the same hand as Additio 2, in black, beside the ornamental bands on e.g., fols. 3r, 56v, 105r.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1870</fdating>
 </fdatings>
@@ -130,7 +130,7 @@ Text I-5&#13;
 The abbreviations stand for the whole refrain:&#13;
 ወ፡ for ወበእንተዝ፡ ናዓብየኪ፡ ኵልነ፡ ኦእግዝእትነ፡ ወላዲተ፡ አምላክ፡ ንጽሕት፡ ኵሎ፡ ጊዜ፡ ንስእል፡ ወናንቀዓዱ፡ ከመ፡ ንርከብ፡ ሣህለ፡ በኀበ፡ መፍቀሬ፡ ሰብእ</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Ps. 1 is preceded by a verse from Mäzmurä dəngəl (for an Italian translation s. O. RAINERI (tr.), Salmi etiopici di Cristo e della Vergine, Roma 2005, 133).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Ps. 1 is preceded by a verse from Mäzmurä dǝngǝl (for an Italian translation s. O. RAINERI (tr.), Salmi etiopici di Cristo e della Vergine, Roma 2005, 133).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

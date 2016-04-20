@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week (fols. 4ra-153rc)”:&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week (fols. 4ra-153rc)”:&#13;
 I-1) Introduction (fols. 4ra-6ra)&#13;
 I-2) Eve of Palm Sunday (fols. 6ra-8rb)&#13;
 I-3) Palm Sunday (fols. 8rb-14rc)&#13;
@@ -32,8 +32,8 @@ I-8) Friday (fols. 76ara-124ra)&#13;
 - Night hours (fols. 76ara-85ra)&#13;
 - Day hours (fols. 85ra-124ra), including: Homily by Jacob of Serug on Abraham (fols. 98vc-103vc)&#13;
 I-9) Saturday (fols. 124ra-145va)&#13;
-- Night hours (fols. 124ra-136rc), including: Raˀəyä Yoḥannəs “Revelation of John” (fols. 126rc-136ra)&#13;
-- Mass (fols. 136rc-144ra), including: Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 142vb-144ra)&#13;
+- Night hours (fols. 124ra-136rc), including: Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 126rc-136ra)&#13;
+- Mass (fols. 136rc-144ra), including: Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 142vb-144ra)&#13;
 - Evening (fols. 144ra-145va)&#13;
 I-10) Homily of Cyriacus the Bishop of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 145vb-153rc)&#13;
 &#13;
@@ -41,18 +41,18 @@ Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo Qәddus Yoḥannәs / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qәddus Yoḥannәs / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo Qәddus Yoḥannәs / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qәddus Yoḥannәs / MY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 2 mentiones ras Sǝbḥat  (ras Sǝbḥat ˀArägawi, b. ca. 1844, d. 1914), with baptismal name Kidanä Maryam, as the donor. The names of his relatives are also mentioned: his mother Wälättä Śǝllase, his wife Wälättä Maryam, his children Gäbrä Ḥǝywät, Wäldä Gäbrǝˀel, ˀArˀaya Śǝllase.&#13;
-Names of other individuals are written in some supplication formulas: Gäbrä Śǝllase (esp. fols. 6ra l.10, 136ra l.17, 150rc l.32) and Wäldä Maryam (fols. 24rb ls.9-10, 91rb l.31, 144vb ls.6-7). In two supplication formulas “people of the place” (säbˀa hagär) (esp. fol. 29vb) and as the “people of the place, children of the community” (säbˀa hagär däqiqä maḫbär) are mentioned (esp. fol. 153rc).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 2 mentiones ras Sǝbḥat  (ras Sǝbḥat ʾArägawi, b. ca. 1844, d. 1914), with baptismal name Kidanä Maryam, as the donor. The names of his relatives are also mentioned: his mother Wälättä Śǝllase, his wife Wälättä Maryam, his children Gäbrä Ḥǝywät, Wäldä Gäbrǝʾel, ʾArʾaya Śǝllase.&#13;
+Names of other individuals are written in some supplication formulas: Gäbrä Śǝllase (esp. fols. 6ra l.10, 136ra l.17, 150rc l.32) and Wäldä Maryam (fols. 24rb ls.9-10, 91rb l.31, 144vb ls.6-7). In two supplication formulas “people of the place” (säbʾa hagär) (esp. fol. 29vb) and as the “people of the place, children of the community” (säbʾa hagär däqiqä maḫbär) are mentioned (esp. fol. 153rc).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1892</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1914</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Səbḥat ˀArägawi received the title of ras from Mängäša Yoḥannəs in 1892 (s. EAE IV, 587-589).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Sǝbḥat ʾArägawi received the title of ras from Mängäša Yoḥannǝs in 1892 (s. EAE IV, 587-589).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -135,7 +135,7 @@ Fols. 71r-72v have an additional ruled line in the upper margin.</rl-info></taun
 </pcruxansatas>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donors.&#13;
 Six lines in the incipit page of Text I-1 (fol. 4r), in three groups, alternating with black lines; incipits of the texts, their sections and subsections; six lines in the incipit page of the section “Friday morning” (Text I-8), in three groups, alternating with black lines.&#13;
-Titles of the Biblical books and other works; names of Hebrew letters in Text I-8; abbreviations in Text I-7 and Text I-8; the beginning word of each paragraph in the text “Təmḫərtä ḫəbuˀat” within Text I-9; the words yǝbe in Text I-4 (esp. fols. 17vb-18rc) and Text I-6 (esp. fols. 53vc-54ra); the words yǝtärägwǝm in Text I-6 and Text I-8, mätärgwäm in Text I-8, wä-yǝbäl/wä-yǝbälu in Text I-8, ṣällǝyu in Text I-9.&#13;
+Titles of the Biblical books and other works; names of Hebrew letters in Text I-8; abbreviations in Text I-7 and Text I-8; the beginning word of each paragraph in the text “Tǝmḫǝrtä ḫǝbuʾat” within Text I-9; the words yǝbe in Text I-4 (esp. fols. 17vb-18rc) and Text I-6 (esp. fols. 53vc-54ra); the words yǝtärägwǝm in Text I-6 and Text I-8, mätärgwäm in Text I-8, wä-yǝbäl/wä-yǝbälu in Text I-8, ṣällǝyu in Text I-9.&#13;
 Elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይዲ፡/ ይ፡ ዲ፡ for ይብል፡ ዲያቆን፡ (e.g., fols.  72vb l.10, 73rc l.26)&#13;

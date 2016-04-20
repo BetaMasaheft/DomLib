@@ -12,17 +12,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the second half of the year (fols. 3ra-173vb) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the second half of the year (fols. 3ra-173vb) &#13;
 I-1) Mäggabit (fols. 3ra-31vc)&#13;
 I-2) Miyazya (fols. 32ra-53rc)&#13;
-I-3) Gənbot (fols. 54ra-81rc)&#13;
+I-3) Gǝnbot (fols. 54ra-81rc)&#13;
 I-4) Säne (fols. 81va-108vc)&#13;
 I-5) Ḥamle (fols. 109ra-144rc l.39) &#13;
 I-6) Näḥase” (fols. 144va–169rb l.2) &#13;
-I-7) Ṗagwəmen (fols. 169rb l.3–173vb)&#13;
-The commemorative notices are followed by a ˁarke-hymns.</shortcontent>
+I-7) Ṗagwǝmen (fols. 169rb l.3–173vb)&#13;
+The commemorative notices are followed by a ʿarke-hymns.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -34,9 +34,9 @@ The commemorative notices are followed by a ˁarke-hymns.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Silondis  seems to be the name of the scribe; a short invocation at the conclusion of entries for Miyazya (fol. 53rc) mentions "Silondis, the one who wrote it".</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˁAqbä Mikaˀel is mentioned in the supplication formulas throughout the text; besides, in the conclusion of the entries for the month Miyazya, on fol. 53rc, an invocation mentions the scribe and "ˁAqbä Mikaˀel, the one who caused (the book) be written".&#13;
-In some passages, his name is replaced with the names of Śәˁәlä Mikaˀel (esp. fol. 157rc, l.19) and Kәnfä Mikaˀel (esp. fol. 171ra, l.6).&#13;
-Together  with ˁAqbä Mikaˀel, "his maid Wälättä Maryam" is also mentioned (e.g., fols. 40ra, l.16, 40va, l.9, 88ra, ls. 23-24).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʿAqbä Mikaʾel is mentioned in the supplication formulas throughout the text; besides, in the conclusion of the entries for the month Miyazya, on fol. 53rc, an invocation mentions the scribe and "ʿAqbä Mikaʾel, the one who caused (the book) be written".&#13;
+In some passages, his name is replaced with the names of Śәʿәlä Mikaʾel (esp. fol. 157rc, l.19) and Kәnfä Mikaʾel (esp. fol. 171ra, l.6).&#13;
+Together  with ʿAqbä Mikaʾel, "his maid Wälättä Maryam" is also mentioned (e.g., fols. 40ra, l.16, 40va, l.9, 88ra, ls. 23-24).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1600</fdating>
 </fdatings>
@@ -119,7 +119,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra;&#13;
 the two first lines  of the opening entry for each day; &#13;
 incipit (one line) of each commemoration  note;&#13;
-five lines, divided into several groups alternating with black lines, in the page opening the commemoration notes for the months of Mäggabit (fol. 3r), Miyazya (fol. 32r), Gənbot  (fol. 54r), Säne (fol. 81r), Ḥamle (fol. 109r);&#13;
+five lines, divided into several groups alternating with black lines, in the page opening the commemoration notes for the months of Mäggabit (fol. 3r), Miyazya (fol. 32r), Gǝnbot  (fol. 54r), Säne (fol. 81r), Ḥamle (fol. 109r);&#13;
 three lines, alternating with black lines, on the page opening the commemoration notes for the month of  Näḥase (fol. 144v); &#13;
 the word sälam;&#13;
 name of the donor;&#13;

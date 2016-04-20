@@ -10,17 +10,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäftәḥe śәray “Undoing of Charms” / Ǝgziˀabəḥer zä-bərhanat ˀəgziˀabəḥer zä-śəlṭanat... “God of Lights, God of Powers...” / Fәtḥat zäwäld “Absolution of the Son”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäftәḥe śәray “Undoing of Charms” / Ǝgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat... “God of Lights, God of Powers...” / Fәtḥat zäwäld “Absolution of the Son”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäftәḥe śәray “Undoing of Charms”: 24 protective prayers (fols. 5r-63v)&#13;
-II) Ǝgziˀabəḥer zä-bərhanat ˀəgziˀabəḥer zä-śəlṭanat... “God of Lights, God of Powers...”  (fols. 64r-69r) &#13;
+II) Ǝgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat... “God of Lights, God of Powers...”  (fols. 64r-69r) &#13;
 III) Fәtḥat zäwäld “Absolution of the Son” (fols. 69r-72v).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub11"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </locationlinks>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Currently, priest (qäšši) Gäbrä Hawaryat (s. fol. 2v). Another name, Gäbrä Täklä Ḥaymanot, is mentioned in the supplication formulas (e.g., fol.17v).</owner>
 </owners>
@@ -28,7 +28,7 @@ III) Fәtḥat zäwäld “Absolution of the Son” (fols. 69r-72v).</shortconte
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1955</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śәllase I (r. 1930-1974) and Bishop ˀabunä Yәsḥaq (appointed in Tәgray 1928/29 A.D., d. 1954/55 A.D.) are mentioned on fol. 21v.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śәllase I (r. 1930-1974) and Bishop ʾabunä Yәsḥaq (appointed in Tәgray 1928/29 A.D., d. 1954/55 A.D.) are mentioned on fol. 21v.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -87,7 +87,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Crude ownership note, in blue pen, fol. 2v: ቐሺ ገብረ ሃዋርያት ዕቅባኡ “Priest Gäbrä Hawaryat ˁƎqbaˀu”. &#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Crude ownership note, in blue pen, fol. 2v: ቐሺ ገብረ ሃዋርያት ዕቅባኡ “Priest Gäbrä Hawaryat ʿƎqbaʾu”. &#13;
 – Crude notes in pencil; a name in blue pen, fol. 3v: ቄስ አብርሃ ገ/ሥላሴ ጠዳት ቀበሌ “priest Gäbrä Śәllase ṭädat qäbäle” (?).&#13;
 - Crude note in red pen, fol.4v.</extra>
 </extras>
@@ -95,6 +95,6 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- A thread inserted in the upper margin of fol.33r.</txfindingaid>
 </txfindingaids>
-<drawings class="DLMiniature" heritable="false" notinherit="false"><drawing xml:lang="en" inherited="0"><info>Fol. 5v: Magical square.</info><details>“Magical square” with the name አናንያ “ˀAnanya”</details></drawing>
+<drawings class="DLMiniature" heritable="false" notinherit="false"><drawing xml:lang="en" inherited="0"><info>Fol. 5v: Magical square.</info><details>“Magical square” with the name አናንያ “ʾAnanya”</details></drawing>
 </drawings>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-04-15T15:36:57.916Z</servdate><servdate inherited="0" type="modifydate">2014-10-22T13:04:01.685Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">IRoticiani</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SDege</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

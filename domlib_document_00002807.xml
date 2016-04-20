@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” / Mälkәˀa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” / Sälam-hymn for Mäzgäbä Śәllase</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” / Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” / Sälam-hymn for Mäzgäbä Śәllase</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” (long version)  (fols. 5ra-56ra)&#13;
-II) Mälkәˀa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 56rb-59rb)&#13;
+II) Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 56rb-59rb)&#13;
 III) Sälam-hymn for Mäzgäbä Śәllase (fols. 59rb-vb).&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -21,21 +21,21 @@ Additiones 1-2.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ˀAb</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ʾAb</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ˀAb is mentioned in the concluding supplication formula (fol. 59vb). The same scribe wrote also Ms. MKL-021.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ʾAb is mentioned in the concluding supplication formula (fol. 59vb). The same scribe wrote also Ms. MKL-021.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ˁAbiyä ˀƎgziˀ is mentioned as the donor in the concluding supplication formula (fol. 59vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ʿAbiyä ʾƎgziʾ is mentioned as the donor in the concluding supplication formula (fol. 59vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Probably the second half of the 19th cent. (the time of King Yoḥannəs IV, r. 1872-89, s. Mss. EHPP-013, MKL-021)</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Probably the second half of the 19th cent. (the time of King Yoḥannǝs IV, r. 1872-89, s. Mss. EHPP-013, MKL-021)</dcomment>
 </dcomments>
 <illuminates class="MCRMetaBoolean" heritable="false" notinherit="false"><illuminate xml:lang="en" inherited="0">true</illuminate>
 </illuminates>

@@ -11,12 +11,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkəˀa sämaˁtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” / Gädlä sämaˁtatä Ṗäraqliṭos “Vita of the Martyrs of Ṗäraqliṭos” / Täˀamrä sämaˁtatä Ṗäraqliṭos “Miracles of the Martyrs of Ṗäraqliṭos”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa sämaʿtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” / Gädlä sämaʿtatä Ṗäraqliṭos “Vita of the Martyrs of Ṗäraqliṭos” / Täʾamrä sämaʿtatä Ṗäraqliṭos “Miracles of the Martyrs of Ṗäraqliṭos”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkəˀa sämaˁtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” (fols. 7ra-10vb): 32 strophes, incomplete&#13;
-II) Gädlä sämaˁtatä Ṗäraqliṭos “Vita of the Martyrs of Ṗäraqliṭos” (fols. 11ra-44va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa sämaʿtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” (fols. 7ra-10vb): 32 strophes, incomplete&#13;
+II) Gädlä sämaʿtatä Ṗäraqliṭos “Vita of the Martyrs of Ṗäraqliṭos” (fols. 11ra-44va)&#13;
 - Introduction (fols. 11ra-13rb)&#13;
-III) Täˀamrä sämaˁtatä Ṗäraqliṭos “Miracles of the Martyrs of Ṗäraqliṭos”: 11 miracles (fols. 45ra-86vb)&#13;
+III) Täʾamrä sämaʿtatä Ṗäraqliṭos “Miracles of the Martyrs of Ṗäraqliṭos”: 11 miracles (fols. 45ra-86vb)&#13;
 - Introduction (fols. 45ra-48vb)&#13;
 &#13;
 Additiones 1-5; colophon.</shortcontent>
@@ -24,15 +24,15 @@ Additiones 1-5; colophon.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täsfa Ṣəyon</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täsfa Ṣǝyon</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Täsfa Ṣəyon is mentioned as the scribe on fol. 85rb (s. the embedded colophon).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Täsfa Ṣǝyon is mentioned as the scribe on fol. 85rb (s. the embedded colophon).</copyist>
 </copyists>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Täklä Giyorgis is mentioned on fol. 87ra as “baˁlä bǝranna”, i.e. provider of the parchment (?) (s. the colophon).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Täklä Giyorgis is mentioned on fol. 87ra as “baʿlä bǝranna”, i.e. provider of the parchment (?) (s. the colophon).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1523</fdating>
 </fdatings>
@@ -143,37 +143,37 @@ Some distinctive features:&#13;
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Text I:&#13;
 the words sälam and Ṣadǝqan and their abbreviations and other few words (fol. 7ra); elements of the Ethiopic numerals and of the punctuation signs.&#13;
 Texts II-III:&#13;
-Nomina sacra; the names of the Trinity; the names of the protagonists: sämaˁtatä Ṗäraqliṭos and ṣadǝqan; a few lines alternating with black lines on the incipit page of Texts II and III and on fol 13v (incipit page of the account proper of Text II); the exhortation səmˁu... in Text II; incipit of each miracle (Text III).&#13;
+Nomina sacra; the names of the Trinity; the names of the protagonists: sämaʿtatä Ṗäraqliṭos and ṣadǝqan; a few lines alternating with black lines on the incipit page of Texts II and III and on fol 13v (incipit page of the account proper of Text II); the exhortation sǝmʿu... in Text II; incipit of each miracle (Text III).&#13;
 Elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">In Text I (fols. 7ra-10vb):&#13;
 ሰላ፡/ሰ፡ for ሰላም፡ &#13;
 ጻድ፡/ጻድቅ፡ for ጻድቃን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Throughout Text I and sometimes in Texts II (s., e.g., fol. 13va ls.9-10) and III (s., e.g., fol. 59ra, incipit of miracle 4), the Martyrs of Ṗäraqliṭos are called ṣadəqan “righteous ones”. It is an unknown group of saints coming, according to Text II (fol. 13va ls. 5-6), from Tiberias (Ṭəbəryados).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Throughout Text I and sometimes in Texts II (s., e.g., fol. 13va ls.9-10) and III (s., e.g., fol. 59ra, incipit of miracle 4), the Martyrs of Ṗäraqliṭos are called ṣadǝqan “righteous ones”. It is an unknown group of saints coming, according to Text II (fol. 13va ls. 5-6), from Tiberias (Ṭǝbǝryados).&#13;
 &#13;
-Text II (Gädlä sämaˁtatä Ṗäraqliṭos)&#13;
+Text II (Gädlä sämaʿtatä Ṗäraqliṭos)&#13;
 - The 4th of Säne is mentioned as the day of the martyrdom (commemoration date) of the martyrs of Ṗäraqliṭos (fol. 21ra-rb).  &#13;
 - The number of martyrs is reported to have been 777 (fol. 21rb). &#13;
 &#13;
-Text III (Täˀamrä sämaˁtatä Ṗäraqliṭos)&#13;
+Text III (Täʾamrä sämaʿtatä Ṗäraqliṭos)&#13;
 III-1) Miracle of the divine punishment (birds drinking human being’s brains) (fols. 48vb-51vb) (፩ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ጸሎቶሙ፡ ወበረከቶሙ፡... ወኮነ፡ በቀ[fol. 49ra]ዳሚ፡ መዋዕል፡ አመ፡ ተምዐ{ዓ}፡ እግዚአብሔር፡ መዓተ፡ ዐቢየ፨ ወፈነወ፡ አዕዋፈ፡ ዐበይተ፡ እለ፡ ይሴፅሩ፡ ርእሰ፡ ሰብእ፡ በአፉሆሙ፡ ወይሰትዩ፡ ናላሁ፡ ...)&#13;
 III-2) Miracle of the jar with holy water that did not break (fols. 51vb-53ra) (፪ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ወካዕበ፡ ነሥአ፡ ውእቱ፡ ብእሴ፡ እግዚኣብሔር፡ ገብረ፡ ቅዱስ፡ ኵስኵስተ፡ ቤ[fol. 52ra]ተ፡ መቅደስ፡ ከመ፡ ይቅዳሕ፡ ማየ፡ ጸሎት፡ …)&#13;
-III-3) Miracle of the healing of Queen ˀƎgziˀ Kəbra (fols. 53ra-59ra) (፫ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... [fol. 53rb] ወካዕበ፡ ስምዑ፡ አኃውየ፡ ዘገብሩ፡ ላቲ፡ ቅዱሳን፡ ጻድቃን፡ ለእግዚእ፡ ክብራ፡ በእሲተ፡ ንጉሠ፡ ኢትዮጵያ፡ ...)&#13;
+III-3) Miracle of the healing of Queen ʾƎgziʾ Kǝbra (fols. 53ra-59ra) (፫ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... [fol. 53rb] ወካዕበ፡ ስምዑ፡ አኃውየ፡ ዘገብሩ፡ ላቲ፡ ቅዱሳን፡ ጻድቃን፡ ለእግዚእ፡ ክብራ፡ በእሲተ፡ ንጉሠ፡ ኢትዮጵያ፡ ...)&#13;
 III-4) Miracle of the healing of a blind man (fols. 59ra-60vb) (፬ተአምሪሆሙ፡ ለጻድቃን፡ … ወሖረ፡ ፩ብእሲ፡ ዕዉረ፡ ዐይን፡ እንዘ፡ ይመርሕዎ፡ እምድረ፡ በለሰ፤...)&#13;
-III-5) Miracle of the holy water of Ṗäraqliṭos extinguishing fire in the King’s palace at ˀAwagär (fols. 60vb-61vb) (፭ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ስምዑ፡ ኦአኃውየ፡ ዘከመ፡ ቦአ፡ እሳተ፡ ሰማይ፡ ወስተ፡ ቤተ፡ ንጉሥ፡ ዐቢይ፡ ዘምድረ፡ አ[ዋ]ገር፡…)&#13;
+III-5) Miracle of the holy water of Ṗäraqliṭos extinguishing fire in the King’s palace at ʾAwagär (fols. 60vb-61vb) (፭ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ስምዑ፡ ኦአኃውየ፡ ዘከመ፡ ቦአ፡ እሳተ፡ ሰማይ፡ ወስተ፡ ቤተ፡ ንጉሥ፡ ዐቢይ፡ ዘምድረ፡ አ[ዋ]ገር፡…)&#13;
 III-6) Miracle of the holy water of Ṗäraqliṭos saving from the pest (fols. 62ra-63va) (፮ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ወመጽአ፡ ፩ብእሲ፡ እምድረ፡ ምምሳሕ፡ እንተ፡ ይብልዋ፡ ጕንያ፡ ጐዪዮ፡ እምፍርሃተ፡ ብድብድ፡ …)&#13;
 III-7) Miracle of the church bell stolen from Ṗäraqliṭos and restituted (fols. 63va-68ra) (፯ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ወካዕበ፡ ስምዑ፡ ኦአኃውየ፡ ዘገብረ፡ ተአምረ፡ ወመንክረ፡ ጳራቅሊጦስ፡ መንፈ[fol. 63vb]ሰ፡ ሕይወት፡ ወረድኤቶሙ፡ ለሰማዕታት፡ ኅሩያን፡ ወቦአ፡ ፩ብእሲ፡ በድፍረት፡ ኀበ፡ ቤተ፡ ክርስቲያን፡ ወነሥኣ፡ ለዶለ፡ ኀጺን፡…)&#13;
 III-8) Miracle of the healing of a blind woman (fols. 68ra-69va) (፰ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... [fol. 68rb] ወሀለወት፡ አሐቲ፡ ብእሲት፡ ዕውርተ፡ ዐይን፡ እምጕንዱይ፡ መዋዕል፡...)&#13;
-III-9) Miracle of the holy water of Ṗäraqliṭos saving from the pest and men from Məsˁəma and Hagäray (fols. 69va-73ra) (፱ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ስምዑ፡ ካዕበ፡ ኦአኃውየ፡ ዘከመ፡ ጐዩ፡ ፪ዕደ[fol. 69vb]ው፡ እምፍርሃተ፡ ብድብድ፡ዘቦአ፡ ውስተ፡ ሀገሮሙ፡ ወመጽኡ፡ ኀበ፡ መቃብሪሆሙ፡ ለሰማዕታተ፡ ጳራቅሊጦስ፡ ቅዱሳን፡ ፩እምድረ፡ ምስዕማ፡ ወ፩እምድረ፡ ሀገራይ፡…) &#13;
+III-9) Miracle of the holy water of Ṗäraqliṭos saving from the pest and men from Mǝsʿǝma and Hagäray (fols. 69va-73ra) (፱ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... ስምዑ፡ ካዕበ፡ ኦአኃውየ፡ ዘከመ፡ ጐዩ፡ ፪ዕደ[fol. 69vb]ው፡ እምፍርሃተ፡ ብድብድ፡ዘቦአ፡ ውስተ፡ ሀገሮሙ፡ ወመጽኡ፡ ኀበ፡ መቃብሪሆሙ፡ ለሰማዕታተ፡ ጳራቅሊጦስ፡ ቅዱሳን፡ ፩እምድረ፡ ምስዕማ፡ ወ፩እምድረ፡ ሀገራይ፡…) &#13;
 III-10) [miracle numbered 11] Praise for the church and the martyrs of Ṗäraqliṭos, and list of the provinces from where the faithful come to Ṗäraqliṭos  (fols. 73ra-76vb) (፲፩ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... [fol. 73rb] ስምዑኬ፡ ኦአኃውየ፡ ከመ፡ ናብጽሕ፡ ለክሙ፡ በዐቅሙ፡ ኵሎ፡ ዘይገብሩ፡ በታሕተ፡ ሰማይ፡…)&#13;
 III-11) [miracle numbered 12] Extensive praise for the church, description of the angels surrounding Ṗäraqliṭos etc. (fols. 77ra-84vb) (፲፪ተአምሪሆሙ፡ ለሰማዕታተ፡ ጰራቅሊጦስ፡ ... [fol. 77va] ስምዑኬ፡ ኦአኃውየ፡ ከመ፡ እንግርክሙ፡ ዘየዐቢ፡ ወዘይኄይስ፡ እምዝ፡ ሰማዕክሙ ቀዳሚ፡...).&#13;
 &#13;
 - Fols. 84rb-86vb: Embedded colophon.&#13;
 Fol. 84rb: ተፈጸመት፡ ዛቲ፡ መጽሐፍ፡ አመ፡ ሠላሁ[sic]፡ ለወርኀ፡ ጳዮን፡ ዘውእቱ፡ ወርኀ፡ ሰኔ፡ በ፻፸ወ፭ዓመተ፡ ምሕረት፡ በመዋዕ[fol. 84va]ለ፡ መንግሥቱ፡ ለንጉሥነ፡ ልብነ፡ ድንግል፨ ወጳጳስነ፡ አቡነ፡ ማርቆስ፨ ወሊቀ፡ ጳጳስነ፡ አባ፡ ዮሐንስ፨ ወሥዩመ፡ ዐጋሜ፡ ናታን፡ ለባሴ፡...ወቀሲስ፡ ገ[fol. 84vb]በዝ፡ ተስፋ፡ ሕይወት፨...ወግርማ፡ ጽዮን፡ ጸሃቂ፡ ዘተስእለኒ፡ ከመ፡ እጽሐፍ፡ ዛተ፡ መጽሐፈ፡ እንዘ፡ እግዚአብሔር፡ ይረድእ፡ ወቃሎ፡ ያጸንዕ፡...[fol. 85rb l.13]ወጸሓፊሃኒ፡ ተስፋ፡ ጽዮን፡ ዘአ[fol. 85va]ገበርክዎ፡ ከመ፡ ይጽሐፍ፡ ዘንተ፡ መጽሐፈ፡ አእሚርየ፡ ጥበቡ፨ ወዘአዕለውክዋ፡ አነ፡ ዳንኤል፡ ፈላሲ፨ ወበምግባርየሰ፡ ኃጥእ፡ ወአባሲ፨ ወበትምህርትየሰ፡ ሠርፀ፡ ነቢያት፡ በዜና፡ ወወልደ፡ ሐዋርያት፡ በሃይማኖት፡ ዘፄወወኒ፡ ጳ[fol. 85vb]ራቅሊጦስ፡ መንፈሰ፡ ሕይወት፨ ከመ፡ አጽሐፍ፡[sic] ተአምራቲሆሙ፡ ለሰማዕታቲሁ፡ ቅዱሳን፨ ወዘአብጽሐተኒ፡ ኀበዝ፡ እምየ፡ አመ፡ ማርያም፡...   &#13;
 &#13;
-The colophon states that the work was completed in the month of Śäne, year of mercy 175 (= 1523 A.D), in the time of King Ləbnä Dǝngəl (r. 1508-1540), Metropolitan Marqos (d. 1529-30), Archbishop John XIII of Alexandria (1483-1555) and governor of ˁAgame (śǝyumä ˁagame) Natan.&#13;
-Furthermore, it says that Danˀel “the fälasi” (“the stranger, the wanderer”) is the one who has “translated” (zä-ˀaˁläwkəwwa) the work (Gädlä and Täˀamrä sämaˁtatä Ṗäraqliṭos), who is at the same time the one who has written this colophon (ወዘአዕለውክዋ፡ አነ፡ ዳንኤል፡ ፈላሲ፨ “I myself,  Danˀel the stranger, am the one who have compiled it”). It says, besides, that Täsfa Ṣəyon (fol. 85rb ls.13-14) is the name of the scribe whom Danˀel has commissioned to write down the work (ወጸሓፊሃኒ፡ ተስፋ፡ ጽዮን፡ ዘአገበርክዎ፡ ከመ፡ ይጽሐፍ፡ ዘንተ፡ መጽሐፈ፡).</otherdetail>
+The colophon states that the work was completed in the month of Śäne, year of mercy 175 (= 1523 A.D), in the time of King Lǝbnä Dǝngǝl (r. 1508-1540), Metropolitan Marqos (d. 1529-30), Archbishop John XIII of Alexandria (1483-1555) and governor of ʿAgame (śǝyumä ʿagame) Natan.&#13;
+Furthermore, it says that Danʾel “the fälasi” (“the stranger, the wanderer”) is the one who has “translated” (zä-ʾaʿläwkǝwwa) the work (Gädlä and Täʾamrä sämaʿtatä Ṗäraqliṭos), who is at the same time the one who has written this colophon (ወዘአዕለውክዋ፡ አነ፡ ዳንኤል፡ ፈላሲ፨ “I myself,  Danʾel the stranger, am the one who have compiled it”). It says, besides, that Täsfa Ṣǝyon (fol. 85rb ls.13-14) is the name of the scribe whom Danʾel has commissioned to write down the work (ወጸሓፊሃኒ፡ ተስፋ፡ ጽዮን፡ ዘአገበርክዎ፡ ከመ፡ ይጽሐፍ፡ ዘንተ፡ መጽሐፈ፡).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -197,7 +197,7 @@ Possibly it is the end of Additio 1.</det></additional>
 - Lacunas in Texts II and III: fols. 18vb, 33va, 38vb, 87rb, 87rb (?).&#13;
 - Cues for the rubricator: e.g., fols. 31v, 32r, 36v, 38v, 53v, 62r.&#13;
 - Crude drawing in pencil on fol. 1v and crude notes in pen on fols. 39r and 87v.&#13;
-- Personal names, i.e. Gäbrä Hiwet and Gäbrä Mikaˀel, are crudely written on fol. 87v (bottom margin).</extra>
+- Personal names, i.e. Gäbrä Hiwet and Gäbrä Mikaʾel, are crudely written on fol. 87v (bottom margin).</extra>
 </extras>
 <drawings class="DLMiniature" heritable="false" notinherit="false"><drawing xml:lang="en" inherited="0"><info>- Fol. 88r: Cross.</info><details>In pencil.</details></drawing>
 </drawings>

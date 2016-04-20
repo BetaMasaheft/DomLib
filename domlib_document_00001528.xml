@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dəggwa, Antiphonary / Zǝmmare, Eucharistic hymns</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝggwa, Antiphonary / Zǝmmare, Eucharistic hymns</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dəggwa, Antiphonary (fols. 1va-75rb), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝggwa, Antiphonary (fols. 1va-75rb), incomplete&#13;
 II) Zǝmmare, Eucharistic hymns (fols. 75va-77vb), incomplete (?)&#13;
 &#13;
 Additio 1.</shortcontent>
@@ -100,7 +100,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">- Hand a: (fols. 1va-75rb), the letters are short and wide, tend to round shapes.&#13;
 - Hand b: (fols. 75va-77vb, rubrication, musical notation throughout the text, omissions and corrections over erasures), angular letters' shapes.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines of the incipit of the Easter Office (fol. 60r); initial line of Text II; names of sections of Text I and their abbreviations followed by feast names (e.g., wazema zä-4 ˀənsəsa, wazema zä-bərhan); names of sections of Text II and their abbreviations (zəmmare); names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, zä-ˀamlakiyä, zä-yəˀəze, yətbaräk); names of other chants and their abbreviations (e.g., məlṭan, məsbak, ˁəzl); musical notation: intratextual signs (e.g., səräyu, qädami zema, yəgäbru, qalä ˁawadi, ˀaklilä, täsäfḥa), interlinear signs (e.g., fols. 17vab, 57rb, 57va, 67va, 74rb, 74vab), marginal signs and their elements; directives for the ministers; elements of the punctuation signs, Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines of the incipit of the Easter Office (fol. 60r); initial line of Text II; names of sections of Text I and their abbreviations followed by feast names (e.g., wazema zä-4 ʾǝnsǝsa, wazema zä-bǝrhan); names of sections of Text II and their abbreviations (zǝmmare); names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, zä-ʾamlakiyä, zä-yǝʾǝze, yǝtbaräk); names of other chants and their abbreviations (e.g., mǝlṭan, mǝsbak, ʿǝzl); musical notation: intratextual signs (e.g., sǝräyu, qädami zema, yǝgäbru, qalä ʿawadi, ʾaklilä, täsäfḥa), interlinear signs (e.g., fols. 17vab, 57rb, 57va, 67va, 74rb, 74vab), marginal signs and their elements; directives for the ministers; elements of the punctuation signs, Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ም፡/ምል፡/ምልጣ፡ for ምልጣን፡&#13;
 ማኅ፡/ማኅሌ፡ for ማኅሌት፡&#13;

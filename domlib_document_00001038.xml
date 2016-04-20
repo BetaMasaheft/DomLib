@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist”: 13 miracles (fols. 2ra-25vb).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist”: 13 miracles (fols. 2ra-25vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -20,9 +20,9 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="DÇ&#157;bla Yoá¸¥annÇ&#157;s MÃ¤á¹­mÇ&#157;q / DMD"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The handwriting is similar, but not identical to that of scribe Wäldä Muse (s. Mədrä Ruba Śəllase).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The handwriting is similar, but not identical to that of scribe Wäldä Muse (s. Mǝdrä Ruba Śǝllase).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀabunä Wäldä Mikaˀel and ˀabunä Täklä Haymanot are mentioned in supplication formulas (e.g., fols. 12rb, 15rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾabunä Wäldä Mikaʾel and ʾabunä Täklä Haymanot are mentioned in supplication formulas (e.g., fols. 12rb, 15rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -92,8 +92,8 @@ On fols. 19 and 26, ruling pattern: 1A-1A-1A1A/0-0/0-0/C.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (only St Mary); name of the protagonist, name of the donor Wäldä Mikaˀel (only on fol. 2rb); incipit of the text and of each miracle; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
-The title ˀabunä is added to the names of the donors by secondary hand in deep vermilion (fols. 4va, 5va, 7rb).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (only St Mary); name of the protagonist, name of the donor Wäldä Mikaʾel (only on fol. 2rb); incipit of the text and of each miracle; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+The title ʾabunä is added to the names of the donors by secondary hand in deep vermilion (fols. 4va, 5va, 7rb).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- On fols. 19r-v and 26r, the scribe switched to one column layout.&#13;
 - The miracles are partly numbered (፫-፬, ፮-፲፫).</otherdetail>

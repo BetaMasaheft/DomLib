@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” /  Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” /  Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 3ra-49vb), incomplete &#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 12 miracles (fols. 50ra-72rb).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 3ra-49vb), incomplete &#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 12 miracles (fols. 50ra-72rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -21,12 +21,12 @@ II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus�
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mәḥrät / MKL"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaˀel is mentioned as the scribe in the supplication formula on fol. 50ra. &#13;
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaʾel is mentioned as the scribe in the supplication formula on fol. 50ra. &#13;
 The same scribe wrote Ms. GMG-009.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Säblä Wängel is mentioned as the commissioner on fol. 50ra. Säblä Wängel and her children (Wäldä) Fasilädäs, Ḫaylä Śəllase, Wälättä Täklä Haymanot and Wälättä Səmˁon are mentioned in the concluding supplication formula on fol. 72va. The same names and names of some other individuals are mentioned in supplication formulas: Säblä Wängel (e.g., fols. 3ra, 31ra, 41va, 50ra, 53vb, 59rb, 62ra),  Wäldä Fasilädäs (fols. 5vb, 41va, 68rb), Ḫaylä Śəllase (fols. 5vb, 43va, 53vb, 62ra), Wälättä Səmˁon (fols. 24ra, 51va, 63rb), Wälättä Täklä Haymanot (fols. 24ra, 31ra, 51va, 61ra), Mäläkotawit (fols. 31ra, 46va, 59rb), Fətä[sic] Dəngəl (fol. 68rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Säblä Wängel is mentioned as the commissioner on fol. 50ra. Säblä Wängel and her children (Wäldä) Fasilädäs, Ḫaylä Śǝllase, Wälättä Täklä Haymanot and Wälättä Sǝmʿon are mentioned in the concluding supplication formula on fol. 72va. The same names and names of some other individuals are mentioned in supplication formulas: Säblä Wängel (e.g., fols. 3ra, 31ra, 41va, 50ra, 53vb, 59rb, 62ra),  Wäldä Fasilädäs (fols. 5vb, 41va, 68rb), Ḫaylä Śǝllase (fols. 5vb, 43va, 53vb, 62ra), Wälättä Sǝmʿon (fols. 24ra, 51va, 63rb), Wälättä Täklä Haymanot (fols. 24ra, 31ra, 51va, 61ra), Mäläkotawit (fols. 31ra, 46va, 59rb), Fǝtä[sic] Dǝngǝl (fol. 68rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -101,39 +101,39 @@ The bottom ruled line was not used by the scribe on fol. 1r.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the protagonist; names of the commissioner, her family members and the scribe; groups of lines (alternating with black lines) on the incipit page of Texts I and II; incipits of sections/miracles; word məˁraf “chapter” in Text I; elements of text dividers; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the protagonist; names of the commissioner, her family members and the scribe; groups of lines (alternating with black lines) on the incipit page of Texts I and II; incipits of sections/miracles; word mǝʿraf “chapter” in Text I; elements of text dividers; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The numbers for miracles are written in the outer margin or in the intercolumn, in the main hand: fols. 51va, 61ra, 62ra, 63va, 65vb, 66rb, 68rb, 68vb, 70va, 70vb.&#13;
-- A name, Gäbrä Ṣadəq, is written in the upper margin: fol. 32vb.&#13;
+- A name, Gäbrä Ṣadǝq, is written in the upper margin: fol. 32vb.&#13;
 - Minor notes, writing exercises, doodles: e.g., fols. 1rv, 2rv, 3rv, 4r, 72rv, 73rv, 74rv, inner faces of both boards.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Monthly readings of Text I are indicated by the names of the months written in the upper margin of some fols, in the main hand: &#13;
 zä-Mäggabit: fol. 3ra&#13;
-zä-Gənbot: fol. 5vb&#13;
+zä-Gǝnbot: fol. 5vb&#13;
 zä-Säne: fol. 11va&#13;
 zä-Mäskäräm: fol. 19va&#13;
 zä-Ḥamle: fol. 25va&#13;
-zä-Ṭəqəmt: fol. 31ra&#13;
-zä-Ḫədar: fol. 35vb&#13;
+zä-Ṭǝqǝmt: fol. 31ra&#13;
+zä-Ḫǝdar: fol. 35vb&#13;
 zä-Taḥśaś: fol. 41va&#13;
-zä-Ṭərr: fol. 43va&#13;
+zä-Ṭǝrr: fol. 43va&#13;
 zä-Yäkkatit: fol. 46vb&#13;
 - Monthly readings of Text II are indicated by the names of the months written in the upper margin of some fols, in the main hand: &#13;
 zä-Yäkkatit: fol. 50ra&#13;
 zä-Mäggabit: fol. 51va&#13;
 zä-Miyazya: fols. 53vb, 59rb&#13;
-zä-Gənbot: fol. 61ra &#13;
+zä-Gǝnbot: fol. 61ra &#13;
 zä-Säne: fol. 62ra&#13;
 zä-Ḥamle: fol. 63va&#13;
 zä-Näḥase: fol. 65vb&#13;
 zä-Mäskäräm: fol. 66rb&#13;
-zä-Ṭəqəmt: fol. 68rb&#13;
-zä-Ḫədar: fol. 68vb&#13;
+zä-Ṭǝqǝmt: fol. 68rb&#13;
+zä-Ḫǝdar: fol. 68vb&#13;
 zä-Taḥśaś: fol. 70ra&#13;
-zä-Ṭərr: fol. 70vb.</txfindingaid>
+zä-Ṭǝrr: fol. 70vb.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-07-02T11:03:01.066Z</servdate><servdate inherited="0" type="modifydate">2015-05-28T13:25:48.275Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">MKrzyzanowska</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

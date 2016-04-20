@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-205rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-205rb)&#13;
 I-1) Introduction (fols. 3ra-6ra)&#13;
 I-2) Eve of Palm Sunday (fols. 6ra-9rb)&#13;
 I-3) Palm Sunday (fols. 9rb-11vc, 16ra-21vc, 26ra-vb)&#13;
@@ -29,7 +29,7 @@ I-7) Thursday (fols. 93rc-116vc, 12ra-15rc), fols. misplaced [inserted in Text I
 - Night hours (fols. 93rc-97ra)&#13;
 - Day hours (fols. 97ra-116vc, 12ra-15rc)&#13;
 I-8) Friday (fols. 15rc-vc, 22ra-25vc, 117ra-191ra), fols. misplaced [inserted in Text I-3]&#13;
-- Night hours (fols. 15rc-vc, 22ra-25vc, 117ra-131rc), including: Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 118vc-123rc); Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 127va-129rc)&#13;
+- Night hours (fols. 15rc-vc, 22ra-25vc, 117ra-131rc), including: Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 118vc-123rc); Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 127va-129rc)&#13;
 - Day hours (fols. 132ra-191ra), including: Homily by Jaqob of Serug on Abraham (fols. 153vc-162va)&#13;
 I-9) Saturday (fols. 191ra-205rb)&#13;
 - Night hours (fols. 191ra-195rb)&#13;
@@ -49,7 +49,7 @@ Additio 1; colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Albasṭros is mentioned as the scribe in the colophon and in Additio 1.</copyist>
 </copyists>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Zä-Mänfäs Qəddus, baptismal name of Säba Gadis (i.d. Säbagadis, b. 1780/85, d. 1831; s. EAE IV, 430-31), is mentioned as the commissioner of the Ms. in the final supplication formula on fol. 205rb; he is also mentioned in the supplication formula on fol. 41vb.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Zä-Mänfäs Qǝddus, baptismal name of Säba Gadis (i.d. Säbagadis, b. 1780/85, d. 1831; s. EAE IV, 430-31), is mentioned as the commissioner of the Ms. in the final supplication formula on fol. 205rb; he is also mentioned in the supplication formula on fol. 41vb.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -99,7 +99,7 @@ Two pairs of sewing stations.</binding>
 </bnothers>
 <wmaterials class="MCRMetaClassification" heritable="false" notinherit="false"><wmaterial inherited="0" classid="domlib_class_00000004" categid="WMat01"/>
 </wmaterials>
-<inks class="MCRMetaLangText" heritable="false" notinherit="false"><ink xml:lang="en" inherited="0" form="plain">Black; red (brilliant vermillion; strong vermillion for the name Zä-Mänfäs Qəddus on fol. 41vb)</ink>
+<inks class="MCRMetaLangText" heritable="false" notinherit="false"><ink xml:lang="en" inherited="0" form="plain">Black; red (brilliant vermillion; strong vermillion for the name Zä-Mänfäs Qǝddus on fol. 41vb)</ink>
 </inks>
 <folios class="MCRMetaNumber" heritable="false" notinherit="false"><folio xml:lang="en" inherited="0">205.0</folio>
 </folios>
@@ -134,7 +134,7 @@ Some distinctive features:&#13;
 - x-cross with dashes is used several times, especially at the end of a book title or heading of texts (e.g., fols. 98rb, 100ra).</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina Sacra. Names of the king and commissioner.&#13;
-A few lines alternating with black lines in the incipit page of Text I-1 and in the incipit page of the section for the day hours of Friday (in Text I-8); headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; names of Hebrew letters in Text I-8; directives for the ministers in Texts I-7and I-9; initial words or letters in “Təmḫərtä ḫəbuˀat” (Text I-8); the words: yǝbe, yǝtärägwǝm and yǝbe mätärgwǝm in Text I-8.&#13;
+A few lines alternating with black lines in the incipit page of Text I-1 and in the incipit page of the section for the day hours of Friday (in Text I-8); headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; names of Hebrew letters in Text I-8; directives for the ministers in Texts I-7and I-9; initial words or letters in “Tǝmḫǝrtä ḫǝbuʾat” (Text I-8); the words: yǝbe, yǝtärägwǝm and yǝbe mätärgwǝm in Text I-8.&#13;
 Elements of the punctuation signs, of Ethiopic numerals and of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ሕ፡ for ይብል፡ ሕዝብ፡ (in Text I-7; e.g., fols. 114va, 114vb, 115ra)&#13;
@@ -146,7 +146,7 @@ Elements of the punctuation signs, of Ethiopic numerals and of the text dividers
 ወይ፡ እግ᎓ ተ᎓ ጸ፡/ወይ፡ እግ፡ ጸ፡ for ወይብሉ፡ እግዚኦ፡ ተሣሃለነ፡ ጸልዩ፡ (in Text I-9; fols. 204ra-205rc)</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Fols. 12r-15v, 22r-25v (part of Texts I-7 and I-8) are misplaced: they are wrongly inserted and rebound within Quire II, so that part of Texts I-7 and I-8 is inside Text I-3 (s. above “Short content”). This is not easily visible from the quire structure and the binding, but possible to note if one examines the text.&#13;
-- On fols. 162rc-va, the Homily by Jaqob of Serug on Abraham (in Text I-8) ends with a subscriptio ascribing the translation of the homily (from Arabic into Gǝˁǝz) to Metropolitan ˀabba Sälama (Metropolitan from 1350 or 1348; cp. EAE IV, 488-89); besides, the authorship of the work is here attributed (?) to Athanasius (Bishop of Alexandria from 328 to 373; cp. EAE I, 392): ወይረሲ፡ ማኅደሮ፡ ለአቡነ፡ አባ፡ ሰላማ፡ ጳጳስነ፡ ወወ[sic]ምስሌሆሙ፡ ደርገ፡ አሜን፨ ለዝንቱ፡ ድርሳን፡ ዘአጽሐፎ፡ አቡነ፡ አባ፡ ሰላማ፡ ጳጳስ፡ ርቱዓ፡ ሃይማኖት፡ እመጽሐፈ፡ ዚአሁ፡ ለግዕዝ፡ ወይተሉ፡ ዝየ፡ ተጽሕፎ፡ ዘይቤ፡ አባ፡ አትናትዮስ፨ ለዘጸሐፎ፡ ወለዘአጽሐፎ፡ ይጸሐፍ፡ ስሞሙ፡ በመንግሥተ፡ ሰማይ። ጸሎቱ፡ ወበረከቱ፡ የሃሉ፡ ምስሌነ፡ አሜን፨ ፨&#13;
+- On fols. 162rc-va, the Homily by Jaqob of Serug on Abraham (in Text I-8) ends with a subscriptio ascribing the translation of the homily (from Arabic into Gǝʿǝz) to Metropolitan ʾabba Sälama (Metropolitan from 1350 or 1348; cp. EAE IV, 488-89); besides, the authorship of the work is here attributed (?) to Athanasius (Bishop of Alexandria from 328 to 373; cp. EAE I, 392): ወይረሲ፡ ማኅደሮ፡ ለአቡነ፡ አባ፡ ሰላማ፡ ጳጳስነ፡ ወወ[sic]ምስሌሆሙ፡ ደርገ፡ አሜን፨ ለዝንቱ፡ ድርሳን፡ ዘአጽሐፎ፡ አቡነ፡ አባ፡ ሰላማ፡ ጳጳስ፡ ርቱዓ፡ ሃይማኖት፡ እመጽሐፈ፡ ዚአሁ፡ ለግዕዝ፡ ወይተሉ፡ ዝየ፡ ተጽሕፎ፡ ዘይቤ፡ አባ፡ አትናትዮስ፨ ለዘጸሐፎ፡ ወለዘአጽሐፎ፡ ይጸሐፍ፡ ስሞሙ፡ በመንግሥተ፡ ሰማይ። ጸሎቱ፡ ወበረከቱ፡ የሃሉ፡ ምስሌነ፡ አሜን፨ ፨&#13;
 - In some parts of the text, the rubrication is missing (s. the punctuations), looking like it has not been completed: fols. 98v-99r, 157v-162r.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

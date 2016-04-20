@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Mälkəˀa ˀIyäsus Krǝstos “Image of Jesus Christ” / ˀƎsäggəd läki wä-ˀəweddəsäki... "I worship Thee..." / Protective prayer</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Mälkǝʾa ʾIyäsus Krǝstos “Image of Jesus Christ” / ʾƎsäggǝd läki wä-ʾǝweddǝsäki... "I worship Thee..." / Protective prayer</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 1r-41v)&#13;
-II) Mälkəˀa ˀIyäsus Krǝstos “Image of Jesus Christ” (fols. 42r-51r) (ChRep 343, no. 269)&#13;
-III) ˀƎsäggəd läki wä-ˀəweddəsäki... "I worship Thee..." (fols. 52r-55r) (ChRep 318, no. 338)&#13;
-IV) Ṣälot bä-ˀəntä bəˁər wä-lahm, ˀAsmat-prayer for protecting the cattle (fols. 56v-60v).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 1r-41v)&#13;
+II) Mälkǝʾa ʾIyäsus Krǝstos “Image of Jesus Christ” (fols. 42r-51r) (ChRep 343, no. 269)&#13;
+III) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... "I worship Thee..." (fols. 52r-55r) (ChRep 318, no. 338)&#13;
+IV) Ṣälot bä-ʾǝntä bǝʿǝr wä-lahm, ʾAsmat-prayer for protecting the cattle (fols. 56v-60v).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
@@ -25,7 +25,7 @@ IV) Ṣälot bä-ˀəntä bəˁər wä-lahm, ˀAsmat-prayer for protecting the c
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mәḥrät / MKL"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel (fols. 1v, 41v, 44v, 51v) and Nǝṣḥa Dǝngǝl (fols. 41v, 44v, 51v) are mentioned in the supplication formulas.&#13;
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel (fols. 1v, 41v, 44v, 51v) and Nǝṣḥa Dǝngǝl (fols. 41v, 44v, 51v) are mentioned in the supplication formulas.&#13;
 &#13;
 The Ms. is in private possession.</owner>
 </owners>

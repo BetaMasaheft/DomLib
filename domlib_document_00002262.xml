@@ -11,15 +11,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Yä-ˁUra Mäsqäl däbdabbe, Land-charter of ˁUra Mäsqäl</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Yä-ʿUra Mäsqäl däbdabbe, Land-charter of ʿUra Mäsqäl</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Yä-ˁUra Mäsqäl däbdabbe, Land-charter of ˁUra Mäsqäl (fols. 1r-11v)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Yä-ʿUra Mäsqäl däbdabbe, Land-charter of ʿUra Mäsqäl (fols. 1r-11v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub10"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -80,7 +80,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (Maryam, mäsqäl); the place-name mədrä Kärän on fol. 7r; two lines in the incipit page; incipit of the sections; elements of the punctuation signs and Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (Maryam, mäsqäl); the place-name mǝdrä Kärän on fol. 7r; two lines in the incipit page; incipit of the sections; elements of the punctuation signs and Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><nm>1</nm><text>Berlin</text><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink><text>Köln</text></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink><text>Bonn</text></literature></literatures></desccontent>
 </desccontents>

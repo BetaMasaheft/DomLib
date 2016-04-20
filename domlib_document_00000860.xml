@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the first half of the year (fols. 3ra-299rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the first half of the year (fols. 3ra-299rb)&#13;
 I-1) Mäskäräm (fols. 3ra–57vc)&#13;
-I-2) Ṭəqəmt (fols. 58ra–101rc)&#13;
-I-3) Ḫədar (fols. 101va–149vc)&#13;
+I-2) Ṭǝqǝmt (fols. 58ra–101rc)&#13;
+I-3) Ḫǝdar (fols. 101va–149vc)&#13;
 I-4) Taḫśaś (fols. 150ra–202vc)&#13;
-I-5) Ṭərr (fols. 203ra–260vb)&#13;
+I-5) Ṭǝrr (fols. 203ra–260vb)&#13;
 I-6) Yäkkatit (fols. 260va–299rb)&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-2; colophon.</shortcontent>
 </shortcontents>
@@ -33,7 +33,7 @@ Additiones 1-2; colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam is mentioned as the scribe in the colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAmdä Bǝrhan and ˁAqba Mikaˀel are mentioned in supplication formulas throughout the Ms. and in the colophon; the latter's name appears in different variants: ˁƎqwǝba Mikaˀel (e.g., fol. 6rb), ˀƎqwǝba Mikaˀel (e.g., fol. 7rb), ˀAqba Mikaˀel (e.g., fols. 35rb, 181va, 229vc, 236vc), ˁAqba Mikaˀel (most common form, e.g., fols. 26rb, 50ra, 86ra 151vb, 176vb, 184ra, 223rc, 278rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAmdä Bǝrhan and ʿAqba Mikaʾel are mentioned in supplication formulas throughout the Ms. and in the colophon; the latter's name appears in different variants: ʿƎqwǝba Mikaʾel (e.g., fol. 6rb), ʾƎqwǝba Mikaʾel (e.g., fol. 7rb), ʾAqba Mikaʾel (e.g., fols. 35rb, 181va, 229vc, 236vc), ʿAqba Mikaʾel (most common form, e.g., fols. 26rb, 50ra, 86ra 151vb, 176vb, 184ra, 223rc, 278rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1745</fdating>
 </fdatings>
@@ -118,7 +118,7 @@ Some letters have a big circular vowel marker (e.g., ሎ ቤ ግ).</pchangeofhan
 &#13;
 Several lines or groups of lines on the page opening the commemorative notices for each month are rubricated: 3 red lines alternating with black lines, 2 red lines below (fols. 3r, 58r, 101v, 150r, 203r, 260v).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the second half of the Sənkəssar see Ms. QSM-007.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the second half of the Sǝnkǝssar see Ms. QSM-007.&#13;
 - Zä-Wäldä Maryam is mentioned as the scribe also in: BQM-012 (1650-1750), GBI-001 (1800-1850), MKL (1700-1750), MR-008 (1770-1775), MR-033 (1730-1770), QSM-007 (1745), THMR-008 (1682-1755), TRM-017 (1682-1745), UM-041 (1730-1780), UM-042 (1760-1800).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
@@ -129,7 +129,7 @@ Several lines or groups of lines on the page opening the commemorative notices f
 <additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span unicode=""&gt;Fol. 299r (at the bottom): Record concerning a donation of a carpet to the church.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 299r (at the bottom): &lt;/span&gt;&lt;span style="font-size: large"&gt;&amp;#4629;&amp;#4851;&amp;#4653;&amp;#4961; &amp;#4978;&amp;#4970;&amp;#4672;&amp;#4757;&amp;#4961; &amp;#4978;&amp;#4977;&amp;#4987;&amp;#4979;&amp;#4971;&amp;#4819;.&amp;#4637;. &amp;#4808;&amp;#4845;&amp;#4824;&amp;#4654;&amp;#4961; &amp;#4877;&amp;#4848;&amp;#4845;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4819;&amp;#4853;&amp;#4811;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4853;&amp;#4961; &amp;#4637;&amp;#4757;&amp;#4899;&amp;#4941;&amp;#4961; &amp;#4616;&amp;#4672;&amp;#4653;&amp;#4776;&amp;#4704;&amp;#4653;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4708;&amp;#4720;&amp;#4781;&amp;#4653;&amp;#4661;&amp;#4722;&amp;#4843;&amp;#4757;&amp;#4961; &amp;#4840;&amp;#4720;&amp;#4616;&amp;#4808;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4755;&amp;#4961;&amp;#160;&amp;#4632;&amp;#4653;&amp;#4613;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4819;&amp;#4636;&amp;#4757;&amp;#4961; &amp;#4819;&amp;#4636;&amp;#4757;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>Written in a recent hand, in pen. The date corresponds to 19 August 1931 A.D.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The name of the donor(?), Mäzgäbä Śǝllase, is written interlineally in recent ink: e.g., fols. 3rb, 58vc, 110vbc, 150rb, 163rb, 184ra, 219rb, 243ra, 288rc, 299ra.&#13;
-- Short excerpts from commemorative notices for Taḫśaś, Ṭərr and Yäkkatit, in the main hand (?) on fol. 1v.&#13;
+- Short excerpts from commemorative notices for Taḫśaś, Ṭǝrr and Yäkkatit, in the main hand (?) on fol. 1v.&#13;
 - A few corrections are written over erasure or interlineally: fols. 25vab, 46rb, 69vb, 71ra, 256rb, 284ra, 288vc.&#13;
 - Erasures marked with parallel lines: fols. 16vc, 19ra, 26rb, 59rb, 65va, 71rab, 100va, 113vb, 152rc, 205ra, 240ra, 286ra, 290rb.&#13;
 - Crude drawings, scrivbbles in ink, pen and pencil: fols. 28v, 105v, 115v, 116r, 256v, 257v, 298v, 299v.</extra>

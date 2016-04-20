@@ -14,7 +14,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 2r-18vb l.7)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 18vb l.8–47vb l.15)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 18vb l.8–47vb l.15)&#13;
 III) Anaphoras (fols. 48va-123rb)&#13;
 III-1) Anaphora of the Apostles (fols. 48va l.16–59vb l.13)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 60ra l.1–63rb l.8)&#13;
@@ -34,17 +34,17 @@ Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀEwosṭatewos</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾEwosṭatewos</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀEwosṭatewos is mentioned as the scribe in the supplication, fol. 71ra.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾEwosṭatewos is mentioned as the scribe in the supplication, fol. 71ra.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Maryam Ḫaylu (Additio 2). On fol. 71ra, beside the name of the scribe, space for the name of the commissioner was left empty but another name, Gäbrä Täklä Haymanot, has been (recently) added in pen above the line.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Additiones 1 and 2, the book was recently owned (?) by ˀato ˀƎqbäˀu Ḫaylu.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Additiones 1 and 2, the book was recently owned (?) by ʾato ʾƎqbäʾu Ḫaylu.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -146,7 +146,7 @@ Calendar notes concerning occasions for celebrating the given Anaphora (e.g., fo
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 2r (upper margin):&amp;#160; Ownership note.&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>The very recent note is written in Tǝgrǝñña and Gǝˁǝz, in pen.</det></additional>
+&lt;/span&gt;&lt;/p&gt;</cont><det>The very recent note is written in Tǝgrǝñña and Gǝʿǝz, in pen.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 123v: Ownership note.&lt;/span&gt;&lt;/p&gt;</cont><det>The very recent note is written in pen.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 123v:&lt;/span&gt; D&lt;span style="line-height: 115%"&gt;onation note.&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</cont><det>The very recent note is written in pen.</det></additional>

@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following text:&#13;
-I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-150rc)&#13;
+I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-150rc)&#13;
 I-1) Introduction (fols. 3ra-6rc) &#13;
 I-2) Palm Sunday (fols. 6rc-11rc) &#13;
 I-3) Monday (fols. 11rc-25va) &#13;
@@ -30,21 +30,21 @@ I-6) Thursday (fols. 48vc-66vb) &#13;
 - Day hours (fols. 50vc-66vb) &#13;
 I-7) Friday (fols. 66vc-117ra) &#13;
 - Night hours (fols. 66vc-76vb), including: Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 71rb-73vc) &#13;
-- Day hours (fols. 76vb-117ra), including: Mäḥaləyä mäḥaləy “Song of Songs” (fols. 114ra-116rb) &#13;
+- Day hours (fols. 76vb-117ra), including: Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 114ra-116rb) &#13;
 I-8) Saturday (fols. 117ra- 140vc)&#13;
 - Night hours (fols. 117ra-118vb)&#13;
-- Mass (fols. 119rc-140vc), including: Homily and Teaching of the Apostles, regarding the Passion, Crucifixion and Resurrection of Our Lord (fols. 125vb-129va) (cp. WrBriMus 215, no. 321 [IV], 229, no. 341 [II]); Raˀəyä Yoḥannəs “Revelation of John” (fols. 129va-139rb); Directives for the Rite of the Passion Week (Good Friday) (fols. 140rb-140va)&#13;
+- Mass (fols. 119rc-140vc), including: Homily and Teaching of the Apostles, regarding the Passion, Crucifixion and Resurrection of Our Lord (fols. 125vb-129va) (cp. WrBriMus 215, no. 321 [IV], 229, no. 341 [II]); Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 129va-139rb); Directives for the Rite of the Passion Week (Good Friday) (fols. 140rb-140va)&#13;
 I-9) Homily by Cyriacus the Bishop of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 141ra-150rc)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäˁatti Qәddus Mikaˀel  / DMB"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qәddus Mikaʾel  / DMB"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäˁatti Qәddus Mikaˀel  / DMB"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qәddus Mikaʾel  / DMB"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam is the name mentioned in Additio 1 as the one who most probably sold the Ms. to the church Bäˁatti Qәddus Mikaˀel.&#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam is the name mentioned in Additio 1 as the one who most probably sold the Ms. to the church Bäʿatti Qәddus Mikaʾel.&#13;
 His name is also written in some supplication formulas within the text (e.g., fol. 6va-b).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -127,8 +127,8 @@ The bottom line is written above the ruling. &#13;
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre; irregular.</phandwriting>
 </phandwritings>
-<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">- The word እግዚአብሔር፡ (ˀəgziˀabǝḥer), or እግዚእ፡ (ˀəgziˀ), is sometimes written with ligature (e.g., fols. 97rb l.10, 97rc l.4, 125ra).&#13;
-- The word እስራኤል፡ (ˀəsraˀel) is written ፳ኤል፡ (20-ˀel) (e.g., fol. 97rb ls. 5, 7, 9).&#13;
+<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">- The word እግዚአብሔር፡ (ʾǝgziʾabǝḥer), or እግዚእ፡ (ʾǝgziʾ), is sometimes written with ligature (e.g., fols. 97rb l.10, 97rc l.4, 125ra).&#13;
+- The word እስራኤል፡ (ʾǝsraʾel) is written ፳ኤል፡ (20-ʾel) (e.g., fol. 97rb ls. 5, 7, 9).&#13;
 - The number ፮ is with the loop open and it looks like the number ፯.</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the name Gäbrä Maryam (the seller of the book [?]).&#13;
@@ -140,12 +140,12 @@ Elements of the punctuation signs; Ethiopic numbers or their elements; elements 
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the 11th night hour of Thursday, the number is 9 instead of 11 (fol. 57ra).&#13;
 - Lacuna in fols. 140va, 145va.&#13;
-- Within the text “Directives for the Rite of the Passion Week (Good Friday)” (in Text I-8), the Greek word Kiryalaison (from “Kýrie, eléison”, “Lord, have mercy”) is transcribed in Gəˁəz kiralayson (sometimes only kirala/kira).</otherdetail>
+- Within the text “Directives for the Rite of the Passion Week (Good Friday)” (in Text I-8), the Greek word Kiryalaison (from “Kýrie, eléison”, “Lord, have mercy”) is transcribed in Gǝʿǝz kiralayson (sometimes only kirala/kira).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: "&gt;Fols. 150rc-150va: Purchase note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written both in Gǝˁǝz and in Amharic.&#13;
-The note states that the church Bäˁatti Qәddus Mikaˀel purchased the book (in the month of Mäggabit) from most probably such a Gäbrä Maryam. During the moment of the purchase witnesses from both sides, whose the names are given, were present.&#13;
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: "&gt;Fols. 150rc-150va: Purchase note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written both in Gǝʿǝz and in Amharic.&#13;
+The note states that the church Bäʿatti Qәddus Mikaʾel purchased the book (in the month of Mäggabit) from most probably such a Gäbrä Maryam. During the moment of the purchase witnesses from both sides, whose the names are given, were present.&#13;
 Gäbrä Maryam is also mentioned in some supplication formulas within the Text (e.g., fol. 6va-c).</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts of hymns for the Good Friday (?) are written (in a faded black ink) in the upper margins, or interlineally, in fols. 83v, 89v-90r, 101v, 102r, 109r.&#13;

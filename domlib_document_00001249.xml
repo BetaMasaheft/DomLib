@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Barәkännä ˀәgziˀo… “Bless us, O Lord…” (Blessing prayer) / Mäṣḥafä ˀaślәṭi, Lectionary for the entire year / Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Barәkännä ʾәgziʾo… “Bless us, O Lord…” (Blessing prayer) / Mäṣḥafä ʾaślәṭi, Lectionary for the entire year / Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following texts:&#13;
-I) Barәkännä ˀәgziˀo… “Bless us, O Lord…” (Blessing prayer)(fols. 2ra-3vb)&#13;
-II) Mäṣḥafä ˀaślәṭi, Lectionary for the entire year (fols. 4ra-60rb)&#13;
-III) Täˀamrä Maryam “Miracles of Mary”: 3 miracles (fols. 62va-65rb).</shortcontent>
+I) Barәkännä ʾәgziʾo… “Bless us, O Lord…” (Blessing prayer)(fols. 2ra-3vb)&#13;
+II) Mäṣḥafä ʾaślәṭi, Lectionary for the entire year (fols. 4ra-60rb)&#13;
+III) Täʾamrä Maryam “Miracles of Mary”: 3 miracles (fols. 62va-65rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
@@ -24,7 +24,7 @@ III) Täˀamrä Maryam “Miracles of Mary”: 3 miracles (fols. 62va-65rb).</sh
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000071" xlink:title="FÃ¤qada Maryam / FBM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täsfa Maryam and his wife Wälättä Mikaˀel (s. the supplication formula on fol. 4va); Bäˀәdä Maryam (s. the supplication formulas on fols. 61va, 63ra, 64va, 65rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täsfa Maryam and his wife Wälättä Mikaʾel (s. the supplication formula on fol. 4va); Bäʾәdä Maryam (s. the supplication formulas on fols. 61va, 63ra, 64va, 65rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -116,10 +116,10 @@ The bottom line is written above the ruling.</ruling>
 Hand b: fols. 61va-65rb&#13;
 Hand c: fols. 2ra-3vb</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of Texts I and II; incipit of sections of Text III; names of the donors; the word barəkännä “bless us…” in Text I; titles of books to be read in Text II; notes written in the upper margins; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of Texts I and II; incipit of sections of Text III; names of the donors; the word barǝkännä “bless us…” in Text I; titles of books to be read in Text II; notes written in the upper margins; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit pages of Texts I and II (fols. 2r, 4r), a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text II is called Mäṣḥafä ˀaslәṭi in its incipit (fol. 4ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text II is called Mäṣḥafä ʾaslәṭi in its incipit (fol. 4ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

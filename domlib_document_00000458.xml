@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 3ra-17vb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 3ra-10va)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 3ra-10va)&#13;
 - Letter of Eusebius to Carpianus (fols. 10va-11va)&#13;
 - The “Synopsis of Classes” (fols. 11va-12rb)&#13;
 - Discourse "On the 72 Disciples" (fol. 12rb-va)&#13;
@@ -22,33 +22,33 @@
 - Statement about the Eusebian sections (fol. 17va-vb)&#13;
 II) Gospel of Matthew (fols. 17vb-63va)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fols. 17vb-18va)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 19ra-63va)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 19ra-63va)&#13;
 - Postscript to the Gospel of Matthew (fol. 63va)&#13;
 III) Gospel of Mark (fols. 64ra-92va)&#13;
 - Biography of Mark (fols. 64ra-va)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fols. 64va-65ra)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 66ra-92rb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 66ra-92rb)&#13;
 - Postscript to the Gospel of Mark (fol. 92rb-va)&#13;
 IV) Gospel of Luke (fols. 92va-143rb)&#13;
 - Biography of Luke (fols. 92va-93ra)&#13;
 - List of the “tituli” for the Gospel of Luke: 83 titles (fols. 93va-94rb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 96ra-143rb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 96ra-143rb)&#13;
 - Postscript to the Gospel of Luke (fol. 143rb)&#13;
 V) Gospel of John (fols. 143va-182va)&#13;
 - Biography of John (fols. 143va-144rb)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 144rb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 145ra-182rb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 145ra-182rb)&#13;
 - Postscript to the Gospel of John (fol. 182va)&#13;
 &#13;
 Additiones 1-6.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest Wäldä Krəstos (s. Additio 3, ls.1-2; also mentioned in Additiones 4 and 5). In the supplicating formulas following the titles of the Gospels the first part of his name has been erased and replaced with Maḫtämä (Maḫtämä Krəstos).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest Wäldä Krǝstos (s. Additio 3, ls.1-2; also mentioned in Additiones 4 and 5). In the supplicating formulas following the titles of the Gospels the first part of his name has been erased and replaced with Maḫtämä (Maḫtämä Krǝstos).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -139,7 +139,7 @@ The ruling pattern is different for the Canon tables and for the lists of tituli
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Neat, regular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; chapter numbers and the word məˤəraf; incipits of Gospel chapters and of minor texts (two initial lines); some of the marginal notes repeating chapter titles or indicating the liturgical occasions on which given sections should be read; name of the owner; parts of the Canon tables; elements of the punctuation signs; elements of the Ethiopic numerals in the text and in the margins.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; chapter numbers and the word mǝˤǝraf; incipits of Gospel chapters and of minor texts (two initial lines); some of the marginal notes repeating chapter titles or indicating the liturgical occasions on which given sections should be read; name of the owner; parts of the Canon tables; elements of the punctuation signs; elements of the Ethiopic numerals in the text and in the margins.&#13;
 Incipits of Text I and of each of the four Gospels are written alternately in red and black lines (s. fols. 3r, 19r, 66r, 96r, 145r).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For details concerning the traditional introduction texts s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
@@ -153,7 +153,7 @@ Incipits of Text I and of each of the four Gospels are written alternately in re
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fols. 182vb-183ra: Extensive note, for the most part erased.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The greater part of the text (fol. 182vb) has been erased, although some letters are still visible. The legible paqssage contains the condemnation formula.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 183ra-rb: Donation note concerning land.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 183ra-rb:&lt;/span&gt; &lt;span style="font-size: large;"&gt;&amp;#4824;&amp;#4808;&amp;#4608;&amp;#4704;&amp;#4725;&amp;#4961; &amp;#4624;&amp;#4632;&amp;#4621;&amp;#4635;&amp;#4616;&amp;#4961; &amp;#4808;&amp;#4653;&amp;#4677;&amp;#4961; &amp;#4872;&amp;#4651;&amp;#4741;&amp;#4720;&amp;#4961; &amp;#4931;&amp;#4821;&amp;#4851;&amp;#4961; &amp;#4624;&amp;#4632;&amp;#4853;&amp;#4961; &amp;#4616;&amp;#4768;&amp;#4704;&amp;#4961; &amp;#4752;&amp;#4941;&amp;#4659;&amp;#4961; &amp;#4676;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661;&amp;#4961;&lt;span style="font-size: small;"&gt;&amp;lt;...&amp;gt;&lt;/span&gt; &amp;#4720;&amp;#4829;&amp;#4779;&amp;#4651;&amp;#4610;&amp;#4961; &amp;#4877;&amp;#4704;&amp;#4649;&amp;#4961; &amp;#4768;&amp;#4632;&amp;#4961; &amp;#4980;&amp;#4609;&amp;#4961; &amp;#4616;&amp;#4901;&amp;#4677;&amp;#4637;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4874;&amp;#4828;&amp;#4961; &amp;#4682;&amp;#4653;&amp;#4707;&amp;#4757;&amp;#4961; &amp;#4770;&amp;#4725;&amp;#4653;&amp;#4645;&amp;#4817;&amp;#4961; &amp;#4661;&amp;#4635;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4637;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>Written in the main hand, the beginning is missing. About half of the text has been erased.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" style="line-height: 115%;" unicode=""&gt;Fol. 183rb: Note on commomoration days of some individuals.&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-GB" style="line-height: 115%" unicode=""&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the main hand. The note lists the dates on which the deceased ˀAkalä Krəstos, Wäldä Krəstos, Giyorgis and Ṗawlos are commemorated.</det></additional>
+&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the main hand. The note lists the dates on which the deceased ʾAkalä Krǝstos, Wäldä Krǝstos, Giyorgis and Ṗawlos are commemorated.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 183v: Short note on the Gospels and Evangelists.&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%"&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</cont><det>Written in the main hand. The final part is unintelligible.</det></additional>
 </additionals>

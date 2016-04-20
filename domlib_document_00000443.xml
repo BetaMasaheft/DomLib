@@ -11,46 +11,46 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Introduction (fols. 1ra-11vb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 1ra-6vb) &#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 1ra-6vb) &#13;
 - Letter of Eusebius to Carpianus (fols. 6vb-7rb)&#13;
 - Canon tables (fols. 7va-11ra)&#13;
 - On the reliability of the Gospels (fol. 11va-vb)&#13;
 II) Gospel of Matthew (fols. 1va-64vb)&#13;
 - Biography of Matthew (fol. 11va-vb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 14ra-64vb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 14ra-64vb)&#13;
 - Postscript (fol. 64vb)&#13;
 III) Gospel of Mark (fols. 64va-99ra)&#13;
 - Biography of Mark (fols. 64va-65ra)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fol. 65ra-vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 68ra-98vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 68ra-98vb)&#13;
 - Postscript (fol. 99ra)&#13;
 IV) Gospel of Luke (fols. 99ra-157ra)&#13;
 - Biography of Luke (fol. 99rb-va), preceded by a prayer (fol. 99ra-rb)&#13;
 - List of the “tituli” for the Gospel of Luke: 83 titles (fols. 99va-100vb) &#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 103ra-157ra)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 103ra-157ra)&#13;
 - Postscript (fol. 157ra)&#13;
 V) Gospel of John (fols. 157ra-201ra)&#13;
 - Biography of John (fols. 157ra-158ra)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 158ra-rb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 160ra-200vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 160ra-200vb)&#13;
 - Postscript (fol. 201ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Iyäsus</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Iyäsus (fol. 6va, ls. 6-7).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAfä Krəstos (mentioned in supplication formulas, cp. fols. 14r, l.3; 64rb, l.16, etc.).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAfä Krǝstos (mentioned in supplication formulas, cp. fols. 14r, l.3; 64rb, l.16, etc.).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -125,20 +125,20 @@ The ruling pattern is different for the Introduction and the Canon tables.</rl-i
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Regular, careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; chapter numbers and the word məˤəraf; incipits of Gospel chapters and of minor texts (two initial lines); some of the marginal notes repeating chapter titles or indicating the liturgical occasions on which given sections should be read; name of the donor; parts of the Canon tables; elements of the punctuation signs; elements of the Ethiopic numbers indicating the “tituli”.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; chapter numbers and the word mǝˤǝraf; incipits of Gospel chapters and of minor texts (two initial lines); some of the marginal notes repeating chapter titles or indicating the liturgical occasions on which given sections should be read; name of the donor; parts of the Canon tables; elements of the punctuation signs; elements of the Ethiopic numbers indicating the “tituli”.&#13;
 &#13;
 Incipits of Text I and of each of the four Gospels are written alternately in red and black lines (s. fols. 1r, 14r, 68r, 103r, 160r).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In Text I, Mäqdəmä wängel is incomplete, the final part of the seventh and the entire eighth "periods of instruction" missing. For details s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; here esp. 160-2; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In Text I, Mäqdǝmä wängel is incomplete, the final part of the seventh and the entire eighth "periods of instruction" missing. For details s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; here esp. 160-2; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
 The "Biography of Matthew" is merged with the part "On the reliability of the Gospels".&#13;
 Additional leaves with miniatures were infixed in the recent time, to "illuminate" the Ms.&#13;
 Decorated quire marks.&#13;
 &#13;
-The Golden Gospel of ˀAmbäsät Kidanä Məḥrät church.</otherdetail>
+The Golden Gospel of ʾAmbäsät Kidanä Mǝḥrät church.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 201ra-rb: Record concerning a land dispute in the court.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated Ḫədar 3, 1932 E.C. (= Monday, November 13, 1939 A.D.). Signed by ˀaläqa Zäwgä and ˀato Täwäldä.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 201ra-rb: Record concerning a land dispute in the court.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Dated Ḫǝdar 3, 1932 E.C. (= Monday, November 13, 1939 A.D.). Signed by ʾaläqa Zäwgä and ʾato Täwäldä.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fols. 28v, 71v, 87r, 98r, 122r, 155r, 160v, 192r, 199r, 199v (in the upper margin): Crude notes.&#13;
 - Fols. 106r, 145r, 156v, 186r, 193v (in the upper margin): Elaborately written notes indicating the topic of the corresponding chapter or the liturgical occasion.&#13;
@@ -161,7 +161,7 @@ The Golden Gospel of ˀAmbäsät Kidanä Məḥrät church.</otherdetail>
 - Coloured threads have been inserted in the upper and outer margins of fols. 18, 19, 46, 87, 155.</txfindingaid>
 </txfindingaids>
 <miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 11v: Christ crowned with thorns, donor.</info><details>Frontispiece miniature; recent; the name of the donor missing.</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 12r: ˀAbunä Libanos and ˀabunä ˀArägawi</info><details>Frontispiece miniature; recent.</details></miniature>
+<miniature xml:lang="en" inherited="0"><info>Fol. 12r: ʾAbunä Libanos and ʾabunä ʾArägawi</info><details>Frontispiece miniature; recent.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 12v: St. Matthew the Evangelist.</info><details>Frontispiece miniature;recent.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 13r: The Holy Trinity, two donors.</info><details>Frontispiece miniature; recent.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 66v: St. Mark the Evangelist.</info><details>Frontispiece miniature; recent.</details></miniature>

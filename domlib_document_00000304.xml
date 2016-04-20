@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” / Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus” / Mälkəˀa Gäbrä Mänfäs Qəddus “Image of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” / Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus” / Mälkǝʾa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 7ra-54va)&#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 13 miracles (fols. 54va-70rb)&#13;
-III) Mälkəˀa Gäbrä Mänfäs Qəddus “Image of Gäbrä Mänfäs Qəddus” (fols. 70vb-72ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 7ra-54va)&#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 13 miracles (fols. 54va-70rb)&#13;
+III) Mälkǝʾa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus” (fols. 70vb-72ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -24,11 +24,11 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mәdrä Ruba /MR"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täwäldä Ḥəḍan and Gäbrä Śəllase</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täwäldä Ḥǝḍan and Gäbrä Śǝllase</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe ˀaläqa Täwäldä Ḥəḍan is mentioned in Additio 1 (the note adds also what can be his baptismal or his father's name Gäbrä Śəllase).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe ʾaläqa Täwäldä Ḥǝḍan is mentioned in Additio 1 (the note adds also what can be his baptismal or his father's name Gäbrä Śǝllase).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Commissioned by “the governor of Təgray” (Təgre mäkwännən) Ḥagwäs (däğğazmač Ḥagwäs Täfäri) “whose baptismal name is Zä-Wäldä Maryam". Members of his family are also mentioned: his wife Wälättä Mädḫən, his son and daughter (s. supplication formulas, e.g., fol. 10va, esp. Additio 1, fol. 70rb-va). Other names (qäňňazmač Dästa etc.), apparently also of Ḥagwäs’s relatives, are mentioned; further names of persons probably belonging to the same family are mentioned on fol. 72rb.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Commissioned by “the governor of Tǝgray” (Tǝgre mäkwännǝn) Ḥagwäs (däğğazmač Ḥagwäs Täfäri) “whose baptismal name is Zä-Wäldä Maryam". Members of his family are also mentioned: his wife Wälättä Mädḫǝn, his son and daughter (s. supplication formulas, e.g., fol. 10va, esp. Additio 1, fol. 70rb-va). Other names (qäňňazmač Dästa etc.), apparently also of Ḥagwäs’s relatives, are mentioned; further names of persons probably belonging to the same family are mentioned on fol. 72rb.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1870</fdating>
 </fdatings>
@@ -102,13 +102,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 70rb-va, 72rb: Note on commissioning of the writing, extended by the list of the commissioner's family members (?).&lt;/p&gt;</cont><det>The note mentions the commissioner, “the governor of Təgray” (təgre mäkwänni) Ḥagwäs (däğğazmač Ḥagwäs Täfäri), whose baptismal name is Zä-Wäldä Maryam.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 70rb-va, 72rb: Note on commissioning of the writing, extended by the list of the commissioner's family members (?).&lt;/p&gt;</cont><det>The note mentions the commissioner, “the governor of Tǝgray” (tǝgre mäkwänni) Ḥagwäs (däğğazmač Ḥagwäs Täfäri), whose baptismal name is Zä-Wäldä Maryam.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Chains of black and red dots in some fols.</extra>
 </extras>
 <miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 4v: The commissioner (däğğazmač Ḥagwäs Täfäri).</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 5r: The Virgin Mary with her Child.</info></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 72v: St. Gäbrä Mänfäs Qəddus.</info></miniature>
+<miniature xml:lang="en" inherited="0"><info>Fol. 72v: St. Gäbrä Mänfäs Qǝddus.</info></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 73r: The wife of the donor (with their daughter?).</info></miniature>
 </miniatures>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2010-10-21T15:08:34.894Z</servdate><servdate inherited="0" type="modifydate">2014-12-13T13:34:06.944Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

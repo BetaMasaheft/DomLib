@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśəˀt, Antiphonary for feasts and funeral service</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Zǝmmare, Eucharistic hymns / Mäwaśǝʾt, Antiphonary for feasts and funeral service</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Zǝmmare, Eucharistic hymns (fols. 1ra-20vb, 16ra-20vb, 29ra-38vb), incomplete (?)&#13;
-II) Mäwaśəˀt, Antiphonary for feasts and funeral service (fols. 12vb-16ra, 20vb-28vb) incomplete (?)</shortcontent>
+II) Mäwaśǝʾt, Antiphonary for feasts and funeral service (fols. 12vb-16ra, 20vb-28vb) incomplete (?)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -95,7 +95,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting changes in the course of the text. On fols. 16ra-16vb the letters are big. On fols. 17ra the letters are slightly bigger than before fol. 16ra.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Title of Text I; names of sections followed by the name of the category of melody and/or by feast names (e.g., zəmmare zä-sänbätä ˀayhud, zəmmare zä-mäsqäl); names of subsections (ṣəwwaˁ, mänfäs); names of qəne (ˁəṭanä mogär) and antiphones (mäwaśǝˀt, məlṭan); names of versicles which are to be repeated and their abbreviations (e.g., ብእሲ፡ ጻድቅ፡ ቅዱሱ፡ ለእግዚአብሔር and its abbrev. ብ, fols. 3vb-4ra); musical notation signs: interlinear (e.g., fols. 5va-6ra, 7rab, 9ra, 12rab) and elements of marginal signs; Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Title of Text I; names of sections followed by the name of the category of melody and/or by feast names (e.g., zǝmmare zä-sänbätä ʾayhud, zǝmmare zä-mäsqäl); names of subsections (ṣǝwwaʿ, mänfäs); names of qǝne (ʿǝṭanä mogär) and antiphones (mäwaśǝʾt, mǝlṭan); names of versicles which are to be repeated and their abbreviations (e.g., ብእሲ፡ ጻድቅ፡ ቅዱሱ፡ ለእግዚአብሔር and its abbrev. ብ, fols. 3vb-4ra); musical notation signs: interlinear (e.g., fols. 5va-6ra, 7rab, 9ra, 12rab) and elements of marginal signs; Ethiopic numerals.&#13;
 A few groups of lines on the incipit page of Text I (fol. 29r).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ም፡/ምል፡/ምልጣ፡ for ምልጣን፡</abbreviation>

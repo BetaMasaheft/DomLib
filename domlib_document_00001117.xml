@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 2ra-149rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 2ra-149rc)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 149va-151vb)&#13;
 - Table of contents (fols. 151vc-152rc)&#13;
 &#13;
@@ -26,10 +26,10 @@ Additiones 1-6.</shortcontent>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Täsfa Maryam (?)</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Possibly, the scribe was ˀabunä Täsfa Maryam who "toiled much" (for the book?), according to Additio 5.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Possibly, the scribe was ʾabunä Täsfa Maryam who "toiled much" (for the book?), according to Additio 5.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Blatta Ḥabtu (baptismal name Ḥabtä Śǝllase) is mentioned as the owner in Additio 3 (fol. 149rc), and as the donor of the book in Additiones 5, 6.&#13;
-Several other names are inserted at the end of sections of the text in a secondary hand: Gäbrä Mikaˀel (fols. 3vc, 4rb), Wälättä Qəddusan (fols. 16rb, 22rc, 25rc), Gäbrä Ḥəywät (fol. 41vb), Ḫabtä Śəllase (fols. 55rb, 129va, 137va), Wäldä ˀƎsṭifanos (fol. 126vb), Wälättä Kidan (fol. 126vb), Wälättä Mikaˀel (fols. 129va, 130ra, 137va).</donor>
+Several other names are inserted at the end of sections of the text in a secondary hand: Gäbrä Mikaʾel (fols. 3vc, 4rb), Wälättä Qǝddusan (fols. 16rb, 22rc, 25rc), Gäbrä Ḥǝywät (fol. 41vb), Ḫabtä Śǝllase (fols. 55rb, 129va, 137va), Wäldä ʾƎsṭifanos (fol. 126vb), Wälättä Kidan (fol. 126vb), Wälättä Mikaʾel (fols. 129va, 130ra, 137va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -113,7 +113,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; some lines on the incipit page of Text I, alternating with black lines; two initial lines of each section; the words: kəfl (fols. 33ra), fəkkare (e.g., fols. 134rc, 135ra, 137vc), təˁəzaz (fol. 148vb, 14vc), kəfl qädamay (fols. 136vc, 137va), kəfl ḫaməs (e.g., fols. 136rb, 136vb, 137ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; some lines on the incipit page of Text I, alternating with black lines; two initial lines of each section; the words: kǝfl (fols. 33ra), fǝkkare (e.g., fols. 134rc, 135ra, 137vc), tǝʿǝzaz (fol. 148vb, 14vc), kǝfl qädamay (fols. 136vc, 137va), kǝfl ḫamǝs (e.g., fols. 136rb, 136vb, 137ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ክ for ክፍል (e.g., fols. 6ra, 31ra, 33va).</abbreviation>
 </abbreviations>
@@ -141,7 +141,7 @@ The bottom line is written above the ruling.</ruling>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:&amp;#10;justify;line-height:normal"&gt;&lt;span style="font-size:10.0pt;Arial" unicode=""&gt;Fol. 152v: Donation note.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;F&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;ol. &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;152v&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:12.0pt;line-height:115%;Arial Unicode MS"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4824;&amp;#4677;&amp;#4849;&amp;#4661;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4757;&amp;#4613;&amp;#4709;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961; &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4709;&amp;#4619;&amp;#4723;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4624;&amp;#4709;&amp;#4721;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;Fol. 152v: This book is of St. Michael &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial" unicode=""&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt;&lt;span style="font-size:10.0pt;line-height:&amp;#10;115%;Arial"&gt; N&amp;#601;h&amp;#601;b &lt;/span&gt;&lt;/span&gt;which blatta &amp;#7716;abtu donated.&lt;/span&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</tran></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Pen trial note mentioning the name ˀabba Wäldä Maryam: fol. 1.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Pen trial note mentioning the name ʾabba Wäldä Maryam: fol. 1.&#13;
 - List of names washed out and hardly readable: fol. 1.&#13;
 - Tämälläs-sign in fol. 36rc indicating the place where the omission at the upper margin, belongs.&#13;
 - Writing exercises on the margins: fols. 8r, 9v, 11r, 12v, 15v, 55r, 106v, 110v, 111r.&#13;

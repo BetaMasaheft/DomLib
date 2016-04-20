@@ -14,10 +14,10 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter” (fols. 1r-201ra)&#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 1r-155v) &#13;
-I-2) Mäḥaləyä näbiyat “The Canticles of the Prophets” (fols. 156r-173r) &#13;
-I-3) Mäḥaləyä mäḥaləy “Song of Songs” (fols. 173r-181v)&#13;
-I-4) Wəddase Maryam “Praise of Mary” (fols. 182ra-196vb)&#13;
-I-5) ˀAnqäṣä bǝrhan “The Gate of Light” (fols. 196vb-202ra)&#13;
+I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 156r-173r) &#13;
+I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 173r-181v)&#13;
+I-4) Wǝddase Maryam “Praise of Mary” (fols. 182ra-196vb)&#13;
+I-5) ʾAnqäṣä bǝrhan “The Gate of Light” (fols. 196vb-202ra)&#13;
 I-6) Mäzmurä dǝngǝl “Psalter of the Virgin” (strophes distributed between sections of Texts I-1, I-2, I-3, fols. 1r-181v)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
@@ -25,11 +25,11 @@ Additiones 1-5.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of ˀAmätä Mikaˀel, Wälättä Mikaˀel, Gäbrä Mikaˀel, Wäldä Samuˀel are written in the supplications, added later in a secondary hand, fols. 10v, 20r, 42r, 51r, 172r, 180v.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of ʾAmätä Mikaʾel, Wälättä Mikaʾel, Gäbrä Mikaʾel, Wäldä Samuʾel are written in the supplications, added later in a secondary hand, fols. 10v, 20r, 42r, 51r, 172r, 180v.</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name of the previous owner was probably written on the missing part of fol. 1 (s. Additio 1).</owner>
 </owners>

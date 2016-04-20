@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) The Sənkəssar for the first half of the year (fols. 3ra-226vc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) The Sǝnkǝssar for the first half of the year (fols. 3ra-226vc)&#13;
 I-1) Mäskäräm (fols. 3ra-38rc)&#13;
-I-2) Ṭəqəmt (fols. 38va-69vc)&#13;
-I-3) Ḫədar (fols. 69vc-103rb)&#13;
+I-2) Ṭǝqǝmt (fols. 38va-69vc)&#13;
+I-3) Ḫǝdar (fols. 69vc-103rb)&#13;
 I-4) Taḫśaś (fols. 103rb-144vc)&#13;
-I-5) Ṭərr (fols. 144vc-192rb)&#13;
+I-5) Ṭǝrr (fols. 144vc-192rb)&#13;
 I-6) Yäkkatit (fols. 192rc-226vb)&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-12; colophon.</shortcontent>
 </shortcontents>
@@ -30,7 +30,7 @@ Additiones 1-12; colophon.</shortcontent>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor Tälawe Krǝstos (fol. 226vb), has been erased throughout the Ms (sometimes the first letter of his name remained, e.g. fol. 69vb l.14).&#13;
-According to Additio 12, the Ms. was bought by priests ˀabunä Wäldä Mikaˀel and his son ˀabunä Täklä Haymanot and donated to the church of Yoḥannǝs Mäṭmǝq Dəbla. The names of the donors, and other names (of their relatives?), are written in the supplication formulas in a recent hand: Wäldä Mikaˀel (e.g., fols. 4ra, 5rc, 5vc), Täklä Haymanot (fols. 3ra, 5va, 6rc), (ˀAmätä) Ṣädalä Maryam (fols. 6ra, 32ra, 57va), Wälättä Kidan (fols. 31va, 68vc, 172vc), Wäldä Yoḥannǝs (fols. 82ra, 87ra, 88rc), Gäbrä ˀArägawi (fols. 82ra, 91ra, 129vc), Gäbrä Yoḥannǝs (fols. 84rb), Mäzgäbä Śǝllase (fols. 151ra, 152rc, 156ra), Wäldä Giyorgis (fols. 172vb, 182rc, 191vb), Gäbrä ˀƎgziˀabǝḥer (fols. 198vc, 208ra, 209rc).&#13;
+According to Additio 12, the Ms. was bought by priests ʾabunä Wäldä Mikaʾel and his son ʾabunä Täklä Haymanot and donated to the church of Yoḥannǝs Mäṭmǝq Dǝbla. The names of the donors, and other names (of their relatives?), are written in the supplication formulas in a recent hand: Wäldä Mikaʾel (e.g., fols. 4ra, 5rc, 5vc), Täklä Haymanot (fols. 3ra, 5va, 6rc), (ʾAmätä) Ṣädalä Maryam (fols. 6ra, 32ra, 57va), Wälättä Kidan (fols. 31va, 68vc, 172vc), Wäldä Yoḥannǝs (fols. 82ra, 87ra, 88rc), Gäbrä ʾArägawi (fols. 82ra, 91ra, 129vc), Gäbrä Yoḥannǝs (fols. 84rb), Mäzgäbä Śǝllase (fols. 151ra, 152rc, 156ra), Wäldä Giyorgis (fols. 172vb, 182rc, 191vb), Gäbrä ʾƎgziʾabǝḥer (fols. 198vc, 208ra, 209rc).&#13;
 &#13;
 The same names are indicated in Ms. DMD-009; some of the names are found in Ms. DMD-012.</donor>
 </donors>
@@ -38,8 +38,8 @@ The same names are indicated in Ms. DMD-009; some of the names are found in Ms. 
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1706</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The name of King ˀIyasu I (r. 1682-1706) is mentioned throughout the Ms. The name of the original donor, Tälawe Krəstos, is known in connection with King ˀIyasu I. &#13;
-Additio 12 mentions ras Səbḥat (ˀArägawi, governor of Təgray in the years 1892-95 and 1908-14).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The name of King ʾIyasu I (r. 1682-1706) is mentioned throughout the Ms. The name of the original donor, Tälawe Krǝstos, is known in connection with King ʾIyasu I. &#13;
+Additio 12 mentions ras Sǝbḥat (ʾArägawi, governor of Tǝgray in the years 1892-95 and 1908-14).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -110,46 +110,46 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The rubrics are written in a finer hand, very slim and slender.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and other individuals mentioned in supplication formulas, the name of King ˀIyasu; a few lines (alternating with black lines) on the incipit page of each section of the text; two initial lines of the first commemorative notice of the day and one initial line of the subsequent commemorative notices; the word sälam “salutation” opening the ˀarke-hymns; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and other individuals mentioned in supplication formulas, the name of King ʾIyasu; a few lines (alternating with black lines) on the incipit page of each section of the text; two initial lines of the first commemorative notice of the day and one initial line of the subsequent commemorative notices; the word sälam “salutation” opening the ʾarke-hymns; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;Fol. 226vc:&lt;/p&gt;</col><tran>&lt;p&gt;Fol. 226vc:&lt;/p&gt;</tran><det>The colophon is only partly readable, since the passages containing the names have been erased.</det></colophon>
 </colophons>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 31vab: &amp;#704;Arke-poem (for St. Mercury of Rome?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written in the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –a.&#13;
-A horse is mentioned, among other elements from St. Mercury of Rome’s commemorative notice on Ḫədar 25.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –a.&#13;
+A horse is mentioned, among other elements from St. Mercury of Rome’s commemorative notice on Ḫǝdar 25.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 64va-c: Commemorative notice for St. Mercury (M&amp;#228;rqorewos of Rome).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫədar 25.</det></additional>
+Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫǝdar 25.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 65ra-c: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem for G&amp;#228;br&amp;#228; &amp;#704;Iy&amp;#228;sus.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –tǝ.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –tǝ.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 92va: &lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;&amp;#704;&lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Arke-poem for St. Mercury (M&amp;#228;rqorewos of Rome).&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –lo.&#13;
-Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫədar 25.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –lo.&#13;
+Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫǝdar 25.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 93vab: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem on how G&amp;#228;br&amp;#228; &amp;#704;Iy&amp;#228;sus was killed by Yulyanos.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –zǝ.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –zǝ.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 95va-c: &lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;&amp;#704;&lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Arke-poem for St. Mercury (M&amp;#228;rqorewos of Rome).&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –sǝ.&#13;
-Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫədar 25.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –sǝ.&#13;
+Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫǝdar 25.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 96ra-c: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in the upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –re.&#13;
-Mentioning St. Mercury (of Rome), Dawit, Yaˁǝqob, and elements from St. Mercury's commemorative notice on Ḫədar 25</det></additional>
+Rhymed ʾarke-poem of five lines ending in –re.&#13;
+Mentioning St. Mercury (of Rome), Dawit, Yaʿǝqob, and elements from St. Mercury's commemorative notice on Ḫǝdar 25</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 136va-c: &lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;&amp;#704;&lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Arke-poem for G&amp;#228;br&amp;#228; &amp;#704;Iy&amp;#228;sus.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in upper margin, in a secondary hand.&#13;
-Rhymed ˀarke-poem with five strophes ending in –kǝ.&#13;
-Mentioning Gäbrä ˀIyäsus and the angel Rufaˀel.</det></additional>
+Rhymed ʾarke-poem with five strophes ending in –kǝ.&#13;
+Mentioning Gäbrä ʾIyäsus and the angel Rufaʾel.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 137ra-c: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem (for several Saints?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –rä.&#13;
-Mentioning the black horse (of St. Mercury), Gäbrä ˀIyäsus, ˀElyas and Niqodemos.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –rä.&#13;
+Mentioning the black horse (of St. Mercury), Gäbrä ʾIyäsus, ʾElyas and Niqodemos.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol.181va-182rc: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem for St. Mercury (M&amp;#228;rqorewos of Rome).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in upper margin, in a secondary hand (Additiones 1-11 written in the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –nä&#13;
-Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫədar 25.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –nä&#13;
+Mentioning elements from St. Mercury's (of Rome) commemorative notice on Ḫǝdar 25.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 221vc-222rb: &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#704;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;Arke-poem for G&amp;#228;br&amp;#228; &amp;#704;Iy&amp;#228;sus.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in upper margin, in a secondary hand (Additiones 1-11 written by the same hand).&#13;
-Rhymed ˀarke-poem of five lines ending in –bǝ.&#13;
-Mentioning Gäbrä ˀIyäsus.</det></additional>
+Rhymed ʾarke-poem of five lines ending in –bǝ.&#13;
+Mentioning Gäbrä ʾIyäsus.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 226vb-c&lt;/span&gt;&lt;span style="font-size: small;"&gt;: Ownership note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 226vb-c:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt; &amp;#4829;&amp;#4661;&amp;#4757;&amp;#4781;&amp;#4659;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4846;&amp;#4627;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4632;&amp;#4901;&amp;#4637;&amp;#4677;&amp;#4961; &amp;#4824;&amp;#4853;&amp;#4709;&amp;#4619;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4901;&amp;#4648;&amp;#4845;&amp;#4814;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4846;&amp;#4633;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4616;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;[...]&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4849;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;[&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4611;&amp;#4845;&amp;#4635;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4758;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4776;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;[&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;226vc&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;]&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4758;&amp;#4633;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4613;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4632;&amp;#4659;&amp;#4941;&amp;#4757;&amp;#4720;&amp;#4752;&amp;#4961; &amp;#4651;&amp;#4661;&amp;#4961; &amp;#4656;&amp;#4709;&amp;#4624;&amp;#4725;&amp;#4961; &amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is partly illegible. It is written over the decoration marks of the original scribe, and an older ownership note. The note was probably written by the same scribe who introduced the donor’s names throughout the Ms.&#13;
 &#13;
-The Ms. was bought by the priests ˀabunä Wäldä Mikaˀel and ˀabunä Täklä Haymanot (possibly his son, cp. DMD-009) who donated it to the church of Yoḥannǝs Mäṭmǝq of Dəbla. &#13;
-Ras Səbḥat (ˀArägawi, governor of Təgray with the title of ras in the years 1892-95 and 1908-14) is also mentioned</det></additional>
+The Ms. was bought by the priests ʾabunä Wäldä Mikaʾel and ʾabunä Täklä Haymanot (possibly his son, cp. DMD-009) who donated it to the church of Yoḥannǝs Mäṭmǝq of Dǝbla. &#13;
+Ras Sǝbḥat (ʾArägawi, governor of Tǝgray with the title of ras in the years 1892-95 and 1908-14) is also mentioned</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Parts of notes, written in red ink at the end of the monthly readings have been erased. Only the words ዝመጽሐፍ፡ (ስንክሳር) are left: fols. 38rc, 69vc, 144vc, 226vb&#13;
 - Doodle in pen: fol. 64v&#13;

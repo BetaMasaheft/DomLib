@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 2ra-158rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 2ra-158rc)&#13;
 - Table of contents (fols. 157rc-158ra)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols.158ra-159vb)&#13;
 &#13;
@@ -90,7 +90,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 Hand a: Text I (fols.2ra-158ra)&#13;
 Hand b: Text II (fols. 158ra-159vc)</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page, alternating with black lines; two initial lines of each sub-section of the text; elements of punctuation signs; elements of Ethiopic numerals; some words like kǝfl (e.g., fols. 151ra, 152ra, 155rb), yǝbe (e.g., fols. 153vb, 154ra), rabǝˁ (e.g., fols. 151ra, 156vc), tǝˁǝzaz (e.g., fols. 156vc, 157ra).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page, alternating with black lines; two initial lines of each sub-section of the text; elements of punctuation signs; elements of Ethiopic numerals; some words like kǝfl (e.g., fols. 151ra, 152ra, 155rb), yǝbe (e.g., fols. 153vb, 154ra), rabǝʿ (e.g., fols. 151ra, 156vc), tǝʿǝzaz (e.g., fols. 156vc, 157ra).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ቅ for ቅዱስ  (fols. 31rc, 33rc)</abbreviation>
 </abbreviations>
@@ -101,7 +101,7 @@ Hand b: Text II (fols. 158ra-159vc)</pchangeofhand>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Writing exercises in the margins: fols. 2r, 2v, 5r, 11rc, 17r, 58r, 59r, 60r, 119r, &#13;
 - Interlineal correction: fols. 10vc, 11rb, 43vc, 69ra, 72rc, &#13;
 - Compressed script: fols. 11rc, 130vc.&#13;
-- A marginal note mentioning Maryam Sənqaṭa as the owner of the Ms.: fol. 156v.&#13;
+- A marginal note mentioning Maryam Sǝnqaṭa as the owner of the Ms.: fol. 156v.&#13;
 - Portion of the text written in compressed script: fols. 158vc-159rb.&#13;
 - The ownership note is rewritten by pen immediately below the original: fol. 159vc.</extra>
 </extras>

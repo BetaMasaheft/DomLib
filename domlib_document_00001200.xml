@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (three months)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (three months)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the first three months of the year (fols. 3ra-109vc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the first three months of the year (fols. 3ra-109vc)&#13;
 I-1) Mäskäräm (fols. 3ra–42rc) &#13;
-I-2) Ṭəqəmt (fols. 42ra–73vc)&#13;
-I-3) Ḫədar (fols. 74ra–109vc)&#13;
-The commemorative notices are followed by ˁarke-hymns.</shortcontent>
+I-2) Ṭǝqǝmt (fols. 42ra–73vc)&#13;
+I-3) Ḫǝdar (fols. 74ra–109vc)&#13;
+The commemorative notices are followed by ʿarke-hymns.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -91,15 +91,15 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </taunits>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the word sälam; several lines or groups of lines in the incipit page of the commemorative notices for each month; one or two initial lines of each commemorative notice; elements of punctuation signs throughout the Ms. (e.g., nine dot asterisks in red and black, separating the commemoration notes; chains of red and black dots and nine dot asterisks separates the months Mäskäräm and Ṭəqəmt, fol. 42r); elements of Ethiopian numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the word sälam; several lines or groups of lines in the incipit page of the commemorative notices for each month; one or two initial lines of each commemorative notice; elements of punctuation signs throughout the Ms. (e.g., nine dot asterisks in red and black, separating the commemoration notes; chains of red and black dots and nine dot asterisks separates the months Mäskäräm and Ṭǝqǝmt, fol. 42r); elements of Ethiopian numerals.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- On 17 Ḫədar the commemorative notice for Wälättä Ṗeṭros is included, fol. 91vc-92rc.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- On 17 Ḫǝdar the commemorative notice for Wälättä Ṗeṭros is included, fol. 91vc-92rc.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The readings for the next three months (Taḫśaś, Ṭərr, Yäkkatit) are given in Ms. MR-041.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The readings for the next three months (Taḫśaś, Ṭǝrr, Yäkkatit) are given in Ms. MR-041.&#13;
 - A line of numbers is written in pencil on fol. 110r.&#13;
-- The beginning lines of the Prayer Zä-ˀaqräbku maḫletä..., often recited after  Synaxarion readings, was started on fol. 110v (cp. Mss. FBM-003, FBM-007, MR-041, DD-37). It is incomplete, and crudely written in red (modern) pen.&#13;
+- The beginning lines of the Prayer Zä-ʾaqräbku maḫletä..., often recited after  Synaxarion readings, was started on fol. 110v (cp. Mss. FBM-003, FBM-007, MR-041, DD-37). It is incomplete, and crudely written in red (modern) pen.&#13;
 - No name of a commissioner or owner is mentioned.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>

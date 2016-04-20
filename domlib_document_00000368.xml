@@ -13,10 +13,10 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 4ra-13va)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 13va-28ra l.17)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 13va-28ra l.17)&#13;
 III) Anaphoras (fols. 28ra, l.18–105ra l.19)&#13;
 III-1) Anaphora of the Apostles (fols. 28ra l.18–35vb l.2)&#13;
-III-2) Anaphora of Our Lord Jesus Christ preceded by an excerpt from the “Book of the Testament” (fols. 36ra–38rb l.19) (cp. MQ, IV, Qǝddase ˀǝgziˀ, §§1-17)&#13;
+III-2) Anaphora of Our Lord Jesus Christ preceded by an excerpt from the “Book of the Testament” (fols. 36ra–38rb l.19) (cp. MQ, IV, Qǝddase ʾǝgziʾ, §§1-17)&#13;
 III-3) Anaphora of Our Lady by St. Cyriacus of Behnesa  (fols. 38rb l.20–47rb l.22)&#13;
 III-4) Anaphora of St. John, Son of Thunder (fols. 47va l.1–55vb l.7)&#13;
 III-5) Anaphora of the 318 Orthodox Fathers of Nicaea (fols. 55vb l.8–62va l.5)&#13;
@@ -31,9 +31,9 @@ III-13) The second Anaphora of St. Gregory (“Christmas-liturgy of St. Gregory�
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ˁAddigrat Mädḫane ˁAläm / AMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ʿAddigrat Mädḫane ʿAläm / AMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ˁAddigrat Mädḫane ˁAläm / AMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ʿAddigrat Mädḫane ʿAläm / AMM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1889</fdating>
 </fdatings>

@@ -13,18 +13,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäqdəmä wängel “Introduction to the Gospels” / Mäṣḥafä qedär “Book of the Jar” / ˀArägawi Mänfäsawi “Spiritual Elder” / Prayer to the Creator on keeping a pure heart / Excerpt from a homily on the Sabbath</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäqdǝmä wängel “Introduction to the Gospels” / Mäṣḥafä qedär “Book of the Jar” / ʾArägawi Mänfäsawi “Spiritual Elder” / Prayer to the Creator on keeping a pure heart / Excerpt from a homily on the Sabbath</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäqdəmä Wängel “Introduction to the Gospels” (fols. 2ra-3vb, 144ra-145vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 2ra-3vb, 144ra-145vb)&#13;
 II) Mäṣḥafä qedär “Book of the Jar” (fols. 4rb-6vb); different from the published version: TÄSFA GÄBRÄ ŚƎLLASE (ed.), Mäṣḥafä qedär wä-qännona. Ṭǝmqätä nǝssǝḥa, Addis Abäba 1962 A.M. [1970 A.D.] &#13;
-III) ˀArägawi mänfäsawi (fols. 7ra-142vb)&#13;
+III) ʾArägawi mänfäsawi (fols. 7ra-142vb)&#13;
 III-1) Introduction (fol. 7ra-rb)&#13;
-III-2) Discourses of ˀArägawi Mänfäsawi (dərsanat): 37 discourses (fols. 7rb-86rb) &#13;
-III-3) Epistles of ˀArägawi Mänfäsawi (mälˀəktat): 20 epistles (fols. 86rb-105rb) &#13;
-III-4) Response letters of ˀArägawi Mänfäsawi (fənnawe mälˀəktat): 29 response letters (fols. 105rb-130vb) &#13;
-III-5) Dərsan bä-ˀəntä ˀarˀəstä ˀaˀəmro “Discourse on the Chapters of Knowledge”: 3 discourses (fols. 130vb-141va)&#13;
-III-6) Mälˀəktä mänfäsawi qəddus ḥabä ˀəḫuhu zä-hallo yənäbbər bä-däbrä Konobyos “Letter of the Saint Elder to His Brother Who Was in the Konobəyos [coenobitic] Monastery” (fols. 141va-142ra)&#13;
-III-7) Səˀəlätä ˀəḫuhu lä-qəddus ˀArägawi “Petition of the Saint Elder’s Brother” (fol. 142ra-vb)&#13;
+III-2) Discourses of ʾArägawi Mänfäsawi (dǝrsanat): 37 discourses (fols. 7rb-86rb) &#13;
+III-3) Epistles of ʾArägawi Mänfäsawi (mälʾǝktat): 20 epistles (fols. 86rb-105rb) &#13;
+III-4) Response letters of ʾArägawi Mänfäsawi (fǝnnawe mälʾǝktat): 29 response letters (fols. 105rb-130vb) &#13;
+III-5) Dǝrsan bä-ʾǝntä ʾarʾǝstä ʾaʾǝmro “Discourse on the Chapters of Knowledge”: 3 discourses (fols. 130vb-141va)&#13;
+III-6) Mälʾǝktä mänfäsawi qǝddus ḥabä ʾǝḫuhu zä-hallo yǝnäbbǝr bä-däbrä Konobyos “Letter of the Saint Elder to His Brother Who Was in the Konobǝyos [coenobitic] Monastery” (fols. 141va-142ra)&#13;
+III-7) Sǝʾǝlätä ʾǝḫuhu lä-qǝddus ʾArägawi “Petition of the Saint Elder’s Brother” (fol. 142ra-vb)&#13;
 IV)  Prayer to the Creator on keeping a pure heart, (fols. 143rv, 147va-148ra), in Amharic&#13;
 V) Excerpt from a homily on the Sabbath (?) (fols. 146ra-147rb).&#13;
 &#13;
@@ -38,7 +38,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo / DD"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">ˀƎstǝnfas[ä] Krǝstos is mentioned as the owner in Additio 1.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">ʾƎstǝnfas[ä] Krǝstos is mentioned as the owner in Additio 1.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -149,16 +149,16 @@ Hand c: fols. 146ra-147vb, thin, rounded, broadly spaced letters; posterior to h
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; titles of the periods of Text I; titles of the parts of Text II; lines: 1st, 3rd, 5th,19th and 20th on the incipit page of Text III; the title and the number of the discourses (homilies), letters and prayers; some marginal commentaries of Text III (s. fols. 129r, 135rv); the first line of the colophon; a few lines on the incipit page of Text IV; two lines of Text IV on fol. 143v; lines: 1st, 3rd, 5th on the incipit page of Text I; the first two lines of Text I; elements of the punctuation signs.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- “Introduction to the Gospels” is included in the Ms. in the following way:&#13;
-Mäqdəmä Wängel “Introduction to the Gospels” (fols. 2ra-3vb) (incomplete; &#13;
+Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 2ra-3vb) (incomplete; &#13;
 from the first paragraph of the “Third period2 of instruction”, part of the “Fourth period2 of instruction” to the 3rd point, fol. 2ra-2vb; the beginning of the “Fifth period2 of instruction”; the ending of the “Fifth period1 of instruction”, the “Sixth period1 of instruction”, the “Seventh period1 of instruction”, fols. 3ra-3va)   &#13;
 The “Synopsis of Classes” (fols. 3va-3vb)&#13;
 Letter of Eusebius to Carpianus (fols. 3vb-4rb)&#13;
-Mäqdəmä Wängel “Introduction to the Gospels” (fols. 144ra-145vb) (the “First period of instruction, the “Second period of instruction”, the beginning of the “Third period of instruction”, fol. 144rv; the “Fourth period2 of instruction” from the 3rd point, the “Third period2 of instruction”, the “Fourth period2 of instruction”, the first paragraph of the “Fifth period1 of instruction”, fol.145rv).&#13;
-- The fols. containing Mäqdəmä Wängel “Introduction to the Gospels” are misplaced. Their proper order is as follows: fols. 144, 2, 145, 3.&#13;
+Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 144ra-145vb) (the “First period of instruction, the “Second period of instruction”, the beginning of the “Third period of instruction”, fol. 144rv; the “Fourth period2 of instruction” from the 3rd point, the “Third period2 of instruction”, the “Fourth period2 of instruction”, the first paragraph of the “Fifth period1 of instruction”, fol.145rv).&#13;
+- The fols. containing Mäqdǝmä Wängel “Introduction to the Gospels” are misplaced. Their proper order is as follows: fols. 144, 2, 145, 3.&#13;
 - Text III contains an embedded colophon, that is, it was copied by the scribe together with the text from the exemplar.&#13;
 Fol. 142vb: ተተርጐመ፡ ዝንቱ፡ መጽሐፍ፡ በልሳነ፡ ዓረቢ፡ ኅበ፡ ልሳነ፡ ግዕዝ፡ ሐዲስ፡ በትእዛዘ፡ ቃሉ፡ ለንብነ [sic]፡ ድንግል፡ ንጉሥ፡ እምቃለ፡ ኑዛዜ፡ እንተ፡ ዘአረጋዊ፡ መንፈሳዊ፡ ዘጸሐፈ፡ በእንተ፡ አሥምሮተ፡ እግዚአብሔር፨ ወምሥጢራተ፡ ዓለም፡ ሐዲስ፡ ወበእንተ፡ ሀብታት፡ አምላካውያት፡ ወሕዋጼ ጸጋ፡ እንተ፡ ይፌንዋ፡ ሎሙ፡ ለእለ፡ ያፈቅርዎ፡ ፍቁራኒሁ፡ ለኑዛዜሆሙ፡ ወተድላሆሙ፡ ለርእየ፡ ዚአሁ፡ እስከ፡ ይረስዑ፡ ርእሶሙ፡ ወይሠጠሙ፡ ውስተ፡ ተደሞ፥ ዘባሕረ፡ አስተርእዮቱ፡ ብርሃናዊ፡ ቡሩክ፡ እግዚአብሔር፡ ዘወሀበ፡ እሎንተ፡ በዝየ፡ ለጠባይዓቲነ፨ ሎቱ፡ ስብሐት፡ ለዓለመ፡ ዓለም፡ አሜን፨ &#13;
-Fol. 142vb: This book was translated from the Arabic language into the new language Gəˁəz on the word of order of Nəbnä[sic] Dəngəl, the King... &#13;
-The colophon refers to the translation of the work in the time of King Ləbnä Dəngəl (r. 1496/97-1540). For other colophons of the Mss. of ˀArägawi mänfäsawi see: GKM-001 and MAKM-012. MAKM-091 contains a very similar colophon.</otherdetail>
+Fol. 142vb: This book was translated from the Arabic language into the new language Gǝʿǝz on the word of order of Nǝbnä[sic] Dǝngǝl, the King... &#13;
+The colophon refers to the translation of the work in the time of King Lǝbnä Dǝngǝl (r. 1496/97-1540). For other colophons of the Mss. of ʾArägawi mänfäsawi see: GKM-001 and MAKM-012. MAKM-091 contains a very similar colophon.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -166,7 +166,7 @@ The colophon refers to the translation of the work in the time of King Ləbnä D
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 142vb: &lt;/span&gt;This is a book of &amp;#704;&amp;#398;st&amp;#477;nfas[&amp;#228;] Kr&amp;#477;stos which he purchased with his own money.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of the work, ኣረጋዊ: መንፈሳዊ, and the internal number of the monastic library, 296, are written on fol. 1r. &#13;
-- Amharic and Gəˁəz ˀandǝmta-commentaries and glosses are written in the margins throughout Text III. It seems that the scribe tried to make notes while the teacher was interpreting the text. That is why there are numerous abbreviations and unfinished phrases. Even though the commentaries are very concise they resemble those of the edited ˀandǝmta (መጻሕፍተ፡ መነኮሳት። ሦስተኛ፡ መጽሐፍ። አረጋዊ፡ መንፈሳዊ (Mäṣaḥəftä mänäkosat. Śostäňňa mäṣḥaf. ˀArägawi mänfäsawi), Addis Abäba, 1982 A.M. [1990/1991]), cf. fol. 7ra and p. 1a.&#13;
+- Amharic and Gǝʿǝz ʾandǝmta-commentaries and glosses are written in the margins throughout Text III. It seems that the scribe tried to make notes while the teacher was interpreting the text. That is why there are numerous abbreviations and unfinished phrases. Even though the commentaries are very concise they resemble those of the edited ʾandǝmta (መጻሕፍተ፡ መነኮሳት። ሦስተኛ፡ መጽሐፍ። አረጋዊ፡ መንፈሳዊ (Mäṣaḥǝftä mänäkosat. Śostäňňa mäṣḥaf. ʾArägawi mänfäsawi), Addis Abäba, 1982 A.M. [1990/1991]), cf. fol. 7ra and p. 1a.&#13;
 - Numerous text corrections: e.g., fols.: 9v, 11v, 13r, 15r, 17r, 19v, 20rv, 22r, 21r, 28v, 33r, 97r, 99r, 104rb, 122vab, 125va, 128ra, 130va, 136rb. &#13;
 - Text erasures: fols.: 9rb, 12va, 19vb, 23rb, 30ra, 31va, 34vb, 53vb, 74rb, 86vb, 87ra, 101vb, 103rb, 114rb, 114va, 116rb, 117rab, 126vab, 129rva.</extra>
 </extras>

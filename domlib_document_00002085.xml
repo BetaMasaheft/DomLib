@@ -7,7 +7,7 @@
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2011-05-25</regdate>
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəñña"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝñña"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
@@ -15,17 +15,17 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dawit “Psalter” (fols. 1r-195vb) &#13;
 I-1) Mäzmurä Dawit “Psalms of David” (fols. 1r-149v) &#13;
-I-2) Mäḥaləyä näbiyat “The Canticles of the Prophets” (fols. 149v-166r) &#13;
-I-3) Mäḥaləyä mäḥaləy “Song of Songs” (fols. 166v-175v) &#13;
-I-4) Wəddase Maryam “Praise of Mary” (fols. 176ra-195vb)&#13;
+I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 149v-166r) &#13;
+I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 166v-175v) &#13;
+I-4) Wǝddase Maryam “Praise of Mary” (fols. 176ra-195vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000147" xlink:title="May Ḉäw Mikaˀel / MCM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000147" xlink:title="May Ḉäw Mikaʾel / MCM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000147" xlink:title="May Ḉäw Mikaˀel / MCM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000147" xlink:title="May Ḉäw Mikaʾel / MCM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Haymanot (s. Additio 1).</donor>
 </donors>
@@ -113,7 +113,7 @@ On the incipit page of Text I-4 (fols. 176r), few lines are rubricated (alternat
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 166v: Unclear note.&lt;/p&gt;</cont><det>The note is written in Təgrəñña in the inner margin of the folio, in a 19th-cent (?) hand. It mentions grazmač ˀAbrәha.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 166v: Unclear note.&lt;/p&gt;</cont><det>The note is written in Tǝgrǝñña in the inner margin of the folio, in a 19th-cent (?) hand. It mentions grazmač ʾAbrәha.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 196r: Ownership note.&lt;/p&gt;</cont><det>The note mentions that the Ms. was owned by Täklä Haymanot.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The scribe reduced the size of his handwriting to accommodate the end of the written line: fols. 7v, 11v, 24r, 25r, 28v, 30r, 31r, 32r, 40r, 40v, 45v, 46r, 48r, 50r, 52v, 53r, 53v, 55v, 56r, 62v, 94v, 151r, 159r, 159v, 160r, 161v.&#13;

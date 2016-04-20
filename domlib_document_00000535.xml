@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
 - Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 2ra-8rb)&#13;
@@ -40,9 +40,9 @@ Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Läbasitä Krǝstos is mentioned in the supplication formula, fol. 6vb. Otherwise, the names of the donors in the incipit of the Gospels are unreadable.</donor>
 </donors>
@@ -119,7 +119,7 @@ The ruling pattern is different for the canon tables.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Rubricated passages were probably executed by a different scribe.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donors; incipits of the sections and chapters; numbers of the chapters; the word mǝˁǝraf; elements of the punctuation signs, Ethiopic numerals; element of the quires marks; ruling lines in the Canon tables. &#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donors; incipits of the sections and chapters; numbers of the chapters; the word mǝʿǝraf; elements of the punctuation signs, Ethiopic numerals; element of the quires marks; ruling lines in the Canon tables. &#13;
 On the incipit page of each Gospel, a few lines are rubricated (two red line alternating with black ones).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Lists of "tituli" for Gospels of Matthew and Luke are missing.&#13;

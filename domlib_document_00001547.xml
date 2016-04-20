@@ -17,9 +17,9 @@
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1550</fdating>
 </fdatings>
@@ -102,7 +102,7 @@ The bottom line is written above the ruling.</ruling>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting appears uneven due to different sizes of the nib.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Incipits of sections (e.g., bä-qädamit sänbät, bä-sänbät nägh); titles of books to be read; directives to the ministers (e.g., qədmä wangel, ˀəskä ḫabä yəbəl); elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Incipits of sections (e.g., bä-qädamit sänbät, bä-sänbät nägh); titles of books to be read; directives to the ministers (e.g., qǝdmä wangel, ʾǝskä ḫabä yǝbǝl); elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Lacuna: fol. 8v.</otherdetail>
 </otherdetails>

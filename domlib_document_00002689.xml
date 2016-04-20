@@ -20,13 +20,13 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000181" xlink:title="Säwnä Maryam / SDSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in the supplication formulas: Zä-Mänfäs Qǝddus (e.g., fols. 61rb, 61vb, 62rb, 63ra), Gäbrä Maryam (fol. 62ra), Gäbrä Samuˀel (fol. 62ra), Wäldä Lǝˁul (fols. 62ra, 91rb, 109vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in the supplication formulas: Zä-Mänfäs Qǝddus (e.g., fols. 61rb, 61vb, 62rb, 63ra), Gäbrä Maryam (fol. 62ra), Gäbrä Samuʾel (fol. 62ra), Wäldä Lǝʿul (fols. 62ra, 91rb, 109vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1831</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Zä-Mänfäs Qəddus is the baptismal name of däǧǧazmač Säbagadis (1770-1831).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Zä-Mänfäs Qǝddus is the baptismal name of däǧǧazmač Säbagadis (1770-1831).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -92,7 +92,7 @@ Additional unruled line above the top line: e.g., fols. 49ra, 58r, 58vb.</rl-inf
 </taunits>
 <ptypeofscripts class="MCRMetaLangText" heritable="false" notinherit="false"><ptypeofscript xml:lang="en" inherited="0" form="plain">First half of the 19th century</ptypeofscript>
 </ptypeofscripts>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few lines on the incipit page of the Text, alternating with black lines; incipit of each section of the text; elements of abbreviations; names of Hebrew letters in Psalm 118; some other words, e.g., halle luya (e.g., fols. 9rb, 9vab, 10rab), mǝˁǝraf (e.g., fols. 14vb, 21rb), fǝtuḥ (e.g., fol. 21rb), ˀǝsmä (e.g.,  fol. 27rab), qədmä wangel (e.g., fols. 27rb, 28va), wä-ˀəmzə (e.g., fols. 28rb, 34vb), ṣälləyu (e.g., fols. 29ra, 30va); elements of Ethiopic numerals; elements of punctuation signs and text dividers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few lines on the incipit page of the Text, alternating with black lines; incipit of each section of the text; elements of abbreviations; names of Hebrew letters in Psalm 118; some other words, e.g., halle luya (e.g., fols. 9rb, 9vab, 10rab), mǝʿǝraf (e.g., fols. 14vb, 21rb), fǝtuḥ (e.g., fol. 21rb), ʾǝsmä (e.g.,  fol. 27rab), qǝdmä wangel (e.g., fols. 27rb, 28va), wä-ʾǝmzǝ (e.g., fols. 28rb, 34vb), ṣällǝyu (e.g., fols. 29ra, 30va); elements of Ethiopic numerals; elements of punctuation signs and text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሃሌ፡ሃ፡ሃ፡ / ሃሌ፡ ሉ / ሃ፡ሃ፡ሃ፡ for ሃሌ፡ ሉያ (e.g., fols. 12vab, 13ra, 24vab, 25rab) &#13;
 ፍ፡ ወ፡ ረ፡ ለ፡ በ፡ / ፍ፡ for ፍቱሐ፡ ወንጹሐ፡ ረስዮ፡ ለዝንቱ፡ በድን፡ (e.g., fols. 21va, 33vab, 34ra)&#13;
@@ -107,7 +107,7 @@ Additional unruled line above the top line: e.g., fols. 49ra, 58r, 58vb.</rl-inf
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The names of the angels are written in a crude secondary hand on fol. 115ra.&#13;
-- Two names (perhaps later owners/donors) are written in a crude secondary hand in blue ballpoint pen on fol. 115v: priest (qes) Gäbrä Śǝllase and ˀabba Yoḥannǝs (?).&#13;
+- Two names (perhaps later owners/donors) are written in a crude secondary hand in blue ballpoint pen on fol. 115v: priest (qes) Gäbrä Śǝllase and ʾabba Yoḥannǝs (?).&#13;
 - Corrections written over erasures: e.g., fols. 4ra, 36rb, 53rb, 78ra, 86vb, 102rb.&#13;
 - Omitted letters or words written interlineally: e.g., fols. 3rb, 54va, 62va, 65rab, 92ra, 107va.&#13;
 - The word እገሌ is marked above and below by a series of dashes written in red ink: fols. 61vab, 62ra.&#13;

@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal” / Gädlä Libanos “Vita of Libanos” / Täˀamrä Libanos “Miracles of Libanos” / Tarik zä-mänäkosat “History of the Monks”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal” / Gädlä Libanos “Vita of Libanos” / Täʾamrä Libanos “Miracles of Libanos” / Tarik zä-mänäkosat “History of the Monks”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Prayer over all the vessels of the Church (fols. 4ra, l.1 – 5vb, l.12). Part of text II, singled out as a separate text for an unknown reason.&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 6ra, l.1 – 34rb, l.4)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 6ra, l.1 – 34rb, l.4)&#13;
 III) Anaphoras (fols. 34rb – 73vb)&#13;
 III-1) Anaphora of the Apostles (fols. 34rb, l.5 – 45vb, l.19) incomplete, end part missing&#13;
 III-2) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 46ra, l.1 – 59va, l.14)&#13;
@@ -21,9 +21,9 @@ III-3) Anaphora of Our Lord Jesus Christ (fols. 59va, l.15 – 64ra, l.12)&#13;
 III-4) Anaphora of St. Dioscorus (fols. 64ra, l.13 – 67vb, l.7)&#13;
 III-5) Anaphora of St. John Chrysostom (fols. 67vb, l.8 – 73vb, l.16; attribution to St. John missing)&#13;
 IV) Gädlä Libanos “Vita of Libanos” (fols. 75ra, l.1 – 101vb, l.13) incomplete, beginning missing&#13;
-V) Täˀamrä Libanos “Miracles of Libanos” (fols. 101vb, l.13 – 103ra, l.2)&#13;
+V) Täʾamrä Libanos “Miracles of Libanos” (fols. 101vb, l.13 – 103ra, l.2)&#13;
 VI) Tarik zä-mänäkosat “History of the Monks”, spiritual genealogy of the Ewosṭatean monks (fols. 103ra, l.3 – 105vb, l.11)&#13;
-VII) Mälkǝˀa Libanos (fols. 106ra, l.1 – 109rb, l.11)&#13;
+VII) Mälkǝʾa Libanos (fols. 106ra, l.1 – 109rb, l.11)&#13;
 VIII) Daily Office prayers and litanies (excerpt) (fols. 109va, l.1 – 111vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -109,7 +109,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of texts and of constituent parts of Gädlä Libanos; the names Libanos and Mäṭaˁ in texts IV-VIII; names of the donors; abbreviations; the words ሃሌ፡ ሉያ፡, ቡራኬ፡ and እማሬ፡ (ዕማሬ፡); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of texts and of constituent parts of Gädlä Libanos; the names Libanos and Mäṭaʿ in texts IV-VIII; names of the donors; abbreviations; the words ሃሌ፡ ሉያ፡, ቡራኬ፡ and እማሬ፡ (ዕማሬ፡); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 &#13;
 Text in fol. 106r is written alternately in red and black lines.</rubrication>
 </rubrications>

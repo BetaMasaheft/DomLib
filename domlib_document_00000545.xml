@@ -10,14 +10,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of ˀabunä Täklä Haymanot” / Mäṣḥafä fəlsätu lä-ˀabunä Täklä Haymanot “Book of the Translation of ˀabunä Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of ʾabunä Täklä Haymanot” / Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following texts:&#13;
 I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 3ra-106vb)&#13;
-II) Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fols. 106vb-107va)&#13;
+II) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fols. 106vb-107va)&#13;
 - Genealogy of Täklä Haymanot (fols. 106vb-107va)&#13;
-III) Täˀamrä Täklä Haymanot “Miracles of ˀabunä Täklä Haymanot” – 12 miracles (fols. 107va-112rb)&#13;
-IV) Mäṣḥafä fəlsätu lä-ˀabunä Täklä Haymanot “Book of the Translation of ˀabunä Täklä Haymanot” (fols. 112rb-120ra).</shortcontent>
+III) Täʾamrä Täklä Haymanot “Miracles of ʾabunä Täklä Haymanot” – 12 miracles (fols. 107va-112rb)&#13;
+IV) Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” (fols. 112rb-120ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -25,7 +25,7 @@ IV) Mäṣḥafä fəlsätu lä-ˀabunä Täklä Haymanot “Book of the Transla
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000071" xlink:title="Fäqada Maryam / FBM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Täsfa Maryam is added by secondary hand (s. supplication formulas on fols. 13va, 23vb, 33vb, 57vb, etc.); his father Gäbrä ˀIyaqem and (mother?) ˀAmätä Śəllase are also mentioned.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Täsfa Maryam is added by secondary hand (s. supplication formulas on fols. 13va, 23vb, 33vb, 57vb, etc.); his father Gäbrä ʾIyaqem and (mother?) ʾAmätä Śǝllase are also mentioned.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -142,14 +142,14 @@ Fols. 58r, 90v, in the upper margin. Corrections of the main text (?).</extra>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">Notes in the upper margin of some fols. indicate the monthly readings for the Vita of Täklä Haymanot as follows:&#13;
 - reading for Mäskäräm (fols. 3r)&#13;
-- reading for Ṭəqəmt (fols. 13v)&#13;
-- reading for Ḫədar (fols. 23v)&#13;
+- reading for Ṭǝqǝmt (fols. 13v)&#13;
+- reading for Ḫǝdar (fols. 23v)&#13;
 - reading for Taḫśaś (fols. 29v)&#13;
-- reading for Ṭərr (fols. 33v)&#13;
+- reading for Ṭǝrr (fols. 33v)&#13;
 - reading for Yäkkatit (fols. 45r)&#13;
 - reading for Mäggabit (fols. 57v)&#13;
 - reading for Miyazya (fols. 69v)&#13;
-- reading for Gənbot (fols. 77r)&#13;
+- reading for Gǝnbot (fols. 77r)&#13;
 - reading for Säne (fols. 87v)&#13;
 - reading for Ḥamle (fols. 99r)&#13;
 - reading for Näḥase (fols. 103v).</txfindingaid>

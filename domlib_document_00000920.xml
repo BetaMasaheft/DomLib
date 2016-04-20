@@ -11,10 +11,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 2ra-6vc)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 2ra-3vc)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 2ra-3vc)&#13;
 - “Synopsis of Classes” (fols. 3vc-4ra)&#13;
 - “On the 72 Disciples” (fol. 4ra)&#13;
 - Letter of Eusebius to Carpianus (fols. 4ra-4rc)&#13;
@@ -22,22 +22,22 @@
 - Statment about the Eusebian sections (fol. 4va-4vb)&#13;
 - Canon  tables (fols. 5ra-6vc), incomplete&#13;
 II) Gospel of Matthew (fols. 7ra-45vc)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 7ra-45ra)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 7ra-45ra)&#13;
 - Postscript (fol. 45ra-45rb)&#13;
 III) Gospel of Mark (fols. 45rb-62vc)&#13;
 - Biography of Mark (fol. 45rb-45va)&#13;
 - List of the “tituli” for the Gospel of Mark: 49 titles (fol. 45va-45vc)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 46ra-62ra)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 46ra-62ra)&#13;
 - Postscript (fol. 62rb) &#13;
 IV) Gospel of Luke (fols. 62rb-100v)&#13;
 - Biography of Luke (fol. 62rb-62rc)&#13;
 - List of the “tituli” for the Gospel of Luke: 81 titles (fols. 62rc-62vc)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 64ra-100ra)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 64ra-100ra)&#13;
 - Postscript (fol. 100ra-100rb)&#13;
 V) Gospel of John (fols. 100rb-131rb)&#13;
 - Biography of John (fols. 100rb-100vb)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 100vb-100vc)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 101ra-131rb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 101ra-131rb)&#13;
 - Postscript (fol.131rb-131rc)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -57,7 +57,7 @@ Additiones 1-2.</shortcontent>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Second half of the 19th cent. (?)&#13;
-Additio 1, dated to the time of King Yoḥannəs IV (r. 1872-89), is probably executed in the same hand as that of the main text.</dcomment>
+Additio 1, dated to the time of King Yoḥannǝs IV (r. 1872-89), is probably executed in the same hand as that of the main text.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -133,13 +133,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Quire I is possibly written in a different hand (belonging to the same period of time).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Headings and incipits of the texts; on the incipit page of each Gospel a few lines are rubricated (alternating with black lines); numbers of the “tituli”; chapter numbers and the word məˁəraf; parts of the Canon tables; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Headings and incipits of the texts; on the incipit page of each Gospel a few lines are rubricated (alternating with black lines); numbers of the “tituli”; chapter numbers and the word mǝʿǝraf; parts of the Canon tables; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The biography and the list of “tituli” for the Gospel of Matthew are missing.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 63r: Note on the land charter issued by King Yo&amp;#7717;ann&amp;#601;s IV (r. 1872-89) to &lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;May &amp;#704;Anb&amp;#228;sa.&lt;/span&gt;&amp;#160;&lt;/p&gt;</cont><det>In Amharic; the note concerns the gwəlt to May ˀAnbäsa donated by King Yoḥannəs IV (r. 1872-89).</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 63r: Note on the land charter issued by King Yo&amp;#7717;ann&amp;#601;s IV (r. 1872-89) to &lt;/span&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;May &amp;#704;Anb&amp;#228;sa.&lt;/span&gt;&amp;#160;&lt;/p&gt;</cont><det>In Amharic; the note concerns the gwǝlt to May ʾAnbäsa donated by King Yoḥannǝs IV (r. 1872-89).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: left;"&gt;&lt;span unicode="" style="line-height: 115%; font-size: 10pt;"&gt;Fol. 131rc: Donation note (?)&lt;/span&gt;&lt;/div&gt;&#13;
 &lt;p&gt;&amp;#160;&lt;/p&gt;</cont><det>The note is effaced. The name of the donor Täklä Wängel and the name of his wife are still readable; the note contained also the name of the scribe, written in red ink, now unreadable.</det></additional>
 </additionals>

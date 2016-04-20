@@ -11,12 +11,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” / Mälkәˀa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” / Sälam-hymn for Mäzgäbä Śәllase</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” / Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” / Sälam-hymn for Mäzgäbä Śәllase</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” (long version) (fols. 2ra-51vb)&#13;
-II) Mälkәˀa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 52rb-53vb), incomplete&#13;
+II) Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 52rb-53vb), incomplete&#13;
 III) Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” (short version) (fols. 54ra-69ra)&#13;
-IV) Mälkәˀa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 69ra-70vb)&#13;
+IV) Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 69ra-70vb)&#13;
 V) Sälam-hymn for Mäzgäbä Śәllase (fols. 70vb-71ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
@@ -25,11 +25,11 @@ V) Sälam-hymn for Mäzgäbä Śәllase (fols. 70vb-71ra).</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="MÃ¤á¸µodË&#129;Ã¤ DÃ¤brÃ¤ GÃ¤nnÃ¤t KidanÃ¤ MÇ&#157;á¸¥rÃ¤t  / GKM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Märḥa Ṣəyon</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Märḥa Ṣǝyon</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Märḥa Ṣəyon is mentioned as the scribe in the concluding supplication, fol. 52ra.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Märḥa Ṣǝyon is mentioned as the scribe in the concluding supplication, fol. 52ra.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAmdä Śəllase (s. supplication formulas, fols. 2vb, 50va, 50vb, 51vb)</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAmdä Śǝllase (s. supplication formulas, fols. 2vb, 50va, 50vb, 51vb)</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>

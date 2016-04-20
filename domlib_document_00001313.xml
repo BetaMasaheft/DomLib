@@ -11,26 +11,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀOrit “Octateuch”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾOrit “Octateuch”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀOrit zä-lədät “Genesis” (fols. 5ra-42vb), incomplete (the beginning is missing) &#13;
-II) ˀOrit zä-ḍäˀat “Exodus“ (fols. 43ra-74va) &#13;
-III) ˀOrit zä-lewawəyan “Leviticus” (fols. 74vb-100ra) &#13;
-IV) ˀOrit zä-ḫwəlqw “Numbers“ (fols. 100rb-138va) &#13;
-V) ˀOrit zä-dagəm “Deuteronomy” (fols. 139ra- 170va) &#13;
-VI) ˀOrit zä-Yoseˁ “Joshua” (fols. 170vb-194vb) &#13;
-VII) ˀOrit zä-mäsafənt “Judges” (fols. 194vb-216ra) &#13;
-VIII) ˀOrit zä-Rut “Ruth” (fols. 216rb-216vb), incomplete (the end missing)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾOrit zä-lǝdät “Genesis” (fols. 5ra-42vb), incomplete (the beginning is missing) &#13;
+II) ʾOrit zä-ḍäʾat “Exodus“ (fols. 43ra-74va) &#13;
+III) ʾOrit zä-lewawǝyan “Leviticus” (fols. 74vb-100ra) &#13;
+IV) ʾOrit zä-ḫwǝlqw “Numbers“ (fols. 100rb-138va) &#13;
+V) ʾOrit zä-dagǝm “Deuteronomy” (fols. 139ra- 170va) &#13;
+VI) ʾOrit zä-Yoseʿ “Joshua” (fols. 170vb-194vb) &#13;
+VII) ʾOrit zä-mäsafǝnt “Judges” (fols. 194vb-216ra) &#13;
+VIII) ʾOrit zä-Rut “Ruth” (fols. 216rb-216vb), incomplete (the end missing)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand is very similar, or possibly even identical, to that of Ms. VatLib Aeth. 263 (Book of Isaiah, Ascension of Isaiah, Book of Daniel, s. LanVat 465, in which Ṣäga Mättä [sic (Ṣäga Mäṭaˁ?)] is indicated as possible scribe). On the dating of Aeth. 263, s. UhlPal.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand is very similar, or possibly even identical, to that of Ms. VatLib Aeth. 263 (Book of Isaiah, Ascension of Isaiah, Book of Daniel, s. LanVat 465, in which Ṣäga Mättä [sic (Ṣäga Mäṭaʿ?)] is indicated as possible scribe). On the dating of Aeth. 263, s. UhlPal.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1250</fdating>
 </fdatings>
@@ -106,13 +106,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </pchangeofhands>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">Fols. 83vb, 91ra, 100r, 155v-156r, 156v, 161v-162r, 166v, 170v, 184v</pcruxansata>
 </pcruxansatas>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Titles of most of the texts are written on the incipit and repeated on the explicit pages; a few lines on the incipit pages of each texts alternating with black lines; elements of the punctuation signs; elements of Ethiopic numerals; the words wä-näbäbo ˀəgziˀa bǝḥer lä-Muse (e.g., fols. 102va, 103vb, 105rb etc.); the words wä-yəbelomu ˀəgziˀa bǝḥer lä-Muse(fol. 118vb); in some cases, zəyä-sign, fols. 122v, 124r</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Titles of most of the texts are written on the incipit and repeated on the explicit pages; a few lines on the incipit pages of each texts alternating with black lines; elements of the punctuation signs; elements of Ethiopic numerals; the words wä-näbäbo ʾǝgziʾa bǝḥer lä-Muse (e.g., fols. 102va, 103vb, 105rb etc.); the words wä-yǝbelomu ʾǝgziʾa bǝḥer lä-Muse(fol. 118vb); in some cases, zǝyä-sign, fols. 122v, 124r</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In the text on fol. 186, there is a gap from Josh. 18:8 to Josh. 18:14. The missing passage Josh 18:8-14 is found transposed in fols. 189va-190ra, in the middle of Josh 21:34. The error can not be explained by the displacement of the folio, and it is unlikely that it arose during the writing. The transposition was probably already present in the exemplar used by the scribe for of UM-040 (A. Bausi).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 1r-2v: Homily by John Chrysostom on Christ when He says &amp;#8220;If it be possible, let this chalice pass&amp;#8221;, incomplete (beginning and end missing).&lt;/span&gt;&lt;/p&gt;</cont><det>The fols. (ca. 31 lines) are a fragment of a different, older Ms., possibly Book of the Rite of the Holy Week or a homiliary. For the text, the Homily attributed to John Chrysostom on the words of Jesus in a passage of the Gospel of Matthew (“Father, if it is possible, let this chalice pass away from me”, Mt. 26:39), s. M. GEERARD, Clavis Patrum Graecorum, 4 vols. Turnhout 1974-83 (Corpus Christianorum. Series Graeca), CPG no. 4654. Cp. also D.V. PROVERBIO, La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds orientale, Wiesbaden 1998 (AeF 50), p.71ff. and 104. The homily is included in Mäṣḥafä gəbrä ḥəmamat among the readings for Good Friday; cp. Tasfā Gabra Sellāsē, ግብረ፡ ሕማማት። ዘአኅተሞ፡ ተስፈ፡ ገብረ፡ ሥላሴ፡ ዘሀገረ፡ ቡልጋ። አዲስ፡ አበባ፡ በ፲፱፻፹፪፡ ዓመተ፡ ምሕረት፡ በተስፋ፡ ገብረ፡ ሥላሴ፡ ማተሚያ፡ ቤት፡ ታተመ።; the full text of the homily is in pp. 257a–262a; the passage in pp. 259b l.13–262a l.12.&#13;
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fols. 1r-2v: Homily by John Chrysostom on Christ when He says &amp;#8220;If it be possible, let this chalice pass&amp;#8221;, incomplete (beginning and end missing).&lt;/span&gt;&lt;/p&gt;</cont><det>The fols. (ca. 31 lines) are a fragment of a different, older Ms., possibly Book of the Rite of the Holy Week or a homiliary. For the text, the Homily attributed to John Chrysostom on the words of Jesus in a passage of the Gospel of Matthew (“Father, if it is possible, let this chalice pass away from me”, Mt. 26:39), s. M. GEERARD, Clavis Patrum Graecorum, 4 vols. Turnhout 1974-83 (Corpus Christianorum. Series Graeca), CPG no. 4654. Cp. also D.V. PROVERBIO, La recensione etiopica dell’omelia pseudocrisostomica de ficu exarata ed il suo tréfonds orientale, Wiesbaden 1998 (AeF 50), p.71ff. and 104. The homily is included in Mäṣḥafä gǝbrä ḥǝmamat among the readings for Good Friday; cp. Tasfā Gabra Sellāsē, ግብረ፡ ሕማማት። ዘአኅተሞ፡ ተስፈ፡ ገብረ፡ ሥላሴ፡ ዘሀገረ፡ ቡልጋ። አዲስ፡ አበባ፡ በ፲፱፻፹፪፡ ዓመተ፡ ምሕረት፡ በተስፋ፡ ገብረ፡ ሥላሴ፡ ማተሚያ፡ ቤት፡ ታተመ።; the full text of the homily is in pp. 257a–262a; the passage in pp. 259b l.13–262a l.12.&#13;
 This is probably the oldest known witness of the homily, which is attested in Ms. EMML 1763, fols. 204v-209r (dating to 1336/37 or 1339/40). (A. Bausi).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:&amp;#10;normal"&gt;&lt;span style="font-size:10.0pt;Arial"&gt;Fols. 3r-4b: Genesis, incomplete (Gen. 41:31-43:5).&lt;/span&gt;&lt;/div&gt;</cont><det>The fols. are a fragment of a different, older Ms., possibly Octateuch (the hand must be later than that of Additio 1). The order of the fols. should be reversed: 4-3 (A. Bausi)</det></additional>
 </additionals>
@@ -120,9 +120,9 @@ This is probably the oldest known witness of the homily, which is attested in Ms
 - Erasures: fols. 10rb, 106rb, 132vb, 133rb, 188vb, 199va.&#13;
 - Corrections written over erasures: fols. 21vb, 33rb, 85ra, 102ra, 129vb, 131rb (several lines), 132va, 133rb, 134rb, 157rb, 200rb.&#13;
 - A sign in the shape of cross or tämälläs-sign (impossible to check in some cases, because the margins are destroyed): fol. 6r, 19r, 23r, 26r, 38ra, 38va, 53r, 59r, 65v, 85v, 129r, 130v(?), 132v, 134r, 145v, etc.&#13;
-- Qwəm-sign accompanied by a cross, in red ink, to the left side from the column: fol. 37v; isolated 119v, &#13;
-- Zəyä-sign: fols. 11r, 18v, 33r, 120r, 122v, 129r, 189v.&#13;
-- Zəyä-sign accompanied by coronis: fol. 124r, 144v.&#13;
+- Qwǝm-sign accompanied by a cross, in red ink, to the left side from the column: fol. 37v; isolated 119v, &#13;
+- Zǝyä-sign: fols. 11r, 18v, 33r, 120r, 122v, 129r, 189v.&#13;
+- Zǝyä-sign accompanied by coronis: fol. 124r, 144v.&#13;
 Titles of the Old Testament books are written in incipit pages (accompanied by crux ansata and coronis-signs to the left), in simple frames made of black and red dots, and repeated in the explicit page, also sometimes in frames, followed by a chain of coronis-signs.&#13;
 - Coronis-signs: fols. 92r. &#13;
 - Writing exercises: fol. 138v.</extra>

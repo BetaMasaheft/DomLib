@@ -18,19 +18,19 @@ Additio 1; colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ˀAb</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ʾAb</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ˀAb is mentioned in the colophon as the scribe (he copied also Mss. MKL-021 and EHPP-004).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ʾAb is mentioned in the colophon as the scribe (he copied also Mss. MKL-021 and EHPP-004).</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1872</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1889</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon mentions the reing of Yoḥannəs (most probably Yoḥannəs IV, r. 1872-89)</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon mentions the reing of Yoḥannǝs (most probably Yoḥannǝs IV, r. 1872-89)</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

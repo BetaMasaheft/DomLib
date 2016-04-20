@@ -10,26 +10,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the second half of the year (fols. 1ra-220ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the second half of the year (fols. 1ra-220ra)&#13;
 I-1) Mäggabit (fols. 1ra-34rb) &#13;
 I-2) Miyazya (fols. 34va-60vb) &#13;
-I-3) Gənbot (fols. 60vb-96vc) &#13;
+I-3) Gǝnbot (fols. 60vb-96vc) &#13;
 I-4) Säne (fols. 97ra-133ra) &#13;
 I-5) Ḥamle (fols. 133rb-179vc) &#13;
 I-6) Näḥase (fols. 180ra-213va) &#13;
-I-7) Ṗagwəmen (fols. 213va-220ra)&#13;
+I-7) Ṗagwǝmen (fols. 213va-220ra)&#13;
 &#13;
-The commemorative notices are followed by ˁarke-hymns.</shortcontent>
+The commemorative notices are followed by ʿarke-hymns.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in the supplication formulas: Mänbärä Krәstos (fol. 1ra), Täsfa Giyorgis (fol. 2va), Maḫdärä Krәstos  (fol. 37vb), Kәdanä Wäld (fol. 38va), Zäbanä Krәstos (fol. 97vc), Wäldä Haymanot (fol. 134rc), Täklä Haymanot (fol. 181ra), Mälkәˀa Wäld (fol. 200vb), Wälättä Krәstos (fol. 209va), ˀAtnatewos (fol. 211vb), Maˁtäbä Krәstos (fol. 216ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in the supplication formulas: Mänbärä Krәstos (fol. 1ra), Täsfa Giyorgis (fol. 2va), Maḫdärä Krәstos  (fol. 37vb), Kәdanä Wäld (fol. 38va), Zäbanä Krәstos (fol. 97vc), Wäldä Haymanot (fol. 134rc), Täklä Haymanot (fol. 181ra), Mälkәʾa Wäld (fol. 200vb), Wälättä Krәstos (fol. 209va), ʾAtnatewos (fol. 211vb), Maʿtäbä Krәstos (fol. 216ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -105,7 +105,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; the word sälam; incipit of each commemorative notice; elements of the punctuation signs; elements of Ethiopic numerals. &#13;
-On the incipit page for each month, except Ṗagwəmen (fols. 1r, 34v, 60v, 97r, 133r, 180r) a few lines are rubricated alternating with black lines.</rubrication>
+On the incipit page for each month, except Ṗagwǝmen (fols. 1r, 34v, 60v, 97r, 133r, 180r) a few lines are rubricated alternating with black lines.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

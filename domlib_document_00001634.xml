@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar ”Synaxarion” for the second half of the year (fols. 3ra-129rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar ”Synaxarion” for the second half of the year (fols. 3ra-129rb)&#13;
 I-1) Mäggabit (fols. 3ra-23va)&#13;
 I-2) Miyazya (fols. 23vb-40va)&#13;
-I-3) Gənbot (fols. 40va-64rc)&#13;
+I-3) Gǝnbot (fols. 40va-64rc)&#13;
 I-4) Säne (fols. 64ra-78rb)&#13;
 I-5) Ḥamle (fols. 78rc-108ra)&#13;
 I-6) Näḥase (fols. 108rb-126rb)&#13;
-I-7) Ṗagwəmen (fols. 126rb-129rb)&#13;
+I-7) Ṗagwǝmen (fols. 126rb-129rb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000062" xlink:title="Mätiˁ Gäbrәˀel /MG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000062" xlink:title="Mätiʿ Gäbrәʾel /MG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000062" xlink:title="Mätiˁ Gäbrәˀel /MG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000062" xlink:title="Mätiʿ Gäbrәʾel /MG"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe has been erased from fol. 129rb.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAmdä Śəllase is mentioned as the commissioner on fol. 129rb, but his name has been written, in vivid red and in a secondary hand, over an erasure. The original owner of the Ms. might be Wäldä ˀAmlak whose name has been retained on fol. 107rb.&#13;
-The name of the commissioner and his family members have been written over erased names in the supplication formulas: ˀAmdä Śəllase (e.g., fols. 3rac, 6rabc, 7vc, 21va, 26rb, 30vabc, 94rab), his wife Wälättä Haymanot (fols. 90vc, 92rc, 94rab), Ḫədrä Mikaˀel (fols. 19rb, 21rc, 21vb, 95va), Gäbrä Śəllase (fols. 90va, 92rc), Wäldä Śəllase (Bä-Gäday) (fols. 90vc, 96rb, 99rbc),  ˀƎqwəba Mikaˀel (fols. 95vb, 104ra). &#13;
-In fols. 3r-90r, the names of Wäldä Mikaˀel (most frequently), Gäbrä Maryam and Səḥunä Śəllase have been added, in black and in another hand, over the names mentioned above.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAmdä Śǝllase is mentioned as the commissioner on fol. 129rb, but his name has been written, in vivid red and in a secondary hand, over an erasure. The original owner of the Ms. might be Wäldä ʾAmlak whose name has been retained on fol. 107rb.&#13;
+The name of the commissioner and his family members have been written over erased names in the supplication formulas: ʾAmdä Śǝllase (e.g., fols. 3rac, 6rabc, 7vc, 21va, 26rb, 30vabc, 94rab), his wife Wälättä Haymanot (fols. 90vc, 92rc, 94rab), Ḫǝdrä Mikaʾel (fols. 19rb, 21rc, 21vb, 95va), Gäbrä Śǝllase (fols. 90va, 92rc), Wäldä Śǝllase (Bä-Gäday) (fols. 90vc, 96rb, 99rbc),  ʾƎqwǝba Mikaʾel (fols. 95vb, 104ra). &#13;
+In fols. 3r-90r, the names of Wäldä Mikaʾel (most frequently), Gäbrä Maryam and Sǝḥunä Śǝllase have been added, in black and in another hand, over the names mentioned above.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -120,7 +120,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">-  Omitted sälam-hymns are written in the upper margin, in the main hand: fols. 47ra, 47vc.&#13;
 - Fragments of supplications and two other passages are visible very close to the upper edge; the letters are cut due to the trimming of the upper edge: fols. 86rb, 100va, 101rab, 116vb, 118vc.&#13;
-- Fragment of Zä-ˀaqräbku maḫletä... “The song I am offering...”, in a recent mediocre hand, in pen: fol. 129rc.&#13;
+- Fragment of Zä-ʾaqräbku maḫletä... “The song I am offering...”, in a recent mediocre hand, in pen: fol. 129rc.&#13;
 - Pen trial: fol. 129rc.&#13;
 - Doodles: fol. 2r.</extra>
 </extras>

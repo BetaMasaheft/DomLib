@@ -10,28 +10,28 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 5ra-185rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 5ra-185rc)&#13;
 I-1) Eve of Palm Sunday (fols. 5ra-7va)&#13;
 I-2) Palm Sunday (fols. 7va-14rc)&#13;
 I-3) Monday (fols. 14rc-36vb), including: Homily by John Chrysostom on the fig tree for Monday morning (fols. 22vb-26rc)&#13;
 I-4) Tuesday (fols. 36vb-58ra)&#13;
 I-5) Wednesday (fols. 58ra-73ra)&#13;
 I-6) Thursday (fols. 73ra-93vc)&#13;
-I-7) Friday (fols. 94ra-158ra), including: Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 98ra-101ra); Homily by Jacob of Serug on Abraham (fols. 121rc-128vb); Mäḥaləyä mäḥaləy “Song of Songs” (fols. 154vc-157va)&#13;
-I-8) Saturday (fols. 158ra-185rc), including: Raˀəyä Yoḥannəs “Revelation of John” (fols. 162rc-167ra); Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 183va-185rb)&#13;
+I-7) Friday (fols. 94ra-158ra), including: Homily by John [Chrysostom] on Christ when He says “If it be possible, let this chalice pass” (fols. 98ra-101ra); Homily by Jacob of Serug on Abraham (fols. 121rc-128vb); Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 154vc-157va)&#13;
+I-8) Saturday (fols. 158ra-185rc), including: Raʾǝyä Yoḥannǝs “Revelation of John” (fols. 162rc-167ra); Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 183va-185rb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000196" xlink:title="Wälwalo Däbrä Bərhan Qirqos / WQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000196" xlink:title="Wälwalo Däbrä Bǝrhan Qirqos / WQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000196" xlink:title="Wälwalo Däbrä Bərhan Qirqos / WQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000196" xlink:title="Wälwalo Däbrä Bǝrhan Qirqos / WQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of several individuals are mentioned in the supplication formulas: Habtä Śǝllase (e.g., fols. 5ra, 15rb), Ḫaylä Maryam (e.g., fols. 34va, 36ra), Gäbrä Śǝllase (e.g., fols. 37vc, 38va), ˀabunä Wäldä Krǝstos (e.g., fol. 43vb), Wälättä Yoḥannǝs (e.g., fols. 92vc, 116vb) and Wälättä Kidan (e.g., fols. 97ra, 101rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of several individuals are mentioned in the supplication formulas: Habtä Śǝllase (e.g., fols. 5ra, 15rb), Ḫaylä Maryam (e.g., fols. 34va, 36ra), Gäbrä Śǝllase (e.g., fols. 37vc, 38va), ʾabunä Wäldä Krǝstos (e.g., fol. 43vb), Wälättä Yoḥannǝs (e.g., fols. 92vc, 116vb) and Wälättä Kidan (e.g., fols. 97ra, 101rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -105,7 +105,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The words እግዚአብሔር፡ and እግዚእ፡ are sometimes written with ligature (e.g., fols. 85ra l.17, 131va l.3.</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors.&#13;
-Groups of lines on the incipit page of Text I and on the incipit page of the section for the night hours of Friday (in Text I-7); incipits of the texts, their sections and subsections; titles of the Biblical books and other works; directives for the ministers; names of Hebrew letters in Text I-7; the initial words of each paragraph of “Təmḫərtä ḫəbuˀat” (in Text I-8); some other words, e.g., nastäbäqwǝˁ ḫabekä, Ǝgziˀo täśähalännä (and abbreviations), yǝbe mätärgwǝm, yǝtärägwǝm.&#13;
+Groups of lines on the incipit page of Text I and on the incipit page of the section for the night hours of Friday (in Text I-7); incipits of the texts, their sections and subsections; titles of the Biblical books and other works; directives for the ministers; names of Hebrew letters in Text I-7; the initial words of each paragraph of “Tǝmḫǝrtä ḫǝbuʾat” (in Text I-8); some other words, e.g., nastäbäqwǝʿ ḫabekä, Ǝgziʾo täśähalännä (and abbreviations), yǝbe mätärgwǝm, yǝtärägwǝm.&#13;
 Elements of the punctuation signs; Ethiopic numerals or their elements; elements of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ሕ፡ for ይብል፡ ሕዝብ፡ (e.g., fols. 89v-90r)&#13;
@@ -116,7 +116,7 @@ Elements of the punctuation signs; Ethiopic numerals or their elements; elements
 እግዚኦ᎓ ተ᎓/እግዚኦ᎓ ተሳ᎓ for እግዚኦ᎓ ተሣሃለነ᎓ (e.g., fols. 31v, 32r)&#13;
 ስቡ፡ for ስቡሕኒ፡ ውእቱ፡ ወልዑልኒ፡ ውእቱ፡ ለዓለም፡ (esp. fols. 152rc-152vb)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">On fol. 128vb, the “Homily of Jacob of Serug on Abraham” (in Text I-7) ends with a subscriptio ascribing the translation of the homily, from Arabic into Gǝˁǝz, to Metropolitan ˀabba Sälama (in tenure from 1350; cp. EAE IV, 488-89); besides, the original writing of the work is here attributed to Athanasius (Bishop of Alexandria from 328 to 373; cp. EAE I, 392):&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">On fol. 128vb, the “Homily of Jacob of Serug on Abraham” (in Text I-7) ends with a subscriptio ascribing the translation of the homily, from Arabic into Gǝʿǝz, to Metropolitan ʾabba Sälama (in tenure from 1350; cp. EAE IV, 488-89); besides, the original writing of the work is here attributed to Athanasius (Bishop of Alexandria from 328 to 373; cp. EAE I, 392):&#13;
 ዝንቱ፡ ድርሳን፨ ዘአጽሐፎ፡ አቡነ፡ አባ፡ ሰላማ፡ ጳጳስ፡ ርቱዓ፡ ሃይማኖት፨ እምአረቢ፡ ለግዕዝ፤ ወይተሉ፡ ዝየ፡ ተጽሕፎ፡ ዘይቤ፡ ቅዱስ፡ አባ፡ አትናቴዮስ፨ ጸሎቱ፡ ወበረከቱ፡ … አሜን።.&#13;
 Cp. the note, e.g., in GBI-002, fol. 99rc, in GMS-001, fol. 127rb, and in AQG-004, fol. 104va.</otherdetail>
 </otherdetails>

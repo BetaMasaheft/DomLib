@@ -10,17 +10,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Mikaˀel “Miracles of Michael” / Zəmmare / Täˀamrä Maryam “Miracles of Mary” / Dərsanä Mikaˀel, Homiliary for the feasts of St. Michael / Täˀamrä Qirqos “Miracles of Cyricus” / Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Mikaʾel “Miracles of Michael” / Zǝmmare / Täʾamrä Maryam “Miracles of Mary” / Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael / Täʾamrä Qirqos “Miracles of Cyricus” / Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary” (fols. 1ra-4ra, 9ra-39vb, 58rb-62vb, 64ra-64vb)&#13;
-I-1) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 1ra-4ra)&#13;
-II) Täˀamrä Mikaˀel: (fols. 4ra-6vb)&#13;
-III) Zəmmare (fols. 6vb-8vb)&#13;
-I-2) Täˀamrä Maryam: 33 miracles (fols. 9ra-39vb, 61ra-62vb, 64ra-64vb)&#13;
-IV) Dərsanä Mikaˀel, Homiliary for the feasts of St. Michael (fols. 40ra-51va)&#13;
-V) Täˀamrä Qirqos: 2 miracles (fols. 54ra-58rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary” (fols. 1ra-4ra, 9ra-39vb, 58rb-62vb, 64ra-64vb)&#13;
+I-1) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 1ra-4ra)&#13;
+II) Täʾamrä Mikaʾel: (fols. 4ra-6vb)&#13;
+III) Zǝmmare (fols. 6vb-8vb)&#13;
+I-2) Täʾamrä Maryam: 33 miracles (fols. 9ra-39vb, 61ra-62vb, 64ra-64vb)&#13;
+IV) Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael (fols. 40ra-51va)&#13;
+V) Täʾamrä Qirqos: 2 miracles (fols. 54ra-58rb)&#13;
 I-3) Introductory exhortation (fols. 58rb-61ra)&#13;
-VI) Täˀamrä ˀIyäsus: 1 miracle (fols. 63ra-64ra).</shortcontent>
+VI) Täʾamrä ʾIyäsus: 1 miracle (fols. 63ra-64ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -28,11 +28,11 @@ VI) Täˀamrä ˀIyäsus: 1 miracle (fols. 63ra-64ra).</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mәdrä Ruba /MR"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Ṣadəq</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Ṣadǝq</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Ṣadəq (fol. 52va) for the text in quires I-VII.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Ṣadǝq (fol. 52va) for the text in quires I-VII.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The Ms. has been commissioned by ˀabunä Wäldä Tənśaˀe (fol. 52rb-va); but the last quire (VIII)   by Wäldä ˀAbrəham (fol. 64vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The Ms. has been commissioned by ʾabunä Wäldä Tǝnśaʾe (fol. 52rb-va); but the last quire (VIII)   by Wäldä ʾAbrǝham (fol. 64vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -111,7 +111,7 @@ The upper line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: quires I-VII, crude, with angular letters.&#13;
 Hand b: quire VIII, somewhat better trained.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; incipits and headings of the texts; names of sections of Text III followed by feast names and initial words (e.g, zəmmare zä-Qirqos); elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; incipits and headings of the texts; names of sections of Text III followed by feast names and initial words (e.g, zǝmmare zä-Qirqos); elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

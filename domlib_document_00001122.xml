@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 1ra-151rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 1ra-151rc)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 151rc-153vb)&#13;
 - Table of contents (fols. 153vc, 154va-154vc)&#13;
 &#13;
@@ -30,7 +30,7 @@ Colophon.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1660</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Ca. 1660 (?). The colophon indicates that the Ms. was completed on the year of mercy 7152 (=1660 A.D.) which falls upon the time of King Fasilädäs (r. 1632-67). It mentions the 28th year of reign of a king was is “Dagəmawi Qwäsṭänṭinos” ("the second Constantine"). King Fasilädäs’ regnal name was ˁAläm Sägäd; Both hand a and hand b seem to be of a later time.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Ca. 1660 (?). The colophon indicates that the Ms. was completed on the year of mercy 7152 (=1660 A.D.) which falls upon the time of King Fasilädäs (r. 1632-67). It mentions the 28th year of reign of a king was is “Dagǝmawi Qwäsṭänṭinos” ("the second Constantine"). King Fasilädäs’ regnal name was ʿAläm Sägäd; Both hand a and hand b seem to be of a later time.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -93,7 +93,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 1r-24v; fine, with up-right letters.&#13;
 Hand b: fols. 25r-152v; somewhat inferior, with smaller letters, up-right or slightly right sloping, with small hairlines.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor (?); some lines on the incipit page, alternating with black lines; two initial lines of each sub-section of tText I; the words: ˁadi (fol. 6rc), kəfl (e.g., fols. 41rb, 62vc, 63rc), fəkkare (e.g., fols. 136ra, 137ra, 139rc), śalǝs (e.g., fols. 137rc, 138rb, 139rc), yəbe (e.g., fols.147ra, 147vb, 148ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor (?); some lines on the incipit page, alternating with black lines; two initial lines of each sub-section of tText I; the words: ʿadi (fol. 6rc), kǝfl (e.g., fols. 41rb, 62vc, 63rc), fǝkkare (e.g., fols. 136ra, 137ra, 139rc), śalǝs (e.g., fols. 137rc, 138rb, 139rc), yǝbe (e.g., fols.147ra, 147vb, 148ra); elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -104,7 +104,7 @@ Hand b: fols. 25r-152v; somewhat inferior, with smaller letters, up-right or sli
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><tran>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt" unicode=""&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</tran></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The first forty fols. of the Ms. are given pages in Gǝˁǝz numerals written in the upper margin of the verso side, by a recent hand in pen.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The first forty fols. of the Ms. are given pages in Gǝʿǝz numerals written in the upper margin of the verso side, by a recent hand in pen.&#13;
 - The name is erased in Additio 1.&#13;
 - Writing practises at the margin: fols. 1v, 9v, 11r, 20v, 24r, 43r, 45v, 69v, 142v.</extra>
 </extras>

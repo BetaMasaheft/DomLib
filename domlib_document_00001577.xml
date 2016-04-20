@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” /  Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” /  Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qəddus “Vita of Gäbrä Mänfäs Qəddus” (fols. 1ra-63ra)&#13;
-II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus”: 7 miracles (fols. 63ra-71rb).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Gäbrä Mänfäs Qǝddus “Vita of Gäbrä Mänfäs Qǝddus” (fols. 1ra-63ra)&#13;
+II) Täʾamrä Gäbrä Mänfäs Qǝddus “Miracles of Gäbrä Mänfäs Qǝddus”: 7 miracles (fols. 63ra-71rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -21,8 +21,8 @@ II) Täˀamrä Gäbrä Mänfäs Qəddus “Miracles of Gäbrä Mänfäs Qəddus�
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased in the supplication formulas throughout the Ms. and on fol. 71vb. It has been replaced with the following names: Gäbrä Kidan (fols. 11rb, 20ra, 58va, 64va, 69vb, 70rb), ˀAmätä Yoḥannəs (fol. 16va), ˀAṣmä Giyorgis (fol. 35va), Wälättä Maryam (fols. 46rb, 70ra), Ḫirutä Śəllase (fols. 66rb, 69vb). &#13;
-A name, ˀAmätä Ṣəyon, has been retained in the supplication formula on fol. 65va.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased in the supplication formulas throughout the Ms. and on fol. 71vb. It has been replaced with the following names: Gäbrä Kidan (fols. 11rb, 20ra, 58va, 64va, 69vb, 70rb), ʾAmätä Yoḥannǝs (fol. 16va), ʾAṣmä Giyorgis (fol. 35va), Wälättä Maryam (fols. 46rb, 70ra), Ḫirutä Śǝllase (fols. 66rb, 69vb). &#13;
+A name, ʾAmätä Ṣǝyon, has been retained in the supplication formula on fol. 65va.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -104,17 +104,17 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Monthly readings of Text I are indicated by the names of the months written in the upper margin of some fols., in a secondary hand: &#13;
-mənbab zä-&lt;…&gt;: fol. 11rb&#13;
+mǝnbab zä-&lt;…&gt;: fol. 11rb&#13;
 &lt;…&gt;: fol. 16va&#13;
-mənbab zä-Miyazya: fol. 20ra&#13;
-mənbab zä-Gənbot: fol. 28ra&#13;
-mənbab zä-Ḥamle: fol. 33vb&#13;
-mənbab zä-Näḥase: fol. 35vb&#13;
-mənbab zä-Mäskäräm: fol. 38vb&#13;
-mənbab zä-Säne: fol. 46ra&#13;
-mənbab &lt;…&gt;: fol. 52rb&#13;
-mənbab zä-Ṭərr: fol. 54vb&#13;
-mənbab &lt;…&gt;: fol. 58va</txfindingaid>
+mǝnbab zä-Miyazya: fol. 20ra&#13;
+mǝnbab zä-Gǝnbot: fol. 28ra&#13;
+mǝnbab zä-Ḥamle: fol. 33vb&#13;
+mǝnbab zä-Näḥase: fol. 35vb&#13;
+mǝnbab zä-Mäskäräm: fol. 38vb&#13;
+mǝnbab zä-Säne: fol. 46ra&#13;
+mǝnbab &lt;…&gt;: fol. 52rb&#13;
+mǝnbab zä-Ṭǝrr: fol. 54vb&#13;
+mǝnbab &lt;…&gt;: fol. 58va</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Fol. 71vb (explicit of Text II): simple, coloured (red, black) ornamental band; interlaces.</frame>
 </frames>

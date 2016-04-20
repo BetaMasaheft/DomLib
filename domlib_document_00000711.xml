@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Bəˁəlä nägäśt "Riches of the Kings" / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Bǝʿǝlä nägäśt "Riches of the Kings" / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fols. 4ra-5ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fols. 4ra-5ra)&#13;
 - Genealogy of Täklä Haymanot (fols. 4ra-5ra)&#13;
 II) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 5ra-94vb)&#13;
-III) Bəˁəlä nägäśt "Riches of the Kings" (fols. 95ra-98ra)&#13;
-IV) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 98ra-107vb)&#13;
+III) Bǝʿǝlä nägäśt "Riches of the Kings" (fols. 95ra-98ra)&#13;
+IV) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 98ra-107vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -26,7 +26,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="NÓ&#153;á¸¥bi QÓ&#153;ddus MikaË&#128;el / NSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Sämaˁt (s. Additio 1; s. also the supplication formulas on fols. 5ra, 39ra, 94va, 98vb, 107vb). Several other persons are mentioned in supplication formulas:  Dəmḍä Mikaˀel (fols. 5ra, 26va, 56vb, 85ra, 92ra, 107vb), Gäbrä Mikaˀel (fols. 98vb, 101va), Wälättä Maryam (fols. 99ra, 101ra, 107vb), ˀƎḫәtä Giyorgis (fol. 99vb, 107vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Sämaʿt (s. Additio 1; s. also the supplication formulas on fols. 5ra, 39ra, 94va, 98vb, 107vb). Several other persons are mentioned in supplication formulas:  Dǝmḍä Mikaʾel (fols. 5ra, 26va, 56vb, 85ra, 92ra, 107vb), Gäbrä Mikaʾel (fols. 98vb, 101va), Wälättä Maryam (fols. 99ra, 101ra, 107vb), ʾƎḫәtä Giyorgis (fol. 99vb, 107vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

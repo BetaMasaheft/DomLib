@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä sämaˁtat, "Vitae of the Martyrs"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä sämaʿtat, "Vitae of the Martyrs"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Gädlä sämaˁtat, "Vitae of the Martyrs":&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Gädlä sämaʿtat, "Vitae of the Martyrs":&#13;
 1) Yoḥannǝs Mäṭmǝq (1 Mäskäräm) [foliation: 3rd seq.: ff. 1-9; 2nd seq.: ff. 1-9v; 1st&#13;
 seq.: ff. 281ar; 187-192; 137; 139v];&#13;
 2) Mamas, Tewodoṭos, Tewofina (5 Mäskäräm) [foliation: 3rd seq.: 9v-21r; 2nd&#13;
@@ -77,9 +77,9 @@ ff. 201vb-204vb; 1st seq.: ff. 266vb; 267; 279; 101vb];&#13;
 204vb-222v; 1st seq. ff. 101vb; 1-18v];&#13;
 32) Tewodros Bänadlewos (12 Ṭǝrr) [foliation: 3rd seq.: ff. 229r-243rb; 2nd seq.: ff.&#13;
 223r-237rb; 1st seq.: ff. 19r-25; 73; 109-115rb];&#13;
-33) Säbʿatu däqiq zä-ˀEfeson (13 Ṭǝrr) [foliation: 3rd seq.: ff. 243va-248vb; 2nd seq.:&#13;
+33) Säbʿatu däqiq zä-ʾEfeson (13 Ṭǝrr) [foliation: 3rd seq.: ff. 243va-248vb; 2nd seq.:&#13;
 ff. 236va-242vb; 1st seq.: ff. 115va-120vb];&#13;
-34) ˀƎmǝrays (14 Ṭǝrr) [foliation: 3rd seq.: ff. 249r-250va; 2nd seq.: ff. 243r-244va;&#13;
+34) ʾƎmǝrays (14 Ṭǝrr) [foliation: 3rd seq.: ff. 249r-250va; 2nd seq.: ff. 243r-244va;&#13;
 1st seq.: ff. 121r-123va];&#13;
 35) Qirqos and Yäluta (15 or 16 Ṭǝrr) [foliation: 3rd seq.: ff. 251r-259vb; 2nd seq.:&#13;
 ff. 245r-253vb; 1st seq.: ff. 269r; 225; 226; 221-224; 227; 215vb]; Note: lacuna after&#13;
@@ -88,7 +88,7 @@ f. 257v; beginning of the following leaf: …[ያ]ንድዱ፡ ወቈጽሎሂ�
 following leaf: ዝውእቱ፡ ከይሲ፡ እምቅድመ፡ መስሕቱ፡ ወዕድውሰብአ፨ ወእምዘ፡ ርእየ[ኒዝ];&#13;
 36) Äkawǝḥ (28 Ṭǝrr) [foliation: 3rd seq.: ff. 259vb-269rb; 2nd seq.: ff. 253vb-&#13;
 263rb; 1st seq.: ff. 215vb-220; 228; 138; 124; 125; 126rb];&#13;
-37) ˁOrni (30 Ṭǝrr) [foliation: 3rd seq.: ff. 269va-275rb; 2nd seq.: ff. 263va-269rb;&#13;
+37) ʿOrni (30 Ṭǝrr) [foliation: 3rd seq.: ff. 269va-275rb; 2nd seq.: ff. 263va-269rb;&#13;
 1st seq.: ff. 126va-132rb];&#13;
 38) Ṭeqäla (30 Ṭǝrr) [foliation: 3rd seq.: ff. 275rb-277ra; 2nd seq.: ff. 269rb-271ra;&#13;
 1st seq.: ff. 132rb; 108; 135ra];&#13;
@@ -98,9 +98,9 @@ ff. 271rb-274, 281v; 1st seq.: ff. 135rb; 136; 134; 133, 281].&#13;
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1400</fdating>
 </fdatings>

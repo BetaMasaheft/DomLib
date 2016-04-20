@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 3ra-105va)&#13;
-II) Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fols. 105va-106va)&#13;
+II) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fols. 105va-106va)&#13;
 - Genealogy of Täklä Haymanot (fols. 105va-106va)&#13;
-III) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 106va-116ra)&#13;
+III) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 106va-116ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Qirqos / AMQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Qirqos / AMQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Qirqos / AMQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Qirqos / AMQ"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Kidanä Maryam</nmcopyist>
 </nmcopyists>

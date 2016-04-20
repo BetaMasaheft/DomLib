@@ -10,14 +10,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary” (fols. 3ra-1979va)&#13;
-I-1) Mäṣḥafä śərˁat, The rite of al-Muˁallaqah (fols. 3ra-8rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary” (fols. 3ra-1979va)&#13;
+I-1) Mäṣḥafä śǝrʿat, The rite of al-Muʿallaqah (fols. 3ra-8rb)&#13;
 I-2) Introductory exhortation (fols. 8rb-11rb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäkki... “I worship Thee…” (fols. 11rb-12rb)&#13;
-I-4) Täˀamrä Maryam: 162 miracles (fols. 12rb-225rb)&#13;
-I-5) ˀAkkonu bəˀəsi... "Does not the man..." (fols. 149va-179va, distributed among the Miracles of Mary).</shortcontent>
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäkki... “I worship Thee…” (fols. 11rb-12rb)&#13;
+I-4) Täʾamrä Maryam: 162 miracles (fols. 12rb-225rb)&#13;
+I-5) ʾAkkonu bǝʾǝsi... "Does not the man..." (fols. 149va-179va, distributed among the Miracles of Mary).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -25,12 +25,12 @@ I-5) ˀAkkonu bəˀəsi... "Does not the man..." (fols. 149va-179va, distributed
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000071" xlink:title="Fäqada Maryam / FBM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Krəstos</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Krǝstos</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Krəstos (s. the supplication formula, fol. 34va).&#13;
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Krǝstos (s. the supplication formula, fol. 34va).&#13;
 The same scribe wrote Ms. QSM-023.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Bäˀədä Maryam is mentioned in supplication formulas (e.g., fol. 34va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Bäʾǝdä Maryam is mentioned in supplication formulas (e.g., fol. 34va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1670</fdating>
 </fdatings>

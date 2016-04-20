@@ -13,26 +13,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ˀIsayəyyas “Book of Isaiah” / Mäṣḥafä  məssale “Book of Proverbs” / Ṭəbäbä Sälomon “Wisdom of Solomon” / Qalä Mäkbəb “Word of Ecclesiastes” / Mäṣḥafä ˀIyob “Book of Job”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾIsayǝyyas “Book of Isaiah” / Mäṣḥafä  mǝssale “Book of Proverbs” / Ṭǝbäbä Sälomon “Wisdom of Solomon” / Qalä Mäkbǝb “Word of Ecclesiastes” / Mäṣḥafä ʾIyob “Book of Job”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ˀIsayəyyas “Book of Isaiah” [Is.] (fols. 2ra-56vb)&#13;
-II) Mäṣḥafä  məssale “Book of Proverbs” [Prov.] (fols. 57ra-101rb)&#13;
-II-1) Məssaləyatä Sälomon “Proverbs of Solomon” (fols. 57ra-77vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾIsayǝyyas “Book of Isaiah” [Is.] (fols. 2ra-56vb)&#13;
+II) Mäṣḥafä  mǝssale “Book of Proverbs” [Prov.] (fols. 57ra-101rb)&#13;
+II-1) Mǝssalǝyatä Sälomon “Proverbs of Solomon” (fols. 57ra-77vb)&#13;
 II-2) Tägśaṣä Sälomon “Admonition of Solomon” (fols. 77vb-82vab)&#13;
-III) Ṭəbäbä Sälomon “Wisdom of Solomon” [Wis.] (fols. 82va-101rb)&#13;
-IV) Qalä Mäkbəb “Word of Ecclesiastes” [Ecc.] (fols. 101rb-111ra)&#13;
-V) Mäṣḥafä ˀIyob, Book of Job [Job] (fols. 112ra-141ra)&#13;
+III) Ṭǝbäbä Sälomon “Wisdom of Solomon” [Wis.] (fols. 82va-101rb)&#13;
+IV) Qalä Mäkbǝb “Word of Ecclesiastes” [Ecc.] (fols. 101rb-111ra)&#13;
+V) Mäṣḥafä ʾIyob, Book of Job [Job] (fols. 112ra-141ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased from the supplication formula on fol. 56vb.&#13;
-According to Additio 1, the Ms. was donated by ˀabba Gäbrä Krəstos and his son ˀabba Gäbrä Mikaˀel.</donor>
+According to Additio 1, the Ms. was donated by ʾabba Gäbrä Krǝstos and his son ʾabba Gäbrä Mikaʾel.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -105,15 +105,15 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Two groups of lines (alternating with black lines) on the incipit page of Text I; a few lines (alternating with black a line) on the incipit page of Texts II-1 and V; two lines (alternating with black a line) of the incipit of Texts II-2, III and IV; two initial lines of the sections of Texts I and V; words kəfəl and məˁəraf; part and chapter numbers; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Two groups of lines (alternating with black lines) on the incipit page of Text I; a few lines (alternating with black a line) on the incipit page of Texts II-1 and V; two lines (alternating with black a line) of the incipit of Texts II-2, III and IV; two initial lines of the sections of Texts I and V; words kǝfǝl and mǝʿǝraf; part and chapter numbers; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I is divided into parts (kəfəl) which are followed by a number. The numeration is not reliable and stops after fol. 34ra. Up to fol. 56ra, the scribe left blank spaces for rubricated numerals. &#13;
-Texts II-IV are divided into parts (kəfəl), but only at the beginning of Text II-1 they are followed by a number.&#13;
-Text V is divided into parts (kəfəl) and chapters (məˁəraf) which are followed by numbers up to fol. 120rb.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I is divided into parts (kǝfǝl) which are followed by a number. The numeration is not reliable and stops after fol. 34ra. Up to fol. 56ra, the scribe left blank spaces for rubricated numerals. &#13;
+Texts II-IV are divided into parts (kǝfǝl), but only at the beginning of Text II-1 they are followed by a number.&#13;
+Text V is divided into parts (kǝfǝl) and chapters (mǝʿǝraf) which are followed by numbers up to fol. 120rb.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal"&gt;&lt;span style="font-size: small"&gt;Fol. 2r (upper margin): Donation note. &lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 2r:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;ዝመጽሐፍ፡ ዘአባ፡ ገብረ፡ ክርስቶስ፡ ወወልዱ፡ አባ፡ ገብረ፡ ሚካኤል፡ ወሀብነ፡ ለአቡነ፡ አረጋዊ፡ ደብረ፡ ዳሞ፡ ከመ፡ ይኵነነ፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;መር&lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ሐ&lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ለመንግሥተ፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ሰማያት፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ኢትርስዑኑ፡ ዓቢይ፡ ወንዑስ፡ ደቂቀ፡ ዳሞ &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in a very crude hand. It states that the Ms. was donated to the Däbrä Dammo monastery by ˀabba Gäbrä Krəstos and his son ˀabba Gäbrä Mikaˀel.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal"&gt;&lt;span style="font-size: small"&gt;Fol. 2r (upper margin): Donation note. &lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 2r:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;ዝመጽሐፍ፡ ዘአባ፡ ገብረ፡ ክርስቶስ፡ ወወልዱ፡ አባ፡ ገብረ፡ ሚካኤል፡ ወሀብነ፡ ለአቡነ፡ አረጋዊ፡ ደብረ፡ ዳሞ፡ ከመ፡ ይኵነነ፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;መር&lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ሐ&lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ለመንግሥተ፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ሰማያት፡ &lt;/span&gt;&lt;span style="line-height: 115%; color: black"&gt;ኢትርስዑኑ፡ ዓቢይ፡ ወንዑስ፡ ደቂቀ፡ ዳሞ &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in a very crude hand. It states that the Ms. was donated to the Däbrä Dammo monastery by ʾabba Gäbrä Krǝstos and his son ʾabba Gäbrä Mikaʾel.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of the Ms., መጻፋ አስያስ(?), is crudely written on the front board.  &#13;
 - The title of the Ms., መፅሃፈ ኢሳያስ[sic], and the internal number of the monastic library (278) are written on fol. 1r. &#13;
@@ -122,7 +122,7 @@ Text V is divided into parts (kəfəl) and chapters (məˁəraf) which are follo
 - Omissions written interlineally and in the margins, in two different secondary hands: fols. 6r, 7r, 7va, 8rb, 8vb, 9r, 10vb, 11ra, 12va, 13va, 15rb, 16r, 16vb, 17r, 18rb, 19ra, 23vb, 25ra, 29ra, 29vb, 31va, 34r, 35va, 36ra, 39vb, 42va, 43rb, 54rb, 54vb, 57r, 57v, 58rb, 58vb, 59rb, 59v, 60rv, 61r, 64r, 64vb, 65rv, 66r, 70r, 75r, 76ra, 93va, 98r, 102va, 103ra, 113rb. &#13;
 - Corrections written over erasures and interlineally, in a secondary hand: fols. 3ra, 7rb, 11ra, 11va, 12va, 14va, 22ra, 25rb, 47rb, 57r, 64vb, 69vb, 77va, 78ra, 86ra, 117ra.&#13;
 - Correction indicated by thin lines above and below the word, occasionally with the correct text written interlineally, in two different secondary hands: fols. 3vb-4ra, 6rb, 13ra, 13va, 17vb, 18ra, 18va, 21va, 24rb, 25vb, 29ra, 34ra, 37rb, 39rb, 44va, 46va, 61va, 62vb, 63r, 68rb, 72rb, 73rb, 130rb, 140vb.  &#13;
-- Commentaries in Gəˁəz and glosses written in the margins, in a secondary hand: fols. 5r, 7ra, 7vb, 8ra, 20ra, 37ra, 47va. &#13;
+- Commentaries in Gǝʿǝz and glosses written in the margins, in a secondary hand: fols. 5r, 7ra, 7vb, 8ra, 20ra, 37ra, 47va. &#13;
 - Erasures: fols. 15v, 38rb, 38va, 50ra, 53vb, 87ra. &#13;
 - A note or notes have been erased from fols. 111r-v, 141rb-vb.&#13;
 - Pen trials: fols. 1r.&#13;

@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täzkarä mäṣḥafä säˁatat “Commemoration of the Horologium” / Computation for the hours of each month</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täzkarä mäṣḥafä säʿatat “Commemoration of the Horologium” / Computation for the hours of each month</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täzkarä mäṣḥafä säˁatat “Commemoration of the Horologium” (fols. 1v-2r)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täzkarä mäṣḥafä säʿatat “Commemoration of the Horologium” (fols. 1v-2r)&#13;
 II) Computation for the hours of each month (fols. 2v-3v, 6r)&#13;
-- tables for the months Ṭərr-Mäggabit (fol. 2v)&#13;
+- tables for the months Ṭǝrr-Mäggabit (fol. 2v)&#13;
 - tables for the months Miyazya-Säne (fol. 3r)&#13;
 - tables for the months Ḥamle-Mäskäräm (fol. 3v)&#13;
-- tables for the months Ṭəqəmt-Ṗagwəmen (fol. 6r)&#13;
+- tables for the months Ṭǝqǝmt-Ṗagwǝmen (fol. 6r)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1400</fdating>
 </fdatings>

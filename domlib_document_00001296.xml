@@ -12,9 +12,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”&#13;
 I-1) Introduction (fols. 5ra-8ra)&#13;
 I-1) Eve of Palm Sunday (fols. 8ra-11ra)&#13;
 I-2) Palm Sunday (fols. 11ra-19va)&#13;
@@ -24,8 +24,8 @@ I-5) Wednesday (fols. 63vb-80vb)&#13;
 I-6) Thursday (fols. 80vb-108rb)&#13;
 I-7) Friday (fols. 108rb-183rb)&#13;
 I-8) Saturday (fols. 183r-216v)&#13;
--	Raˀəyä Yoḥannəs “Revelation of John”  (fols. 186r-201v)&#13;
-- Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 212va-214rb)&#13;
+-	Raʾǝyä Yoḥannǝs “Revelation of John”  (fols. 186r-201v)&#13;
+- Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 212va-214rb)&#13;
 I-9) Directives for the rite of the Passion Week (Good Friday) (fols. 217ra)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -36,9 +36,9 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="Ë&#129;AddÃ¤qaá¸¥arsi á¹&#150;Ã¤raqliá¹­os / AP"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand is quite similar, though probably not identical, to that of the Vita of ˀƎsṭifanos of Gundä Gunde (Mordini 146, s. EAE II, 390) and a Four Gospels book from Gundä Gunde, Walters Museum W.850 (dated to 1500-50).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand is quite similar, though probably not identical, to that of the Vita of ʾƎsṭifanos of Gundä Gunde (Mordini 146, s. EAE II, 390) and a Four Gospels book from Gundä Gunde, Walters Museum W.850 (dated to 1500-50).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor was possibly Bä-Ḫaylä ˀIyäsus mentioned in Additio 1.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor was possibly Bä-Ḫaylä ʾIyäsus mentioned in Additio 1.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1450</fdating>
 </fdatings>
@@ -109,7 +109,7 @@ Some distinctive features of the handwriting are:&#13;
 - the left vertical stroke of ሰ is often slightly waving (particularly visible in the sixth order: e.g., fols. 5rb l.22, 12rb l.2, 14ra ls.7-8); the same phenomenon occurs rarely to በ: e.g., fols. 31vb ls.2-7, 61ra l.1, (s. THMR-002)&#13;
 - ቱ sometimes has the vowel marker attached to the upper part of the vertical stroke: e.g., fols. 6rb l.7, 24rb l.18, 183ra l.23 (s.THMR-002).&#13;
 Coronis are used as a text divider in fols. 7r (between chains of black and red dots), 66vb (along with chains of dashes and dots), 185vb (along with dashes and dots).&#13;
-The hand is particularly similar to the one attested in the Mäṣḥafä gәbrä ḥəmamat THMR-002 (s. EAE II, 727) and in the Senodos of Gundä Gunde (s. EAE IV,  624).</pchangeofhand>
+The hand is particularly similar to the one attested in the Mäṣḥafä gәbrä ḥǝmamat THMR-002 (s. EAE II, 727) and in the Senodos of Gundä Gunde (s. EAE IV,  624).</pchangeofhand>
 </pchangeofhands>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">Crux ansata is used as a text divider in fols. 41ra, 164ra (?).</pcruxansata>
 </pcruxansatas>

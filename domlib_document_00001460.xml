@@ -11,9 +11,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanat, Homiliary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanat, Homiliary</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dərsanat, Homiliary (fols. 3r-118ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanat, Homiliary (fols. 3r-118ra)&#13;
 I-1) Homily by Jacob of Serug on the Annunciation and on the Virgin Mary and Elizabeth (fols. 3r-4rb) (cp. Orient. 774, no. 1)&#13;
 I-2) Homily by Jacob (of Serug) on the visit of Mary to Elizabeth (fols. 4va-6rb) (cp. Orient. 774, no. 2)&#13;
 I-3) Homily by Jacob (of Serug) on the vision of Joseph (fol. 6ra-8ra)(cp. Orient. 774, no. 3)&#13;
@@ -34,7 +34,7 @@ I-17) Homily by John Chrysostom on Lazarus (fols. 49rb-50vb)&#13;
 I-18) Homily by John Chrysostom on the Samaritan woman (fols. 50vb-53vb)&#13;
 I-19) Homily by Ephrem on Satan and death (fols. 54ra-57vb) (cp. Orient. 774, no. 16)&#13;
 I-21) Homily by Jacob of Serug on the angel and the thief (fols. 60rb-66vb) (incomplete?)&#13;
-I-22) Homily by Anəsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 66ra-74rb) (cp. Orient. 774, no. 19)&#13;
+I-22) Homily by Anǝsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 66ra-74rb) (cp. Orient. 774, no. 19)&#13;
 I-23) Homily by John Chrysostom on Passion of Our Lord (fols. 74rb-78vb)&#13;
 I-24) Homily by Ephrem on Palm Sunday (i) (fols. 78vb-81rb)&#13;
 I-25) Homily by Ephrem on Palm Sunday (ii) (fols. 81rb-86rb)&#13;
@@ -45,18 +45,18 @@ I-29) Homily by John Chrysostom on the Apostle Thomas (fols. 95rb-97va)&#13;
 I-30) Homily by John Chrysostom on repentance (fols. 97va-102vb) (cp. Orient 774, no. 29; MY-002, 138ra-143rb)&#13;
 I-31) The Story of John of Rome who acquired the “Golden Gospel” (fols. 103ra-106ra) (cp. Orient. 774, no. 30)&#13;
 I-32) Homily by John Chrysostom on the Ten Virgins (fols. 106ra-110ra) (cp. Orient. 774, no. 31)&#13;
-I-33) Homily by Anəsṭasyos of Däbrä Sina on the Transfiguration (fols. 110ra-115va) (cp. Orient. 774, no. 32)&#13;
+I-33) Homily by Anǝsṭasyos of Däbrä Sina on the Transfiguration (fols. 110ra-115va) (cp. Orient. 774, no. 32)&#13;
 I-34) Homily by Jacob of Serug on the words of the angel to Zacharias (fols. 115v-118ra)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Habtä ˀIyäsus</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Habtä ʾIyäsus</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe has mentioned his own name, Habtä ˀIyäsus, in a subscription (exhortation, fol. 118ra).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe has mentioned his own name, Habtä ʾIyäsus, in a subscription (exhortation, fol. 118ra).</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1500</fdating>
 </fdatings>

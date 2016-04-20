@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary” (fols. 1va-227vc)&#13;
-I-1) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fol. 3ra-rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary” (fols. 1va-227vc)&#13;
+I-1) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fol. 3ra-rc)&#13;
 I-2) Introductory exhortation and hymns (fols. 1va-2rc, 3rc-vc) &#13;
-I-3) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah and hymn (fol. 4ra-8ra)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: 196 miracles (fols. 9ra-227vc), incomplete</shortcontent>
+I-3) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah and hymn (fol. 4ra-8ra)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: 196 miracles (fols. 9ra-227vc), incomplete</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the original donors have been erased throughout the Ms. and replaced with Zä-Mänfäs Qəddus, often together with the names of his mother Wälättä Ṣǝyon, his father Wäldä Lǝˁul and Gäbrä Samuˀel (in red, until fol. 109vc), written in a secondary hand. In some cases, the original names have been preserved in supplication formulas: Hǝryaqos on fol. 12va, Zena Gäbrǝˀel fols. 204vb-212rb, 219vb-227va, and Täklä Haymanot fols. 213vb-218vc.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of the original donors have been erased throughout the Ms. and replaced with Zä-Mänfäs Qǝddus, often together with the names of his mother Wälättä Ṣǝyon, his father Wäldä Lǝʿul and Gäbrä Samuʾel (in red, until fol. 109vc), written in a secondary hand. In some cases, the original names have been preserved in supplication formulas: Hǝryaqos on fol. 12va, Zena Gäbrǝʾel fols. 204vb-212rb, 219vb-227va, and Täklä Haymanot fols. 213vb-218vc.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -132,7 +132,7 @@ Text I-1: fols. 3ra-rc;&#13;
 Text I-2: fols. 3rc-vc, 1va-2rc.&#13;
 &#13;
 Text I-3, partly with interlineal musical notation (in brown ink), contains:&#13;
-- Sälam läki ḫoḫətä məśraq ... "Salutation to you, Threshold of the East…"  (fols. 7vc-8ra)&#13;
+- Sälam läki ḫoḫǝtä mǝśraq ... "Salutation to you, Threshold of the East…"  (fols. 7vc-8ra)&#13;
 &#13;
 The introduction to Text I-4 (Miracles of Mary) is similar to the beginning of Text I-2. The miracles are numbered.</otherdetail>
 </otherdetails>

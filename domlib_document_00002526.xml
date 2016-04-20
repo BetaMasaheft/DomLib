@@ -11,20 +11,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀəgzəˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady on Mount Golgotha on the 21st of Säne / Təmhərtä ḫəbuˀat “Teaching of Mysteries”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady on Mount Golgotha on the 21st of Säne / Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀəgzəˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady on Mount Golgotha on the 21st of Säne (fols. 8r-28v)&#13;
-II) Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 28v-46r)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady on Mount Golgotha on the 21st of Säne (fols. 8r-28v)&#13;
+II) Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 28v-46r)&#13;
 &#13;
 Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name Gäbrä Mädḫən has been added to the supplication formulas on fols. 8r, 23r, 28r, but it is poorly readable due to faded ink (still visible on fol. 28r).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name Gäbrä Mädḫǝn has been added to the supplication formulas on fols. 8r, 23r, 28r, but it is poorly readable due to faded ink (still visible on fol. 28r).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -115,7 +115,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, but careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; several groups of lines in the incipit page of Texts I and II alternating with black lines; incipit of the subsections of Texts I and II; abbreviation of the word ˀaməḥəläkä in Text II; abbreviations of the words mäḥalku or mäḥalku läki in Text III; elements of the punctuation signs and of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; several groups of lines in the incipit page of Texts I and II alternating with black lines; incipit of the subsections of Texts I and II; abbreviation of the word ʾamǝḥǝläkä in Text II; abbreviations of the words mäḥalku or mäḥalku läki in Text III; elements of the punctuation signs and of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">አምሕ፡ for አምሕለከ፡ (fols. 10v-11r, 11v)&#13;
 ወል፡ for ወልድየ፡ (fol. 11r)&#13;

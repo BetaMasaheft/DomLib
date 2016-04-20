@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀArbaˁtu wängel “Four Gospels” (fols. 3ra-142ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾArbaʿtu wängel “Four Gospels” (fols. 3ra-142ra)&#13;
 I-1) Gospel of Matthew (fols. 3ra-40rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 3ra-39va) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 3ra-39va) &#13;
 - Stichometry (fol. 39va)&#13;
 - List of the “tituli” for the Gospel of Matthew: 69 titles (fols. 39vb-40rb)&#13;
 I-2) Gospel of Mark (fols. 41ra-66rb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 41ra-65vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 41ra-65vb)&#13;
 - Stichometry (fols. 65vb-66ra)&#13;
 - List of the “tituli” for the Gospel of Mark: 45 titles (fols. 66ra-rb)&#13;
 I-3) Gospel of Luke (fols. 67ra-107ra)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 67ra-106rb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 67ra-106rb)&#13;
 - List of the “tituli” for the Gospel of Luke: 69 titles (fols. 106rb-ra)&#13;
 I-4) Gospel of John (fols. 109ra-141vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 109ra-141va)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 109ra-141va)&#13;
 - Stichometry (fol. 141va)&#13;
 - List of the “tituli” for the Gospel of John: 18 titles (fols. 141va-vb)&#13;
 &#13;
@@ -37,7 +37,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000053" xlink:title="Säbäya Maryam /SM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 1, priest (qäsis) Täsfa Mikaˀel and priest Wäldä Gabər commissioned the Ms. They are also mentioned together with “the children of deacon Nəwayä Maryam” in the supplication formula on fol. 39va, and with “the children of Mäḥarä Krəstos” and “the children of Maḫletä Mikaˀel” in the concluding supplication formula on fol. 142ra.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 1, priest (qäsis) Täsfa Mikaʾel and priest Wäldä Gabǝr commissioned the Ms. They are also mentioned together with “the children of deacon Nǝwayä Maryam” in the supplication formula on fol. 39va, and with “the children of Mäḥarä Krǝstos” and “the children of Maḫletä Mikaʾel” in the concluding supplication formula on fol. 142ra.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -117,7 +117,7 @@ The bottom ruled lined is not used on fols. 55, 57, 59-61v, 91-93, 99, 130r.</rl
 </phandwritings>
 <pcoroniss class="MCRMetaLangText" heritable="false" notinherit="false"><pcoronis xml:lang="en" inherited="0" form="plain">Crudely executed (e.g. fols. 3r, 106v)</pcoronis>
 </pcoroniss>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the commissioners; a few lines or groups of lines (alternating with black lines) of the incipits of the texts; word məˁəraf; “tituli” written in the upper margins; stichometry; elements of the punctuation signs and Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the commissioners; a few lines or groups of lines (alternating with black lines) of the incipits of the texts; word mǝʿǝraf; “tituli” written in the upper margins; stichometry; elements of the punctuation signs and Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ምዕ፡, ምዕራ፡ for ምዕራፍ፡</abbreviation>
 </abbreviations>
@@ -128,7 +128,7 @@ The bottom ruled lined is not used on fols. 55, 57, 59-61v, 91-93, 99, 130r.</rl
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 40r: Note on commissioning the writing. &lt;/span&gt;&lt;/p&gt;</cont><add>&lt;div style="text-align: left;"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" arial="" sans-serif=""&gt;Fol. 40v: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%" arial="" sans-serif=""&gt;&amp;#4704;&lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#4824;&amp;#4704;&amp;#4758;&amp;#4633;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4811;&amp;#4961; &amp;#4616;&amp;#4824;&amp;#4722;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4841;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4705;&amp;#4840;&amp;#4961; &amp;#4672;&amp;#4658;&amp;#4656;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4875;&amp;#4709;&amp;#4653;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4633;&amp;#4961; &amp;#4819;&amp;#4656;&amp;#4710;&amp;#4961; &amp;#4704;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4757;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4636;&amp;#4757;&amp;#4962;&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/div&gt;</add><det>The note is written in the main hand, in red. It mentions as the commissioners priest (qäsis) Täsfa Mikaˀel and priest Wäldä Gabər.</det></additional>
+&lt;/span&gt;&lt;/div&gt;</add><det>The note is written in the main hand, in red. It mentions as the commissioners priest (qäsis) Täsfa Mikaʾel and priest Wäldä Gabǝr.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- An unfinished note on the land possession dated to 1919 year of mercy (= 1926/27 A.D.): fol. 2r.&#13;
 - Lacuna: fol. 102vb.&#13;

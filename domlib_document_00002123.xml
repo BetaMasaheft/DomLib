@@ -10,27 +10,27 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 3ra-89ra)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah and hymn (fols. 3ra-6ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 3ra-89ra)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah and hymn (fols. 3ra-6ra)&#13;
 I-2) Introductory exhortation and hymns (fols. 6ra-8ra)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... "I worship Thee ..." (fol. 8ra-va)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 100 miracles (fols. 8va-89ra)&#13;
-I-5) ˀAkkonu bəˀəsi ... "Does not the man ..." (distributed among the miracles of Mary, fols. 15ra-27vb), incomplete (13 strophes)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... "I worship Thee ..." (fol. 8ra-va)&#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 100 miracles (fols. 8va-89ra)&#13;
+I-5) ʾAkkonu bǝʾǝsi ... "Does not the man ..." (distributed among the miracles of Mary, fols. 15ra-27vb), incomplete (13 strophes)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˀAstǝˁa Dǝngǝl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAstǝʿa Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀabunä ˀAstǝˁa Dǝngǝl is mentioned as the scribe in the supplication formulas throughout the Ms. (e.g., fols. 44vb, 57rb, 68va, 78ra).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾabunä ʾAstǝʿa Dǝngǝl is mentioned as the scribe in the supplication formulas throughout the Ms. (e.g., fols. 44vb, 57rb, 68va, 78ra).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Lǝbsä Qal and his relatives (wife: Wälättä Mädḫǝn, father: Täsfa Śǝllase, mother: Wälättä Gäbrä Mänfäs Qǝddus, daughter: Wälättä Täklä Haymanot) are mentioned in the supplication formulas throughout the Ms. The second part of the name of Lǝbsä Qal is often overwritten with Krǝstos.</donor>
 </donors>
@@ -112,11 +112,11 @@ A few fols. have additional ruled line(s) at the bottom (fols. 61rv, 65rv-67rv).
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; name of the scribe; groups of lines on the incipit page of Texts I-1 and I-2; incipit of (sub)sections; sometimes the first word of Text I-5; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 contains the hymns: Sälam läki ḫoḫətä məśraq ... "Salutation to you, Threshold of the East ..." (fol. 5va-vb).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 contains the hymns: Sälam läki ḫoḫǝtä mǝśraq ... "Salutation to you, Threshold of the East ..." (fol. 5va-vb).&#13;
 &#13;
 Text I-2 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 7rb-va) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."(fols. 7va-8ra).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 7rb-va) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."(fols. 7va-8ra).&#13;
 &#13;
 The miracles of Mary (Text I-4) are numbered (numbers are written in the margins). &#13;
 &#13;

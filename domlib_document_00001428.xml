@@ -10,31 +10,31 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary" / Täˀamrä Giyorgis "Miracles of George"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary" / Täʾamrä Giyorgis "Miracles of George"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 4ra-77vb)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 4ra-8ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 4ra-77vb)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 4ra-8ra)&#13;
 I-2) Introductive exhortation and hymns (fols. 8ra-10va)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... "I worship Thee ..." (fols. 10va-12rb)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 90 miracles (fols. 12ra-77vb)&#13;
-II) Täˀamrä Giyorgis "Miracles of George": 14 miracles (fols. 78ra-100rb)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... "I worship Thee ..." (fols. 10va-12rb)&#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 90 miracles (fols. 12ra-77vb)&#13;
+II) Täʾamrä Giyorgis "Miracles of George": 14 miracles (fols. 78ra-100rb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ˁAddi Qolqwal Giyorgis / AQG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000097" xlink:title="ʿAddi Qolqwal Giyorgis / AQG"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several persons are mentioned in supplication formulas: Wäldä ˀEwosṭatewos (fols. 8rb, 69ra, 70ra), Wäldä Krǝstos (fols. 9va, 77ra), Sǝnä Qal (fol. 77ra), Gädlä Sämaˁt (fols. 13rb, 14rb, 22va, 54vb, 60ra, 63vab, 97vb, 100rab).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several persons are mentioned in supplication formulas: Wäldä ʾEwosṭatewos (fols. 8rb, 69ra, 70ra), Wäldä Krǝstos (fols. 9va, 77ra), Sǝnä Qal (fol. 77ra), Gädlä Sämaʿt (fols. 13rb, 14rb, 22va, 54vb, 60ra, 63vab, 97vb, 100rab).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ˀIyasu mentioned on fol. 8rb might refer to King ˀIyasu II (r. 1730-55).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ʾIyasu mentioned on fol. 8rb might refer to King ʾIyasu II (r. 1730-55).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -108,7 +108,7 @@ The scribe sometimes did not use the bottom ruled line (fols. 4r-5r, 8r-11v-72r-
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The script appears uneven, tending to rounded and right-sloping letters.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Names of the protagonists; name of King ˀIyasu (fol. 8rb); names of the donors; a few lines on the incipit page of Texts I-1, I-4 and II, incipit of all other texts, incipit of sections of Text I and its numbers; the words sälam "salutation" in Text I-3 and Marpigis (place name) on fol. 81va; directives for the ministers in Text I-3; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Names of the protagonists; name of King ʾIyasu (fol. 8rb); names of the donors; a few lines on the incipit page of Texts I-1, I-4 and II, incipit of all other texts, incipit of sections of Text I and its numbers; the words sälam "salutation" in Text I-3 and Marpigis (place name) on fol. 81va; directives for the ministers in Text I-3; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">In Text I-7:&#13;
 ይካ፡ for ይበል፡ ካህን፡ &#13;
@@ -118,17 +118,17 @@ The scribe sometimes did not use the bottom ruled line (fols. 4r-5r, 8r-11v-72r-
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">All miracles are numbered.&#13;
 &#13;
 Text I-2 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl bä-kəlˀe Maryam wäladitä ˀamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 9rb-9va l.16)&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam Mariham ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 9va l.16-vb l.14)(cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fols. 9vb l.14-10va)&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl bä-kǝlʾe Maryam wäladitä ʾamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 9rb-9va l.16)&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam Mariham ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fol. 9va l.16-vb l.14)(cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fols. 9vb l.14-10va)&#13;
 &#13;
 Text I-3 contains:&#13;
-- Ṣälotä zä-yǝtbähal ˀǝmqǝdmä yanbǝbu täˀamriha lä-ˀәgzǝˀt kwәllәnä ... "Prayer recited before reading the Miracles of our Lady ..." (fols. 11rb-12ra)&#13;
+- Ṣälotä zä-yǝtbähal ʾǝmqǝdmä yanbǝbu täʾamriha lä-ʾәgzǝʾt kwәllәnä ... "Prayer recited before reading the Miracles of our Lady ..." (fols. 11rb-12ra)&#13;
 - Excerpt from the Gospel of John (Jn. 19:25-27) (fol. 12ra-rb).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size:9.0pt;Arial" unicode=""&gt;Fol. 3ra-va: Miracle of St. Michael.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;" unicode=""&gt;Fol. 3ra: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4720;&amp;#4768;&amp;#4637;&amp;#4650;&amp;#4609;&amp;#4961; &amp;#4616;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4776;&amp;#4632;&amp;#4961; &amp;#4648;&amp;#4853;&amp;#4774;&amp;#4961; &amp;#4616;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4757;&amp;#4645;&amp;#4774;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4853;&amp;#4741;&amp;#4648;&amp;#4961; &amp;#4638;&amp;#4720;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4773;&amp;#4648;&amp;#4872;&amp;#4961; &amp;#4768;&amp;#4821;&amp;#4933;&amp;#4637;&amp;#4722;&amp;#4609;&amp;#4961; &amp;#4813;&amp;#4661;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4845;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The incipit and the names of St. Michael and St. George are rubricated. The name in the concluding supplication is barely legible (Gäbrä ˀAmlak?).</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size:9.0pt;Arial" unicode=""&gt;Fol. 3ra-va: Miracle of St. Michael.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;" unicode=""&gt;Fol. 3ra: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4720;&amp;#4768;&amp;#4637;&amp;#4650;&amp;#4609;&amp;#4961; &amp;#4616;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4776;&amp;#4632;&amp;#4961; &amp;#4648;&amp;#4853;&amp;#4774;&amp;#4961; &amp;#4616;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4757;&amp;#4645;&amp;#4774;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4853;&amp;#4741;&amp;#4648;&amp;#4961; &amp;#4638;&amp;#4720;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4773;&amp;#4648;&amp;#4872;&amp;#4961; &amp;#4768;&amp;#4821;&amp;#4933;&amp;#4637;&amp;#4722;&amp;#4609;&amp;#4961; &amp;#4813;&amp;#4661;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4845;&lt;/span&gt;&lt;span style="line-height: 115%;"&gt;...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The incipit and the names of St. Michael and St. George are rubricated. The name in the concluding supplication is barely legible (Gäbrä ʾAmlak?).</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The scribe has reduced the size of his handwriting to accommodate the end of the column: fols. 12rb, 78vb.&#13;
 - Corrections are written over erasure: e.g., fols. 5ra, 14vb, 22va, 35ra, 52rab, 58rq, 73vb, 84vb.&#13;
@@ -147,7 +147,7 @@ Fol.101r: The Virgin and Child.&#13;
 Legend: ምስለ፡ ፍቁር፡ ወልዳ፡ "With her beloved Son".&#13;
 Miniature 3:&#13;
 Fol.101r: Two Saints.&#13;
-Legend: [n.l.] አቡነ፡ ኪሮስ "ˀAbunä Kiros".&#13;
+Legend: [n.l.] አቡነ፡ ኪሮስ "ʾAbunä Kiros".&#13;
 Miniature 4:&#13;
 Fol.101r: St. Theodore the Anatolian (?)&#13;
 Legend: [n.l.] ቴዎድሮስ፡ ዘከመ፡ ጼወዎ፡ ለኒጎሚዶስ፡ "How Theodore captured Nicomedes."&#13;
@@ -156,7 +156,7 @@ Fol.101r: Covenant of Mercy	.&#13;
 Legend: The Legend is barely legible: ዘከመ፡ ወሀባ... "How he gave her..."&#13;
 Miniature 6:&#13;
 Fol.101r: St. Gäbrä Mänfäs Qǝddus. &#13;
-Legend: ተማኅፀነ፡ ቀፀላ፡ ጊዮርጊስ፡ በማርያም፡ ወበጊዮርጊስ፡ ወበአቡነ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ "Qäḍäla Giyorgis entrusted himself to Mary and to George and to ˀabunä Gäbrä Mänfäs Qǝddus".</details></miniature>
+Legend: ተማኅፀነ፡ ቀፀላ፡ ጊዮርጊስ፡ በማርያም፡ ወበጊዮርጊስ፡ ወበአቡነ፡ ገብረ፡ መንፈስ፡ ቅዱስ፡ "Qäḍäla Giyorgis entrusted himself to Mary and to George and to ʾabunä Gäbrä Mänfäs Qǝddus".</details></miniature>
 </miniatures>
 <drawings class="DLMiniature" heritable="false" notinherit="false"><drawing xml:lang="en" inherited="0"><info>Fol.100vr: St. George slaying the dragon.</info></drawing>
 </drawings>

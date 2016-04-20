@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary”&#13;
-I-I) Täˀamrä Maryam “Miracles of Mary”&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah and hymns (fols. 5ra-8rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary”&#13;
+I-I) Täʾamrä Maryam “Miracles of Mary”&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah and hymns (fols. 5ra-8rb)&#13;
 I-2) Introductory exhortation (fols. 8rb-9rb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki... "I worship Thee..." (fols. 9rb-9vb)&#13;
-I-4) Täˀamrä Maryam: 81 miracles (fols. 10ra-85ra)&#13;
-I-5) ˀAkkonu bəˀəsi... “Does not the man…” (distributed among the Miracles of Mary, fols. 11va-35ra)</shortcontent>
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... "I worship Thee..." (fols. 9rb-9vb)&#13;
+I-4) Täʾamrä Maryam: 81 miracles (fols. 10ra-85ra)&#13;
+I-5) ʾAkkonu bǝʾǝsi... “Does not the man…” (distributed among the Miracles of Mary, fols. 11va-35ra)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1-3, the donor is baḥr nägaśi Täwäldä Mädḫən. His name and the name of his wife Wälättä Mädḫən and his daughter Wälättä Yoḥannǝs has been added to the supplication formulas, in the same hand as that of Additiones 1-4.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1-3, the donor is baḥr nägaśi Täwäldä Mädḫǝn. His name and the name of his wife Wälättä Mädḫǝn and his daughter Wälättä Yoḥannǝs has been added to the supplication formulas, in the same hand as that of Additiones 1-4.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1881</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1889</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mention of King Yoḥannəs IV (r. 1872-89) and Metropolitan Ṗeṭros IV (in tenure 1881-1917), s. fol. 85r.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mention of King Yoḥannǝs IV (r. 1872-89) and Metropolitan Ṗeṭros IV (in tenure 1881-1917), s. fol. 85r.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -115,16 +115,16 @@ Three nine dot red and black asterisks (e.g. fol. 16r); Two nine dot red and bla
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; several group of lines on the incipit page, alternating with black lines; incipit of sections, elements of the punctuation signs, elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl bä-kəlˀe Maryam wäladitä ˀamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..."(fols. 7vb-8ra)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä Maryam ˀəmmu lä bərhan wä-ˀəmmä mädḫǝn ... "Salutation to you, o my Lady Mary, Mother of the Light and Mother of the Saviour ..." (fol. 8ra-rb).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl bä-kǝlʾe Maryam wäladitä ʾamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..."(fols. 7vb-8ra)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä Maryam ʾǝmmu lä bǝrhan wä-ʾǝmmä mädḫǝn ... "Salutation to you, o my Lady Mary, Mother of the Light and Mother of the Saviour ..." (fol. 8ra-rb).&#13;
 &#13;
 The miracles (Text I-4) are not numbered.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 2ra-4vb: Excerpts from the Gospels and two miracles of Mary.&lt;/p&gt;</cont><det>The names of Täwäldä Mädḫən, Wälättä Mädḫən and Täklä Haymanot are written in the supplication formulas.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 2ra-4vb: Excerpts from the Gospels and two miracles of Mary.&lt;/p&gt;</cont><det>The names of Täwäldä Mädḫǝn, Wälättä Mädḫǝn and Täklä Haymanot are written in the supplication formulas.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 85ra: Donation note.&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 85ra: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4674;&amp;#4653;&amp;#4678;&amp;#4661;&amp;#4961; &amp;#4822;&amp;#4651;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4707;&amp;#4629;&amp;#4653;&amp;#4961; &amp;#4752;{&amp;#4875;}&amp;#4642;&amp;#4961; &amp;#4720;&amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4741;&amp;#4757;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4789;&amp;#4758;&amp;#4633;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4611;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</add><det>Written in the same hand as Additio 1.&#13;
-Above this note, a very similar donation note (including a Dǝrsanä Mikaˀel) is written in the same hand.</det></additional>
+Above this note, a very similar donation note (including a Dǝrsanä Mikaʾel) is written in the same hand.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 85ra: Genealogy of the family of ba&amp;#7717;r n&amp;#228;ga&amp;#347;i T&amp;#228;w&amp;#228;ld&amp;#228; M&amp;#228;d&amp;#7723;&amp;#601;n.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 85ra: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4720;&amp;#4813;&amp;#4621;&amp;#4853;&amp;#4961; &amp;#4704;&amp;#4616;&amp;#4811;&amp;#4845;&amp;#4961; &amp;#4736;&amp;#4848;&amp;#4648;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4736;&amp;#4848;&amp;#4648; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4611;&amp;#4637;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4611;&amp;#4637;&amp;#4961; &amp;#4651;&amp;#4873;&amp;#4820;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4651;&amp;#4873;&amp;#4820;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4618;&amp;#4707;&amp;#4758;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4961; &amp;#4824;&amp;#4618;&amp;#4707;&amp;#4758;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4851;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4757;&amp;#4851;&amp;#4725;&amp;#4961; &amp;#4873;&amp;#4817;&amp;#4619;&amp;#4845;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4873;&amp;#4817;&amp;#4619;&amp;#4845;&amp;#4961; &amp;#4768;&amp;#4848;&amp;#4757;&amp;#4843;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4848;&amp;#4757;&amp;#4843;&amp;#4661;&amp;#4961; &amp;#4707;&amp;#4629;&amp;#4653;&amp;#4961; &amp;#4752;&amp;#4875;&amp;#4642;&amp;#4961; &amp;#4720;&amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4880;&amp;#4845;&amp;#4723;&amp;#4755;&amp;#4961; &amp;#4880;&amp;#4665;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4724;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4757;&amp;#4873;&amp;#4645;&amp;#4961; &amp;#4971;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4638;&amp;#4633;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4768;&amp;#4677;&amp;#4616;&amp;#4661;&amp;#4843;&amp;#4961;&amp;#4962; &amp;#4848;&amp;#4674;&amp;#4673;&amp;#4961; &amp;#4616;&amp;#4707;&amp;#4629;&amp;#4653;&amp;#4961; &amp;#4752;&amp;#4875;&amp;#4642;&amp;#4961; &amp;#4824;&amp;#4813;&amp;#4848;&amp;#4961; &amp;#4720;&amp;#4656;&amp;#4635;&amp;#4961; &amp;#4776;&amp;#4704;&amp;#4848;&amp;#4813;&amp;#4961; &amp;#4709;&amp;#4650;&amp;#4721;&amp;#4961; &amp;#4616;&amp;#4637;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4704;&amp;#4651;&amp;#4669;&amp;#4961; &amp;#4813;&amp;#4708;&amp;#4961; &amp;#4975; &amp;#4808;&amp;#4616;&amp;#4848;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4724;&amp;#4814;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4876;&amp;#4619;&amp;#4810;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4873;&amp;#4645;&amp;#4752;&amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4915;&amp;#4915;&amp;#4661;&amp;#4752;&amp;#4961; &amp;#4768;&amp;#4707;&amp;#4961; &amp;#4916;&amp;#4901;&amp;#4654;&amp;#4661;&amp;#4962; &amp;#4620;&amp;#4618;&amp;#4725;&amp;#4755;&amp;#4961; &amp;#4632;&amp;#4819;&amp;#4621;&amp;#4725;&amp;#4961; &amp;#4752;&amp;#4723;&amp;#4741;&amp;#4643;&amp;#4645;&amp;#4961; &amp;#4821;&amp;#4649;&amp;#4845;&amp;#4961; &amp;#4752;&amp;#4813;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>Written in the same hand as Additiones 1 and 2.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 85rb: Record concerning the "addition" (t&amp;#228;wsak) for the clergy at the feasts.&lt;/p&gt;</cont><det>Written in the same hand as Additiones 1-3.</det></additional>
 </additionals>

@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Mäṣḥafä ˀardǝˀət “Book of the Disciples”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Mäṣḥafä ʾardǝʾǝt “Book of the Disciples”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 3ra-127vb)&#13;
 - Discourse of St. Athanasius on death (fols. 3ra-13ra)&#13;
-- Mäṣḥaf zä-wäḍˀat ˀǝm-ˀIyärusalem “Book that came from Jerusalem” (fols. 13va-21ra)&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 90rb-93rb)&#13;
-- Antiphons (ˀaryam, mäwaśəˀt and məlṭan) (fols. 122vb-127vb)&#13;
-II) Mäṣḥafä ˀardǝˀət “Book of the Disciples” (fols. 128ra-149rb)&#13;
+- Mäṣḥaf zä-wäḍʾat ʾǝm-ʾIyärusalem “Book that came from Jerusalem” (fols. 13va-21ra)&#13;
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 90rb-93rb)&#13;
+- Antiphons (ʾaryam, mäwaśǝʾt and mǝlṭan) (fols. 122vb-127vb)&#13;
+II) Mäṣḥafä ʾardǝʾǝt “Book of the Disciples” (fols. 128ra-149rb)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäˁatti Qәddus Mikaˀel  / DMB"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qәddus Mikaʾel  / DMB"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäˁatti Qәddus Mikaˀel  / DMB"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qәddus Mikaʾel  / DMB"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śəllase</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Śəllase is mentioned as the scribe only for Text II in fol. 128vb and the colophon.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase is mentioned as the scribe only for Text II in fol. 128vb and the colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names Ḫadära Mikaˀel and Wälättä Mikaˀel are written in Text I over erasure in fols. 40va, 43vb, 44ra.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names Ḫadära Mikaʾel and Wälättä Mikaʾel are written in Text I over erasure in fols. 40va, 43vb, 44ra.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Ṣəge Dəngəl, together with his wife Wälättä Giyorgis, is mentioned as the commissioner of Text II (e.g., fols. 128vb, 139va, 149ra).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Ṣǝge Dǝngǝl, together with his wife Wälättä Giyorgis, is mentioned as the commissioner of Text II (e.g., fols. 128vb, 139va, 149ra).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -122,9 +122,9 @@ The bottom line is written above the ruling.</ruling>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Hand a: fine, slightly irregular.   Hand b: mediocre.</phandwriting>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 3ra-127vb; the quality of handwriting changes (e.g., fol. 114r).&#13;
-Hand b (Wäldä Śəllase): fols. 128ra-149rb; the handwriting appears uneven with broadly spaced and right-sloping letters. The scribe sometimes disregards the ruling line (e.g., 146v).</pchangeofhand>
+Hand b (Wäldä Śǝllase): fols. 128ra-149rb; the handwriting appears uneven with broadly spaced and right-sloping letters. The scribe sometimes disregards the ruling line (e.g., 146v).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors in Text I; names of the commissioner and the scribe in Text II; a few lines in the incipit pages of Text I and II, alternating with black lines; two initial lines of each section of the text Text I and II; some abbreviations, elements of the punctuation signs; elements of Ethiopic numbers; some other words, e.g., ṣälləyu (e.g., fols. 10va, 11rb, 15ra), tägśaṣ (fol. 22rb), sälam (fols. 80va, 125ra), wä-ˀəmzə (e.g., fols. 83vb, 84rb, 86rb), məlṭan (e.g., fols. 125ra, 126ra, 127ra).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors in Text I; names of the commissioner and the scribe in Text II; a few lines in the incipit pages of Text I and II, alternating with black lines; two initial lines of each section of the text Text I and II; some abbreviations, elements of the punctuation signs; elements of Ethiopic numbers; some other words, e.g., ṣällǝyu (e.g., fols. 10va, 11rb, 15ra), tägśaṣ (fol. 22rb), sälam (fols. 80va, 125ra), wä-ʾǝmzǝ (e.g., fols. 83vb, 84rb, 86rb), mǝlṭan (e.g., fols. 125ra, 126ra, 127ra).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ሕ፡ for ይበል፡ ሕዝብ፡ (e.g., fols. 16ra, 18vb, 20va)&#13;
 ይ፡ ዲ፡ for ይበል፡ ዲያቆን፡ (e.g., fols. 40ra, 43va, 70va)&#13;
@@ -134,17 +134,17 @@ Hand b (Wäldä Śəllase): fols. 128ra-149rb; the handwriting appears uneven wi
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 149rb:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 14pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4661;&amp;#4709;&amp;#4624;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4754;&amp;#4961; &amp;#4925;&amp;#4626;&amp;#4936;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4633;&amp;#4961; &amp;#4616;&amp;#4978;&amp;#4808;&amp;#4970;&amp;#4768;&amp;#4653;&amp;#4853;&amp;#4773;&amp;#4725;&amp;#4961; &amp;#4768;&amp;#4752;&amp;#4961; &amp;#4739;&amp;#4901;&amp;#4773;&amp;#4961; &amp;#4808;&amp;#4874;&amp;#4873;&amp;#4845;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</col><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 149rb: May praise be to God who made me&lt;/span&gt;&lt;span style="line-height: 115%"&gt; &lt;/span&gt;&lt;span style="line-height: 115%"&gt;finish the &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;writing of the Book of the 12 Disciples. &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;I am sinner and wicked &lt;/span&gt;&lt;span style="line-height: 115%"&gt;W&amp;#228;ld&amp;#228; &amp;#346;&amp;#601;llase.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>The colophon mentions Wäldä Śəllase as the scribe only for Text I.</det></colophon>
+<colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 149rb:&lt;/span&gt;&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 14pt"&gt; &lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4661;&amp;#4709;&amp;#4624;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4754;&amp;#4961; &amp;#4925;&amp;#4626;&amp;#4936;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4633;&amp;#4961; &amp;#4616;&amp;#4978;&amp;#4808;&amp;#4970;&amp;#4768;&amp;#4653;&amp;#4853;&amp;#4773;&amp;#4725;&amp;#4961; &amp;#4768;&amp;#4752;&amp;#4961; &amp;#4739;&amp;#4901;&amp;#4773;&amp;#4961; &amp;#4808;&amp;#4874;&amp;#4873;&amp;#4845;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</col><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 149rb: May praise be to God who made me&lt;/span&gt;&lt;span style="line-height: 115%"&gt; &lt;/span&gt;&lt;span style="line-height: 115%"&gt;finish the &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;writing of the Book of the 12 Disciples. &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;I am sinner and wicked &lt;/span&gt;&lt;span style="line-height: 115%"&gt;W&amp;#228;ld&amp;#228; &amp;#346;&amp;#601;llase.&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>The colophon mentions Wäldä Śǝllase as the scribe only for Text I.</det></colophon>
 </colophons>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The name Gäräziḥar is written on the inner side of the front board in red pen.&#13;
-- A note written in blue and red pen, mentioning haläqa Bärihu, Bəsrat Gäräziḥar and Gäräziḥar in fol. 1r.&#13;
+- A note written in blue and red pen, mentioning haläqa Bärihu, Bǝsrat Gäräziḥar and Gäräziḥar in fol. 1r.&#13;
 - Crude drawing of three figures in fol. 1v.&#13;
 - Corrections written interlineally: fols. 22vb, 23vb, 25va, 27ra, 33rb, 37rb, 46ra, 54va, 64va, 67ra, 71ra, 76rb, 76va, 85ra, 112vb, 115ra, 117rb, 122ra, 133vb, 136ra. &#13;
 - Corrections written over erasures: fol. 43a.&#13;
 - Erasures: fols. 56ra, 110vb, 147ra.&#13;
 - Space for rubricated names left unfilled in supplication formulas: fols. 44ra, 48rb, 56vb, 57rb, 57va, 58ra, 60va, 61rb, 61vb.&#13;
 - Minor notes and writing exercises in the margins: fols. 77v, 88v, 149v.&#13;
-- A note mentioning Mäzgäbe Śəlasse and “its scribe (?)” Gäbrä Ṣadəq in fol. 149rb.</extra>
+- A note mentioning Mäzgäbe Śǝlasse and “its scribe (?)” Gäbrä Ṣadǝq in fol. 149rb.</extra>
 </extras>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Fol. 128ra (incipit of Text 2): simple coloured (red and black) ornamental band; interlaces.</frame>
 </frames>

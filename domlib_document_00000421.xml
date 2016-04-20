@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 2r-75v), incomplete&#13;
-- Homily of ˀabba Sälama, Metropolitan of Ethiopia (fols. 18ra, l.7 – 22ra, l.5).</shortcontent>
+- Homily of ʾabba Sälama, Metropolitan of Ethiopia (fols. 18ra, l.7 – 22ra, l.5).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
@@ -21,13 +21,13 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAtnatewos (mentioned on fols. 8v, 9r, 9v, etc.).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAtnatewos (mentioned on fols. 8v, 9r, 9v, etc.).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ˀIyasu (most probably ˀIyasu I, r. 1682-1706) is mentioned, fol. 11vb.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ʾIyasu (most probably ʾIyasu I, r. 1682-1706) is mentioned, fol. 11vb.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -118,7 +118,7 @@ The text in fol. 2r is written alternately in red and black lines.</rubrication>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fols. 7r, 42r, in the upper margin. Crude notes.&#13;
-- Fols. 9v-10r, in the upper margin. Supplication for the soul of ˀAtnatewos, the donor.&#13;
+- Fols. 9v-10r, in the upper margin. Supplication for the soul of ʾAtnatewos, the donor.&#13;
 - Fols. 32v-33r, in the upper margin. Crude note, partly in Amharic.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>

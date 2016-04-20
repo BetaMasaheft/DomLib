@@ -11,13 +11,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 4ra-5vb)&#13;
-II) Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fols. 5vb-6vb)&#13;
+II) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fols. 5vb-6vb)&#13;
 - Genealogy of Täklä Haymanot (fols. 5vb-6vb)&#13;
 III) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 6vb-87rb)&#13;
-IV) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 19 miracles (fols. 87rb-94va).</shortcontent>
+IV) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 19 miracles (fols. 87rb-94va).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -25,12 +25,12 @@ IV) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 19 miracles 
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="Ë&#129;AddÃ¤qaá¸¥arsi á¹&#150;araqliá¹­os / AP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀabunä Wäldä Mikaˀel (s. supplication formula fol. 6vb)&#13;
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾabunä Wäldä Mikaʾel (s. supplication formula fol. 6vb)&#13;
 The same scribe as of MA-002.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ˀIyäsus, ˁAmätä Maryam, Wälättä Kidan (s. supplication formulas on fols. 6vb, 24va, 43ra, 53vb)</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾIyäsus, ʿAmätä Maryam, Wälättä Kidan (s. supplication formulas on fols. 6vb, 24va, 43ra, 53vb)</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

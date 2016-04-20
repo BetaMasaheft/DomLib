@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyasus “Miracles of Jesus”: ca. 33 miracles (fols. 1ra-76vb), incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyasus “Miracles of Jesus”: ca. 33 miracles (fols. 1ra-76vb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -20,8 +20,8 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000111" xlink:title="Bet Ḥawaryat / SSB"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of the original donors have been erased from the supplication formulas and replaced with the names Gäbrä Ḥəywät, Wäldä Mikaˀel, Säbänä Giyorgis, Wäldä Yoḥannəs, Wäldä Kidan, Zä-Wäldä Maryam and Wälättä Maryam, in a secondary hand.&#13;
-One of the original donors' names, Məslä ˀAntəya, has been preserved on fols. 29ra and 42rb.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of the original donors have been erased from the supplication formulas and replaced with the names Gäbrä Ḥǝywät, Wäldä Mikaʾel, Säbänä Giyorgis, Wäldä Yoḥannǝs, Wäldä Kidan, Zä-Wäldä Maryam and Wälättä Maryam, in a secondary hand.&#13;
+One of the original donors' names, Mǝslä ʾAntǝya, has been preserved on fols. 29ra and 42rb.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -100,7 +100,7 @@ Hand b: fols. 11r-14v, 27r-32v, 39r-42v, 57r-58v, the letters are slander and ro
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of the miracles; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- A few miracles are numbered: 13: fol. 6rb, 15: 9ra, 24: fol. 17va, 25: fol. 21vb, 34: fol. 31vb, 37: 32rb, 7: fol. 34va, 36: fol. 47vb, 26: fol. 52rb, 30: fol. 63va, 31: fol. 67ra, 32: fol. 74vb, 33: fol. 76rb.&#13;
-- Some of the miracles are introduced with the word täˀamər “miracle”.&#13;
+- Some of the miracles are introduced with the word täʾamǝr “miracle”.&#13;
 - The correct order of the fols. is as follows: 72, 33-38, 73, 1, 70, 71, 59, 2-9, 11-14, 27-30, 41, 39, 40, 42, 57, 58, 49, 51, 19, 16-18, 21, 24, 25, 20, 61, 52, 53, 15, 26, 54, 55, 62-69, 74-76, 44-48, 32. &#13;
 The correct position of fols. 22, 23, 31, 43, 50, 56, 59, 60 has not been established.</otherdetail>
 </otherdetails>

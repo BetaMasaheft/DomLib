@@ -17,15 +17,15 @@ I-1) Mäzmurä Dawit “Psalms of David” (fols. 3r-97v)&#13;
 I-2) Mäḥalǝyä näbiyat “The Canticles of the Prophets” (fols. 97v-108r)&#13;
 I-3) Mäḥalǝyä mäḥalǝy “Song of Songs” (fols. 108r-114r)&#13;
 I-4) Wǝddase Maryam “Praise of Mary” (fols. 114ra-123va)&#13;
-I-5) ˀAnqäṣä bǝrhan “The Gate of Light” (fols. 123va-128va)&#13;
+I-5) ʾAnqäṣä bǝrhan “The Gate of Light” (fols. 123va-128va)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions Wälättä Qwǝsqwam as the donor.</donor>
 </donors>
@@ -121,7 +121,7 @@ Text I-5&#13;
 The words or abbreviations stand for the whole refrain.&#13;
 በእ፡/በእንተ፡ for ወበእንተዝ፡ ናዓብየኪ፡ ኵልነ፡ ኦእግዝእትነ፡ ወላዲተ፡ አምላክ፡ ንጽሕት፡ ኵሎ፡ ጊዜ፡ ንስእል፡ ወናንቀዓዱ፡ ከመ፡ ንርከብ፡ ሣህለ፡ በኀበ፡ መፍቀሬ፡ ሰብእ (fols. 123va-126ra)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I-1 begins with a short ˀarke-hymn (?): ዛቲ፡ መዘሙረ፡ ዳዊት፡...</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I-1 begins with a short ʾarke-hymn (?): ዛቲ፡ መዘሙረ፡ ዳዊት፡...</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -145,6 +145,6 @@ The words or abbreviations stand for the whole refrain.&#13;
 <txquiremarks class="MCRMetaLangText" heritable="false" notinherit="false"><txquiremark xml:lang="en" inherited="0" form="plain">- Decorated quire marks are written in the upper left margin of fols. 13r, 22r, 32r, 42r, 52r, 62r, 72r, 83r, 93r, 103r, 113r, 123r.</txquiremark>
 </txquiremarks>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 3r (incipit of Text I-1): elaborate coloured (black, red, vivid lime green) ornamental frame; geometric and floral motifs.&#13;
-- Fols. 14v, 20v, 28v, 34v, 65v, 97v, 108r: elaborate ornamental bands separating: group of 10 Pss., Mäḥaləyä näbiyat, Mäḥaləyä mäḥaləy and Wǝddase Maryam; geometric and floral motifs.</frame>
+- Fols. 14v, 20v, 28v, 34v, 65v, 97v, 108r: elaborate ornamental bands separating: group of 10 Pss., Mäḥalǝyä näbiyat, Mäḥalǝyä mäḥalǝy and Wǝddase Maryam; geometric and floral motifs.</frame>
 </frames>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2014-05-16T17:04:19.215Z</servdate><servdate inherited="0" type="modifydate">2015-05-28T15:31:29.193Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">AAdugna</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

@@ -21,11 +21,11 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions Wäldä ˀEsṭata[yus] (ˀEwosṭatewos?) as the commissioner of the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions Wäldä ʾEsṭata[yus] (ʾEwosṭatewos?) as the commissioner of the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1889</fdating>
 </fdatings>
@@ -115,7 +115,7 @@ The scribe frequently disregarded the ruling (s., e.g., fols. 13v, 18v-19r).</ru
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 30 l.9: Note on the commissioner.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 30 l.9: &lt;/span&gt;&lt;span style="font-size: large"&gt;&amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4939;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4772;&amp;#4661;&amp;#4899;&amp;#4723;&lt;/span&gt;[&lt;span style="font-size: large"&gt;&amp;#4841;&amp;#4661;&lt;/span&gt;]&lt;span style="font-size: large"&gt;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note is crudely written in the main hand. The note mentions Wäldä ˀEsṭata[yus] (ˀEwosṭatewos?) as the commissioner of the Ms.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;Fol. 30 l.9: Note on the commissioner.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 30 l.9: &lt;/span&gt;&lt;span style="font-size: large"&gt;&amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4939;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4772;&amp;#4661;&amp;#4899;&amp;#4723;&lt;/span&gt;[&lt;span style="font-size: large"&gt;&amp;#4841;&amp;#4661;&lt;/span&gt;]&lt;span style="font-size: large"&gt;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note is crudely written in the main hand. The note mentions Wäldä ʾEsṭata[yus] (ʾEwosṭatewos?) as the commissioner of the Ms.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Unfilled spaces left for rubricated nomina sacra and donor's name: fols. 5r, 5v, 6v, 7r, 7v, 8v, 11r, 12r, 12v, 22r, 23v, 26r, 26v, 27r, 27v, 28v.</extra>
 </extras>

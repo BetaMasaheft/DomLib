@@ -10,23 +10,23 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 3ra-136vb) &#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä... “I worship Thy Godhead…” (fols. 3ra-5va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 3ra-136vb) &#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä... “I worship Thy Godhead…” (fols. 3ra-5va)&#13;
 I-2) Introduction&#13;
 - A hymn to Jesus Christ (fols. 5va-6ra)&#13;
 - Story of the family of Adam (fols. 6ra-10rb)&#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 10rb-12vb)&#13;
-I-3) Täˀamrä ˀIyäsus “Miracles of Jesus”: 89 miracles (fols. 12vb-136vb)&#13;
+I-3) Täʾamrä ʾIyäsus “Miracles of Jesus”: 89 miracles (fols. 12vb-136vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ˀAbˀa / BQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000163" xlink:title="Maryam May ʾAbʾa / BQM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -101,19 +101,19 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The size of the script significantly varies throughout the Ms.: cp. fols. in the beginning of the Ms., fols. 33r and 33v, 58v and 59r, 76v and 77r, esp. 124r.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of the miracles; four groups of lines on the incipit page of the Text I-1 (fol. 3a) alternating with black lines; the words ˀəsäggəd lä-mäläkotəkä (or the word ˀəsäggəd only) in Text I-1; incipit of the verses in the Text I-2; miralcle numbers in Text I-3; incipit of the sections in Text I-3; elements of the punctuation signs; elements of Ethiopic numerals; two lines in the middle of fol. 10va</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of the miracles; four groups of lines on the incipit page of the Text I-1 (fol. 3a) alternating with black lines; the words ʾǝsäggǝd lä-mäläkotǝkä (or the word ʾǝsäggǝd only) in Text I-1; incipit of the verses in the Text I-2; miralcle numbers in Text I-3; incipit of the sections in Text I-3; elements of the punctuation signs; elements of Ethiopic numerals; two lines in the middle of fol. 10va</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ለዓ፡ ዓለ፡ for ለዓለመ፡ ዓለም፡ (fol. 8vb)&#13;
 አሜ፡ for አሜን፡ (fol. 16va) &#13;
 አ፡ for አሜን፡ (fols. 55rb, 84vb)</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Sections of Text I-2 have been treated as miracles and given numbers 1-6. Thus, the 1st miracle proper bears number 7 (fol. 12vb)&#13;
-- The miracles are introduced with words täˀamər “miracle” and with məˁəraf “chapter”.</otherdetail>
+- The miracles are introduced with words täʾamǝr “miracle” and with mǝʿǝraf “chapter”.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 137va: Recent, hardly visible note. &lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>Probably written in a pencil. Some personal names can be discerned: Gäbrä Bahta, Gärä Mädhən, etc.</det></additional>
+&lt;/span&gt;&lt;/p&gt;</cont><det>Probably written in a pencil. Some personal names can be discerned: Gäbrä Bahta, Gärä Mädhǝn, etc.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Scribbles and doodles: fol. 1v, 2r, 2v, 19v, 20r, 81v, 89r, 130v, 131v, 136v, 137r, 138r&#13;
 - Omitted letters or words written interlineally in the main hand: fols. 15rb, 19rb, 23ra, 23rb, 25rb etc.&#13;

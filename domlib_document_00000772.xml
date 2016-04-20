@@ -11,17 +11,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ˀamlak “Praise of God”/ ˀArganonä wǝddase “The Harp of Praise”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ʾamlak “Praise of God”/ ʾArganonä wǝddase “The Harp of Praise”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ˀamlak “Praise of God” (fols. 2ra-131vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ʾamlak “Praise of God” (fols. 2ra-131vb)&#13;
 I-1) Monday’s prayer of Basil of Caesarea (fols. 2ra-16vb)&#13;
 I-2) Tuesday’s prayer of Efrem the Syrian (fols. 17ra-42ra)&#13;
 I-3) Wednesday’s prayer of Efrem the Syrian (fols. 42rb-62rb)&#13;
-I-4) Thursday’s prayer of John Saba (ˀArägawi Mänfäsawi) (fols. 62va-86vb)&#13;
+I-4) Thursday’s prayer of John Saba (ʾArägawi Mänfäsawi) (fols. 62va-86vb)&#13;
 I-5) Friday’s prayer of Shenute (87ra-96rb) and Pachomius (fols. 96rb-104rb)&#13;
 I-6) Saturday’s prayer of Athanasius of Alexandria (fols. 104va-117vb)&#13;
 I-7) Sunday’s prayer of Cyril of Alexandria (fols. 118ra-131vb)&#13;
-II) ˀArganonä wǝddase “The Harp of Praise” (fols. 132r-255ra)&#13;
+II) ʾArganonä wǝddase “The Harp of Praise” (fols. 132r-255ra)&#13;
 II-1) Monday (fols. 132ra-152rb)&#13;
 II-2) Tuesday (fols. 152va-172vb)&#13;
 II-3) Wednesday (fols. 173ra-193vb)&#13;
@@ -41,7 +41,7 @@ Additiones 1-5.</shortcontent>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of original donors (?) have been erased. Names of three individuals, Henok, Milkiyas, Wälättä Gäbrä Mänfäs Qǝddus are written over erasures in a secondary hand, in red, fols. 8rb, 9vab, 15vb, 17ra, 17vb, 19rb, 20rb, 21vab, 28rb, 28va, 29ra, 30rab, 33rb, 35vb, 36rb, 37vab, 39vab, 42va, 43rab, 43vb, 45rab, 49rb, etc.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name of the original owner, the church of Mäqdäla Mädḫane ˁAläm, is written in the upper margin of fol. 2r.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The name of the original owner, the church of Mäqdäla Mädḫane ʿAläm, is written in the upper margin of fol. 2r.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -149,7 +149,7 @@ The bottom line is written above the ruling.</ruling>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few lines on the incipit page of the sections of Texts I and II; incipit of the subsections of Texts I and II; two lines of the concluding formula of Text I (fol. 131vb), supplication note (fol. 155ra), the Trinitarian formula (fol. 255ra); names of the days of the week written in the upper margin of Text I (fols. 2r, 17r, 42r, 62r, 87r, 104v, 118r) and Text II (fols.: 132r, 152v, 173r, 194r, 216v, 234rb, 244v); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 The names of the donors are rubricated with strong vermilion.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The parts of Text I (from I-1 to I-6) are divided into sections distinguished by means of rubrication of the first two lines and dividers. In contrast, in Ms. DD-023 the sections are called mǝˀǝraf.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The parts of Text I (from I-1 to I-6) are divided into sections distinguished by means of rubrication of the first two lines and dividers. In contrast, in Ms. DD-023 the sections are called mǝʾǝraf.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -160,7 +160,7 @@ The names of the donors are rubricated with strong vermilion.</rubrication>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 244rb: Supplication prayer to St. Mary.&amp;#160;&amp;#160;&lt;/span&gt;&lt;/div&gt;</cont><det>The prayer is written on behalf of Ḥenok in the same hand as that of the corrections for Text I.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Title of the book is written on the right board, ውዳሴ አምላክ “Praise of God”.&#13;
-- Title of the book and the name of the owning institution, the church of Mäqdäla Mädḫane ˁAläm, are written in the right upper corner of fol. 2r, ውዳሴ አምላክ ዘመድኃኔ፡ ዓለም “Praise of God” of Mädḫane ˁAläm.&#13;
+- Title of the book and the name of the owning institution, the church of Mäqdäla Mädḫane ʿAläm, are written in the right upper corner of fol. 2r, ውዳሴ አምላክ ዘመድኃኔ፡ ዓለም “Praise of God” of Mädḫane ʿAläm.&#13;
 - Corrections to Text I are written interlineally, in the margins and over erasures, in a different hand: fols. 2rab, 3va, 4ra, 4va, 5ra, 6ra, 7vb, 9ra, 10vb, 11vab, 12va, 13rab, 13vab, 14va, 17va, 18va, 19rb, 20vb, 26r, 35rb, 36va, 45rb, 47vb, 51vb, 55va, 63ra, 67v, 72ra, 73ra, 73vb, 79vab, 80ra, 82rab, 87v, 90r, 99r, 105rb, 107ra, 110vb, 112va, 115va, 117va, 118rab, 119va, 123vb.  &#13;
 - Extensive omitted passage of Text I (cf. Ms. DD-023, fol. 34va, ls.3-20) was later added by another scribe. He wrote it in the upper margin of fol. 30v and indicated the place of insertion with the tämälläs-sign (┴). &#13;
 - Tämälläs-signs indicating the place where the omissions, written in the upper margins, belong. Written by the same scribe who made corrections for Text I: fols. 3va l.21, 12vb l.11, 26ra l.6, 36va l.6, 45rb l.13, 67va l.2, 87vb l.4, 90ra l.7, 107ra l.4, 110vb l.5, 112va l.2, 123vb l.4.&#13;

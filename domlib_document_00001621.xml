@@ -12,40 +12,40 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the first half of the year (fols. 2ra-183vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the first half of the year (fols. 2ra-183vb)&#13;
 I-1) Mäskäräm (fols. 2ra-31vc)&#13;
-I-2) Ṭəqəmt (fols. 32ra-58vb)&#13;
-I-3) Ḫədar (fols. 59ra-86vc)&#13;
-- Zä-ˀaqräbku maḫletä... “The song I am offering...”: fol. 66va&#13;
+I-2) Ṭǝqǝmt (fols. 32ra-58vb)&#13;
+I-3) Ḫǝdar (fols. 59ra-86vc)&#13;
+- Zä-ʾaqräbku maḫletä... “The song I am offering...”: fol. 66va&#13;
 I-4) Taḫśaś (fols. 87ra-119vc)&#13;
-I-5) Ṭərr (fols. 120ra-157vc)&#13;
+I-5) Ṭǝrr (fols. 120ra-157vc)&#13;
 I-6) Yäkkatit (fols. 158ra-183vb)&#13;
-The commemorative notices are followed by ˁarke-hymns &#13;
+The commemorative notices are followed by ʿarke-hymns &#13;
 &#13;
 Additiones 1-5; colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam and four other scribes</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Five scribes were involved in the copying of the Ms. &#13;
-Zä-Wäldä Maryam copied the sections for Mäskäräm and Ṭəqəmt (quires I-VII); his name is written in the bottom margin of fols. 2r and 58vb. &#13;
-Bäˀədä Maryam copied the section for Ḫədar (quires VIII-X); his name is written in the bottom margin of fol. 59r (the same scribe possibly copied Ms. SM-003). &#13;
+Zä-Wäldä Maryam copied the sections for Mäskäräm and Ṭǝqǝmt (quires I-VII); his name is written in the bottom margin of fols. 2r and 58vb. &#13;
+Bäʾǝdä Maryam copied the section for Ḫǝdar (quires VIII-X); his name is written in the bottom margin of fol. 59r (the same scribe possibly copied Ms. SM-003). &#13;
 Zä-Maryam copied the section for Taḫśaś (quires XI-XIV); his name is written in the bottom margin of fol. 87r. &#13;
-Tənsaˀe Krəstos copied the section for Ṭərr (quires XV-XVII); his name is written in the bottom margin of fol. 120r.&#13;
-Täsfa Mikaˀel copied the sections for Ṭərr and Yäkkatit (quires XVIII-XXII); his name is written in the bottom margin of fols. 144r, 158r, 183vb.</copyist>
+Tǝnsaʾe Krǝstos copied the section for Ṭǝrr (quires XV-XVII); his name is written in the bottom margin of fol. 120r.&#13;
+Täsfa Mikaʾel copied the sections for Ṭǝrr and Yäkkatit (quires XVIII-XXII); his name is written in the bottom margin of fols. 144r, 158r, 183vb.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrəˀel is mentioned as the commissioner in the concluding supplication formulas for Ṭəqəmt (fol. 58vb) and Yäkkatit (fol. 183vb). His name is also mentioned in the supplication formulas for Ṭəqəmt and Ḫədar (e.g., fols. 39vb, 40va, 43rb, 49rc, 51vb, 55ra, 86vb).&#13;
-Zä-Śəllase and the community of the church of ˀAbunä ˀArägawi are mentioned in supplication formulas throughout the Ms. (e.g., fols. 2ra, 2vb, 9rb, 34ra, 60va, 91rb, 139rc, 171ra).&#13;
-Bəˀəse ˀƎgziˀabəḥer is mentioned in supplication formulas for Ṭəqəmt (e.g., fols. 34rb, 40va, 47rc, 51vb, 58va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrǝʾel is mentioned as the commissioner in the concluding supplication formulas for Ṭǝqǝmt (fol. 58vb) and Yäkkatit (fol. 183vb). His name is also mentioned in the supplication formulas for Ṭǝqǝmt and Ḫǝdar (e.g., fols. 39vb, 40va, 43rb, 49rc, 51vb, 55ra, 86vb).&#13;
+Zä-Śǝllase and the community of the church of ʾAbunä ʾArägawi are mentioned in supplication formulas throughout the Ms. (e.g., fols. 2ra, 2vb, 9rb, 34ra, 60va, 91rb, 139rc, 171ra).&#13;
+Bǝʾǝse ʾƎgziʾabǝḥer is mentioned in supplication formulas for Ṭǝqǝmt (e.g., fols. 34rb, 40va, 47rc, 51vb, 58va).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. might be linked to the collection of Mäqdäla Mädḫane ˁAläm.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. might be linked to the collection of Mäqdäla Mädḫane ʿAläm.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -131,7 +131,7 @@ Hand c: fols. 87ra-119vc&#13;
 Hand d: fols. 120ra-143vc&#13;
 Hand e: fols. 144ra-183vb</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the scribes, the commissioner and two other individuals mentioned in supplication formulas; a few lines (alternating with black lines) and occasionally one group of lines on the incipit page of each section of the text; two initial lines of the first commemorative notice of the day and one initial line of the subsequent commemorative notices of the day; the word sälam “salutation” opening the ˀarke-hymns; names of the months in the upper margin (s. Varia); quire marks; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the scribes, the commissioner and two other individuals mentioned in supplication formulas; a few lines (alternating with black lines) and occasionally one group of lines on the incipit page of each section of the text; two initial lines of the first commemorative notice of the day and one initial line of the subsequent commemorative notices of the day; the word sälam “salutation” opening the ʾarke-hymns; names of the months in the upper margin (s. Varia); quire marks; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
@@ -146,8 +146,8 @@ Hand e: fols. 144ra-183vb</pchangeofhand>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of the work, ስንክሳር, is written on the outer face of the front board.&#13;
 - The internal number of the monastic library (384) is written on fol. 1r. &#13;
 - Names of the scribes are written in the bottom margin, on the first and last fols. of the respective text portion. &#13;
-- Omitted ˀarke-hymns and fragments of commemorative notices are written in the upper margin, in one of the main hands: fols. 4rc, 4vbc, 5ra, 32rc, 42vab, 60r, 83r, 97v, 105r, 105v, 122rc, 123vc, 124r.&#13;
-- Omitted ˀarke-hymn is crudely written in the upper margin, in a secondary hand: 42vc-43ra.  &#13;
+- Omitted ʾarke-hymns and fragments of commemorative notices are written in the upper margin, in one of the main hands: fols. 4rc, 4vbc, 5ra, 32rc, 42vab, 60r, 83r, 97v, 105r, 105v, 122rc, 123vc, 124r.&#13;
+- Omitted ʾarke-hymn is crudely written in the upper margin, in a secondary hand: 42vc-43ra.  &#13;
 - Numerous corrections are written over erasures: e.g., fols. 7rb, 12vb, 19rc, 34rb, 49rb, 107rb, 112rc, 131rab, 149rabc, 165rab.&#13;
 - Writing exercises: fols. 183vb, 184ra.</extra>
 </extras>
@@ -161,10 +161,10 @@ Hand e: fols. 144ra-183vb</pchangeofhand>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Names of the months are written in the centre of the upper margin: &#13;
 Mäskäräm: fols. 2r, 10r, 18r, 26r&#13;
-Ṭəqəmt: fols. 32r, 34r, 42r, 50r &#13;
-Ḫədar: fols. 59r, 66v, 67r, 74v, 75r &#13;
+Ṭǝqǝmt: fols. 32r, 34r, 42r, 50r &#13;
+Ḫǝdar: fols. 59r, 66v, 67r, 74v, 75r &#13;
 Taḥśaś: fols. 87r, 95r, 103r, 111r, 119v&#13;
-Ṭərr: fols. 120r, 128r, 136r, 144r, 152r &#13;
+Ṭǝrr: fols. 120r, 128r, 136r, 144r, 152r &#13;
 Yäkkatit: fols. 158r, 160r, 168r, 176r.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-07-31T16:44:26.719Z</servdate><servdate inherited="0" type="modifydate">2015-02-04T10:44:19.190Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">MKrzyzanowska</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

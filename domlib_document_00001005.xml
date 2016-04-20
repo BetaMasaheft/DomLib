@@ -12,12 +12,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀAmmǝstu ˀaˁmadä mǝsṭir "The Five Pillars of Mystery" / Mäṣḥafä śǝnä fǝṭrät "Book of the Beauty of Creation" / Nägärä haymanot "Discourse on Faith" / Christian interpretation of Moses’ life</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾAmmǝstu ʾaʿmadä mǝsṭir "The Five Pillars of Mystery" / Mäṣḥafä śǝnä fǝṭrät "Book of the Beauty of Creation" / Nägärä haymanot "Discourse on Faith" / Christian interpretation of Moses’ life</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The manuscript contains the following texts (cp. EMML 1495):&#13;
-I) ˀAmmǝstu ˀaˁmadä mǝsṭir “The Five Pillars of Mystery" (fols. 1r-11r; 69r-126v)&#13;
+I) ʾAmmǝstu ʾaʿmadä mǝsṭir “The Five Pillars of Mystery" (fols. 1r-11r; 69r-126v)&#13;
 I-1) Introduction (fols. 1r-3r)&#13;
-I-2) Mǝsṭirä śǝllase “Mystery of the Trinity” (fols. 3v-11r), including Mǝsṭirä täwahədo “Mystery of the Unity” (fols. 6v-11r)&#13;
+I-2) Mǝsṭirä śǝllase “Mystery of the Trinity” (fols. 3v-11r), including Mǝsṭirä täwahǝdo “Mystery of the Unity” (fols. 6v-11r)&#13;
 II) Mäṣḥafä śǝnä fǝṭrät "Book of the Beauty of Creation" (fols. 11r-69r)&#13;
 II-1) Sunday (fols. 11r-31r)&#13;
 II-2) Monday (fol. 31r-33r)&#13;
@@ -30,7 +30,7 @@ II-8) Creation of Eve (fols. 64r-69r)&#13;
 I-3) Mǝsṭirä śǝggawe “Mystery of the Incarnation” (69r-104r)&#13;
 I-4) Mǝsṭirä ṭǝmqät “Mystery of Baptism” (fols. 104r-111r)&#13;
 I-5) Mǝsṭirä qwǝrban “Mystery of the Eucharist” (fols. 111r-119r)&#13;
-I-6) Mǝsṭirä tǝnśaˀe mutan “Mystery of the Resurrection of the Dead” (fols. 119r-124v)&#13;
+I-6) Mǝsṭirä tǝnśaʾe mutan “Mystery of the Resurrection of the Dead” (fols. 119r-124v)&#13;
 I-7) Conclusion: authenticity of this teaching (fols. 124v-125r)&#13;
 I-8) Treatise on the birth of Jesus (fols. 125v-126v)&#13;
 III) Nägärä haymanot “Discourse on Faith” (fols. 127r-128v), incomplete&#13;
@@ -108,7 +108,7 @@ Two pairs of sewing stations.</binding>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and regular, in a trained hand.</phandwriting>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two initial lines on the incipit page of Texts I, II, III, IV; two initial lines of some sections of Text I; two pairs of initial lines of section I-3 alternating with black lines; two initial lines of section I-2; elements of the punctuation signs; elements of Ethiopic numerals; quire marks.&#13;
-Some terms and words, like ḥatäta (e.g. fols. 1rv, 3rv, 4rv), täśäṭwo (e.g. fols. 1-4), ˀəm-mäṣḥaf (fol. 13v), tərgwame (fol. 13v), zəntu wəˀətu (fol. 21r), kǝfǝl qädamawi (fol. 11r), täfṣametä mənbab (fol. 31r).</rubrication>
+Some terms and words, like ḥatäta (e.g. fols. 1rv, 3rv, 4rv), täśäṭwo (e.g. fols. 1-4), ʾǝm-mäṣḥaf (fol. 13v), tǝrgwame (fol. 13v), zǝntu wǝʾǝtu (fol. 21r), kǝfǝl qädamawi (fol. 11r), täfṣametä mǝnbab (fol. 31r).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">- ተሠ / ተሠጥ for ተሠጥዎ (e.g. fols. 3v, 90r, 93r, 105r).&#13;
 - ሐተ for ሐተታ (e.g. fols. 90v, 93v).&#13;

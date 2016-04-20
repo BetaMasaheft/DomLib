@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar ”Synaxarion” for the second half of the year (fols. 3ra-179vb) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar ”Synaxarion” for the second half of the year (fols. 3ra-179vb) &#13;
 I-1) Mäggabit (fols. 3ra–29vc)&#13;
 I-2) Miyazya (fols. 30ra–52va)&#13;
-I-3) Gənbot (fols. 52vb-82ra)&#13;
+I-3) Gǝnbot (fols. 52vb-82ra)&#13;
 I-4) Säne (fols. 82rb–110rc)&#13;
 I-5) Ḥamle (fols. 111ra–148ra)&#13;
 I-6) Näḥase (fols. 148rb–174va)&#13;
-I-7) Ṗagwəmen (fols. 174va–179va)&#13;
+I-7) Ṗagwǝmen (fols. 174va–179va)&#13;
 - Postscript: fol. 179va&#13;
-- Zä-ˀaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 179vab&#13;
-The commemorative notices are followed by ˁarke-hymns &#13;
+- Zä-ʾaqräbku maḫletä… “The song I am offering…” (concluding prayer): fol. 179vab&#13;
+The commemorative notices are followed by ʿarke-hymns &#13;
 &#13;
 Additiones 1-5.</shortcontent>
 </shortcontents>
@@ -35,14 +35,14 @@ Additiones 1-5.</shortcontent>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäzmurä Dǝngǝl is mentioned in supplication formulas and in Additiones 1 and 2.</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Additio 1, Mäzmurä Dǝngǝl donated the Ms. &#13;
-Along with GKM-009 the Ms. was brought from Gondär by ˀIsayǝyyas for Mäzmurä Dǝngǝl (?) and was later donated the monastery of Däbrä Gännät Kidanä Məḥrät Mäḵodˤä (s. Additio 2, GKM-009).</owner>
+Along with GKM-009 the Ms. was brought from Gondär by ʾIsayǝyyas for Mäzmurä Dǝngǝl (?) and was later donated the monastery of Däbrä Gännät Kidanä Mǝḥrät Mäḵodˤä (s. Additio 2, GKM-009).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1682</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1716</tdating>
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Late 17th - early 18th cent.&#13;
-Kings ˀIyasu I (r. 1682-1702) and Yosṭos (r. 1711-16) are mentioned in the supplication formulas at the end of some commemorative notices (ˀIyasu, fols. 5ra, 5vb, 8vb, 12ra, 106vc, 111rc; Yosṭos, fols. 8vc [erased], 36rc, 54rb, 83vb, 93va, 107ra, 111vc). According to Additiones 1, 2 and 4, the Ms. was donated to the monastery during the tenure of Maḫtämä Krǝstos.</dcomment>
+Kings ʾIyasu I (r. 1682-1702) and Yosṭos (r. 1711-16) are mentioned in the supplication formulas at the end of some commemorative notices (ʾIyasu, fols. 5ra, 5vb, 8vb, 12ra, 106vc, 111rc; Yosṭos, fols. 8vc [erased], 36rc, 54rb, 83vb, 93va, 107ra, 111vc). According to Additiones 1, 2 and 4, the Ms. was donated to the monastery during the tenure of Maḫtämä Krǝstos.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -117,23 +117,23 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and regular.</phandwriting>
 </phandwritings>
-<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Handwriting is very similar (possibly identical) to the hand of Ms. GKM-009 and to the hand of the Synaxarion from the church of ˁArbaˁtu ˀƎnsäsa, ˁArabay Tämben.</pchangeofhand>
+<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Handwriting is very similar (possibly identical) to the hand of Ms. GKM-009 and to the hand of the Synaxarion from the church of ʿArbaʿtu ʾƎnsäsa, ʿArabay Tämben.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of Ethiopian kings (e.g., Gälawdewos and Lǝbnä Dǝngǝl, fol. 27rbc; ˀIyasu, fols. 5ra, 5vb, 8vb, 12ra, 106vc, 111rc; Yosṭos, fols. 8vc [erased], 36rc, 54rb, 83vb, 93va, 107ra, 111vc); name of the donor; incipit of each commemorative notice; the word sälam "salutation" and its abbreviations; a few other words (e.g., fols. 28vc, 29ra, 32vb, 61vc, 62ra, 99vb, 101ra, 113vc, 118va, 145va, 157vb); elements of Ethiopic numerals; elements of the punctuation signs (e.g., nine dot asterisks separating the days; chains of red and black dots, fols. 52va, 110rc, 174va, 179vb, or nine dot asterisks, fols. 29vc, 82ra, 148ra, separating the months).&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of Ethiopian kings (e.g., Gälawdewos and Lǝbnä Dǝngǝl, fol. 27rbc; ʾIyasu, fols. 5ra, 5vb, 8vb, 12ra, 106vc, 111rc; Yosṭos, fols. 8vc [erased], 36rc, 54rb, 83vb, 93va, 107ra, 111vc); name of the donor; incipit of each commemorative notice; the word sälam "salutation" and its abbreviations; a few other words (e.g., fols. 28vc, 29ra, 32vb, 61vc, 62ra, 99vb, 101ra, 113vc, 118va, 145va, 157vb); elements of Ethiopic numerals; elements of the punctuation signs (e.g., nine dot asterisks separating the days; chains of red and black dots, fols. 52va, 110rc, 174va, 179vb, or nine dot asterisks, fols. 29vc, 82ra, 148ra, separating the months).&#13;
 &#13;
 Several lines or groups of lines on the page opening the commemorative notices for each month are rubricated:&#13;
 Mäggabit (fol. 3r): 4 red lines above, 1 red line alternating&#13;
 with 1 black line, 2 red lines below; &#13;
 Miyazya (fol. 30r): 3 red lines above, 1 red line alternating with 1 black line, 2 red lines below; &#13;
-Gənbot (fol. 52vbc): 3 red lines above: 1 red line alternating with 1 black line, 2 red lines below; &#13;
+Gǝnbot (fol. 52vbc): 3 red lines above: 1 red line alternating with 1 black line, 2 red lines below; &#13;
 Säne (fol. 82rbc): 3 red lines above: 1 red line alternating with 1 black line, 2 red lines below;&#13;
 Ḥamle (fol. 111r): 3 red lines above: 1 red line alternating with 1 black line, 2 red lines below;&#13;
 Näḥase (fol. 148rbc): 3 red lines above: 1 red line alternating with 1 black line, 2 red lines below;&#13;
-Ṗagwəmen (174va): 2 initial red lines.</rubrication>
+Ṗagwǝmen (174va): 2 initial red lines.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ፡ or ሰ፡ for ሰላም፡ (e.g., ሰላ፡ fols. 18ra, 20 rb, 23rc, 36rb, 41ra); ሰ፡ fols. 30 vc, 35vc, 36rc, 40vab).</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">For the first half of the Sənkəssar see Ms. GKM-009.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">For the first half of the Sǝnkǝssar see Ms. GKM-009.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

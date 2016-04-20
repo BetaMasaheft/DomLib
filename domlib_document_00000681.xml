@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 6r – 8v)&#13;
 -  Canon Tables (fols. 6r - 8v)&#13;
@@ -31,11 +31,11 @@ Additiones 1-5.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ˀAbrəqo Maryam / QMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000175" xlink:title="ʾAbrǝqo Maryam / QMA"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ḫaläqa Ḫaylä Maryam, according to Additio  3 (s. fol. 8vb, ls. 1-9). His name is also mentioned in the heading of each Gospel, together with the name of his wife, ˀAmätä Maryam (s. also Additio 3, and the heading of Gospels of Mark, Luke and John). Names of other individuals, mentioned as the children of the donor, are in Additio 3: Gäbrä Mädḫǝn, Gäbrä Maryam, Gäbrä Śǝllase, Wälättä Mikaˀel, Gäbrä ˀArägawi, Gäbrä ˀƎgziˀabǝḥer, Gäbrä Mikaˀel, Gäbrä ˀIyäsus, ˀAmätä Gärima, Gäbrä Täklä Haymanot.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ḫaläqa Ḫaylä Maryam, according to Additio  3 (s. fol. 8vb, ls. 1-9). His name is also mentioned in the heading of each Gospel, together with the name of his wife, ʾAmätä Maryam (s. also Additio 3, and the heading of Gospels of Mark, Luke and John). Names of other individuals, mentioned as the children of the donor, are in Additio 3: Gäbrä Mädḫǝn, Gäbrä Maryam, Gäbrä Śǝllase, Wälättä Mikaʾel, Gäbrä ʾArägawi, Gäbrä ʾƎgziʾabǝḥer, Gäbrä Mikaʾel, Gäbrä ʾIyäsus, ʾAmätä Gärima, Gäbrä Täklä Haymanot.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -111,7 +111,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">none</pcruxansata>
 </pcruxansatas>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; &#13;
-the word mәˁәraf (“chapter”) and the numbers of the chapters;&#13;
+the word mәʿәraf (“chapter”) and the numbers of the chapters;&#13;
 some lines of the incipit page of each Gospels, divided into several groups, alternating with black lines: 7 lines in fol. 10r, 9 lines in fol. 42r, 8 lines in fol. 62r, 8 lines in fol. 96r;&#13;
 the incipit (2-3 lines) of all the chapters; &#13;
 some paragraph beginnings;&#13;

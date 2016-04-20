@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝˀa Maryam “Image of Mary” / Mälkəˀa Iyäsus “Image of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa Maryam “Image of Mary” / Mälkǝʾa Iyäsus “Image of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝˀa Maryam “Image of Mary” (fols. 3r-19v) (cp. Mälkǝˀa gubaˀe, ˀAśmära 1974 E.C., pp. 21-34.)&#13;
-II) Mälkəˀa Iyäsus “Image of Jesus” (fols. 19v-34r) (the strophe "lä-ˀaḍabˁikä" is missing; cp. Mälkǝˀa gubaˀe, ˀAśmära 1974 E.C., p. 44), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa Maryam “Image of Mary” (fols. 3r-19v) (cp. Mälkǝʾa gubaʾe, ʾAśmära 1974 E.C., pp. 21-34.)&#13;
+II) Mälkǝʾa Iyäsus “Image of Jesus” (fols. 19v-34r) (the strophe "lä-ʾaḍabʿikä" is missing; cp. Mälkǝʾa gubaʾe, ʾAśmära 1974 E.C., p. 44), incomplete&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ˀAmbäsät Kidanä Mǝḥrät  / AKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000103" xlink:title="ʾAmbäsät Kidanä Mǝḥrät  / AKM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Ṣägga zä-ˀAb and Gäbrä Ṣadǝq</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Ṣägga zä-ʾAb and Gäbrä Ṣadǝq</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Ṣägga zä-ˀAb and Gäbrä Ṣadǝq are simultaneously mentioned as scribes in the supplication formula (fol. 34r).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Ṣägga zä-ʾAb and Gäbrä Ṣadǝq are simultaneously mentioned as scribes in the supplication formula (fol. 34r).</copyist>
 </copyists>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">haläqa Yǝḥdägo Ḥadära is mentioned as the owner in Additio 2.</owner>
 </owners>
@@ -115,7 +115,7 @@ Hand b: fols. 27v-34r.</pchangeofhand>
 <ppunctuations class="MCRMetaLangText" heritable="false" notinherit="false"><ppunctuation xml:lang="en" inherited="0" form="plain">Hand a: fols. 3r-27r; characterized by big broadly spaced letters; the hand writing is upright or slightly left-sloping.&#13;
 Hand b: fols. 27v-34r; characterized by smaller, round letter.</ppunctuation>
 </ppunctuations>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; elements of the punctuation signs; elements of Ethiopic numerals; some words like sälam (e.g., 10r, 12v, 15r), bä-zǝntu qalä (fol. 18r), sǝbḥat läki (fol. 18v), ˀǝm-mǝsraq (fol. 32v).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; elements of the punctuation signs; elements of Ethiopic numerals; some words like sälam (e.g., 10r, 12v, 15r), bä-zǝntu qalä (fol. 18r), sǝbḥat läki (fol. 18v), ʾǝm-mǝsraq (fol. 32v).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ᎓ for ሰላም᎓ (e.g., fols. 3r, 4r, 5r).</abbreviation>
 </abbreviations>

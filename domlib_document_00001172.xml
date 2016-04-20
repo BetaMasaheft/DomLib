@@ -11,14 +11,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 2ra-52vb)&#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä... “I worship Thy Godhead…” (fols. 2ra-4rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 2ra-52vb)&#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä... “I worship Thy Godhead…” (fols. 2ra-4rb)&#13;
 I-2) Introduction (fols. 5ra-16rb)&#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 5ra-10ra)&#13;
 - Story of the family of Adam (fols. 10ra-16rb)&#13;
-I-3) Täˀamrä ˀIyäsus “Miracles of Jesus”: 15 miracles (fols. 16rb-52vb), incomplete [continuation of the text is in AMM-006]&#13;
+I-3) Täʾamrä ʾIyäsus “Miracles of Jesus”: 15 miracles (fols. 16rb-52vb), incomplete [continuation of the text is in AMM-006]&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -28,15 +28,15 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="Ë&#129;Addigrat MÃ¤dá¸«ane Ë&#129;AlÃ¤m / AMM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original female donor has been erased throughout the Ms. Only the name of the donor's father, ˀAmdä Maryam, has been preserved (fols. 19rb, 30va).&#13;
-Their names were partly replaced with those of Dagəmawi Zä-Mänfäs Qəddus and his wife ˁAmätä Dəngəl in strong amaranth ink (e.g., fols. 5ra, 19ra, 23ra, 29ra, 37va, 40rb; s. also Additio 1), occasionally with that of Haftä (sic) Gäbrǝˀel and Wälättä Mädḫǝn in strong vermillion and black ink (e.g, fols. 19ra, 23rb, 30va, 41rb; s. also Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original female donor has been erased throughout the Ms. Only the name of the donor's father, ʾAmdä Maryam, has been preserved (fols. 19rb, 30va).&#13;
+Their names were partly replaced with those of Dagǝmawi Zä-Mänfäs Qǝddus and his wife ʿAmätä Dǝngǝl in strong amaranth ink (e.g., fols. 5ra, 19ra, 23ra, 29ra, 37va, 40rb; s. also Additio 1), occasionally with that of Haftä (sic) Gäbrǝʾel and Wälättä Mädḫǝn in strong vermillion and black ink (e.g, fols. 19ra, 23rb, 30va, 41rb; s. also Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1830</tdating>
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mid-18th - early 19th cent. (?) &#13;
-Dagəmawi Zä-Mänfäs Qəddus might be identified with Ḫagos (d. 1831), the second son of däğğazmač Subagadis (1770-1831) whose baptismal name was Zä-Mänfäs Qəddus. The identification is based on Additiones 1 and 2 in Ms. FBM-002.</dcomment>
+Dagǝmawi Zä-Mänfäs Qǝddus might be identified with Ḫagos (d. 1831), the second son of däğğazmač Subagadis (1770-1831) whose baptismal name was Zä-Mänfäs Qǝddus. The identification is based on Additiones 1 and 2 in Ms. FBM-002.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -104,7 +104,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting tend to left-sloping; it appears very irregular due to the variations in ruling (the size of the columns and the space between lines often differs significantly: e.g., fols. 15ra, 23r, 28r, 35rb), changes of the pen nib (slender or broad nib: e.g. fol. 1vab), changes in letters' height and varying spaces between the letters.</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Rubrication of the main text is executed in vivid red. &#13;
-Nomina sacra; original names of the donors (mostly erased); incipit of Text I-1; a few lines on the incipit page of Text I-2, incipit of its sections and subsections; incipit of Text I-3 and its sections (fols. 16ra, 19rb, 22ra, 23rb, 29rb, 30va, 34vb, 37va, 39ra, 40rb, 41rb, 42va, 44ra, 49ra, 51ra) and of a subsection (fol. 26va); word ˀǝsäggəd, "I worship"; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+Nomina sacra; original names of the donors (mostly erased); incipit of Text I-1; a few lines on the incipit page of Text I-2, incipit of its sections and subsections; incipit of Text I-3 and its sections (fols. 16ra, 19rb, 22ra, 23rb, 29rb, 30va, 34vb, 37va, 39ra, 40rb, 41rb, 42va, 44ra, 49ra, 51ra) and of a subsection (fol. 26va); word ʾǝsäggǝd, "I worship"; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 Names of other donors, added (later) in a secondary hand, are written in strong amaranth and strong vermillion.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The end of the Ms. was photographed separately and given the signature AMM-006 as the codex has been preserved as two separate units. The entire Ms. comprised 160 fols. with 49 (?) miracles of Jesus.</otherdetail>
@@ -112,8 +112,8 @@ Names of other donors, added (later) in a secondary hand, are written in strong 
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 4v: Donation &lt;/span&gt;&lt;span style="line-height: 115%"&gt;note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is crudely written and hardly legible because the ink has faded away.&#13;
-Haftä [sic] Gäbrǝˀel with his father Wäldä Giworgis [sic] and his mother Wälättä Maryam are mentioned in the lower part of the note.&#13;
-The upper part has been filled in by another secondary hand, in strong amaranth ink, with the names of Dagəmawi Zä-Mänfäs Qəddus and his wife ˁAmätä Dəngəl. Furthermore a tabot (church) called Śǝllase ˀAyga is mentioned. It is possible that the same hand wrote Additio 2 in Ms. AMM-001 and Additio 3 in Ms. AMM-004. Both Mss. were donated by Dagəmawi Zä-Mänfäs Qəddus.</det></additional>
+Haftä [sic] Gäbrǝʾel with his father Wäldä Giworgis [sic] and his mother Wälättä Maryam are mentioned in the lower part of the note.&#13;
+The upper part has been filled in by another secondary hand, in strong amaranth ink, with the names of Dagǝmawi Zä-Mänfäs Qǝddus and his wife ʿAmätä Dǝngǝl. Furthermore a tabot (church) called Śǝllase ʾAyga is mentioned. It is possible that the same hand wrote Additio 2 in Ms. AMM-001 and Additio 3 in Ms. AMM-004. Both Mss. were donated by Dagǝmawi Zä-Mänfäs Qǝddus.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The name(s) of the original donor(s), mentioned throughout the Ms., have been erased and partly replaced with other names in a different hand.&#13;
 - Omissiones written interlineally or in the margins: e.g., fols. 6ra, 16ra, 20r, 50ra.&#13;

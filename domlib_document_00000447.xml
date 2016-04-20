@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gospel of Matthew (fols. 3ra – 35va [l.1])&#13;
 - Bәsratä  Matewos “Gospel of Matthew” (fols. 3ra – 35ra [l.1])&#13;
@@ -40,9 +40,9 @@ Additiones 1-3; Colophon.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam is mentioned as the scribe in the concluding supplication formula (fol. 108va, ls. 14-15, 20-21).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zärˀa Krәstos  and  his mother Goytana Maryam (s. fol. 108va, l.9-10).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zärʾa Krәstos  and  his mother Goytana Maryam (s. fol. 108va, l.9-10).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">As some other books of Mәdrä Ruba, MR-033 previously was in possession of a church called (Däbrä Mikaˀel) ˀƎnba Ḥarisa(y) ˀAd Ḥəyaw (Additio 3).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">As some other books of Mәdrä Ruba, MR-033 previously was in possession of a church called (Däbrä Mikaʾel) ʾƎnba Ḥarisa(y) ʾAd Ḥǝyaw (Additio 3).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1730</fdating>
 </fdatings>
@@ -118,7 +118,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; &#13;
-the word mәˁәraf;&#13;
+the word mәʿәraf;&#13;
 six lines (both columns) of the incipit page of each text (fols. 3rab, 36rab, 54rab, 85rab), divided into three groups, alternating with black lines;&#13;
 some lines (1-3) within “short postscript” of the each text;&#13;
 two initial lines of the list of “tituli” for the Gospel of John (fol. 108rb [ls. 8-9]);&#13;
@@ -136,7 +136,7 @@ In the list of “Tituli” for the Gospel of Mark (fol. 35ra [l.1] – 35rb [l.
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-size: 10pt"&gt;Fol. 1va: Inventory of books, items and vestments.&lt;/span&gt;&lt;/p&gt;</cont></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-size: 10pt"&gt;Fol. 2ra-b: Traditional genealogy of the people of (D&amp;#228;br&amp;#228; Mika&amp;#704;el) &amp;#704;&amp;#398;nba &amp;#7716;arisa(y), written upon the order of &amp;#704;abun&amp;#228; T&amp;#228;sfa Giyorgis T&amp;#228;sfa Mika&amp;#704;el.&lt;/span&gt;&lt;/p&gt;</cont></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-size: 10pt"&gt;Fol. 84[a]vb: Continuation of the genealogy of (D&amp;#228;br&amp;#228; Mika&amp;#704;el) &amp;#704;&amp;#398;nba &amp;#7716;arisay (Additio 2), followed by a short ownership note.&lt;/span&gt;&lt;/p&gt;</cont><det>The note mentions the church Däbrä Mikaˀel ˀƎnba Ḥarisay ˀAd Ḥəyaw.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-GB" style="line-height: 115%; font-size: 10pt"&gt;Fol. 84[a]vb: Continuation of the genealogy of (D&amp;#228;br&amp;#228; Mika&amp;#704;el) &amp;#704;&amp;#398;nba &amp;#7716;arisay (Additio 2), followed by a short ownership note.&lt;/span&gt;&lt;/p&gt;</cont><det>The note mentions the church Däbrä Mikaʾel ʾƎnba Ḥarisay ʾAd Ḥǝyaw.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Fol. 109va: Excerpt from a hymn praising St. Mary (writing excercise?).</extra>
 </extras>

@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qəddase “Missal”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and litanies (fols. 5ra-16va)&#13;
-II) Śərˁatä qəddase “Ordinary of the Mass” (fols. 16vb-36ra)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 16vb-36ra)&#13;
 III) Anaphoras (fols. 36rb-117vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Kidanä Maryam</nmcopyist>
 </nmcopyists>
@@ -34,7 +34,7 @@ Additiones 1-2.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1876</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Yoḥannəs IV (r. 1872-1889) is mentioned on fols. 12ra, 33vb, 92vb. ˀAbba Sälama (in tenure 1841-68) and ˀabba ˀAtnatewos (in tenure 1869-1876) are mentioned as archbishop (liqä ṗaṗasənä) and metropolitan (ṗaṗas) on, e.g., fols. 34ra, 62va, 108rb.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Yoḥannǝs IV (r. 1872-1889) is mentioned on fols. 12ra, 33vb, 92vb. ʾAbba Sälama (in tenure 1841-68) and ʾabba ʾAtnatewos (in tenure 1869-1876) are mentioned as archbishop (liqä ṗaṗasǝnä) and metropolitan (ṗaṗas) on, e.g., fols. 34ra, 62va, 108rb.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

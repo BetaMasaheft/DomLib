@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 3ra-73ra)&#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä... “I worship Thy Godhead…” (fols. 3ra-5v l.4)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 3ra-73ra)&#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä... “I worship Thy Godhead…” (fols. 3ra-5v l.4)&#13;
 I-2) Introduction (fols. 5ra-13rb) &#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 5ra-9ra) &#13;
 -	Story of the family of Adam (fols. 9ra-13rb)&#13;
- I-3) Täˀamrä ˀIyasus “Miracles of Jesus”: 34 miracles (fols. 13rb-73ra).</shortcontent>
+ I-3) Täʾamrä ʾIyasus “Miracles of Jesus”: 34 miracles (fols. 13rb-73ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
 <originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥәdo Qәddәst Maryam / KTM"/>
 </originlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAmätä Śəllase, Wälättä Kidan and Gäbrä Giyorgis are mentioned in the supplication formulas throughout the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAmätä Śǝllase, Wälättä Kidan and Gäbrä Giyorgis are mentioned in the supplication formulas throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -91,13 +91,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Poor, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few groups of lines (alternating with black lines) on the incipit page of Texts I-1 and I-2; incipit of the miracles; the word ˀəsäggəd “I worship” in Text I-1; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few groups of lines (alternating with black lines) on the incipit page of Texts I-1 and I-2; incipit of the miracles; the word ʾǝsäggǝd “I worship” in Text I-1; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ም: for ምዕራፍ: (fol. 28rb)&#13;
 ምዕ: for ምዕራፍ: (fol. 13rb)&#13;
 ምዕራ: for ምዕራፍ: (fol. 20rb)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles are not numbered. They are introduced with the words məˁəraf “chapter”, täˀamər “miracle”, täˀamrihu “his miracle”, nägär “speech”.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles are not numbered. They are introduced with the words mǝʿǝraf “chapter”, täʾamǝr “miracle”, täʾamrihu “his miracle”, nägär “speech”.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

@@ -13,18 +13,18 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Mäṣḥafä qedär “Book of the Jar” / Mäṣḥafä krǝstǝnna “Book of the Christening”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 1ra-53va), incomplete&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 9ra-12rb)&#13;
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 9ra-12rb)&#13;
 - Homily by St. Jacob of Serug for the funeral of priests and deacons (fols. 12rb-17va) &#13;
 - Discourse of St. Athanasius on death (fols. 28ra-37va) &#13;
-- Mäṣḥaf zä-wäḍˀat ˀǝm-ˀIyärusalem “Book that Came from Jerusalem” (fols. 41rb-53va)&#13;
+- Mäṣḥaf zä-wäḍʾat ʾǝm-ʾIyärusalem “Book that Came from Jerusalem” (fols. 41rb-53va)&#13;
 II) Mäṣḥafä qedär “Book of the Jar” (fols. 53va-61rb)&#13;
 III) Mäṣḥafä krǝstǝnna “Book of the Christening” (fols. 61va-84vb), incomplete</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub22"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ʿUra Qirqos / UM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -91,7 +91,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Texts I-III; initial lines of section of Text I; titles of books to be read; titles or initial lines of prayers; some words: halle luya (fols.), bәḍuˁ (fols. 37r), fәtuḥa; elements of the punctuation signs; elements of Ethiopic numbers.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Texts I-III; initial lines of section of Text I; titles of books to be read; titles or initial lines of prayers; some words: halle luya (fols.), bәḍuʿ (fols. 37r), fәtuḥa; elements of the punctuation signs; elements of Ethiopic numbers.&#13;
 On the incipit page of Texts I and III (fols. 1r and 61v) and on fol. 28r, a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text III is called Mäṣḥafä krǝstǝnna in the incipit (fol. 61va).</otherdetail>

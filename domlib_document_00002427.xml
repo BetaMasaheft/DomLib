@@ -10,19 +10,19 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mälkəˀa Täklä Haymanot “Image of Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 4ra-130ra)&#13;
-II) Mälkəˀa Täklä Haymanot “Image of Täklä Haymanot” (fols. 130rb-132va)&#13;
-III) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 2 miracles (132va-134rb)&#13;
+II) Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot” (fols. 130rb-132va)&#13;
+III) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 2 miracles (132va-134rb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaˁ Mikaˀel / BMQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Giyorgis</nmcopyist>
 </nmcopyists>
@@ -30,13 +30,13 @@ Additiones 1-2.</shortcontent>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The Ms. was commissioned by Dämä Krәstos (s. Additio 1).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 1 mentions the name of the church as Dägälät Mikaˀel.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 1 mentions the name of the church as Dägälät Mikaʾel.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">18th cent. (?) Dämä Krəstos might be a ruler of Wag and Lasta, a contemporary of King Bäkaffa (r. 1721-30) and King ˀIyasu II (r. 1730-55).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">18th cent. (?) Dämä Krǝstos might be a ruler of Wag and Lasta, a contemporary of King Bäkaffa (r. 1721-30) and King ʾIyasu II (r. 1730-55).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -112,7 +112,7 @@ On the incipit page of Text I (fol. 4r), few lines are rubricated, alternating w
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 130ra-130rb: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 130ra: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4848;&amp;#4872;&amp;#4616;&amp;#4725;&amp;#4961;&lt;/span&gt; [fol. 130rb]&lt;span style="font-size: large;"&gt; &amp;#4824;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4920;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4848;&amp;#4632;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4739;&amp;#4754;&amp;#4720;&amp;#4961; &amp;#4752;&amp;#4941;&amp;#4657;&amp;#4961; &amp;#4616;&amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the main hand; it states that the Ms. was written for the the church of Dägälät Mikaˀel by the scribe Wäldä Giyorgis, commissioned by Dämä Krәstos.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 130ra-130rb: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 130ra: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4848;&amp;#4872;&amp;#4616;&amp;#4725;&amp;#4961;&lt;/span&gt; [fol. 130rb]&lt;span style="font-size: large;"&gt; &amp;#4824;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4920;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4848;&amp;#4632;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4739;&amp;#4754;&amp;#4720;&amp;#4961; &amp;#4752;&amp;#4941;&amp;#4657;&amp;#4961; &amp;#4616;&amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the main hand; it states that the Ms. was written for the the church of Dägälät Mikaʾel by the scribe Wäldä Giyorgis, commissioned by Dämä Krәstos.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 134va-136rb: Unidentified text.&lt;/p&gt;</cont><det>Crudely written in a secondary hand. Spaces for rubrication are left empty.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Spaces for rubrication in Text II are left empty.&#13;

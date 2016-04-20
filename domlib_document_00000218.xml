@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 2ra-4va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 2ra-4va)&#13;
 I-2) Introductory exhortation and hymns (fols. 4va-6ra)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 6rc-6va)&#13;
-I-4) Täˀamrä Maryam: 152 miracles (6va-108vb)</shortcontent>
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 6rc-6va)&#13;
+I-4) Täʾamrä Maryam: 152 miracles (6va-108vb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -23,7 +23,7 @@ I-4) Täˀamrä Maryam: 152 miracles (6va-108vb)</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000054" xlink:title="Sämaz Maryam / SMM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas throughout the Ms.: Kəbrənä Krəstos, Śahlənä Maryam, Zärˀa Krəstos, Yämanä Krəstos, "the children of ˀabunä Libanos", Gäbrä Krəstos (see also the concluding supplication on fol. 107vc).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The following persons are mentioned in the supplication formulas throughout the Ms.: Kǝbrǝnä Krǝstos, Śahlǝnä Maryam, Zärʾa Krǝstos, Yämanä Krǝstos, "the children of ʾabunä Libanos", Gäbrä Krǝstos (see also the concluding supplication on fol. 107vc).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -102,9 +102,9 @@ The bottom line is written above the ruling.</rl-info></taunit>
 ይዲ፡ for ይበል፡ ዲያቆን፡</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-2 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst wä-dəngəlt bä-kəlˀe Maryam ... "O my Lady, Holy and Two-fold Virgin Mary ..." (fol. 5rc-va)&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Mary, Mother of Jesus Christ the Almighty ..." (fol. 5va) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady Mary, Mother of the Saviour and Mother of the Light ..." (fols. 5va-6ra).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst wä-dǝngǝlt bä-kǝlʾe Maryam ... "O my Lady, Holy and Two-fold Virgin Mary ..." (fol. 5rc-va)&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Mary, Mother of Jesus Christ the Almighty ..." (fol. 5va) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady Mary, Mother of the Saviour and Mother of the Light ..." (fols. 5va-6ra).&#13;
 &#13;
 The miracles of Mary (Text I-4) are numbered.</otherdetail>
 </otherdetails>

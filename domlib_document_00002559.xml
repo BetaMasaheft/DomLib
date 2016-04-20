@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary" (fols. 3r-34r)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 3r-16v)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki ... “I worship Thee ...” (fols. 16v-20r)&#13;
-I-3) Täˀamrä Maryam “Miracles of Mary”: 4 miracles (fols. 20r-29v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary" (fols. 3r-34r)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 3r-16v)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... “I worship Thee ...” (fols. 16v-20r)&#13;
+I-3) Täʾamrä Maryam “Miracles of Mary”: 4 miracles (fols. 20r-29v)&#13;
 I-4) Introductory exhortation (fols. 29v-34r)&#13;
-II) Täˀamrä ˀIyäsus “Miracles of Jesus”: 1 miracle (fols. 34v-35v)</shortcontent>
+II) Täʾamrä ʾIyäsus “Miracles of Jesus”: 1 miracle (fols. 34v-35v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Ḫaylä Maryam is mentioned in the supplication formulas (fols. 20r, 32v etc.).&#13;
 Currently, the Ms. is in private possession of Bärihun Gäbre (Dändera).</owner>
@@ -85,7 +85,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, but careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of other characters like Michael and Gäbrǝˀel (fol. 5r); name of the donor; the word sänbät “Sabbath” on fol. 5v; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of other characters like Michael and Gäbrǝʾel (fol. 5r); name of the donor; the word sänbät “Sabbath” on fol. 5v; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 &#13;
 Groups of lines on the incipit page of Text II, alternating with black lines; two lines in the incipit of Texts I-1, I-2, I-3 and I-4; of Texts I-3, II and III; two initial lines of sections of Texts I-1, I-3 and I-4.</rubrication>
 </rubrications>

@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar "Synaxario" for the first half of the year (fols. 3ra-215vc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar "Synaxario" for the first half of the year (fols. 3ra-215vc)&#13;
 I-1) Mäskäräm (fols. 3ra-37rc) &#13;
-I-2) Ṭəqəmt (fols. 37va-69rc) &#13;
-I-3) Ḫədar (fols. 70ra-104rc) &#13;
+I-2) Ṭǝqǝmt (fols. 37va-69rc) &#13;
+I-3) Ḫǝdar (fols. 70ra-104rc) &#13;
 I-4) Taḫśaś (fols. 106ra-147rc) &#13;
-I-5) Ṭərr (fols. 147va-185vc) &#13;
+I-5) Ṭǝrr (fols. 147va-185vc) &#13;
 I-6) Yäkkatit (fols. 186ra-215vc) &#13;
-The commemorative notices are followed by ˀarke-hymns</shortcontent>
+The commemorative notices are followed by ʾarke-hymns</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Maryam is mentioned in supplication formulas on fols. 6va, 7vc, 8ra, 11vc, 12rc, 12va, 27va.</donor>
 </donors>

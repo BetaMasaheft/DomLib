@@ -10,15 +10,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Anaphora of St. Dioscorus of Alexandria / Yǝweddǝsǝwwa mälaˁǝkt... “The angels praise Her...” / ˀAkkonu bəˀəsi... “Does not the man...” / Täˀamrä Maryam “Miracles of Mary” / Excerpt from Säˁatat “Horologium” / Tǝmhǝrtä ḫǝbuˀat “Teaching of Mysteries” / Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Excerpt from Mäṣḥafä ṭomar “Book of the Letter” / Ḥaṣurä mäsqäl “Rampart of the Cross”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Anaphora of St. Dioscorus of Alexandria / Yǝweddǝsǝwwa mälaʿǝkt... “The angels praise Her...” / ʾAkkonu bǝʾǝsi... “Does not the man...” / Täʾamrä Maryam “Miracles of Mary” / Excerpt from Säʿatat “Horologium” / Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” / Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Excerpt from Mäṣḥafä ṭomar “Book of the Letter” / Ḥaṣurä mäsqäl “Rampart of the Cross”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Anaphora of St. Dioscorus of Alexandria (fols. 2r-6r)&#13;
-II) Yǝweddǝsǝwwa mälaˁǝkt... “The angels praise Her...” (fols. 6v-8v)&#13;
-III) ˀAkkonu bəˀəsi... “Does not the man...” (fols. 9r-21v)&#13;
-IV) Täˀamrä Maryam “Miracles of Mary”: 6 miracles (fols. 24r-48v)&#13;
-V) Excerpt from Säˁatat “Horologium” (fols. 48v-73v)&#13;
-VI) Tǝmhǝrtä ḫǝbuˀat “Teaching of Mysteries” (fols. 74r-80v)&#13;
-VII) Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 81r-101r) (s. EMML 706-1)&#13;
+II) Yǝweddǝsǝwwa mälaʿǝkt... “The angels praise Her...” (fols. 6v-8v)&#13;
+III) ʾAkkonu bǝʾǝsi... “Does not the man...” (fols. 9r-21v)&#13;
+IV) Täʾamrä Maryam “Miracles of Mary”: 6 miracles (fols. 24r-48v)&#13;
+V) Excerpt from Säʿatat “Horologium” (fols. 48v-73v)&#13;
+VI) Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 74r-80v)&#13;
+VII) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 81r-101r) (s. EMML 706-1)&#13;
 VIII) Excerpt from Mäṣḥafä ṭomar “Book of the Letter” (from Heaven)” (fol. 101r-v)&#13;
 IX) Ḥaṣurä mäsqäl “Rampart of the Cross” (fols. 102r-121v) (s. Deborah Lifchitz, Textes éthiopiens magico-religieux, Paris 1940 (Travaux et Mémoires de lʼInstitute dʼEthnologie 38), 87-202).&#13;
 &#13;
@@ -28,15 +28,15 @@ Additiones 1-5</shortcontent>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qəddəst Maryam / MHG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qǝddǝst Maryam / MHG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qəddəst Maryam / MHG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qǝddǝst Maryam / MHG"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Giyorgis</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe’s signature (hand e) mentiones Gäbrä Giyorgis as the scribe on fol. 121v.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">All names have been erased from the supplication formulas throughout the Ms., except for the name of ˀAṣqä Maryam which has been preserved on fol. 104v (Text IX).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">All names have been erased from the supplication formulas throughout the Ms., except for the name of ʾAṣqä Maryam which has been preserved on fol. 104v (Text IX).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -120,7 +120,7 @@ Hand c: fols. 48r-73v; characterized by angular shape of letters.&#13;
 Hand d: fols. 74r-101v; regular&#13;
 Hand e: fols. 102r-121v; regular and characterized by round letters.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two initial lines of Texts I and II; a few lines on the incipit page of Texts III, IV, VI, VII, alternating with black lines; names of Hebrew letters in Ps. 118 (e.g., fols. 35va, 37vb, 38vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words like, ṣälləyu (fol. 6r), täwäkifäki (fol. 14r), ḥǝywätä (fol. 14v), ˁaqqabi (fol. 16v), ḥǝllinahu (fol. 75r), śǝga (fol. 76r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two initial lines of Texts I and II; a few lines on the incipit page of Texts III, IV, VI, VII, alternating with black lines; names of Hebrew letters in Ps. 118 (e.g., fols. 35va, 37vb, 38vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words like, ṣällǝyu (fol. 6r), täwäkifäki (fol. 14r), ḥǝywätä (fol. 14v), ʿaqqabi (fol. 16v), ḥǝllinahu (fol. 75r), śǝga (fol. 76r).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ካ፡ for ይበል፡ ካሕን፡ (fol. 3r)&#13;
 ይ፡ ዲ፡ for ይበል፡ ዲያቆን፡ (fol. 5r)&#13;
@@ -140,10 +140,10 @@ Hand e: fols. 102r-121v; regular and characterized by round letters.</pchangeofh
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fols. 122r-123r: Unidentified text.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The text contains many readings taken from the Psalms of David.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 123r: Protective prayer (&amp;#7779;&amp;#228;lot&amp;#228; k&amp;#228;roforon).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Names have been erased.</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- A recent note in Təgrəñña, written in blue pen, mentioning the total number of fols. of the manuscript, 123 fols: fol. 1r.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- A recent note in Tǝgrǝñña, written in blue pen, mentioning the total number of fols. of the manuscript, 123 fols: fol. 1r.&#13;
 - The scribe used compressed script on fol. 6r.&#13;
 - A text has been erased from fol. 1v.&#13;
-- Tämälläs-sign indicating the place where the ˀarke-hymn, written in the lower margin (of fols. 71v, 72r), belongs: fol. 72r.&#13;
+- Tämälläs-sign indicating the place where the ʾarke-hymn, written in the lower margin (of fols. 71v, 72r), belongs: fol. 72r.&#13;
 - Minor notes in the margins: fols. 21v, 22r, 23v, 24r, 37v.&#13;
 - Scribbles and doodles: fols. 11v, 12r.</extra>
 </extras>

@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase "Missal"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office prayers and litanies  (fols. 1ra-19vb)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 19vb-45ra)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 19vb-45ra)&#13;
 I) Daily Office prayers and litanies  (fols. 45ra-49rb)&#13;
 III)  Anaphoras (fols. 49rb-141vb )&#13;
 III-1) Anaphora of the Apostles (fol. 49rb-61va)&#13;
@@ -39,9 +39,9 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000115" xlink:title="Gänaḥti Qәddәst Maryam / GMG"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˀAṣmä Giyorgis</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAṣmä Giyorgis</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀAṣmä Giyorgis is mentioned as the scribe in the supplication formula, fol. 138va (the name of his brother has been erased).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾAṣmä Giyorgis is mentioned as the scribe in the supplication formula, fol. 138va (the name of his brother has been erased).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor was erased on fols. 18r, 18v, 19r, 23r, 24r, 37v, 74v, 82r,  89r, 93v, 99v, 123v, 138v.</donor>
 </donors>
@@ -49,7 +49,7 @@ Additio 1.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1761</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ˀIyoˀas (r. 1755-69) is mentioned on fols. 16rb, 16va, 42ra, 134 ra. Coptic Patriarch (liqä ṗaṗasat) Marqos (in tenure 1745-1769) and Metropolitan (ṗaṗas) Yoḥannǝs (d. 1761) are mentioned on fol. 54rb.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ʾIyoʾas (r. 1755-69) is mentioned on fols. 16rb, 16va, 42ra, 134 ra. Coptic Patriarch (liqä ṗaṗasat) Marqos (in tenure 1745-1769) and Metropolitan (ṗaṗas) Yoḥannǝs (d. 1761) are mentioned on fol. 54rb.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

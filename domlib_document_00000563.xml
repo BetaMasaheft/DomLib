@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä lədätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of Täklä Haymanot” (fols. 3ra-6vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of Täklä Haymanot” (fols. 3ra-6vb)&#13;
 - Genealogy of Täklä Haymanot (fols. 3ra-6vb) &#13;
 II) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 7ra-79va) &#13;
-III) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 12 miracles (fols. 79vb-86vb).</shortcontent>
+III) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 12 miracles (fols. 79vb-86vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -23,7 +23,7 @@ III) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 12 miracles
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mәdrä Ruba /MR"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäzgäbä Śəllase and Wälättä Bərhan (s. supplication formulas, fols. 8ra, 24vb, 30va, 50ra, passim.).ˀAbunä Wäldä ˀArägawi, Täklä Haymanot and Wälättä Bərhan are also mentioned (s. supplication formulas, fols. 8ra, 36ra, 62rb, 83vb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäzgäbä Śǝllase and Wälättä Bǝrhan (s. supplication formulas, fols. 8ra, 24vb, 30va, 50ra, passim.).ʾAbunä Wäldä ʾArägawi, Täklä Haymanot and Wälättä Bǝrhan are also mentioned (s. supplication formulas, fols. 8ra, 36ra, 62rb, 83vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1930</fdating>
 </fdatings>
@@ -113,7 +113,7 @@ In the incipit pages of Texts I, II and III (fols. 2r, 7r, 74r, 79vb), a few lin
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The text of the Vita has some characteristics of the so-called "Ḥayq recension" of Gädlä Täklä Haymanot. Cp. Mss. EMML no. 1834 (EMML V, 310-14); BN, Éth. 342 (GrébGriaule II, 18-20), Ṭānāsee 162 (SixTana III, 202-06). For a (rough) French translation of the text s. J. DUCHESNE-FOURNET, Mission en Éthiopie, 1901-1903, vol. 1, Paris 1908, 340-431. In this case, the text was possibly copied from MR-036.&#13;
 &#13;
-The genealogy of Ṣägga Zä-ˀAb, father of St. Täklä Haymanot, is left unfinished fol. 11ra-rb), with  remaining part of fol. 11rb and fol. 11v blank.&#13;
+The genealogy of Ṣägga Zä-ʾAb, father of St. Täklä Haymanot, is left unfinished fol. 11ra-rb), with  remaining part of fol. 11rb and fol. 11v blank.&#13;
 &#13;
 The Miracles are part of the cycle connected with the translation of the relics of St. Täklä Haymanot.</otherdetail>
 </otherdetails>

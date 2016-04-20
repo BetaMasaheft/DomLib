@@ -11,25 +11,25 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Collection of Mälkǝˀa and miscellaneous prayers / Mǝśṭirä ṣǝgeyat “The Mystery of the Flowers”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Collection of Mälkǝʾa and miscellaneous prayers / Mǝśṭirä ṣǝgeyat “The Mystery of the Flowers”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝˀa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus” (fols. 1r-15r), incomplete.&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa Gäbrä Mänfäs Qǝddus “Image of Gäbrä Mänfäs Qǝddus” (fols. 1r-15r), incomplete.&#13;
 II) Unidentified hymn about the miracles of Gäbrä Mänfäs Qǝddus (?) (15v-19v)&#13;
 III) Mǝśṭirä ṣǝgeyat “The Mystery of the Flowers” (fols. 20r-37v), incomplete&#13;
-IV) Mälkǝˀa kidanä mǝḥrät “Image of the Covenant of Mercy” (fols. 38r-43v)&#13;
-V) Mälkǝˀa  ˀIyäsus “Image of Jesus” (fols.44r-45v), incomplete&#13;
+IV) Mälkǝʾa kidanä mǝḥrät “Image of the Covenant of Mercy” (fols. 38r-43v)&#13;
+V) Mälkǝʾa  ʾIyäsus “Image of Jesus” (fols.44r-45v), incomplete&#13;
 VI) Unidentified prayer (?) (fols. 46r-49v), incomplete&#13;
-VII) Commemorative notice and ˁarke-hymn for the 23rd of Miyazya dedicated to St. Roch (Roqo) (fols. 50r-53r) &#13;
+VII) Commemorative notice and ʿarke-hymn for the 23rd of Miyazya dedicated to St. Roch (Roqo) (fols. 50r-53r) &#13;
 VIII) Unidentified prayer (?) (fols. 53r-57r).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor (perhaps Gäbrä ˀIyäsus or Fǝqurä ˀIyäsus ?) has been erased on fols. 50r, 51v, 53r.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor (perhaps Gäbrä ʾIyäsus or Fǝqurä ʾIyäsus ?) has been erased on fols. 50r, 51v, 53r.</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">In private possession of qäšši Giday Ḥagos.</owner>
 </owners>

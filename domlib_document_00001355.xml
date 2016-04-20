@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3r-100vc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3r-100vc)&#13;
 I-1) Introduction (fols. 3r-4rc)&#13;
 I-2) Eve of Palm Sunday (fols. 4rc-5vc)&#13;
 I-3) Palm Sunday (fols. 5vc-10ra)&#13;
@@ -22,8 +22,8 @@ I-6) Wednesday (fols. 31ra-39rc)&#13;
 I-7) Thursday (fols. 39rc-51ra)&#13;
 I-8) Friday (fols. 52ra-81ra)&#13;
 I-9) Saturday (fols. 81ra-93vc)&#13;
--	Raˀəyä Yoḥannəs “Revelation of John”(fols. 82vc-88vb)&#13;
--	Təmḫərtä ḫəbuˀat “Teaching of Mysteries” (fols. 92rc-93ra)&#13;
+-	Raʾǝyä Yoḥannǝs “Revelation of John”(fols. 82vc-88vb)&#13;
+-	Tǝmḫǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 92rc-93ra)&#13;
 I-10) Homily by Cyriacus of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 94ra-98ra)&#13;
 I-11) Mäṣḥafä dorho “Book of the Cock” (fols. 98ra-100v)&#13;
 &#13;
@@ -35,13 +35,13 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000071" xlink:title="Fäqada Maryam / FBM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1-2, the Ms. was donated by däğğazmač Ḫagos (d. 1831), baptismal name Dagəmawi Zä-Mänfäs Qǝddus.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1-2, the Ms. was donated by däğğazmač Ḫagos (d. 1831), baptismal name Dagǝmawi Zä-Mänfäs Qǝddus.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1831</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Additiones 1-2 mention Ḫagos (d. 1831), probably a son of däğğazmač Säbagadis (whose baptismal name is Zä-Mänfäs Qəddus, b. 1780/85, d. 1831, s. EAE IV, 431).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Additiones 1-2 mention Ḫagos (d. 1831), probably a son of däğğazmač Säbagadis (whose baptismal name is Zä-Mänfäs Qǝddus, b. 1780/85, d. 1831, s. EAE IV, 431).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -106,13 +106,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular.</phandwriting>
 </phandwritings>
-<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The word ˀəgziˀabǝḥer is in the most cases written with a ligature.</pchangeofhand>
+<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The word ʾǝgziʾabǝḥer is in the most cases written with a ligature.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (Mary); headings and incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, fols. 3r, 52r); titles of the Biblical books and other works; the initial word of each paragraph in “Təmḫərtä ḫəbuˀat” Text I-9; elements of the punctuation signs; Ethiopic numerals or their elements; directives for the ministers; elements of the text dividers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (Mary); headings and incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, fols. 3r, 52r); titles of the Biblical books and other works; the initial word of each paragraph in “Tǝmḫǝrtä ḫǝbuʾat” Text I-9; elements of the punctuation signs; Ethiopic numerals or their elements; directives for the ministers; elements of the text dividers.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal; margin-bottom: 0pt"&gt;&lt;span style="font-size: small"&gt;&lt;span&gt;Fol. 3r: Donation note.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 3r:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt; &lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#5011; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707;&amp;#5011; &amp;#4848;&amp;#4864;&amp;#4829;&amp;#4635;&amp;#4733;&amp;#5011; &amp;#4736;&amp;#4878;&amp;#4661;&amp;#5011; &amp;#4851;&amp;#4877;&amp;#4635;&amp;#4810;&amp;#5011; &amp;#4824;&amp;#4632;&amp;#4757;&amp;#4936;&amp;#4661;&amp;#5011; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#5011; &amp;#4616;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#5011; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#5011; &amp;#4824;&amp;#4936;&amp;#4675;&amp;#4851;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;Fol. 3r: This (is) the book which d&amp;#228;&amp;#287;&amp;#287;azma&amp;#269; &amp;#7722;agos (of ) Z&amp;#228;-M&amp;#228;nf&amp;#228;s Q&amp;#601;ddus &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;the Second donated to the church of Mary of F&amp;#228;qada.&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>Ḫagos (d. 1831), baptismal name Dagəmawi Zä-Mänfäs Qəddus, is probably the second son of däğğazmač Säbagadis whose baptismal name is Zä-Mänfäs Qəddus (b. 1780/85, d. 1831, s. EAE IV, 431). The note is written in the same hand as Additio 2.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal; margin-bottom: 0pt"&gt;&lt;span style="font-size: small"&gt;&lt;span&gt;Fol. 3r: Donation note.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 3r:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt; &lt;/span&gt;&lt;span style="line-height: 115%"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#5011; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707;&amp;#5011; &amp;#4848;&amp;#4864;&amp;#4829;&amp;#4635;&amp;#4733;&amp;#5011; &amp;#4736;&amp;#4878;&amp;#4661;&amp;#5011; &amp;#4851;&amp;#4877;&amp;#4635;&amp;#4810;&amp;#5011; &amp;#4824;&amp;#4632;&amp;#4757;&amp;#4936;&amp;#4661;&amp;#5011; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#5011; &amp;#4616;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#5011; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#5011; &amp;#4824;&amp;#4936;&amp;#4675;&amp;#4851;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;Fol. 3r: This (is) the book which d&amp;#228;&amp;#287;&amp;#287;azma&amp;#269; &amp;#7722;agos (of ) Z&amp;#228;-M&amp;#228;nf&amp;#228;s Q&amp;#601;ddus &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%" unicode=""&gt;the Second donated to the church of Mary of F&amp;#228;qada.&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>Ḫagos (d. 1831), baptismal name Dagǝmawi Zä-Mänfäs Qǝddus, is probably the second son of däğğazmač Säbagadis whose baptismal name is Zä-Mänfäs Qǝddus (b. 1780/85, d. 1831, s. EAE IV, 431). The note is written in the same hand as Additio 2.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 51ra: Donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in the same hand as Additio 2 and has an identical content.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Lacuna: fol. 98r. &#13;
@@ -120,7 +120,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 - The title Mäṣḥafä dorho, with the directives for its reading, is written (partly rubricated) in the middle of the lacuna in fol. 98r. &#13;
 - Immediate correction marked by rubricated dashes: e.g., fols. 4rb, 5ra, 16ra 19rb, 50ra, 90va, 90vc.&#13;
 - Omitted words or corrections added interlineally: e.g., fols. 15vb, 22va, 31ra; added between the columns in fol. 92v.&#13;
-- Rubricated words rǝˀǝyo mot ˀǝnzä yǝwärrəd bä śəga gegäyo wä-ˀamsälo are added in the upper margins of fol. 92v.&#13;
+- Rubricated words rǝʾǝyo mot ʾǝnzä yǝwärrǝd bä śǝga gegäyo wä-ʾamsälo are added in the upper margins of fol. 92v.&#13;
 - Pen trial fol. 51r, by pencil (?).&#13;
 - Writing excercises in fols. 12r, 58v, 84v, 100v, 101v, by pencil.</extra>
 </extras>

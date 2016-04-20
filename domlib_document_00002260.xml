@@ -10,26 +10,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” / Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” / Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” (fols. 1ra-2vb, 4ra-28rb, 30ra-31vb, 34ra-44vb), incomplete&#13;
-I-1) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbˁa Ṣəyon)” (incipit fol. 26ra, explicit fol. 6va)&#13;
-I-2) Täˀamrä Täklä Maryam “Miracles of Täklä Maryam” (incipit fol. 6va, explicit fol. 28rb)&#13;
-II) Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World” (fols. 3ra-vb, 28va-29vb, 32ra-33vb; incipit fol. 28va, explicit fol. 3vb), incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” (fols. 1ra-2vb, 4ra-28rb, 30ra-31vb, 34ra-44vb), incomplete&#13;
+I-1) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbʿa Ṣǝyon)” (incipit fol. 26ra, explicit fol. 6va)&#13;
+I-2) Täʾamrä Täklä Maryam “Miracles of Täklä Maryam” (incipit fol. 6va, explicit fol. 28rb)&#13;
+II) Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World” (fols. 3ra-vb, 28va-29vb, 32ra-33vb; incipit fol. 28va, explicit fol. 3vb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel is mentioned as the scribe in the concluding supplication formula on fol. 28rb and in the supplications on fols. 6va, 34va. &#13;
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel is mentioned as the scribe in the concluding supplication formula on fol. 28rb and in the supplications on fols. 6va, 34va. &#13;
 &#13;
 Probably the same scribe produced mss. AGM-005, AP-028, AP-047 and MA-002.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabəḥer is mention as the commissioner in the concluding supplication formula on fol. 28rb. He and his wife Wälättä Ṣadəqan (s. fol. 13va) are also mentioned in the supplication formulas.&#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer is mention as the commissioner in the concluding supplication formula on fol. 28rb. He and his wife Wälättä Ṣadǝqan (s. fol. 13va) are also mentioned in the supplication formulas.&#13;
 Later on, the names of Wäldä Maryam and Wälättä Maryam have been added interlineally into the supplication formulas, in a secondary hand, in black.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -95,7 +95,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two initial lines of the incipit of Text II; two initial lines of sections of Texts I-2 and I-3; the words sälam “salutation”, səbḥat “glory” and a few others in Text II; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two initial lines of the incipit of Text II; two initial lines of sections of Texts I-2 and I-3; the words sälam “salutation”, sǝbḥat “glory” and a few others in Text II; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 A few groups of lines (alternating with black lines) on the incipit page of Text I.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ: for ሰላም:  (fols. 29v, 32rv, 33r)</abbreviation>

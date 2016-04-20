@@ -11,26 +11,26 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 3ra-15ra)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 3ra-9rb)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 3ra-9rb)&#13;
 - Canon tables (fols. 9va-14va)&#13;
 - The “Synopsis of Classes” (fol. 14rb-vb)&#13;
 - On the reliability of the Gospels (fols. 14vb-15ra l.14)&#13;
 - Statement about the Eusebian sections (fol. 15ra ls.15-22)&#13;
 II) Gospel of Matthew (fols. 15rb-73rb)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fol. 15rb-vb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 16ra-73rb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 16ra-73rb)&#13;
 III) Gospel of Mark (fols. 74ra-106vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 74ra-106vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 74ra-106vb)&#13;
 IV) Gospel of Luke (fols. 107ra-153va)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 107ra-153rb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 107ra-153rb)&#13;
 - Postscript (fol. 153rb-va)&#13;
 V) Gospel of John (fols. 154ra-193ra)&#13;
 - Biography of John (fol. 154ra-va)&#13;
 - List of the “tituli” for the Gospel of John: 19 titles (fol. 154va-vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 155ra-192vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 155ra-192vb)&#13;
 - Postscript (fols. 192vb-193ra)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -43,15 +43,15 @@ Additiones 1-2.</shortcontent>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Wängel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wängel (s. fol. 16r); Zä-Mänfäs Qəddus (s. fol. 193ra).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wängel (s. fol. 16r); Zä-Mänfäs Qǝddus (s. fol. 193ra).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀabunä Mäzgäbä Śəllase is mentioned in the supplication formulas in the Gospel headings (fols. 16r, 74r, 107r, 155r) and Additio 1, but in the concluding supplication the name of commissioner (ˀaṣḥafihu) mentioned is Mälkä Ṣedeq (written in the main hand, fol. 153va, washed out but still readable fol. 193ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾabunä Mäzgäbä Śǝllase is mentioned in the supplication formulas in the Gospel headings (fols. 16r, 74r, 107r, 155r) and Additio 1, but in the concluding supplication the name of commissioner (ʾaṣḥafihu) mentioned is Mälkä Ṣedeq (written in the main hand, fol. 153va, washed out but still readable fol. 193ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1670</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1700</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ˀAbunä Mäzgäbä Śəllase, mentioned in Additio 1, flourished in late 17th – beginning of the 18th cent.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ʾAbunä Mäzgäbä Śǝllase, mentioned in Additio 1, flourished in late 17th – beginning of the 18th cent.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -137,11 +137,11 @@ The ruling pattern is different for the Canon tables and the introduction.</ruli
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Regular, careful.</phandwriting>
 </phandwritings>
-<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Two scribes are mentioned in the text (Zä-Wängel and Zä-Mänfäs Qəddus); however, it is difficult to delimit exactly portions of the text written by each of them. The rubrication was executed by a third hand who also wrote Additio 1.</pchangeofhand>
+<pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Two scribes are mentioned in the text (Zä-Wängel and Zä-Mänfäs Qǝddus); however, it is difficult to delimit exactly portions of the text written by each of them. The rubrication was executed by a third hand who also wrote Additio 1.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; numbers and titles of the chapters and the word məˤəraf; numbers of the “tituli”; parts of the Canon tables; elements of the punctuation signs and the Ethiopic numerals; names of the donors and the scribes; letters ወ and ደ in the genealogy of Christ (fols. 112vb-113vb).&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; numbers and titles of the chapters and the word mǝˤǝraf; numbers of the “tituli”; parts of the Canon tables; elements of the punctuation signs and the Ethiopic numerals; names of the donors and the scribes; letters ወ and ደ in the genealogy of Christ (fols. 112vb-113vb).&#13;
 &#13;
-On the incipit pages of Mäqdəmä wängel and of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
+On the incipit pages of Mäqdǝmä wängel and of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In the “tituli” for the Gospel of John there is a mistake in chapter numbering: no. 10 is followed by no. 20, so that the total number of the chapters as written by the scribe is 29.&#13;
 For details concerning the traditional introduction texts s. R.W. COWLEY, "New Testament Introduction in the Andemta Commentary Tradition", Ostkirchliche Studien 26, 1977, 144-92 ; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
@@ -152,7 +152,7 @@ The "Golden Gospel" of Maryam Mäkan church.</otherdetail>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;Fol. 193ra: Ownership note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;span lang="AMH" style="line-height: 115%;"&gt;Fol. 193ra: &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala; font-size: 14pt;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; {&amp;#4824;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4962; &amp;#4632;&amp;#4779;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala; font-size: 14pt;"&gt; &lt;/span&gt;&lt;span unicode="" style="line-height: 115%;"&gt;[sic]&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala; font-size: 14pt;"&gt;} &amp;#4824;&amp;#4632;&amp;#4925;&amp;#4768;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4608;&amp;#4872;&amp;#4648;&amp;#4961; {&amp;#4632;&amp;#4779;&amp;#4757;&amp;#4961;} &amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4872;&amp;#4704;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4824;&amp;#4640;&amp;#4648;&amp;#4678;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4936;&amp;#4624;&amp;#4678;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4768;&amp;#4813;&amp;#4933;&amp;#4774;&amp;#4961; &amp;#4773;&amp;#4637;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4848;&amp;#4709;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4608;&amp;#4872;&amp;#4648;&amp;#4961; {&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961;} &amp;#4813;&amp;#4873;&amp;#4824;&amp;#4961; &amp;#4616;&amp;#4845;&amp;#4777;&amp;#4757;&amp;#4961; &amp;#4704;&amp;#4645;&amp;#4621;&amp;#4899;&amp;#4752;&amp;#4961; &amp;#4916;&amp;#4901;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4915;&amp;#4813;&amp;#4622;&amp;#4661;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="font-family: Arial;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 193ra: This (is the) book of D&amp;#228;br&amp;#228; Maryam M&amp;#228;ka(n) which came from the country of&amp;#160;Kaswa with &amp;#704;abun&amp;#228; M&amp;#228;zg&amp;#228;b&amp;#228; &amp;#346;&amp;#601;llase. He who steals it or erases (its text) or takes it out of this church of the country of Maryam shall be excommunicated by the authority of Peter and Paul.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>Written in red ink; the hand appears to be the same as the one that executed rubrication. One name is washed out. &#13;
 The names connected with the church of Mäkan Maryam were added in pencil later, replacing the name ካስዋ፡ (an alternative appellation of the monastery of Gundä Gunde) written originally. By substituting the name of Kaswa with the name of Mäkan the scribe created a contradiction in the note.&#13;
-ˀAbunä Mäzgäbä Śəllase was the abbot of Gundä Gunde monastery in the second half of the 17th – beginning of the 18th cent.</det></additional>
+ʾAbunä Mäzgäbä Śǝllase was the abbot of Gundä Gunde monastery in the second half of the 17th – beginning of the 18th cent.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;&lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Fol. 193ra: &lt;span lang="EN-GB" unicode="" style="line-height: 115%;"&gt;Inventory of books in possession of the church library.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic, written in pen.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Pen trials: fol. 2v.&#13;

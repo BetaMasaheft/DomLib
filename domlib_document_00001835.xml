@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” / Zenahu lä-ṣälbo ḥəmamu lä-mädḫaninä “Story of our Saviour’s Suffering on the Cross” / Excerpts from the Synaxarion / Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” / Zenahu lä-ṣälbo ḥǝmamu lä-mädḫaninä “Story of our Saviour’s Suffering on the Cross” / Excerpts from the Synaxarion / Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” (fols. 3ra-39vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” (fols. 3ra-39vb)&#13;
 I-1) Introduction (fols. 3ra-4vb) &#13;
-I-2) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbˁa Ṣəyon)” (fols. 4vb-34rb l.12) &#13;
-I-3) Täˀamrä Täklä Maryam “Miracles of Täklä Maryam”: 6 miracles (fols. 34ra l.14-37vb) &#13;
-I-4)  About the devotion of Mäbˁa Ṣəyon to the commemoration of the Saviour of the World (fols. 37vb-39vb) &#13;
-II) Zenahu lä-ṣälbo ḥəmamu lä-mädḫaninä “Story of our Saviour’s Suffering on the Cross” (fols. 39vb-42ra)&#13;
+I-2) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbʿa Ṣǝyon)” (fols. 4vb-34rb l.12) &#13;
+I-3) Täʾamrä Täklä Maryam “Miracles of Täklä Maryam”: 6 miracles (fols. 34ra l.14-37vb) &#13;
+I-4)  About the devotion of Mäbʿa Ṣǝyon to the commemoration of the Saviour of the World (fols. 37vb-39vb) &#13;
+II) Zenahu lä-ṣälbo ḥǝmamu lä-mädḫaninä “Story of our Saviour’s Suffering on the Cross” (fols. 39vb-42ra)&#13;
 III) Excerpts from Synaxarion “Synaxarion” (fols. 42ra-43rb)&#13;
-III-1) Commemorative notice and ˁarke-hymns for the 27th of Mäggabit dedicated to the Crucifixion of Jesus Christ (fol. 42ra-vb)&#13;
-III-2) Commemorative notice and ˁarke-hymn for the 29th of Mäggabit dedicated to the Resurrection of Jesus Christ (fols. 42vb-43rb)&#13;
-IV)Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World” (fols. 43rb-48rb)&#13;
+III-1) Commemorative notice and ʿarke-hymns for the 27th of Mäggabit dedicated to the Crucifixion of Jesus Christ (fol. 42ra-vb)&#13;
+III-2) Commemorative notice and ʿarke-hymn for the 29th of Mäggabit dedicated to the Resurrection of Jesus Christ (fols. 42vb-43rb)&#13;
+IV)Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World” (fols. 43rb-48rb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -32,7 +32,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000141" xlink:title="Maryam Mäkan/MM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor is possibly Gäbrä Mikaˀel (or his family members) mentioned in the concluding supplication formula on fol. 48rb and in the supplication formulas throughout the Ms. (e.g., fols. 4va, 10rb, 22vb). His family members are mentioned in the concluding supplication formula on fol. 48rb. Elsewhere, Wälättä ˁAbiyä ˀƎgziˀ is mentioned (e.g., fols. 12va, 35vb, 39vb). &#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The donor is possibly Gäbrä Mikaʾel (or his family members) mentioned in the concluding supplication formula on fol. 48rb and in the supplication formulas throughout the Ms. (e.g., fols. 4va, 10rb, 22vb). His family members are mentioned in the concluding supplication formula on fol. 48rb. Elsewhere, Wälättä ʿAbiyä ʾƎgziʾ is mentioned (e.g., fols. 12va, 35vb, 39vb). &#13;
 The names have been added in strong crimson ink in a secondary hand.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -112,9 +112,9 @@ The scribe disregarded the ruling in fols. 8rv, 9rv, 11r, 35v.</rl-info></taunit
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the names of the protagonist; groups of lines (alternating with black lines) on the incipit page of Text I; two initial lines of Texts I-2, I-3, I-4, II-IV; the incipit of the sections of Texts I-2, I-3, I-4 and II; the words sälam “salutation”, səbḥat “glory” and a few words on fol. 47rb-47vb in Text IV; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the names of the protagonist; groups of lines (alternating with black lines) on the incipit page of Text I; two initial lines of Texts I-2, I-3, I-4, II-IV; the incipit of the sections of Texts I-2, I-3, I-4 and II; the words sälam “salutation”, sǝbḥat “glory” and a few words on fol. 47rb-47vb in Text IV; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">-	 Text I is entitled Mäṣḥafä lä-täzkarä mädḫən (fol. 3ra l.3-5).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">-	 Text I is entitled Mäṣḥafä lä-täzkarä mädḫǝn (fol. 3ra l.3-5).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

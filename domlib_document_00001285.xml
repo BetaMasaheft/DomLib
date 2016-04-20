@@ -11,7 +11,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä ḥawaryat, Apocryphal Acts of the Apostles / Täˀamrä Mikaˀel “Miracles of Michael” / Homily on St. Michael (story about St. Tälason)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä ḥawaryat, Apocryphal Acts of the Apostles / Täʾamrä Mikaʾel “Miracles of Michael” / Homily on St. Michael (story about St. Tälason)</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä ḥawaryat, Apocryphal Acts of the Apostles (fols. 1ra-11rb, 12ra-166vb)&#13;
 I-1) The Discourse of Dionysius on the Martyrdom of Sts. Peter and Paul, with colophon (fols. 1ra-11vb) &#13;
@@ -49,7 +49,7 @@ I-32) The Acts of St. Thomas, II (fols. 152vb-157rb)&#13;
 I-33) The Acts of St. Thomas, III (fols. 157rb-161va) &#13;
 I-34) The Acts of St. Thomas, IV (fols. 161va-163vb) &#13;
 I-35) The Acts of St. Thomas, V (fols. 163vb-166vb) &#13;
-II) Täˀamrä Mikaˀel “Miracles of Michael”:  12 miracles (fols. 167ra-174vb)&#13;
+II) Täʾamrä Mikaʾel “Miracles of Michael”:  12 miracles (fols. 167ra-174vb)&#13;
 III) Homily on Archangel Michael (story about St. Tälason) (fols. 175ra-180rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
@@ -59,7 +59,7 @@ III) Homily on Archangel Michael (story about St. Tälason) (fols. 175ra-180rb).
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="Ë&#129;AddÃ¤qaá¸¥arsi á¹&#150;Ã¤raqliá¹­os / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbäz-priests (qäsäwəstä gabäz) Bäkwǝrä Ṣǝyon, Mänqorewos (sic), Täsfa Ḥǝyǝwät are mentioned as commissioners (zəntu gädlä ḥawaryat zä-Ṗaraqliṭos zä-ˀaṣḥafu...) in the subscriptio to Text I-1 (fol. 117vb ls. 3-5). A subscriptio to Text II (fol. 174va) states that it was commissioned (ˀagbäru) by the priests of the Ṗaraqliṭos.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbäz-priests (qäsäwǝstä gabäz) Bäkwǝrä Ṣǝyon, Mänqorewos (sic), Täsfa Ḥǝyǝwät are mentioned as commissioners (zǝntu gädlä ḥawaryat zä-Ṗaraqliṭos zä-ʾaṣḥafu...) in the subscriptio to Text I-1 (fol. 117vb ls. 3-5). A subscriptio to Text II (fol. 174va) states that it was commissioned (ʾagbäru) by the priests of the Ṗaraqliṭos.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1500</fdating>
 </fdatings>

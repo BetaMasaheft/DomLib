@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-118vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-118vb)&#13;
 I-1) Introduction (fols. 3ra-6rc)&#13;
 I-2) Eve of Palm Sunday (fols. 6rc-6vb)&#13;
 I-3) Palm Sunday (fols. 6vb-12ra)&#13;
@@ -33,16 +33,16 @@ I-8) Friday (fols. 62rb-107va)&#13;
 - Day hours (fols. 72ra-107va), including: Homily by Jacob of Serug on Abraham (fols. 86rc-91vb)&#13;
 I-9) Saturday (fols. 107va-118vb)&#13;
 - Night hours (fols. 107va-110rb)&#13;
-- Mass (fols. 110rb-118vb), including: Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 117ra-118rc)&#13;
+- Mass (fols. 110rb-118vb), including: Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 117ra-118rc)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -124,7 +124,7 @@ Some distinctive features:&#13;
 - usually, the numerals are written with double dashes above and below (s., e.g., fols. 27rb, 30rc);&#13;
 - in many words, the 3rd order is written instead of the 5th (?).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines alternating with black lines in the incipit page of Text I-1; headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; names of Hebrew letters in Text I-8; directives for the ministers in Texts I-3, I-7 and I-8; the words ṣällǝyu in Text I-7 and nastäbäqwǝˁ in Text I-8; some interlineal corrections (e.g., fol. 78rc); elements of the punctuation signs, of Ethiopic numerals and of the text dividers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines alternating with black lines in the incipit page of Text I-1; headings and incipits of the texts, their sections and subsections; titles of the Biblical books and other works; names of Hebrew letters in Text I-8; directives for the ministers in Texts I-3, I-7 and I-8; the words ṣällǝyu in Text I-7 and nastäbäqwǝʿ in Text I-8; some interlineal corrections (e.g., fol. 78rc); elements of the punctuation signs, of Ethiopic numerals and of the text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ኢየሱስ for ኢየሱ (e.g., fols. 23rb, 46vb)&#13;
 ስ፡ for ስቡሕኒ፡ ውእቱ፡ ወልዑልኒ፡ ውእቱ፡ ለዓለም፡ (in Text I-8, fol. 103va-c)&#13;

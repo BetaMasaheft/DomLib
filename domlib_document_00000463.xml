@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 6ra – 13va [l.6])&#13;
 - Mäqdәmä wängel “Introduction to the Gospel” (fols. 6ra - 10ra [l.3])&#13;
@@ -48,9 +48,9 @@ Additiones 1-3.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mәdrä Ruba /MR"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">qes gäbäz Wäldä Gäbrˀel (s. fols.: 43vb, ls. 19-20; 63ra, l. 20; 100rb, l.21), ˀato Täkwәlu (s. fols.: 43vb, l.20; 63ra, l.21; 100rb, l.22), Wälättä Mädḫәn (s. fols.: 43vb, ls. 12-13, 22; 63rb, l.1; 100rb, l.17), Wälättä Yoḥannәs (s. fols.: 43vb, ls. 15-16; 63rb, l.1; 100rb, l.19), Wälättä Giyorgis (s. fols.: 43vb, l. 16; 63rb, ls.1-2; 100rb, ls. 19-20), Wäldä Krәstos (s. fols.: 43vb, l.13; 63rb, l.2; 100rb, ls. 17-18), Gäbrä Krәstos (s. fols.: 43vb, l.14; 63rb, l.3; 100rb, l.18), Gäbrä Mäsqäl (s. fols.: 43vb, l.14; 63rb, l.3; 100rb, l.18), Wäldä Ḥawaryat (s. fols.:  43vb, ls. 14-15; 63rb,  l.4; 100rb, l.19).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">qes gäbäz Wäldä Gäbrʾel (s. fols.: 43vb, ls. 19-20; 63ra, l. 20; 100rb, l.21), ʾato Täkwәlu (s. fols.: 43vb, l.20; 63ra, l.21; 100rb, l.22), Wälättä Mädḫәn (s. fols.: 43vb, ls. 12-13, 22; 63rb, l.1; 100rb, l.17), Wälättä Yoḥannәs (s. fols.: 43vb, ls. 15-16; 63rb, l.1; 100rb, l.19), Wälättä Giyorgis (s. fols.: 43vb, l. 16; 63rb, ls.1-2; 100rb, ls. 19-20), Wäldä Krәstos (s. fols.: 43vb, l.13; 63rb, l.2; 100rb, ls. 17-18), Gäbrä Krәstos (s. fols.: 43vb, l.14; 63rb, l.3; 100rb, l.18), Gäbrä Mäsqäl (s. fols.: 43vb, l.14; 63rb, l.3; 100rb, l.18), Wäldä Ḥawaryat (s. fols.:  43vb, ls. 14-15; 63rb,  l.4; 100rb, l.19).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Initially the book was in possession of the church of Maryam ˀAbaˁko (s. Additiones).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Initially the book was in possession of the church of Maryam ʾAbaʿko (s. Additiones).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -120,7 +120,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Poor</phandwriting>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; &#13;
-the word mәˁәraf;&#13;
+the word mәʿәraf;&#13;
 a few lines (in both columns) in the incipit page of each text, divided into two, three or four groups, alternating with black lines (2 lines in fol. 6r, 9 lines on fol. 44r, 5 lines on fol. 64r, 8 lines on fol. 101r); the Canon tables; &#13;
 the incipits of the parts of the Introduction (fols. 6ra – 13va) and of the chapters of the Gospels;&#13;
 the title of each Gospel; the chapters titles;&#13;

@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 5ra-86va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 5ra-86va)&#13;
 I-1) Introduction (fols. 5ra-9va) &#13;
 - On John the Evangelist as the author of the book; on creation and the fall of the angel (fols. 5ra-9rb) &#13;
 - Story of the family of Adam (fols. 9rb-14vb)&#13;
-I-2) Täˀamrä ˀIyasus “Miracles of Jesus”: 35 miracles (fols. 14vb-86va).&#13;
+I-2) Täʾamrä ʾIyasus “Miracles of Jesus”: 35 miracles (fols. 14vb-86va).&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000117" xlink:title="Gwaḥgot ˀIyäsus / GBI"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000117" xlink:title="Gwaḥgot ʾIyäsus / GBI"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000117" xlink:title="Gwaḥgot ˀIyäsus / GBI"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000117" xlink:title="Gwaḥgot ʾIyäsus / GBI"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Haymanot is mention in the supplication formulas (e.g., fols. 5ra, 17rb, 19vb, 26rb, 37ra, 70ra, 77vb, 83ra).</donor>
 </donors>
@@ -105,7 +105,7 @@ A few groups of lines (alternating with black lines) on the incipit page of Text
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- All miracles are correctly numbered.&#13;
 - Within the introduction (Text I-1) the scribe numbered three sections as miracles. Thus, the 1st miracle proper bears number 4 (fol. 14vb).  &#13;
-- The miracles are introduced with the word täˀamər “miracle” and in one case with the word məˁəraf “chapter”.</otherdetail>
+- The miracles are introduced with the word täʾamǝr “miracle” and in one case with the word mǝʿǝraf “chapter”.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

@@ -10,28 +10,28 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Yoḥannəs Mäṭməq “Vita of John the Baptist” / Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist” / Mälkəˁa Yoḥannəs Mäṭməq “Image of John the Baptist”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Yoḥannǝs Mäṭmǝq “Vita of John the Baptist” / Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist” / Mälkǝʿa Yoḥannǝs Mäṭmǝq “Image of John the Baptist”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Yoḥannəs Mäṭməq “Vita of John the Baptist” (fols. 4ra-78ra)&#13;
-II) Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist”: 13 miracles (fols. 78ra-88vb)&#13;
-III) Mälkəˁa Yoḥannəs Mäṭməq “Image of John the Baptist”: 28 strophes (fols. 89rb-90va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Yoḥannǝs Mäṭmǝq “Vita of John the Baptist” (fols. 4ra-78ra)&#13;
+II) Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist”: 13 miracles (fols. 78ra-88vb)&#13;
+III) Mälkǝʿa Yoḥannǝs Mäṭmǝq “Image of John the Baptist”: 28 strophes (fols. 89rb-90va)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Dərar Wäldä Qirqos</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Dǝrar Wäldä Qirqos</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The colophon mentions ˀaläqa Dərar Wäldä Qirqos of Ləgat as the scribe.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The colophon mentions ʾaläqa Dǝrar Wäldä Qirqos of Lǝgat as the scribe.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to the colophon, wäyzäro Mәḥräta Wäldä Kidan was the commissioner and donor of the book.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Several individuals (ˀabunä Gäbrä Yoḥannǝs on fol. 24ra, Wälättä Śǝllase on fol. 80va, Wälättä Gäbrˀel on fol. 79va, etc.) are mentioned in several supplication formulas.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Several individuals (ʾabunä Gäbrä Yoḥannǝs on fol. 24ra, Wälättä Śǝllase on fol. 80va, Wälättä Gäbrʾel on fol. 79va, etc.) are mentioned in several supplication formulas.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1969</fdating>
 </fdatings>
@@ -119,7 +119,7 @@ Elements of Ethiopian numerals, of punctuations signs and of text dividers; marg
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- About the literature on John the Baptist, cp. EAE III, 288-91.&#13;
 - Text I is a compilation of several homilies on John the Baptist.&#13;
 - In Text II, all the miracles are numbered; the numerals for Miracles 1, 2, 3, 5 are written in the left margin of the column.&#13;
-- The word እስራኤል፡ (ˀƎsraˀel) is usually written ፳ኤል፡ (20-ˀel) (e.g., fols. 46va l.6, 65va l.3).&#13;
+- The word እስራኤል፡ (ʾƎsraʾel) is usually written ፳ኤል፡ (20-ʾel) (e.g., fols. 46va l.6, 65va l.3).&#13;
 - Compressed script used for Text III (esp. fols. 89vb-90va).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

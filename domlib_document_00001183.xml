@@ -13,16 +13,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀOrit “Octateuch”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾOrit “Octateuch”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀOrit zä-lədät “Genesis” (fols. 2ra-35vc)&#13;
-II) ˀOrit zä-ḍäˀat “Exodus“ (fols. 36ra-67rb) &#13;
-III) ˀOrit zä-lewawəyan “Leviticus” (fols. 67rc-89va) &#13;
-IV) ˀOrit zä-ḫwəlqw “Numbers“ (fols. 89va-120vc)&#13;
-V) ˀOrit zä-dagəm “Deuteronomy” (fols. 121ra- 149va) &#13;
-VI) ˀOrit zä-ˀIyasu “Joshua” (fols. 150ra-168va) &#13;
-VII) ˀOrit zä-mäsafənt “Judges” (fols. 168vb-188vb) &#13;
-VIII) ˀOrit zä-Rut “Ruth” (fols. 188vc-191rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾOrit zä-lǝdät “Genesis” (fols. 2ra-35vc)&#13;
+II) ʾOrit zä-ḍäʾat “Exodus“ (fols. 36ra-67rb) &#13;
+III) ʾOrit zä-lewawǝyan “Leviticus” (fols. 67rc-89va) &#13;
+IV) ʾOrit zä-ḫwǝlqw “Numbers“ (fols. 89va-120vc)&#13;
+V) ʾOrit zä-dagǝm “Deuteronomy” (fols. 121ra- 149va) &#13;
+VI) ʾOrit zä-ʾIyasu “Joshua” (fols. 150ra-168va) &#13;
+VII) ʾOrit zä-mäsafǝnt “Judges” (fols. 168vb-188vb) &#13;
+VIII) ʾOrit zä-Rut “Ruth” (fols. 188vc-191rb)&#13;
 &#13;
 Additiones 1-3.</shortcontent>
 </shortcontents>
@@ -128,20 +128,20 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">A few lines (1st, 3rd, 5th and occasionally 24th, 25th) in the incipit pages of Texts I-VIII; the word məˤəraf, “chapter”, followed by an Ethiopic numeral; the initial line of some chapters of Texts II and III: wä-näbäbä ˀƎgziˀabəḥer lä-Muse wä-yəbelo, “And God spoke unto Moses and said to him”, (e.g., fols. 53rc, 58rab, 70rabc); elements of the punctuation signs and Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">A few lines (1st, 3rd, 5th and occasionally 24th, 25th) in the incipit pages of Texts I-VIII; the word mǝˤǝraf, “chapter”, followed by an Ethiopic numeral; the initial line of some chapters of Texts II and III: wä-näbäbä ʾƎgziʾabǝḥer lä-Muse wä-yǝbelo, “And God spoke unto Moses and said to him”, (e.g., fols. 53rc, 58rab, 70rabc); elements of the punctuation signs and Ethiopic numerals.&#13;
 Rubrication is not executed on fols. 14vb-18rb, 29rb-35ra, 150ra-159rc.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 191vab: Record concerning litigation over land holding.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note, dated to 1923 year of mercy (=1930/31 A.D.), contains names of the judge, parties involved in the trial, witnesses and guarantors as well as the matter in dispute and the verdict. &#13;
 It is written in Amharic, by a well-trained hand.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fols. 192r-193v: Land grant issued by King M&amp;#601;nil&amp;#601;k II for ras M&amp;#228;ng&amp;#228;&amp;#353;a Yo&amp;#7717;ann&amp;#601;s&amp;#8217; children.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The text runs as follows: 193r, 193v, 192r. The document, dated to 1889 years of mercy, gives a list of lands in various parts of Təgray (32 places) which King Mənilək II donated as gwəlt and rəst to ras Mängäša Yoḥannəs’ two children after the battle of ˀAdwa (1896). In the beginning, it mentions the invasion of Italians and their defeat at ˁAdwa.&#13;
-It is written in Amharic, in a well-trained hand. There is a stamp of King Mənilək II on fol. 193r.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fols. 192r-193v: Land grant issued by King M&amp;#601;nil&amp;#601;k II for ras M&amp;#228;ng&amp;#228;&amp;#353;a Yo&amp;#7717;ann&amp;#601;s&amp;#8217; children.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The text runs as follows: 193r, 193v, 192r. The document, dated to 1889 years of mercy, gives a list of lands in various parts of Tǝgray (32 places) which King Mǝnilǝk II donated as gwǝlt and rǝst to ras Mängäša Yoḥannǝs’ two children after the battle of ʾAdwa (1896). In the beginning, it mentions the invasion of Italians and their defeat at ʿAdwa.&#13;
+It is written in Amharic, in a well-trained hand. There is a stamp of King Mǝnilǝk II on fol. 193r.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 194rv: Record concerning reconciliation.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note mentions involved parties and guarantors. It is written in Amharic, in a well-trained hand.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Title of the Ms. is written on the front cover.&#13;
 - Internal number of the monastic library, 384, is written on fol. 1r.&#13;
-- Gəˁəz and Amharic glosses are written in the margins of fol. 2rv. The glossed words are marked with small signs ├ ┤ (the horizontal dash points towards the margin) written above them. &#13;
+- Gǝʿǝz and Amharic glosses are written in the margins of fol. 2rv. The glossed words are marked with small signs ├ ┤ (the horizontal dash points towards the margin) written above them. &#13;
 - Tämälläs-sign indicating the place where the omission, written in the upper margins, belongs on fol. 80ra l.29.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>

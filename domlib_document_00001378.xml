@@ -10,14 +10,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Täˀamrä ˀIyäsus “Miracles of Jesus” / Excerpts from the Bible</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Täʾamrä ʾIyäsus “Miracles of Jesus” / Excerpts from the Bible</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary” (fols. 13ra-61ra)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 13ra-17va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary” (fols. 13ra-61ra)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 13ra-17va)&#13;
 I-2) Introductory exhortation (fols.17vb-19ra)  &#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki… “I worship Thee …” (fols. 19ra-21ra) &#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 33 miracles (fols. 21ra-61ra)&#13;
-II) Täˀamrä ˀIyäsus “Miracles of Jesus”: 15 miracles (fols. 61rb-86vb)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki… “I worship Thee …” (fols. 19ra-21ra) &#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 33 miracles (fols. 21ra-61ra)&#13;
+II) Täʾamrä ʾIyäsus “Miracles of Jesus”: 15 miracles (fols. 61rb-86vb)&#13;
 III) Excerpts from the book of the Old and New Testaments and the missal (?)(fols. 87r-93r)&#13;
 &#13;
 Additiones 1-4.</shortcontent>
@@ -26,15 +26,15 @@ Additiones 1-4.</shortcontent>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub02.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Wahǝd</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Wahǝd is mentioned as the scribe in the supplication formula (fol. 87rb).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀabunä Gärä (Gäbrä) Mäsqäl is mentioned in Additiones 2 and 4 as well as in the supplication formulas throughout the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾabunä Gärä (Gäbrä) Mäsqäl is mentioned in Additiones 2 and 4 as well as in the supplication formulas throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -171,7 +171,7 @@ Gäbrä Täklä Haymanot is mentioned in the supplication formula.</det></additi
 <miniature xml:lang="en" inherited="0"><info>Fol. 6r: Two monks.</info><details>Painted on an unruled leaf.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 7v: Percussio capitis.</info><details>Painted on an unruled leaf.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 8r: The Virgin with her Child.</info><details>Painted on an unruled leaf.</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 9r: A monk depicted twice: one time half naked, receiving flogging, another time in a monastic dress.</info><details>Legend: [ዘከመ᎓ ቀሰፎ᎓ ድብ᎓ ፀር᎓ ንጉሥ᎓ ለአቡነ᎓ እስጢፋኖስ᎓] “How King Dǝbb Ḍär had ˀabunä ˀƎsṭifanos flagellated“. Painted on an unruled leaf.&#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 9r: A monk depicted twice: one time half naked, receiving flogging, another time in a monastic dress.</info><details>Legend: [ዘከመ᎓ ቀሰፎ᎓ ድብ᎓ ፀር᎓ ንጉሥ᎓ ለአቡነ᎓ እስጢፋኖስ᎓] “How King Dǝbb Ḍär had ʾabunä ʾƎsṭifanos flagellated“. Painted on an unruled leaf.&#13;
 The legend is written crudely in pencil in a recent hand.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 10v: Two monks.</info><details>Legend: ዝኒ᎓ ከማሁ᎓ መነኮ[ሳ]ት᎓ “And this is, likewise, monks“. Painted on an unruled leaf.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 11r: Two monks.</info><details>Painted on an unruled leaf.</details></miniature>

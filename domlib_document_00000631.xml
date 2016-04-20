@@ -11,17 +11,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Bəsratä Yoḥannəs “Gospel of John”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Bǝsratä Yoḥannǝs “Gospel of John”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Bəsratä Yoḥannəs “Gospel of John” (fols. 3ra-98rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Bǝsratä Yoḥannǝs “Gospel of John” (fols. 3ra-98rb)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaˀel  / QMB"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaʾel  / QMB"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaˀel  / QMB"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000133" xlink:title="Bäläsa Qǝddus Mikaʾel  / QMB"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1851</fdating>
 </fdatings>
@@ -108,20 +108,20 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, regular and careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (at times only partly rubricated, s. fols. 3va, 4ra); incipit and heading of the text; on the incipit page, a few words are rubricated alternating with words in black; names of the feasts (fol. 8r, 11r, 62v, 64v, 71r, 73v, 87r); indications for daily readings (fols. 41v,); the word mǝˀəraf followed by the number of the chapter, the first and the third lines of the chapter; elements of the punctuation signs and numerals, numbers of quires, lines separating passages.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (at times only partly rubricated, s. fols. 3va, 4ra); incipit and heading of the text; on the incipit page, a few words are rubricated alternating with words in black; names of the feasts (fol. 8r, 11r, 62v, 64v, 71r, 73v, 87r); indications for daily readings (fols. 41v,); the word mǝʾǝraf followed by the number of the chapter, the first and the third lines of the chapter; elements of the punctuation signs and numerals, numbers of quires, lines separating passages.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 2v: Note concerning events in the lives (?) of Evangelists (Matthew, Mark, Luke and John).&lt;/span&gt;&lt;/p&gt;</cont><det>Hardly readable.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fols. 98rb-99ra: Text concerning the value of common orthodox prayers.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 99ra: Note concerning dates of celebrating some feasts, with a&amp;#160;small, crude&amp;#160;calendaric table.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in Gəˁəz and Amharic.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 99ra: Note concerning dates of celebrating some feasts, with a&amp;#160;small, crude&amp;#160;calendaric table.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in Gǝʿǝz and Amharic.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 99va: Unidentified text.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic. Recent and hardly readable, written in pink.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 99vb: &amp;#704;Asmat-prayer.&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</cont><det>The title (?)  is written in the upper margin: “And you who have terrified the idols...”.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 100v:&amp;#160;Protective prayer to God, a recipe for a certain medicine, and a short protective&amp;#160;prayer&amp;#160;mentioning St. Mary.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in Gəˁəz and Amharic.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt"&gt;Fol. 100v:&amp;#160;Protective prayer to God, a recipe for a certain medicine, and a short protective&amp;#160;prayer&amp;#160;mentioning St. Mary.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in Gǝʿǝz and Amharic.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- A chain of black dots and a red line, probably separating the text passages (?), on fols.: 21v, 23r, 41r, 41v, 42v, 49r, 50r, 53r, 61v, 62v, 63r, 64v, 67r, 71r, 72r, 73r, 77v, 87r, 93v.&#13;
-- Crude drawing of a cross with an inscription above: zə-Mäsqäl zä-ˀAbba, fol. 1r.&#13;
+- Crude drawing of a cross with an inscription above: zǝ-Mäsqäl zä-ʾAbba, fol. 1r.&#13;
 - Numerous corrections of the text (written interlineally and in the margins) by another hand: fols. 3va, 4rab, 4vab, 5rab, 6rab, 9va, 10rab, 10vb, 51va, 73vb, 84vb. &#13;
 - Text erasures: fol. 29rab. &#13;
 - Crudely written notes in pen: fols. 6r, 17v, 75v, 100rv.</extra>

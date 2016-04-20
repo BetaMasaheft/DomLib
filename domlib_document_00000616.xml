@@ -28,11 +28,11 @@ I–12) Reading for the 21st of Ṭǝrr (fols. 91vb-109vb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Sǝmˁon is mentioned in the supplication formula on fol. 109vb, and throughout the Ms. (fols. 16rb, 23vb, 50va, 65ra, 68rb, 73va, 85rb, 91vb, 109vb); Wäldä ˀAnanya is mentioned in the supplication formula, fol. 20vb.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Sǝmʿon is mentioned in the supplication formula on fol. 109vb, and throughout the Ms. (fols. 16rb, 23vb, 50va, 65ra, 68rb, 73va, 85rb, 91vb, 109vb); Wäldä ʾAnanya is mentioned in the supplication formula, fol. 20vb.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -123,17 +123,17 @@ Fol. 111r: Crude note.</extra>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Monthly readings are indicated by the notes written in the upper margins of some fols. (the rubricated incipits of the sections being in the columns below):&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Yäkkatit (fol. 3ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäggabit (fol. 16va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Miyazya (fol. 20vb)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Gǝnbot (fol. 24ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Säne (fol. 29va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḥamle (fol. 50va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Näḥase (fol. 58ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäskäräm (fol. 65ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝqǝmt (fol. 68rb)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḫǝdar (fol. 73va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Taḫsas (fol. 85rb)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝrr (fol. 91vb)</txfindingaid>
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Yäkkatit (fol. 3ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäggabit (fol. 16va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Miyazya (fol. 20vb)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Gǝnbot (fol. 24ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Säne (fol. 29va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḥamle (fol. 50va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Näḥase (fol. 58ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäskäräm (fol. 65ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝqǝmt (fol. 68rb)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḫǝdar (fol. 73va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Taḫsas (fol. 85rb)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝrr (fol. 91vb)</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2011-10-20T09:05:57.112Z</servdate><servdate inherited="0" type="modifydate">2014-08-20T09:43:36.349Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

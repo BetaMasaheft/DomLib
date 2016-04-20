@@ -10,31 +10,31 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
-- Mäqdəmä Wängel “Introduction to the Gospels” (fols. 5ra-9rb) [including: the “Synopsis of Classes” (fols. 9rb-9vb), On the 72 disciples (fols. 9vb-9vc), On the Episcopal Sees (fol. 9vc), Letter of Eusebius to Carpianus (fols. 9vc-10rc)]&#13;
+- Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 5ra-9rb) [including: the “Synopsis of Classes” (fols. 9rb-9vb), On the 72 disciples (fols. 9vb-9vc), On the Episcopal Sees (fol. 9vc), Letter of Eusebius to Carpianus (fols. 9vc-10rc)]&#13;
 - Canon tables (fols. 10v-11v)&#13;
 - On the Reliability of the Gospels (fols. 12ra-12rb)&#13;
 II) Gospel of Matthew (fols. 12rb-60va)&#13;
 - Biography of Matthew (fols. 12rb-12rc)&#13;
 - List of the “tituli” for the Gospel of Matthew – 69 titles (fol. 12rc-12vb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 13ra-60rb) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 13ra-60rb) &#13;
 - Postscript (fols. 60va)&#13;
 III) Gospel of Mark (fols.60vb-87rb)&#13;
 - Biography of Mark (fols. 60vb-61rb)&#13;
 - List of the “tituli” for the Gospel of Mark – 48 titles (fols. 61rb-61vb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 63ra-87rb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 63ra-87rb)&#13;
 - Postscript (fols. 87rb)&#13;
 IV) Gospel of Luke (fols. 87rb-133vb)&#13;
 - Biography of Luke (fols. 87rb-87vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 89ra-133ra)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 89ra-133ra)&#13;
 - Postscript (fol. 133ra) &#13;
 - List of the “tituli” for the Gospel of Luke – 84 titles (fols. 133rb-133vb)&#13;
 V) Gospel of John (fols.134ra)&#13;
 - Biography of John (fol. 134ra-134vb)&#13;
 - List of the “tituli” for the Gospel of John – 19 titles (fol. 134vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 135ra-170va)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 135ra-170va)&#13;
 - Postscript (fols. 170va-170vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
@@ -107,7 +107,7 @@ The ruling pattern is different for the introduction and the canon tables.</rl-i
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">crude.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; number of the chapters and the word məˁəraf; elements of the punctuation signs; Ethiopic numerals; elements of numbers of the quires; numbers of the “tituli”; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines); Letters ወ and ደ in the word ወልደ used in the genealogy of Christ (fols. 94v-95r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts; number of the chapters and the word mǝʿǝraf; elements of the punctuation signs; Ethiopic numerals; elements of numbers of the quires; numbers of the “tituli”; on the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines); Letters ወ and ደ in the word ወልደ used in the genealogy of Christ (fols. 94v-95r).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In the list of the "tituli" for the Gospel of Matthew, the numbering continues up to 75;&#13;
 Decorated quire marks: fols. 23r, 33r, 43r, 53r, 82r, 109r, 119r, 128r, 155r, 165r.</otherdetail>

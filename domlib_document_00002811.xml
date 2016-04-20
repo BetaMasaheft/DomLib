@@ -8,18 +8,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanä mädḫane ˁaläm “Homily on the Saviour of the World” / Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” / Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanä mädḫane ʿaläm “Homily on the Saviour of the World” / Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” / Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dərsanä mädḫane ˁaläm “Homily on the Saviour of the World”&#13;
-II) Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” &#13;
-III) Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World”</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä mädḫane ʿaläm “Homily on the Saviour of the World”&#13;
+II) Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” &#13;
+III) Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World”</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

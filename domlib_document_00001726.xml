@@ -12,43 +12,43 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˁUraˀel "Miracles of Uriel" / Täˀamrä ˀIyäsus "Miracles of Jesus" / Täˀamrä Zä-Mikaˀel ˀArägawi "Miracles of Zä-Mikaˀel ˀArägawi" / Täˀamrä Maryam "Miracles of Mary"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʿUraʾel "Miracles of Uriel" / Täʾamrä ʾIyäsus "Miracles of Jesus" / Täʾamrä Zä-Mikaʾel ʾArägawi "Miracles of Zä-Mikaʾel ʾArägawi" / Täʾamrä Maryam "Miracles of Mary"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˁUraˀel "Miracles of Uriel": 2 miracles (fols. 2ra-5vb)&#13;
-II) Täˀamrä ˀIyäsus "Miracles of Jesus": 2 miracles (fol. 6ra-6vb), incomplete&#13;
-III-1a) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fol. 7ra-7vb), incomplete&#13;
-IV) Täˀamrä Zä-Mikaˀel ˀArägawi "Miracles of Zä-Mikaˀel ˀArägawi": one miracle (fol. 7vb), incomplete&#13;
-III) Täˀamrä Maryam "Miracles of Mary" (fols. 8ra-254va)&#13;
-III-1b) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 8ra-13vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʿUraʾel "Miracles of Uriel": 2 miracles (fols. 2ra-5vb)&#13;
+II) Täʾamrä ʾIyäsus "Miracles of Jesus": 2 miracles (fol. 6ra-6vb), incomplete&#13;
+III-1a) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fol. 7ra-7vb), incomplete&#13;
+IV) Täʾamrä Zä-Mikaʾel ʾArägawi "Miracles of Zä-Mikaʾel ʾArägawi": one miracle (fol. 7vb), incomplete&#13;
+III) Täʾamrä Maryam "Miracles of Mary" (fols. 8ra-254va)&#13;
+III-1b) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 8ra-13vb)&#13;
 III-2) Introductory exhortation and hymns (fols. 14ra-16vb)&#13;
-III-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... "I worship Thee ..." (fols. 16vb-17vb)&#13;
-III-4a) Täˀamrä Maryam "Miracles of Mary": 16 miracles (fols. 17vb-25vb, 216ra-251ra)&#13;
-III-4b) Täˀamrä Maryam "Miracles of Mary": 113 miracles (fols. 26ra-215vb, 253ra-254va)&#13;
+III-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... "I worship Thee ..." (fols. 16vb-17vb)&#13;
+III-4a) Täʾamrä Maryam "Miracles of Mary": 16 miracles (fols. 17vb-25vb, 216ra-251ra)&#13;
+III-4b) Täʾamrä Maryam "Miracles of Mary": 113 miracles (fols. 26ra-215vb, 253ra-254va)&#13;
 &#13;
 Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫǝn, ˀƎśśetä Maryam</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫǝn, ʾƎśśetä Maryam</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫǝn is mentioned as the scribe of Text III-1a on fol. 7va, hand c.&#13;
-ˀƎśśetä Maryam is mentioned as the scribe of Text III-4a on fol. 251ra, hand e.</copyist>
+ʾƎśśetä Maryam is mentioned as the scribe of Text III-4a on fol. 251ra, hand e.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀAbunä Gäbrä Maryam is mentioned in supplication formulas throughout Text I (hand a).&#13;
-The names Gäbrä Śǝllase and Gäbrä ˀAmlak are written in Text II (fol. 6vb, hand b).&#13;
-ˀAbunä Bǝˀǝse ˀƎgziˀabǝḥer is mentioned as the commissioner in the concluding supplication formula of Text III-4a; furthermore, his name is written throughout Texts III-2 and III-4a (hand e). &#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾAbunä Gäbrä Maryam is mentioned in supplication formulas throughout Text I (hand a).&#13;
+The names Gäbrä Śǝllase and Gäbrä ʾAmlak are written in Text II (fol. 6vb, hand b).&#13;
+ʾAbunä Bǝʾǝse ʾƎgziʾabǝḥer is mentioned as the commissioner in the concluding supplication formula of Text III-4a; furthermore, his name is written throughout Texts III-2 and III-4a (hand e). &#13;
 According to Additio 2, Gäbrä Mänfäs Qǝddus donated the Ms. to Däbrä Dammo; he is also mentioned on fols. 83rb, 215vb (Text III-4b, hand d).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1508</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1540</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to Additio 2, the book was donated in the time of King Ləbnä Dəngəl (r. 1508-40).&#13;
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to Additio 2, the book was donated in the time of King Lǝbnä Dǝngǝl (r. 1508-40).&#13;
 Quires III, V-XXVIII, XXXIV date to the first half of the 16th cent.&#13;
 Quires IV, XXIX-XXXIII date to the 18th cent.&#13;
 Quires I and II date to a more recent time (19th cent.?).&#13;
@@ -167,21 +167,21 @@ Hand e: fols. 14ra-25vb, 216ra-251ra; quires IV, XXIX-XXXIII (Texts III-2, III-3
 ይበል፡ ዲ፡ for ይበል፡ ዲያቆን፡ (fol. 13rb)</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text III-1b, partly with interlineal musical notation, contains:&#13;
-- Ṣälotä zä-yǝbǝl ˀǝmqǝdmä yanbǝbu täˀamriha lä-ˀәgzǝˀtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary. .." (fols. 12vb-13vb)&#13;
+- Ṣälotä zä-yǝbǝl ʾǝmqǝdmä yanbǝbu täʾamriha lä-ʾәgzǝʾtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary. .." (fols. 12vb-13vb)&#13;
 - Excerpt from the Gospel of John (Jn. 19:25-27) (fol. 13vb).&#13;
 &#13;
 Text III-2 includes the hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl bä-kəlˀe Maryam wäladitä ˀamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 15va-vb)&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam Mariham ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fols. 15vb-16ra) (cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fol. 16ra-vb).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl bä-kǝlʾe Maryam wäladitä ʾamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 15va-vb)&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam Mariham ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fols. 15vb-16ra) (cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..." (fol. 16ra-vb).&#13;
 &#13;
 All miracles of St. Mary are numbered. &#13;
 Miracles 1-3 of Text III-4b are followed by a hymn:&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam ˀǝm-betä mängǝśt wä-ˀǝm-betä kahǝnät ... "O my Lady Mary, from the house of Kingdom and the house of Priesthood ..." (fol. 28va)&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam ḫoḫətä məśraq zä-täśämäyki ... "O my Lady Mary, Threshold of the East have you been called ... " (fol. 29ra).&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam mälakotawit pilas zä-adḫǝnkiyo ˀǝm-kwǝnäne lä-aḥadu-mänäkos ... "O my Lady Mary, Divine Temple ..." (fol. 29vb)&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam ʾǝm-betä mängǝśt wä-ʾǝm-betä kahǝnät ... "O my Lady Mary, from the house of Kingdom and the house of Priesthood ..." (fol. 28va)&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam ḫoḫǝtä mǝśraq zä-täśämäyki ... "O my Lady Mary, Threshold of the East have you been called ... " (fol. 29ra).&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam mälakotawit pilas zä-adḫǝnkiyo ʾǝm-kwǝnäne lä-aḥadu-mänäkos ... "O my Lady Mary, Divine Temple ..." (fol. 29vb)&#13;
 &#13;
-Fol. 252v contains an ˀarke-hymn addressing different saints and an ownership note, mentioning a certain ˀabunä Täṭämqä Mädḫǝn, son of ˀabba Samuˀel (fol. 252vb).</otherdetail>
+Fol. 252v contains an ʾarke-hymn addressing different saints and an ownership note, mentioning a certain ʾabunä Täṭämqä Mädḫǝn, son of ʾabba Samuʾel (fol. 252vb).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

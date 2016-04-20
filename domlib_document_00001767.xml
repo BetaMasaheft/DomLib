@@ -6,26 +6,26 @@
 </regbys>
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-12-07</regdate>
 </regdates>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary" / Mäṣḥafä ṭomar "Book of the Letter (from Heaven)" / Śǝrˁatä fäws mänfäsawi “Order of Spiritual Medicine”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary" / Mäṣḥafä ṭomar "Book of the Letter (from Heaven)" / Śǝrʿatä fäws mänfäsawi “Order of Spiritual Medicine”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 3ra-61vb)&#13;
-I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 3ra-7rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 3ra-61vb)&#13;
+I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 3ra-7rb)&#13;
 I-2) Introductory exhortation and hymns (fols. 7rb-9vb)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki ... "I worship Thee ..." (fols. 9vb-10va)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 52 miracles (fols. 11ra-61vb)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki ... "I worship Thee ..." (fols. 9vb-10va)&#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 52 miracles (fols. 11ra-61vb)&#13;
 II) Mäṣḥafä ṭomar "Book of the Letter (from Heaven)" (fols. 62ra-66va) &#13;
-III) Śǝrˁatä fäws mänfäsawi “Order of Spiritual Medicine” (fols. 66va-68va), unidentified&#13;
+III) Śǝrʿatä fäws mänfäsawi “Order of Spiritual Medicine” (fols. 66va-68va), unidentified&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub20"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mäsqäl and ˀAmätä Ṣǝyon Wälättä Giyorgis are mentioned in supplication formulas throughout Text I and in the concluding formula of Text II.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mäsqäl and ʾAmätä Ṣǝyon Wälättä Giyorgis are mentioned in supplication formulas throughout Text I and in the concluding formula of Text II.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -94,21 +94,21 @@ The scribe did not use the bottom ruled line in fols. 3r-4v.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting becomes less regular on some folios (cp. fols. 43v, 45v).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Name of St. Mary; names of the donors; groups of lines on the incipit page of Texts I-1 and I-4; incipit of all other texts, incipit of sections of most of the texts and section numbers of Text I-4; the words sälam "salutation" in Texts I-1 and ˀesäggəd "I worship" in Text I-3; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Name of St. Mary; names of the donors; groups of lines on the incipit page of Texts I-1 and I-4; incipit of all other texts, incipit of sections of most of the texts and section numbers of Text I-4; the words sälam "salutation" in Texts I-1 and ʾesäggǝd "I worship" in Text I-3; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1 contains:&#13;
-- Ṣälotä zä-yǝbǝl ˀǝmqǝdmä yanbǝbu täˀamriha lä-ˀәgzǝˀtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary ...") (fols. 7ra)&#13;
+- Ṣälotä zä-yǝbǝl ʾǝmqǝdmä yanbǝbu täʾamriha lä-ʾәgzǝʾtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary ...") (fols. 7ra)&#13;
 - Excerpt from the Gospel of John (Jn. 19:25-27) (fol. 7ra-rb).&#13;
 &#13;
 Text I-2 includes the following hymns:&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl bä-kəlˀe Maryam Mariham wäladitä ˀamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 8va-vb)&#13;
-- ˀO-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam Mariham ˀəmmu lä-ˀIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fols. 8vb-9ra l.10)(cp. ChRep no. 373)&#13;
-- Sälam läki ˀo-ˀәgzǝˀtǝyä qəddəst dəngəl Maryam ˀəmmä mädḫǝn wä-ˀəmmä bərhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."  (fol. 9ra l.10-vb).&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl bä-kǝlʾe Maryam Mariham wäladitä ʾamlak ... "O my Lady, Holy Two-fold Virgin Mary, Godbearing ..." (fol. 8va-vb)&#13;
+- ʾO-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam Mariham ʾǝmmu lä-ʾIyäsus Krǝstos kähali ... "O my Lady, Holy Virgin Mary, Mother of Jesus Christ the Almighty ..." (fols. 8vb-9ra l.10)(cp. ChRep no. 373)&#13;
+- Sälam läki ʾo-ʾәgzǝʾtǝyä qǝddǝst dǝngǝl Maryam ʾǝmmä mädḫǝn wä-ʾǝmmä bǝrhan ... "Salutation to you, o my Lady, Holy Virgin Mary, Mother of the Saviour and Mother of the Light ..."  (fol. 9ra l.10-vb).&#13;
 &#13;
 Some miracles of Mary (Text I-4) are (erroneously) numbered.&#13;
 The 1st and 7th miracle are followed by a hymn:&#13;
-- ˀO-ˀәgzǝˀtǝyä Maryam ˀǝm-betä mängǝśt wä-ˀǝm-betä kahǝnät ... "O my Lady Mary, from the house of Kingdom and the house of Priesthood ..." (fol. 12va)&#13;
-- (ˀO-ˀәgzǝˀtǝyä Maryam) ḫoḫətä məśraq zä-täsämäyki ... "(O my Lady Mary), Threshold of the East have you been called ..." (fol. 20rb).&#13;
+- ʾO-ʾәgzǝʾtǝyä Maryam ʾǝm-betä mängǝśt wä-ʾǝm-betä kahǝnät ... "O my Lady Mary, from the house of Kingdom and the house of Priesthood ..." (fol. 12va)&#13;
+- (ʾO-ʾәgzǝʾtǝyä Maryam) ḫoḫǝtä mǝśraq zä-täsämäyki ... "(O my Lady Mary), Threshold of the East have you been called ..." (fol. 20rb).&#13;
 &#13;
 Text III (different from the work Mäṣḥafä fäws mänfäsawi) is attested also in Mss. DZ-011, MHG-006; it is different from Mäṣḥafä fäws mänfäsawi containede in DD-016 and BGY-002.</otherdetail>
 </otherdetails>

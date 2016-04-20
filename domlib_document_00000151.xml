@@ -11,29 +11,29 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Miracles of the Trinity, Archangel Michael, Jesus, Gäbrä Mänfäs Qəddus</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Miracles of the Trinity, Archangel Michael, Jesus, Gäbrä Mänfäs Qǝddus</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śərˁat, The rite of al-Muˁallaqah (fols. 3ra-8ra)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 8ra-9rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śǝrʿat, The rite of al-Muʿallaqah (fols. 3ra-8ra)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 8ra-9rb)&#13;
 I-3) Introductory exhortation (fols. 9rb-11va)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: ca. 25 miracles (fols. 11va-32va)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: ca. 25 miracles (fols. 11va-32va)&#13;
 II) Miracles of the Trinity, Archangel Michael, Jesus (fols. 32va-37rb)&#13;
 I-5) A hymn to the Virgin (fols. 38ra-39ra)&#13;
-III) Täˀamrä Gäbrä Mänfäs Qəddus "Miracles of Gäbrä Mänfäs Qəddus": 2 miracles (fols. 38ra-41rb).</shortcontent>
+III) Täʾamrä Gäbrä Mänfäs Qǝddus "Miracles of Gäbrä Mänfäs Qǝddus": 2 miracles (fols. 38ra-41rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">In the supplication formula on fol. 35ra ˀabunä Wäldä Mikaˀel is mentioned as the scribe.&#13;
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">In the supplication formula on fol. 35ra ʾabunä Wäldä Mikaʾel is mentioned as the scribe.&#13;
 The same scribe copied Mss. AP-047, MA-002.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ḫaylä Śǝllase, Wälättä ˀAnanya, Gäbrä Ṣadǝqan (supplication formulas, e.g., fol. 36rb); Ḫaylä Śǝllase, Gäbrä Ṣadǝqan, Kidanä Maryam (fol. 41rb)</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ḫaylä Śǝllase, Wälättä ʾAnanya, Gäbrä Ṣadǝqan (supplication formulas, e.g., fol. 36rb); Ḫaylä Śǝllase, Gäbrä Ṣadǝqan, Kidanä Maryam (fol. 41rb)</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Letter of Eusebius to Carpianus (fol. 130va-vb)&#13;
 II)Gospel of Matthew (fols. 1ra-47vb)&#13;
 - List of the “tituli” for the Gospel of Matthew – 67 titles (fol. 130ra-rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 1ra-47vb)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 1ra-47vb)&#13;
 - short postscript to the Gospel of Matthew, erroneously named Luke in the postscript (fol. 47vb)&#13;
 III)Gospel of Mark (fols. 47vb-73vb)&#13;
 - List of the “tituli” for the Gospel of Mark – 58 titles (fols. 47vb-48rb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 49ra-73vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 49ra-73vb)&#13;
 - short postscript to the Gospel of Mark (fol. 73vb)&#13;
 IV)Gospel of Luke (fols. 71vb-122va)&#13;
 - List of the “tituli” for the Gospel of Luke – 83 titles (fols. 71vb-72vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 73ra-122va)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 73ra-122va)&#13;
 - short postscript to the Gospel of Luke (fol. 122va)&#13;
 V)Gospel of John (fols. 122va-129vb)&#13;
 - List of the “tituli” for the Gospel of John – 19 titles (fol. 122va-vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 123ra-129vb), incomplete</shortcontent>
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 123ra-129vb), incomplete</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="ˀAraˁro Täklä Haymanot / ATH"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="ʾAraʿro Täklä Haymanot / ATH"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="ˀAraˁro Täklä Haymanot / ATH"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="ʾAraʿro Täklä Haymanot / ATH"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The handwriting is similar to that of Ms. QQM-005.</copyist>
 </copyists>
@@ -115,7 +115,7 @@ For details concerning the traditional introduction texts s. R.W. COWLEY, “New
 &#13;
 Chi rho (s. fols. 44r, 75v, etc.).&#13;
 &#13;
-The "Golden Gospel book" of the church of ˀAraˤro Täklä Haymanot.</otherdetail>
+The "Golden Gospel book" of the church of ʾAraˤro Täklä Haymanot.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

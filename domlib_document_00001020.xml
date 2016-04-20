@@ -11,16 +11,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Apostolic Epistles / Raˀǝyä Yoḥannǝs "Revelation of John" / Gǝbrä ḥawaryat "Acts of the Apostles"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Apostolic Epistles / Raʾǝyä Yoḥannǝs "Revelation of John" / Gǝbrä ḥawaryat "Acts of the Apostles"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälˀǝktä Ṗeṭros qädamawi "First Epistle of Peter" [1 Peter] (fols. 3ra-11ra)&#13;
-II) Mälˀǝktä Ṗeṭros dagǝmawi "Second Epistle of Peter" [2 Peter] (fols. 11ra-15va)&#13;
-III) Mälˀǝktä Yoḥannǝs qädamawi "First Epistle of John" [1 John] (fols. 15va-22va)&#13;
-IV) Mälˀǝktä Yoḥannǝs dagǝmawi "Second Epistle of John" [2 John] (fols. 22va-23va)&#13;
-V) Mälˀǝktä Yoḥannǝs śalǝsawi "Third Epistle of John" [3 John] (fols. 23va-24va)&#13;
-VI) Mälˀǝktä Yaˁqob "Epistles of Jacob" [Jas.] (fols. 24va-30vb)&#13;
-VII) Mälˀǝktä Yǝhuda "Epistle of Judah" [Jude] (fols. 30vb-32vb)&#13;
-VIII) Raˀǝyä Yoḥannǝs "Revelation of John" [Rev.] (fols. 33ra-62rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälʾǝktä Ṗeṭros qädamawi "First Epistle of Peter" [1 Peter] (fols. 3ra-11ra)&#13;
+II) Mälʾǝktä Ṗeṭros dagǝmawi "Second Epistle of Peter" [2 Peter] (fols. 11ra-15va)&#13;
+III) Mälʾǝktä Yoḥannǝs qädamawi "First Epistle of John" [1 John] (fols. 15va-22va)&#13;
+IV) Mälʾǝktä Yoḥannǝs dagǝmawi "Second Epistle of John" [2 John] (fols. 22va-23va)&#13;
+V) Mälʾǝktä Yoḥannǝs śalǝsawi "Third Epistle of John" [3 John] (fols. 23va-24va)&#13;
+VI) Mälʾǝktä Yaʿqob "Epistles of Jacob" [Jas.] (fols. 24va-30vb)&#13;
+VII) Mälʾǝktä Yǝhuda "Epistle of Judah" [Jude] (fols. 30vb-32vb)&#13;
+VIII) Raʾǝyä Yoḥannǝs "Revelation of John" [Rev.] (fols. 33ra-62rb)&#13;
 IX) Gǝbrä ḥawaryat "Acts of the Apostles" [Acts] (fols. 63ra-129ra)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
@@ -33,7 +33,7 @@ Additiones 1-2.</shortcontent>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The Ms. was written by the same hand as the one of AP-008. The handwriting is similar, but not identical to that of AP-038.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest (qäsis) Zä-Mikaˀel and his wife Fǝqǝrtä (or Qǝddǝstä) Krǝstos are mentioned in the supplication formulas (fol. 62rb, 32vb). Both are also mentioned in Additio 2 of AP-008. Furthermore, Zä-Mikaˀel is mentioned in the supplication formulas in Ms. Ap-038.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest (qäsis) Zä-Mikaʾel and his wife Fǝqǝrtä (or Qǝddǝstä) Krǝstos are mentioned in the supplication formulas (fol. 62rb, 32vb). Both are also mentioned in Additio 2 of AP-008. Furthermore, Zä-Mikaʾel is mentioned in the supplication formulas in Ms. Ap-038.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1670</fdating>
 </fdatings>
@@ -136,18 +136,18 @@ Some distinctive features appear throughout the Ms.:&#13;
 -	ጥ is written with long curves.&#13;
 Though the handwriting appears very irregular throughout the Ms. (cp., fols. 32v-33r) it is the same as the one of AP-008 and also similar to that of AP-038.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">A few lines in the incipit page of Texts II and VI, incipits of all other texts; in Text V the names of St. John, Archangel Michael, the words like mǝnt yǝbe mänfäs qǝddus (e.g., fols. 34vab, 37ra), wä-sobä fätḥa (e.g., fols. 40vab, 41rab), wä-yǝbe lä-ni (e.g., fols. 39vb, 42vb), wä-sobä ṭäqˁa (e.g., fols. 43vb, 44vb, 47va), wä-ˀǝmzǝ  (e.g., fols. 51ra, 54rb, 57vb, 58ra), a few other words (e.g., fols. 50ra, 51vb, 52vb, 53ra, 54rb); the name of St. Mary in Text VI, incipit of some sections (e.g., fols. 69va, 73va); the word kǝfl "section" and section numbers; elements of the punctuation signs and text dividers; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">A few lines in the incipit page of Texts II and VI, incipits of all other texts; in Text V the names of St. John, Archangel Michael, the words like mǝnt yǝbe mänfäs qǝddus (e.g., fols. 34vab, 37ra), wä-sobä fätḥa (e.g., fols. 40vab, 41rab), wä-yǝbe lä-ni (e.g., fols. 39vb, 42vb), wä-sobä ṭäqʿa (e.g., fols. 43vb, 44vb, 47va), wä-ʾǝmzǝ  (e.g., fols. 51ra, 54rb, 57vb, 58ra), a few other words (e.g., fols. 50ra, 51vb, 52vb, 53ra, 54rb); the name of St. Mary in Text VI, incipit of some sections (e.g., fols. 69va, 73va); the word kǝfl "section" and section numbers; elements of the punctuation signs and text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">On some fols. the word qum or qwǝm ("stop", "stand") is written in red by a secondary hand (?) in the intercolumn or in the upper margin. In addition a red curved line with one or two circle at each end is drawn occasionally between two words of the main text (e.g., fols. 16r, 17r, 94r, 101rb, 111ra). This term may indicate a particular passage of the text or a certain section or may serve as a reminder for the reader to command that the congregation "stands up" (cp. UhlPal 91).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: 9pt"&gt;&lt;span style="font-size:9.0pt;line-height:&amp;#10;115%;Arial"&gt;Fol.32vb: &lt;/span&gt;&lt;span style="font-size:9.0pt;line-height:115%;Arial"&gt;Supplication for the donor(s) and for the "&lt;/span&gt;&lt;span unicode="" style="font-size:9.0pt;line-height:&amp;#10;115%;Arial"&gt;people of &lt;/span&gt;&lt;span new="" style="font-size:9.0pt;line-height:115%;Arial"&gt;&amp;#7766;&amp;#228;raqli&amp;#7789;os".&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>Zä-Mikaˀel and his wife Fǝqǝrtä Krǝstos (but cp. Qǝddǝstä Krǝstos in the supplication formula on fol. 62ra) are mentioned. &#13;
+&lt;/span&gt;&lt;/p&gt;</cont><det>Zä-Mikaʾel and his wife Fǝqǝrtä Krǝstos (but cp. Qǝddǝstä Krǝstos in the supplication formula on fol. 62ra) are mentioned. &#13;
 The note is written by the same hand as Additio 1 in AP-008.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 9pt"&gt;Fol.62rb: &lt;/span&gt;&lt;span style="line-height: 115%; font-size: 9pt"&gt;E&lt;/span&gt;&lt;span style="line-height: 115%; font-size: 9pt"&gt;xcommunication against those who stole the book or erased its text.&lt;/span&gt;&lt;/p&gt;</cont><det>Written by the same hand as Additio 1 (?).</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title መ/. ግብረ ልኡካን "Mäṣḥafä gǝbrä lǝˀukan" is written on the front board with yellow modern paint.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title መ/. ግብረ ልኡካን "Mäṣḥafä gǝbrä lǝʾukan" is written on the front board with yellow modern paint.&#13;
 - Erasures: e.g., fols. 14vb, 24vb, 44va, 48va, 55rb.&#13;
 - Corrections written interlineally: fols. 13ra, 32rb, 32vb, sometimes in the main, sometimes in a secondary hand.&#13;
 - Crude note: fol. 62rb.&#13;

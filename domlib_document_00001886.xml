@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 3ra-25rb; 27ra-28vb)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 28vb-64vb)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 28vb-64vb)&#13;
 III) Anaphoras (fols. 64vb-182rb)&#13;
 III-1) Anaphora of the Apostles (fols. 64vb-83ra)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 83ra-87ra)&#13;
@@ -29,17 +29,17 @@ III-11) Anaphora of St Athanasius of Alexandria (fols. 150ra-166ra)&#13;
 III-12) Anaphora of St Gregory (“Hosanna-liturgy of St Gregory”) (fols. 166rb-171vb)&#13;
 III-13) Anaphora of St Cyril of Alexandria (fols. 171vb-178va)&#13;
 III-14) Second Anaphora of St Gregory (“Christmas-liturgy of St Gregory”) (fols. 178va-182rb)&#13;
-IV) ˀAnbǝro ˀǝd of different Anaphoras grouped together (fols. 182va-184ra)&#13;
+IV) ʾAnbǝro ʾǝd of different Anaphoras grouped together (fols. 182va-184ra)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaˀel Bet Mäḵaˁ / DSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaˀel Bet Mäḵaˁ / DSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahәl Qәddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions ˀabba Gäbrä ˀƎgziˀabəḥer as the donor. The note also mentions the names of the donor’s parents and several other relatives.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Additio 1 mentions ʾabba Gäbrä ʾƎgziʾabǝḥer as the donor. The note also mentions the names of the donor’s parents and several other relatives.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1841</fdating>
 </fdatings>

@@ -14,7 +14,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase, Missal</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 5ra-26ra)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 26ra-50rb)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 26ra-50rb)&#13;
 III) Anaphoras (fols. 50va-153ra)&#13;
 III-1) Anaphora of the Apostles (fols. 50va-60va)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 61rb-64rb), preceded by an excerpt from “The Book of the Testament” (fols. 60va-61rb)&#13;
@@ -35,9 +35,9 @@ Additiones 1-8.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ˀƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="ʾƎnda Ḥawaryat Ṗeṭros wä-Ṗawlos / EHPP"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">According to Additio 6, the commissioner was ras Sǝbḥat.</copyist>
 </copyists>
@@ -137,7 +137,7 @@ The incipit pages of most of the constituent texts are written alternately in re
 ይርከ፡ ሣ፡ እ፡ for ይርከበነ፡ ሣህልከ፡ እግዚኦ፡&#13;
 በእ፡ ነ፡ ገብር፡ እኁ፡ እገ፡ for በእንተ፡ ገብርከ፡ እኁነ፡ እገሌ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Liturgical indications (directives) concerning particular Anaphoras are written partly in Gǝˁǝz, partly in Amharic (s. fols. 111rb, 118rb, etc.).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Liturgical indications (directives) concerning particular Anaphoras are written partly in Gǝʿǝz, partly in Amharic (s. fols. 111rb, 118rb, etc.).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

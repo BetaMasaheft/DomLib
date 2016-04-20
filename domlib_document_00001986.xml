@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)Daily Office Prayers and Litanies (fols. 4ra-18va)&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 18va-43vb)&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 18va-43vb)&#13;
 III) Anaphoras (fols. 44ra-124ra)&#13;
 III-1) Anaphora of the Apostles (fols. 44ra-55ra)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 55ra-58vb)&#13;
@@ -34,9 +34,9 @@ Additio 1; colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ʿƎmbäyto Täklä Haymanot / ETH"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ʿƎmbäyto Täklä Haymanot / ETH"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">märigeta Dǝrar</nmcopyist>
 </nmcopyists>
@@ -133,9 +133,9 @@ The incipit parts of some of the constituent texts are written alternately in re
 እግ፡ ተሣ፡ for እግዚኦ፡ ተሣሀለነ፡&#13;
 ወመ፡ ቅዱ፡ for ወመንፈስ፡ ቅዱስ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In the beginning part of the Ms. (s. fols. 8vb, 9ra, etc.), Ḫaylä Śǝllase is mentioned as the ruling King. On fol. 118ra, the name of the monarch is no longer mentioned, substituted by the epithet mäfqäre ˀƎgziˀabǝḥer "God-loving" (s. also Colophon, Further details).&#13;
-- Fols. 59ra, 107vb, etc.: Tewoflos is mentioned as the Patriarch. Supplication formula on fol. 107vb also mentions bishop ˀabba Yoḥannǝs, ˀabba Tito, ˀabba Filmona, ˀabba ˀƎndǝraniqos and ˀabba Basliqos.&#13;
-- The hymn Śärawitä mälaˀǝktihu lä-mädḫane ˁaläm "Hosts of the angels of the Saviour of the world" is written in compressed script (s. fols. 109rb, 114ra, etc.).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In the beginning part of the Ms. (s. fols. 8vb, 9ra, etc.), Ḫaylä Śǝllase is mentioned as the ruling King. On fol. 118ra, the name of the monarch is no longer mentioned, substituted by the epithet mäfqäre ʾƎgziʾabǝḥer "God-loving" (s. also Colophon, Further details).&#13;
+- Fols. 59ra, 107vb, etc.: Tewoflos is mentioned as the Patriarch. Supplication formula on fol. 107vb also mentions bishop ʾabba Yoḥannǝs, ʾabba Tito, ʾabba Filmona, ʾabba ʾƎndǝraniqos and ʾabba Basliqos.&#13;
+- The hymn Śärawitä mälaʾǝktihu lä-mädḫane ʿaläm "Hosts of the angels of the Saviour of the world" is written in compressed script (s. fols. 109rb, 114ra, etc.).&#13;
 - Fol. 104 is smaller in size than the rest of the folios; its recto side contains Additio 1.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

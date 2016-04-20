@@ -14,22 +14,22 @@
 </wsystems>
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Apostolic Epistles / Gǝbrä ḥawaryat "Acts of the Apostles"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälˀǝktä Ṗeṭros qädamawi "First Epistle of Peter" [1 Peter] (fols. 6rv, 8r, 12r-13v, 17r-18v, 23rv), incomplete&#13;
-II) Mälˀǝktä Ṗeṭros dagǝmawi "Second Epistle of Peter" [2 Peter] (fols. 8rb-8vb, 11rv, 19ra-20vb, 24rv)&#13;
-III) Mälˀǝktä Yoḥannǝs qädamawi "First Epistle of John" [1 John] (fols. 9ra-10vb, 14ra-16vb, 21ra-22vb)&#13;
-IV) Mälˀǝktä Yoḥannǝs dagǝmawi "Second Epistle of John" [2 John] (fols. 22vb, 25ra-va)&#13;
-V) Mälˀǝktä Yoḥannǝs śalǝsawi "Third Epistle of John" [3 John] (fols. 25va-26va)&#13;
-VI) Mälˀǝktä Yaˁqob "Epistles of Jacob" [Jas.] (fols. 26va-33ra)&#13;
-VII) Mälˀǝktä Yǝhuda "Epistle of Judah" [Jude] (fols. 33ra-35ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälʾǝktä Ṗeṭros qädamawi "First Epistle of Peter" [1 Peter] (fols. 6rv, 8r, 12r-13v, 17r-18v, 23rv), incomplete&#13;
+II) Mälʾǝktä Ṗeṭros dagǝmawi "Second Epistle of Peter" [2 Peter] (fols. 8rb-8vb, 11rv, 19ra-20vb, 24rv)&#13;
+III) Mälʾǝktä Yoḥannǝs qädamawi "First Epistle of John" [1 John] (fols. 9ra-10vb, 14ra-16vb, 21ra-22vb)&#13;
+IV) Mälʾǝktä Yoḥannǝs dagǝmawi "Second Epistle of John" [2 John] (fols. 22vb, 25ra-va)&#13;
+V) Mälʾǝktä Yoḥannǝs śalǝsawi "Third Epistle of John" [3 John] (fols. 25va-26va)&#13;
+VI) Mälʾǝktä Yaʿqob "Epistles of Jacob" [Jas.] (fols. 26va-33ra)&#13;
+VII) Mälʾǝktä Yǝhuda "Epistle of Judah" [Jude] (fols. 33ra-35ra)&#13;
 VIII) Gǝbrä ḥawaryat "Acts of the Apostles" [Acts] (fols. 35va-93vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zǝkrä Maryam is mentioned in the concluding supplication (fol. 93vb).</donor>
 </donors>
@@ -147,7 +147,7 @@ Some fols. have an additional ruled line in the upper margin (fols. 38r-39r).</r
 1:1-2:23 (fols. 9ra-10vb); 2:24-4:17 (fols. 14ra-16vb); 4:17-5:20 (fols. 21ra-22vb)&#13;
 2 John&#13;
 1:1-4 (fol. 22vb); 1:4-13 (fol. 25ra-va).&#13;
--Text VIII is divided into 63 "sections" (kəfl). &#13;
+-Text VIII is divided into 63 "sections" (kǝfl). &#13;
 -In a few fols. the word qum "stop", "stand" (fols. 15rb, 28ra 48ra), frequently in abbreviated form (ቁ፡) by a crude secondary hand, is written interlineally or in the margins throughout the Ms.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 1ra-15vb), incomplete: beginning missing&#13;
-II) Śǝrˁatä qǝddase “Ordinary of the Mass” (fols. 15vb-31vb), incomplete: end part missing&#13;
+II) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 15vb-31vb), incomplete: end part missing&#13;
 III) Anaphoras (fols. 32ra-107vb)&#13;
 III-1) Anaphora of the Apostles (fols. 32ra-41vb)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 41vb-44va)&#13;
@@ -36,17 +36,17 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="SiË&#129;et QÓ&#153;ddÓ&#153;st Maryam / GMS"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˁAśratä Maryam</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʿAśratä Maryam</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">S. Additio 1.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˁAmätä Mikaˀel is mentioned as the donor (s. Additio 1, supplication formulas) and ˀabunä Kidanä Maryam as the commissioner (Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʿAmätä Mikaʾel is mentioned as the donor (s. Additio 1, supplication formulas) and ʾabunä Kidanä Maryam as the commissioner (Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1841</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1852</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Fols. 8rb, 10va, 93rb, etc.: Ṗeṭros is mentioned as the Patriarch and ˀabunä Sälama as the Metropolitan. Peter VII was Patriarch of Alexandria in 1809-52; Sälama III was Metropolitan of Ethiopia in 1841-67.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Fols. 8rb, 10va, 93rb, etc.: Ṗeṭros is mentioned as the Patriarch and ʾabunä Sälama as the Metropolitan. Peter VII was Patriarch of Alexandria in 1809-52; Sälama III was Metropolitan of Ethiopia in 1841-67.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>

@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction&#13;
 - Mäqdǝmä Wängel “Introduction to the Gospels” (fols. 2ra-5ra)&#13;
@@ -46,9 +46,9 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000050" xlink:title="Mänäbäyti Ṣәyon Maryam/ MSM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Maryam is mentioned in the postscripts to the Gospels (fols. 62vb, 98va, 155rb and 201vb). Other persons are mentioned in the headings of the Gospels (Gäbrä Maryam, Kǝflä Maryam and Zärˀa Buruk), written in a different hand in reddish-brown ink, whereas the name of Täklä Maryam has been partly erased.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Maryam is mentioned in the postscripts to the Gospels (fols. 62vb, 98va, 155rb and 201vb). Other persons are mentioned in the headings of the Gospels (Gäbrä Maryam, Kǝflä Maryam and Zärʾa Buruk), written in a different hand in reddish-brown ink, whereas the name of Täklä Maryam has been partly erased.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Zärˀa Buruk (s. Additio 1). The Ms. might have been in the library of Mäqdäla Mädḫane ˁAläm.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Zärʾa Buruk (s. Additio 1). The Ms. might have been in the library of Mäqdäla Mädḫane ʿAläm.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -117,7 +117,7 @@ The ruling pattern is different for the canon tables.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful, by well-trained hand</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors or scribe; title of each Gospel written in the upper margin of the incipit page; incipits of the chapters; numbers of the chapters; the word mǝˁǝraf; titles of the chapters written in the upper margins; elements of the punctuation signs and Ethiopic numerals; elements of the decorated quire marks; some of the donors names and titles of the chapters (written in the upper margins) are written in reddish-brown ink; in the incipit page of each Gospel, a few lines are rubricated (one red line alternating with one black line).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors or scribe; title of each Gospel written in the upper margin of the incipit page; incipits of the chapters; numbers of the chapters; the word mǝʿǝraf; titles of the chapters written in the upper margins; elements of the punctuation signs and Ethiopic numerals; elements of the decorated quire marks; some of the donors names and titles of the chapters (written in the upper margins) are written in reddish-brown ink; in the incipit page of each Gospel, a few lines are rubricated (one red line alternating with one black line).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

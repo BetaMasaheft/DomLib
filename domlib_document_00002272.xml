@@ -19,11 +19,11 @@ Additiones 1-2.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub11"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub12"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Gäbrä Kidane Ṭərunäh is mentioned in the supplication formulas (fols. 26r, 38r).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Gäbrä Kidane Ṭǝrunäh is mentioned in the supplication formulas (fols. 26r, 38r).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -103,7 +103,7 @@ Ink faded and abraded on fol. 1r.</det></additional>
 </extras>
 <miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 16r: Cross and birds.</info><details>Coloured (red, black) talismanic drawing.</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 17v: Geometric motifs.</info><details>Coloured (red, black) talismanic drawing.</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 38v: Angel.</info><details>Coloured (red, black) talismanic drawing of angel Mikaˀel.</details></miniature>
+<miniature xml:lang="en" inherited="0"><info>Fol. 38v: Angel.</info><details>Coloured (red, black) talismanic drawing of angel Mikaʾel.</details></miniature>
 </miniatures>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Fol. 5r: Coloured (red, black) ornamental band; geometric motifs.</frame>
 </frames>

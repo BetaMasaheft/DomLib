@@ -10,7 +10,7 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 2ra-10va)&#13;
 - Mäqdәmä Wängel “Introduction to the Gospel” (fols. 2ra-6rb)&#13;
@@ -43,7 +43,7 @@ Additiones 1-5.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000212" xlink:title="Ë&#128;Enda á¸¤awaryat á¹&#150;eá¹­ros wÃ¤-á¹&#150;awlos / EHPP"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand seems to be the same as that of Dәrsanä Mikaˀel manuscripts of May ˀAbˀa Maryam (BQM-009) and Golˁa Yoḥannәs (BGY-013), cp. also AMM-007.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The hand seems to be the same as that of Dәrsanä Mikaʾel manuscripts of May ʾAbʾa Maryam (BQM-009) and Golʿa Yoḥannәs (BGY-013), cp. also AMM-007.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -127,7 +127,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings of the Gospels; the word mәˁәraf, chapter numbers and the signs between them; usually, two lines on the incipit of each chapter; elements of the punctuation signs; Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; headings of the Gospels; the word mәʿәraf, chapter numbers and the signs between them; usually, two lines on the incipit of each chapter; elements of the punctuation signs; Ethiopic numerals.&#13;
 Incipit of Text I and of its subsections; incipits of Text II, III, IV; incipits of the Evangelists' biographies; on the incipit pages of Text I, II, III, IV, IV, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The list of the “tituli” for the Gospel of Mark and John are missing.&#13;

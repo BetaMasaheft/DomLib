@@ -10,30 +10,30 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śəryätä ḫaṭiˀat “Prayer of Absolution of Sins”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śǝryätä ḫaṭiʾat “Prayer of Absolution of Sins”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 3ra-126va)&#13;
 - Discourse of St. Athanasius on death (fols. 3ra-7rb)&#13;
-- Mäṣḥaf zä-wäḍˀat ˀǝm-ˀIyärusalem “Book that Came from Jerusalem” (fols. 10va-18ra)&#13;
+- Mäṣḥaf zä-wäḍʾat ʾǝm-ʾIyärusalem “Book that Came from Jerusalem” (fols. 10va-18ra)&#13;
 - Lǝfafä ṣǝdq “Bandlet of Righteousness” (fols. 18ra-21va)&#13;
 - Mängädä sämay “Journey to Heaven” (fols. 21va-22rb)&#13;
 - Introduction (fols. 22ra-24vb)&#13;
-- Antiphons (kəśtät, ˀaryam, ˀabun) (fols. 29rb-va, 47ra-rb, 51va—52ra, 53rb-vb, 59vb, 61va-vb, 125ra-126va)&#13;
+- Antiphons (kǝśtät, ʾaryam, ʾabun) (fols. 29rb-va, 47ra-rb, 51va—52ra, 53rb-vb, 59vb, 61va-vb, 125ra-126va)&#13;
 - Homily by St. Jacob of Sarug for the funeral of priests and deacons (fols. 69ra-72ra)&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 87ra-91rb)&#13;
-II) Ṣälotä śəryätä ḫaṭiˀat “Prayer of Absolution of Sins” (fols. 119va-124vb), (cp. EMML 427(9))&#13;
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 87ra-91rb)&#13;
+II) Ṣälotä śǝryätä ḫaṭiʾat “Prayer of Absolution of Sins” (fols. 119va-124vb), (cp. EMML 427(9))&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub22"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngəl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngəl is mentioned as the scribe on fol. 9vb. He is attested as the scribe also in a few other Ms.: MY-019, AQG-002, MR-040, AGM-001.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngǝl is mentioned as the scribe on fol. 9vb. He is attested as the scribe also in a few other Ms.: MY-019, AQG-002, MR-040, AGM-001.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Kiros (secular name Wäldä Dawit) is mentioned as the donor in Additio 1 and in the supplication formulas. Besides, the names of six other individuals are mentioned in the supplication formulas.</donor>
 </donors>
@@ -112,7 +112,7 @@ The bottom ruled line was not used by the scribe on fols. 74r-79v.</rl-info></ta
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Angular.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; name of the scribe; two groups of lines in the incipit page of Text I, alternating with black lines; two initial lines of each section of the text; names of Hebrew letters in Ps. 118 (e.g., fols. 30vb, 31ra, 32vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words, e.g., halle luya (e.g., fols. 4ra, 5rb,), wä-tәbl (e.g., fols. 35ra, 42rb), ṣälləyu (e.g., fols. 25vb, 31vb), kəśtät (e.g., fols. 29rb, 47ra), qədmä wangle (e.g., fols. 31rb, 33ra), wä-ˀәmzә (fol. 30vb), wä-kaˁəbä (e.g., fols. 31va, 33rb).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; name of the scribe; two groups of lines in the incipit page of Text I, alternating with black lines; two initial lines of each section of the text; names of Hebrew letters in Ps. 118 (e.g., fols. 30vb, 31ra, 32vb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words, e.g., halle luya (e.g., fols. 4ra, 5rb,), wä-tәbl (e.g., fols. 35ra, 42rb), ṣällǝyu (e.g., fols. 25vb, 31vb), kǝśtät (e.g., fols. 29rb, 47ra), qǝdmä wangle (e.g., fols. 31rb, 33ra), wä-ʾәmzә (fol. 30vb), wä-kaʿǝbä (e.g., fols. 31va, 33rb).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ካ፡ for ይበል፡ ካሕን፡ (e.g., fols. 25vb, 26ra, 28ra)&#13;
 ይ፡ ሕ፡ for ይበል፡ ሕዝብ፡ (e.g., fols. 25vb, 26ra, 32rb)&#13;
@@ -122,7 +122,7 @@ The bottom ruled line was not used by the scribe on fols. 74r-79v.</rl-info></ta
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 126va-vb: Donation note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 126va-vb:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size:14.0pt;line-height:&amp;#10;115%;Arial Unicode MS"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4853;&amp;#4961; &amp;#4672;&amp;#4843;&amp;#4629;&amp;#4726;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4851;&amp;#4810;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4773;&amp;#4877;&amp;#4829;&lt;span style="font-size: small;"&gt;{&lt;/span&gt;&amp;#4773;&lt;span style="font-size: small;"&gt;}&lt;/span&gt;&amp;#4725;&amp;#4752;&amp;#4961; &lt;span style="font-size: small;"&gt;{&lt;/span&gt;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&lt;span style="font-size: small;"&gt;}&lt;/span&gt;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4781;&amp;#4613;&amp;#4752;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4778;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4720;&amp;#4768;&amp;#4635;&amp;#4754;&amp;#4961; &amp;#4704;&amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4704;&amp;#4648;&amp;#4776;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773;&amp;#4752;&amp;#4961; &amp;#4770;&amp;#4840;&amp;#4657;&amp;#4661;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661;&amp;#4961; &amp;#4840;&amp;#4608;&amp;#4617;&amp;#4961; &amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4649;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4778;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4824;&amp;#4640;&amp;#4648;&amp;#4675;&amp;#4961; &amp;#4808;&amp;#4824;&amp;#4936;&amp;#4624;&amp;#4675;&amp;#4961; &amp;#4813;&amp;#4873;&amp;#4824;&amp;#4961; &amp;#4616;&amp;#4845;&amp;#4777;&amp;#4757;&amp;#4961; &lt;span style="font-size: small;"&gt;&amp;lt;...&amp;gt;&lt;/span&gt;&amp;#4961; &amp;#4675;&amp;#4622;&amp;#4633;&amp;#4961; &amp;#4616;&amp;#4624;&amp;#4811;&amp;#4653;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4757;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note mentions Wäldä Dawit, who’s baptismal name is Wäldä Kidos, as the donor.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 126v: Record concerning a dispute (?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in a crude hand in a pencil and mentions names fitawrari Lämläm, qes Gäbrä Ṣadǝq and qes Gäbrä ˀAb.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 126v: Record concerning a dispute (?).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in a crude hand in a pencil and mentions names fitawrari Lämläm, qes Gäbrä Ṣadǝq and qes Gäbrä ʾAb.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Tämälläs-sign indicating the place where the omission, written in the upper margin, belongs: fol. 14vb.&#13;
 - The scribe used compressed script on fols. 29rb-va, 47ra-rb, 51va—52ra, 53rb-vb, 59vb, 61va-vb, 125ra-126va.&#13;

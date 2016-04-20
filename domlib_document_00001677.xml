@@ -16,9 +16,9 @@
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qәddus Mikaˀel  Märgaḥәya / QMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qәddus Mikaʾel  Märgaḥәya / QMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qәddus Mikaˀel  Märgaḥәya / QMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qәddus Mikaʾel  Märgaḥәya / QMM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1664</fdating>
 </fdatings>
@@ -26,7 +26,7 @@
 </tdatings>
 <dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Second half of the 17th century (?). &#13;
 Patriarch of Alexandria Matthew and Metropolitan of Ethiopia Krәstodolu II mentioned on fols. 2v-3r might be Matthew IV (in tenure 1660-76) and Krәstodolu II (in tenure 1664-71), resp.&#13;
-Metropolitan Sälama mentioned twice on fol. 4r is probably Sälama II (in tenure 1348/50-88/90), a possible translator of the Coptic baptismal ritual into Gәˁәz (s. EAE III, 439). &#13;
+Metropolitan Sälama mentioned twice on fol. 4r is probably Sälama II (in tenure 1348/50-88/90), a possible translator of the Coptic baptismal ritual into Gәʿәz (s. EAE III, 439). &#13;
 The handwriting of the Ms. doesn't look that old and suggests a later date (at least 18th century?).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
@@ -88,7 +88,7 @@ In some folios, the script does not follow the ruling lines (esp. fols. 3v, 4r, 
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre, irregular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; names of prelates; directives to the ministers and their abbreviations; titles of the books to be read; the words halle luya, ˀәgäle; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; names of prelates; directives to the ministers and their abbreviations; titles of the books to be read; the words halle luya, ʾәgäle; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;
 ይዲ፡ for ይብል፡ ዲያቆን፡&#13;

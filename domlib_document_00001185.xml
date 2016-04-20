@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 3r-228va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 3r-228va)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter” (from Heaven)” (228vb-231vc)&#13;
 - Table of contents (fols. 232ra-232vb)&#13;
 &#13;
@@ -24,9 +24,9 @@ Colophon.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000117" xlink:title="Gwaá¸¥got Ë&#128;IyÃ¤sus / GBI"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˀArsani and Śärḍä Dǝngǝl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾArsani and Śärḍä Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Possibly, the names ˀArsani and Śärḍä Dǝngǝl written at the upper margin of some fols. are the names of the scribes (zä-Arsani “of Arsani” on fols. 140r, 149v, 150r, 161v, 162r, 175v; zä-Śärḍä Dǝngǝl “of Śärḍä Dǝngǝl” on fol. 176r).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Possibly, the names ʾArsani and Śärḍä Dǝngǝl written at the upper margin of some fols. are the names of the scribes (zä-Arsani “of Arsani” on fols. 140r, 149v, 150r, 161v, 162r, 175v; zä-Śärḍä Dǝngǝl “of Śärḍä Dǝngǝl” on fol. 176r).</copyist>
 </copyists>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Priest Mänkǝr is mentioned as the sponsor of the Ms. in the colophon (fol. 232vc).</owner>
 </owners>
@@ -102,7 +102,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, by well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and members of their families; a few lines in the incipit page, alternating with black lines; two initial lines of each section of the text; elements of the punctuation signs; elements of Ethiopic numerals; some words like kəfl (e.g., 186vb, 199rc, 207rb), fəkkare (e.g., fols. 205vb, 206vb, 207rb), rabəˁ (e.g., fols. 208va, 209rb, 209va).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and members of their families; a few lines in the incipit page, alternating with black lines; two initial lines of each section of the text; elements of the punctuation signs; elements of Ethiopic numerals; some words like kǝfl (e.g., 186vb, 199rc, 207rb), fǝkkare (e.g., fols. 205vb, 206vb, 207rb), rabǝʿ (e.g., fols. 208va, 209rb, 209va).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ክ/ክፍ for ክፍል (10rb, 183va)</abbreviation>
 </abbreviations>

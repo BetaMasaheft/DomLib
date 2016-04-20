@@ -10,25 +10,25 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qəddase “Missal”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälotä ˁəṭan “Prayer of the Incense” (fols. 3ra-11rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälotä ʿǝṭan “Prayer of the Incense” (fols. 3ra-11rb)&#13;
 II) Directives for the ministers (fol. 11va)&#13;
 III) Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours” (fols. 12ra-15vb)&#13;
 IV) Daily Office Prayers and litanies (fols. 15vb-23rb)&#13;
 V) Zä-yǝnäggǝś zä-Yared (fol. 23rb-27ra)&#13;
-VI) Śärawitä mälaˀəktihu lä-mädḫane ˁaläm … “Hosts of the angels of the Saviour of the world …” (fols. 27ra-28vb)&#13;
+VI) Śärawitä mälaʾǝktihu lä-mädḫane ʿaläm … “Hosts of the angels of the Saviour of the world …” (fols. 27ra-28vb)&#13;
 VII) Ṣälotä haymanot, The Nicene Creed (fol. 29ra-va)&#13;
-VIII) Śərˁatä qəddase “Ordinary of the Mass” (fols. 31ra-61rb)&#13;
+VIII) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 31ra-61rb)&#13;
 IX) Anaphoras (fols. 61va-158va)&#13;
 &#13;
 Additiones 1-5.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of Habtä Śǝllase is mentioned in supplication formulas (e.g., fols. 39vb, 40ra, 61va, 99va, 114vb).</donor>
 </donors>
@@ -110,7 +110,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; incipits and headings of the texts und their sections; directives for the ministers or their abbreviations, partly the musical notation signs; the word kaˁbä; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; incipits and headings of the texts und their sections; directives for the ministers or their abbreviations, partly the musical notation signs; the word kaʿbä; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Throughout the Ms.:&#13;
 ይ፡ ካ፡ for ይቤ፡ ካህን፡&#13;

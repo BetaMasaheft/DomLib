@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers and Litanies (fols. 3r-22va)&#13;
-II) Śərˁatä qəddase “The Ordinary of the Mass” (fols. 22va-55va)&#13;
+II) Śǝrʿatä qǝddase “The Ordinary of the Mass” (fols. 22va-55va)&#13;
 III) Anaphoras (fols. 55va-153vb)&#13;
 III-1) Anaphora of the Apostles (fols. 55va-69va)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 69va-73vb)&#13;
@@ -32,9 +32,9 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qəddəst Maryam / MHG"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qǝddǝst Maryam / MHG"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qəddəst Maryam / MHG"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qǝddǝst Maryam / MHG"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest (qes) Gäbrä Maryam (s. Additio 1). The note mentions also the names of the donor’s parents.</donor>
 </donors>
@@ -42,7 +42,7 @@ Additio 1.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1913</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mənilək II (r. 1889-1913) is mentioned as the king on fols. 20ra, 49ra. Ṗeṭros is mentioned as the archbishop (liqä ṗaṗasənä) on fol. 55vb, the name of the metropolitan (ṗaṗasənä)seems to have been erased.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mǝnilǝk II (r. 1889-1913) is mentioned as the king on fols. 20ra, 49ra. Ṗeṭros is mentioned as the archbishop (liqä ṗaṗasǝnä) on fol. 55vb, the name of the metropolitan (ṗaṗasǝnä)seems to have been erased.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

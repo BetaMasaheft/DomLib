@@ -11,17 +11,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ˀamlak “Praise of God” / ˀArganonä wǝddase “The Harp of Praise”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase ʾamlak “Praise of God” / ʾArganonä wǝddase “The Harp of Praise”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ˀamlak “Praise of God” (fols. 2ra-123rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase ʾamlak “Praise of God” (fols. 2ra-123rb)&#13;
 I-1) Monday’s prayer of Basil of Caesarea (fols. 2ra-16ra)&#13;
 I-2) Tuesday’s prayer of Efrem the Syrian (fols. 16rb-39vb)&#13;
 I-3) Wednesday’s prayer of Efrem the Syrian (fols. 39vb-57ra)&#13;
-I-4) Thursday’s prayer of John Saba (ˀArägawi Mänfäsawi) (fols. 57rb-78va)&#13;
+I-4) Thursday’s prayer of John Saba (ʾArägawi Mänfäsawi) (fols. 57rb-78va)&#13;
 I-5) Friday’s prayer of Shenute (78va-88ra) and Pachomius (fols. 88ra-96rb)&#13;
 I-6) Saturday’s prayer of Athanasius of Alexandria (fols. 96rb-109rb)&#13;
 I-7) Sunday’s prayer of Cyril of Alexandria (fols. 109rb-123rb)&#13;
-II) ˀArganonä wǝddase “The Harp of Praise” (fols. 124ra-233rb)&#13;
+II) ʾArganonä wǝddase “The Harp of Praise” (fols. 124ra-233rb)&#13;
 II-1) Monday (fols. 124ra-143ra)&#13;
 II-2) Tuesday (fols. 144ra-161vb)&#13;
 II-3) Wednesday (fols. 162ra-179va)&#13;
@@ -38,7 +38,7 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000174" xlink:title="May Ë&#128;AnbÃ¤sa KidanÃ¤ MÇ&#157;á¸¥rÃ¤t / MAKM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original name of the donor has been washed out and replaced with the name of Täklä Haymanot, written with a thin pen in a secondary hand (the same as Additio 1): fols. 2ra, 4va, 5va, 16rb, 39vb, 47va, 49va, 52ra, 57rb, 62rb, 78va, 88ra, 95rb, 96rb, 109rb, 113va, 233rb. Other names are written interlinearly in a different (more recent?) hand, in strong vermilion ink: Gäbrä Giyorgis (fols. 2ra, 3rb, 4va, 5va, 9ra, 9va, 233rb), Täklä ˀƎgziˀ (fols. 13ra, 16rb), Wälättä ˁAbiyä ˀƎgziˀ (fol. 21ra), Wäl(dä) Śəllase (fol. 26vb), Gäbrä Mikaˀel (fol. 35va), Wäldä Gäbrˀel (fol. 39vb), Wälättä Gäbrəˀel (fol. 47va), Wälättä Śəllase (fol. 53vb), ˁAmdä Maryam (fol. 57rb), Wälättä ˀIyäsus (fol. 78va), Zämmädä Maryam (fol. 95rb), Gäbrä Mäsqäl (fol. 109 rb), ˀAqba Mikaˀel (fol. 155ra), Fəqərtä Mikaˀel (fol. 233rb). Text III mentions ˀAsratä Maryam (fol. 234va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original name of the donor has been washed out and replaced with the name of Täklä Haymanot, written with a thin pen in a secondary hand (the same as Additio 1): fols. 2ra, 4va, 5va, 16rb, 39vb, 47va, 49va, 52ra, 57rb, 62rb, 78va, 88ra, 95rb, 96rb, 109rb, 113va, 233rb. Other names are written interlinearly in a different (more recent?) hand, in strong vermilion ink: Gäbrä Giyorgis (fols. 2ra, 3rb, 4va, 5va, 9ra, 9va, 233rb), Täklä ʾƎgziʾ (fols. 13ra, 16rb), Wälättä ʿAbiyä ʾƎgziʾ (fol. 21ra), Wäl(dä) Śǝllase (fol. 26vb), Gäbrä Mikaʾel (fol. 35va), Wäldä Gäbrʾel (fol. 39vb), Wälättä Gäbrǝʾel (fol. 47va), Wälättä Śǝllase (fol. 53vb), ʿAmdä Maryam (fol. 57rb), Wälättä ʾIyäsus (fol. 78va), Zämmädä Maryam (fol. 95rb), Gäbrä Mäsqäl (fol. 109 rb), ʾAqba Mikaʾel (fol. 155ra), Fǝqǝrtä Mikaʾel (fol. 233rb). Text III mentions ʾAsratä Maryam (fol. 234va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>

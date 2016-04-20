@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 1ra-8va), fragment&#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä… “I worship Thy Godhead…” (fols. 2ra-4va l. 16) (cp. ChRep no. 335), incomplete.&#13;
-II-2) Täˀamrä ˀIyäsus “Miracles of Jesus”: 2 miracles, not numbered (fols. 4va l. 16-7vb), fols. misplaced, incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 1ra-8va), fragment&#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä… “I worship Thy Godhead…” (fols. 2ra-4va l. 16) (cp. ChRep no. 335), incomplete.&#13;
+II-2) Täʾamrä ʾIyäsus “Miracles of Jesus”: 2 miracles, not numbered (fols. 4va l. 16-7vb), fols. misplaced, incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -22,7 +22,7 @@ II-2) Täˀamrä ˀIyäsus “Miracles of Jesus”: 2 miracles, not numbered (fo
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000141" xlink:title="Maryam Mäkan/MM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Gäbrä ˀƎgziˀabəḥer is written in the main hand in the supplication formulas on fols. 4va and 6vb.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Gäbrä ʾƎgziʾabǝḥer is written in the main hand in the supplication formulas on fols. 4va and 6vb.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -82,7 +82,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the name of the donor; the initial two lines of Text I-1 and subsections of Text I-2; the word ˀəsäggəd “I worship” in Text I-1; elements of the punctuation signs; elements of the Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the name of the donor; the initial two lines of Text I-1 and subsections of Text I-2; the word ʾǝsäggǝd “I worship” in Text I-1; elements of the punctuation signs; elements of the Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

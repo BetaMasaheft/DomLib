@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 4r-104r).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 4r-104r).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
 </subjects>
@@ -20,7 +20,7 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000110" xlink:title="QiË&#129;at DÃ¤brÃ¤ á¹¢Ç&#157;yon QÇ&#157;ddÇ&#157;st Maryam / QDS"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the owner or donor, Wäldä Mikaˀel, is mentioned in the supplication formula on fol. 75rc. It is followed by the name Wälättä Mikaˀel, added later, probably by a secondary hand.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the owner or donor, Wäldä Mikaʾel, is mentioned in the supplication formula on fol. 75rc. It is followed by the name Wälättä Mikaʾel, added later, probably by a secondary hand.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -92,7 +92,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine, slightly left-sloping</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; 1st, 2nd, 8th , 9th, 15th and 16th line of the incipit page; two or three initial lines of sub-sections; Gәˁәz names of ordinal numerals followed by the word təˀəzaz on fol. 103v; elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; 1st, 2nd, 8th , 9th, 15th and 16th line of the incipit page; two or three initial lines of sub-sections; Gәʿәz names of ordinal numerals followed by the word tǝʾǝzaz on fol. 103v; elements of punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Quire A was probably added later. &#13;
 - A few bifolios have shorter upper and/or lower margins, e.g., 2r-3v, 31r-32v. &#13;

@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Qirqos “Vita of Cyricus” / Täˀamrä Qirqos “Miracles of Cyricus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Qirqos “Vita of Cyricus” / Täʾamrä Qirqos “Miracles of Cyricus”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Qirqos “Vita of Cyricus” (fols. 5a-101ra)&#13;
-II) Täˀamrä Qirqos “Miracles of Cyricus” (fols. 105ra–137rb): 33 miracles&#13;
+II) Täʾamrä Qirqos “Miracles of Cyricus” (fols. 105ra–137rb): 33 miracles&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Qirqos /"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Qirqos /"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Qirqos /"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Qirqos /"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names Wäldä Rufaˀel (e.g., fol. 8rb), ˁAmätä Maryam (e.g., fol. 52vb), Wälättä Ṣadǝqan (e.g., fol. 5ra), Gäbrä Ṣǝyon (e.g., fol. 25va), ˁAmätä Mikaˀel have been inserted in a later hand in the supplication formulas, sometimes in place of other names which were erased (cp. some of these names also in Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names Wäldä Rufaʾel (e.g., fol. 8rb), ʿAmätä Maryam (e.g., fol. 52vb), Wälättä Ṣadǝqan (e.g., fol. 5ra), Gäbrä Ṣǝyon (e.g., fol. 25va), ʿAmätä Mikaʾel have been inserted in a later hand in the supplication formulas, sometimes in place of other names which were erased (cp. some of these names also in Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -122,7 +122,7 @@ single red chevron (esp. fol. 125rb, l.10).</ppunctuation>
 </ppunctuations>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">none</pcruxansata>
 </pcruxansatas>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists (Qirqos and ˀIyäluṭa); names of the donors. A group of lines alternating with black lines in the incipit page of Texts I and II and in the incipit page of some sections (for the monthly reading) in Text I; the initial two lines of some sections in Text I and of each miracle in Text II; Trinitarian formula; some corrections (words or letters) interlineally.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonists (Qirqos and ʾIyäluṭa); names of the donors. A group of lines alternating with black lines in the incipit page of Texts I and II and in the incipit page of some sections (for the monthly reading) in Text I; the initial two lines of some sections in Text I and of each miracle in Text II; Trinitarian formula; some corrections (words or letters) interlineally.&#13;
 Elements of Ethiopian numerals, of punctuation signs and quire marks; Marginal notes.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">አሜ፡ for አሜን፡ (e.g., fol. 101ra, l.18);&#13;
@@ -137,9 +137,9 @@ Elements of Ethiopian numerals, of punctuation signs and quire marks; Marginal n
 (EMML II, 150; Church of the Nativity, quarter of  Lǝdäta,  Addis Abäba).&#13;
 EMML no. 615 (1966), &#13;
 fols. 3r-42v: “Combat of St. Cyriacus [Gadla Qirqos]”&#13;
-(EMML II, 364; Church of Qirqos, quarter of Boleˀ, Addis Abäba).&#13;
-EMML no. 1934 (late 19th or early 20th cent.), fols. 29r-46r: “Martyrdom [gadl wa-semˁ] of Cyriacus and his Mother Julitta”&#13;
-(EMML V, 420; Monastery of Ḥayq ˀƎsṭifanos, Ambassäl, Wällo).&#13;
+(EMML II, 364; Church of Qirqos, quarter of Boleʾ, Addis Abäba).&#13;
+EMML no. 1934 (late 19th or early 20th cent.), fols. 29r-46r: “Martyrdom [gadl wa-semʿ] of Cyriacus and his Mother Julitta”&#13;
+(EMML V, 420; Monastery of Ḥayq ʾƎsṭifanos, Ambassäl, Wällo).&#13;
 EMML no. 2514 (1382/88), fols. 126r-133r (in the “Gädlä Samaʿtat”): “Martyrdom of Cyriacus and his mother, Julitta, [Qirqos wa-emmu Iyyaluṭā]&#13;
 (EMML VII, 10; Church of Astit Kidanä Mǝḥrät, Ankobärr, Shoa).&#13;
 EMML no. 3469 (19th cent.), &#13;
@@ -148,12 +148,12 @@ fols. 42r-61v: “Martyrdom [Gadl wa-samāʿt] of Cyriacus and his mother Julitt
 (EMML VIII, 283-284; Church of Šäwa Meda Qirqos, Gubbalafto, Yäğğu, Wällo).&#13;
 EMML no. 4816 (1951/2), &#13;
 fols. 15v-59r: “Text of the Martyrdom”&#13;
-(EMML X, 324; Church of Däse Mädḫane ˁAläm, Wällo).&#13;
+(EMML X, 324; Church of Däse Mädḫane ʿAläm, Wällo).&#13;
 Éthiopien 134 (15th cent.), &#13;
 fol. 28: “Martyre de S. Cyr et sa mère Julitta et des onze mille trente-quatre autres martyrs qui suoffrirent du temps du Tribun Alexandre”&#13;
 (ZotBNat 202).&#13;
 Éthiopien 339 = Griaule 35 (1932), &#13;
-fols. 1ra-28vb: “Martyre de l`enfant Cyriaques (Qirqos) et sa mère Juliette (ˀIyalouṭâ)”&#13;
+fols. 1ra-28vb: “Martyre de l`enfant Cyriaques (Qirqos) et sa mère Juliette (ʾIyalouṭâ)”&#13;
 (GrébGriaule II, 3-9).&#13;
 Orient. 686 (1755/69), &#13;
 fol. 128r (in “Acts of Saints and Martyrs”): “Quiricus, or Cyriacus, and Julitta, ቂርቆስ፡ ወእሙ፡ ኢየሉጣ፡ (16th of Ṭӗr)”&#13;
@@ -183,19 +183,19 @@ J. Habbi, “Ciriaco (Quiryaqos) e Giulietta (Yolete)”, in: EncSan 491.&#13;
 T. Orlandi, “Cyriacus and Julitta, Saints”, in: CE III, 671.&#13;
 E. Sengal, “Poemetto amarico in onore di San Quirico”, Studi Etiopici raccolti da C. Conti Rossini, Roma 1954 (= RSE 4, 1944-1945 [1946]), 41-58.</text></literature></literatures><incipit>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%;"&gt;Fol. 5ra:&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala; font-size: 14pt;"&gt; &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4704;&amp;#4661;&amp;#4632;&amp;#4961;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#700;&amp;#700;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#8230; &amp;#4757;&amp;#4925;&amp;#4629;&amp;#4941;&amp;#5011; &amp;#4704;&amp;#4648;&amp;#4853;&amp;#4772;&amp;#4720;&amp;#5011; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4962;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4808;&amp;#4704;&amp;#4640;&amp;#4755;&amp;#4845;&amp;#5011; &amp;#4608;&amp;#4709;&amp;#4721;&amp;#5011; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4936;&amp;#5011; &amp;#4872;&amp;#4853;&amp;#4617;&amp;#5011; &amp;#4616;&amp;#4709;&amp;#4929;&amp;#4821;&amp;#5011; &amp;#4808;&amp;#4616;&amp;#4677;&amp;#4849;&amp;#4661;&amp;#5011; &amp;#4824;&amp;#4720;&amp;#4656;&amp;#4637;&amp;#4840;&amp;#5011; &amp;#4635;&amp;#4653;&amp;#5011; &amp;#4674;&amp;#4653;&amp;#4678;&amp;#4661;&amp;#5011; &amp;#4808;&amp;#4773;&amp;#4633;&amp;#4754;&amp;#5011; &amp;#4781;&amp;#4709;&amp;#4653;&amp;#4725;&amp;#5011; &amp;#4808;&amp;#4677;&amp;#4853;&amp;#4661;&amp;#4725;&amp;#5011; &amp;#4808;&amp;#4661;&amp;#4635;&amp;#5011; &amp;#4770;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4840;&amp;#4617;&amp;#4899;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#5011;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4808;&amp;#4616;&amp;#4720;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#5011;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4649;&amp;#4725;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#5011;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4824;&amp;#4720;&amp;#4739;&amp;#4653;&amp;#4840;&amp;#4725;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#5011;&lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt;&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</incipit><itranslation>&lt;p&gt;&lt;span lang="EN-US" style="line-height: 115%; font-size: 10pt;"&gt;&lt;span style="font-size: small;"&gt;Fol.  5ra: In the name of the Father and the Son and the Holy Spirit, one  God. We write, through the help of the Lord and&amp;#160; His good grace, the  book of the [spiritual] combat of the blessed and saint who was called  Mar Cyricus, and of his mother, glorious and saint, and her name [was]  Julitta, daughter of Ruth, whom was chosen&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</itranslation><explicit>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%;"&gt;Fol. 101ra, l.7:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="EN-US" style="line-height: 115%;"&gt; &lt;/span&gt;&lt;span style="line-height: 115%; font-family: Nyala;"&gt;&amp;#8230;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4813;&amp;#4661;&amp;#4720;&amp;#4961;  &amp;#4632;&amp;#4757;&amp;#4704;&amp;#4648;&amp;#4961; &amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4721;&amp;#4961; &amp;#4637;&amp;#4661;&amp;#4620;&amp;#4609;&amp;#4968; &amp;#4808;&amp;#4773;&amp;#4633;&amp;#4754;&amp;#4961; &amp;#4637;&amp;#4661;&amp;#4620;&amp;#4609;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4653;&amp;#4768;&amp;#4846;&amp;#4633;&amp;#4961; &amp;#4661;&amp;#4752;&amp;#4961; &amp;#4657;&amp;#4651;&amp;#4612;&amp;#4611;&amp;#4961; &amp;#4768;&amp;#4851;&amp;#4637;&amp;#4968; &amp;#4704;&amp;#4648;&amp;#4776;&amp;#4721;&amp;#4961; &amp;#4677;&amp;#4853;&amp;#4661;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4739;&amp;#4845;&amp;#4616;&amp;#4961;  &amp;#4778;&amp;#4851;&amp;#4753;&amp;#4961; &amp;#4781;&amp;#4709;&amp;#4653;&amp;#4725;&amp;#4968; &amp;#4808;&amp;#4920;&amp;#4622;&amp;#4720;&amp;#4961; &amp;#4773;&amp;#4633;&amp;#4961; &amp;#4677;&amp;#4853;&amp;#4661;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4925;&amp;#4629;&amp;#4725;&amp;#4961; &amp;#4845;&amp;#4741;&amp;#4853;&amp;#4653;&amp;#4961; &amp;#4808;&amp;#4843;&amp;#4821;&amp;#4653;&amp;#4941;&amp;#4961; &amp;#4704;&amp;#4619;&amp;#4821;&amp;#4616;&amp;#4961; &amp;#4941;&amp;#4673;&amp;#4651;&amp;#4754;&amp;#4608;&amp;#4961; &amp;#4819;&amp;#4632;&amp;#4720;&amp;#4961;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4808;&amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4923;&amp;#4853;&amp;#4675;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt; &lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4768;&amp;#4636;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</explicit><etranslation>&lt;p class="MsoNormal" style="text-align: justify; line-height: normal; margin-bottom: 0pt;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US"&gt;Fol.  101ra, l.7: &amp;#8230; on the throne of His reign with him. And his mother (was)  with him; and the grace of her beautiful brilliance disclosed to  them.&amp;#160;His blessing is&amp;#160;sacred and the&amp;#160;might of his&amp;#160;testament is glorious.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
 &lt;div style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%;"&gt;And may the prayer of his mother, saint and pure, dwell and find rest over her beloved &amp;#705;Am&amp;#228;t&amp;#228; Maryam and W&amp;#228;l&amp;#228;tt&amp;#228; &amp;#7778;ad&lt;/span&gt;&lt;span lang="EN-GB" style="line-height: 115%;"&gt;&amp;#477;&lt;/span&gt;&lt;span lang="EN-US" style="line-height: 115%;"&gt;qan. For eternity, amen.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</etranslation></desccontent>
-<desccontent xml:lang="en" inherited="0"><nm>II.</nm><text>II. Täˀamrä Qirqos “Miracles of Cyricus”</text><completeness>Complete</completeness><folios>105ra – 137rb</folios><mss>EMML no. 303 (20th cent.),&#13;
-fols. 87v-108r: “Miracles of St. Cyriacus [Taˀamra Qirqos];&#13;
+<desccontent xml:lang="en" inherited="0"><nm>II.</nm><text>II. Täʾamrä Qirqos “Miracles of Cyricus”</text><completeness>Complete</completeness><folios>105ra – 137rb</folios><mss>EMML no. 303 (20th cent.),&#13;
+fols. 87v-108r: “Miracles of St. Cyriacus [Taʾamra Qirqos];&#13;
 (EMML II, 4; Church of St. Raphael, quarter of Guläle, Addis Abäba).&#13;
 EMML no. 615 (1966), &#13;
 fols. 43r-47r: “5 miracles of St. Cyriacus”&#13;
-(EMML II, 364; Church of Qirqos, quarter of Boleˀ, Addis Abäba).&#13;
+(EMML II, 364; Church of Qirqos, quarter of Boleʾ, Addis Abäba).&#13;
 EMML no. 3469 (19th cent.), &#13;
 fols. 20r-26v: “Miracles of Cyriacus”;&#13;
 fols. 62r-69v: “Nine miracles of Cyriacus”&#13;
 (EMML VIII, 283-284; Church of Šäwa Meda Qirqos, Gubbalafto, Yäğğu, Wällo).&#13;
 EMML no. 4816 (1951/2), &#13;
 fols. 59r-63r: “Miracles of Cyriacus”&#13;
-(EMML X, 324; Church of Däse Mädḫane ˁAläm, Wällo).&#13;
+(EMML X, 324; Church of Däse Mädḫane ʿAläm, Wällo).&#13;
 Éthiopien 339 = Griaule 35 (1932), &#13;
 fols. 28vb-33vb: “Quatre miracles de l´enfant Cyriaque (Qirqos)”&#13;
 (GrébGriaule II, 3-9).</mss><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink><text>S. Grébaut, “Les miracles du saint enfant Cyriaque”, ROC 18 (1913), 419-423; 19 (1914), 93-97; 20 (1915-1917), 106-109, 129-132; 21 (1918-1919), 409-411; 25 (1925-1926), 187-195.&#13;

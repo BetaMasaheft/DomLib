@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śəryätä ḫaṭiˀat “Prayer of absolution of Sins”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Ṣälotä śǝryätä ḫaṭiʾat “Prayer of absolution of Sins”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 3ra-122vb)&#13;
 - Introduction (fols. 3ra-5rb)&#13;
 - Discourse of St. Athanasius on death (fols. 9va-16vb)&#13;
-- Mäṣḥaf zä-wäḍˀat ˀǝm-ˀIyärusalem “Book that Came from Jerusalem” (fols. 17ra-22ra)&#13;
+- Mäṣḥaf zä-wäḍʾat ʾǝm-ʾIyärusalem “Book that Came from Jerusalem” (fols. 17ra-22ra)&#13;
 - Homily by St. Jacob of Serug for the funeral of priests and deacons (fols. 65va-68ra)&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 80ra-83va)&#13;
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 80ra-83va)&#13;
 - Lǝfafä ṣǝdq “Bandlet of Righteousness” (fols. 85vb-88vb)&#13;
 - Mängädä sämay “Journey to Heaven” (fols. 88vb-89va)&#13;
-- Antiphons (ˀaryam, kǝśtät, sälam, mäzmur) (fols. 28ra-29ra, 43vb-44vb, 48ra-va, 49va-51ra, 53rb, 55ra-56ra, 57ra, 58va-59ra, 61rb-va, 64vb)&#13;
-II) Ṣälotä śəryätä ḫaṭiˀat “Prayer of Absolution of Sins” (fols. 123ra-126rb), (cp. EMML 427(9))&#13;
+- Antiphons (ʾaryam, kǝśtät, sälam, mäzmur) (fols. 28ra-29ra, 43vb-44vb, 48ra-va, 49va-51ra, 53rb, 55ra-56ra, 57ra, 58va-59ra, 61rb-va, 64vb)&#13;
+II) Ṣälotä śǝryätä ḫaṭiʾat “Prayer of Absolution of Sins” (fols. 123ra-126rb), (cp. EMML 427(9))&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
@@ -31,9 +31,9 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000111" xlink:title="Bet Ḥawaryat / SSB"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaˀel is mentioned as the scribe in the supplication formulas on fols. 103vb, 107rb (he copied also Mss. GMS-005, GMS-019).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaʾel is mentioned as the scribe in the supplication formulas on fols. 103vb, 107rb (he copied also Mss. GMS-005, GMS-019).</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Sǝrnǝḥ (baptismal name Wäldä Krǝstos?), together with his relatives Wälättä Dawit, Wäldä Yoḥannǝs, Säbänä Giyorgis, is mentioned as the donor in the supplication formulas and Addition 1.&#13;
 Names of other individuals are mentioned in the supplication formulas: Zä-Mänfäs Qǝddus (fols. 72ra, 76va), Wälättä Maryam (fols. 72ra, 123rb), Gäbrä Maryam (fols. 71va, 83va), Wäldä Śǝllase (fols. 102ra, 104ra).</donor>
@@ -115,7 +115,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the scribe; names of the donor and his relatives; a few lines on the incipit page of Text I, alternating with black lines; incipit of Text II and each section of Text I; names of Hebrew letters in Ps. 118 (e.g., fols. 30rb, 31va, 33rb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words, e.g., halle luya (e.g., fols. 9vb, 10ra), ṣälləyu (e.g., fols. 16ra, 24vb), wä-yəbälu ḥəzb (e.g., fols. 17vb, 18ra), kəśtät (e.g., fols. 28ra, 33vb), qǝdmä wangle (e.g., fols. 38rb, 44vb).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the scribe; names of the donor and his relatives; a few lines on the incipit page of Text I, alternating with black lines; incipit of Text II and each section of Text I; names of Hebrew letters in Ps. 118 (e.g., fols. 30rb, 31va, 33rb); abbreviations; elements of the punctuation signs; elements of Ethiopic numerals; some other words, e.g., halle luya (e.g., fols. 9vb, 10ra), ṣällǝyu (e.g., fols. 16ra, 24vb), wä-yǝbälu ḥǝzb (e.g., fols. 17vb, 18ra), kǝśtät (e.g., fols. 28ra, 33vb), qǝdmä wangle (e.g., fols. 38rb, 44vb).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ወይ፡ ሕ፡ እግ፡ መ፡ for ወይበሉ፡ ሕዝብ፡ እግዚኦ፡ መሀረነ፡ (e.g., fols. 20va, 21rb)&#13;
 ፍ፡ / ፍቱ፡ for ፍቱሐ፡ ወንጹሐ፡ ረስዮ፡ ለዝንቱ፡ በድን፡ (fol. 22rb-va)&#13;
@@ -134,7 +134,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The scribe used small script on fols. 28ra-29ra, 43vb-44vb, 48ra-va, 49va-51ra, 53rb, 55ra-56ra, 57ra, 58va-59ra, 61rb-va, 64vb.&#13;
 - Corrections written interlineally: fols. 39va, 53v, 76vb, 109rb.&#13;
 - Pen trial mentioning Thursday, Miyazǝya 5: fol. 129v.&#13;
-- The word ˀəgäle is marked by red dashes above and below: fols. 23r, 24ra.</extra>
+- The word ʾǝgäle is marked by red dashes above and below: fols. 23r, 24ra.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>

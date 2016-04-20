@@ -11,50 +11,50 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 3ra-15vb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 3ra-8vb)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 3ra-8vb)&#13;
 - Letter of Eusebius to Carpianus (fols. 8vb-9rb)&#13;
 - Canon tables (fols. 9va-12va)&#13;
 - On the Reliability of the Gospels (fol. 15va-vb)&#13;
 - Statement about the Eusebian Sections (fol. 15vb)&#13;
 II) Gospel of Matthew (fols. 16ra-69rb)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 16ra-69ra)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 16ra-69ra)&#13;
 - Postscript to the Gospel of Matthew (fol. 69ra-rb)&#13;
 III) Gospel of Mark (fols. 69rb-100ra)&#13;
 - Biography of Mark (fol. 69rb-vb)&#13;
 - List of the “tituli” for the Gospel of Mark – 48 titles (fols. 69vb-70rb)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 72ra-99vb)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 72ra-99vb)&#13;
 - Postscript to the Gospel of Mark (fols. 99vb-100ra)&#13;
 IV) Gospel of Luke (fols. 102ra-152vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 102ra-152vb)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 102ra-152vb)&#13;
 - Postscript to the Gospel of Luke (fol. 152vb)&#13;
 V) Gospel of John (fols. 153ra-195rb)&#13;
 - Biography of John (fol. 153ra-va)&#13;
 - List of the “tituli” for the Gospel of John – 20 titles (fol. 153va-vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 155ra-195ra)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 155ra-195ra)&#13;
 - Postscript to the Gospel of John (fol. 195ra-rb).&#13;
 &#13;
 Additiones 1-2; Colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ˀAbunä Yasay  /DAY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000100" xlink:title="Dǝrba Däbrä ʾAbunä Yasay  /DAY"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Yoḥannəs</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Yoḥannǝs</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Yoḥannəs, remained by chance on fol. 152vb, but effaced elsewhere (s. fols. 15vb, 72, 102v, 155v), but</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Yoḥannǝs, remained by chance on fol. 152vb, but effaced elsewhere (s. fols. 15vb, 72, 102v, 155v), but</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor was effaced on fols. 15vb, 72, 102v, 155v). It might be Gäbrä or Ṣägga Krəstos (the name is partly preserved on fols. 152v, 195rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor was effaced on fols. 15vb, 72, 102v, 155v). It might be Gäbrä or Ṣägga Krǝstos (the name is partly preserved on fols. 152v, 195rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1686</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1686</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms. was written in the fourth year of the reign of ˀIyasu (I, the Great, r. 1682-1706) when ˀabba Sinoda was the Metropolitan, in the year 7178 since the creation of the world (= 1686 A.D.).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms. was written in the fourth year of the reign of ʾIyasu (I, the Great, r. 1682-1706) when ʾabba Sinoda was the Metropolitan, in the year 7178 since the creation of the world (= 1686 A.D.).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -128,13 +128,13 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful, regular, by a well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the Metropolitan and the donor; two initial lines of Gospel chapters and other minor texts; chapter numbers and the word məˤəraf; parts of the Canon tables; elements of the punctuation signs; elements of Ethiopic numerals within the text.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the Metropolitan and the donor; two initial lines of Gospel chapters and other minor texts; chapter numbers and the word mǝˤǝraf; parts of the Canon tables; elements of the punctuation signs; elements of Ethiopic numerals within the text.&#13;
 &#13;
 The incipits of Texts I-V are written alternately in red and black lines (s. fols. 3r, 16r, 72r, 102r, 155r).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In Mäqdəmä wängel, the final part of the seventh and the entire eighth period of instruction are missing. For details concerning the traditional introduction texts s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">In Mäqdǝmä wängel, the final part of the seventh and the entire eighth period of instruction are missing. For details concerning the traditional introduction texts s. R.W. COWLEY, “New Testament Introduction in the Andemta Commentary Tradition”, Ostkirchliche Studien 26, 1977, 144-92; R. ZUURMOND, Novum Testamentum Aethiopice: the Synoptic Gospels, Part I: General Introduction, Part II: Edition of the Gospel of Mark, Stuttgart, 1989 (AeF 27), 6-36.&#13;
 &#13;
-The Golden Gospel of Dərba Däbrä ˀAbunä Yasay church.</otherdetail>
+The Golden Gospel of Dǝrba Däbrä ʾAbunä Yasay church.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

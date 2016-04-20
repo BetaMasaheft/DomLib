@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 3r-133rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 3r-133rc)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (133rc-135rb)&#13;
 - Table of contents (fols. 135rb-135vb)&#13;
 &#13;
@@ -32,7 +32,7 @@ Colophon.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon indicates that the Ms. was completed on the 14th year after the coronation of King Bäkaffa, but he ruled only 9 years (1721-30); it contains also two other dates which appear to be incorrect. Despite the information in the colophon, the script does not look so old palaeographically. The Ms. may date into a later period, second half of the 19th cent. The binding (boards covered with tooled leather) appears to be older than the text block. The Ms. (and the colophon) may be a copy of another 18th-cent. Ms. of Haymanot ˀabäw.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon indicates that the Ms. was completed on the 14th year after the coronation of King Bäkaffa, but he ruled only 9 years (1721-30); it contains also two other dates which appear to be incorrect. Despite the information in the colophon, the script does not look so old palaeographically. The Ms. may date into a later period, second half of the 19th cent. The binding (boards covered with tooled leather) appears to be older than the text block. The Ms. (and the colophon) may be a copy of another 18th-cent. Ms. of Haymanot ʾabäw.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -96,7 +96,7 @@ Two pairs of sewing stations.</binding>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful, by a well-trained hand.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; some lines in the incipit page, alternating with black lines; two initial lines of each section; elements of punctuation signs; elements of Ethiopic numerals; the words: kəfl (e.g., fols. 27vb, 28vc, 30ra), fəkkare (e.g., fols. 121va, 123va, 125rb), yəbe (e.g., fols. 13ora, 130vb), təˁəzaz (e.g., fols. 132vc, 133ra), qädamawi (e.g., fols. 122vb, 123ra), rabəˁ (e.g., fols. 122vc, 123ra, 124va).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; some lines in the incipit page, alternating with black lines; two initial lines of each section; elements of punctuation signs; elements of Ethiopic numerals; the words: kǝfl (e.g., fols. 27vb, 28vc, 30ra), fǝkkare (e.g., fols. 121va, 123va, 125rb), yǝbe (e.g., fols. 13ora, 130vb), tǝʿǝzaz (e.g., fols. 132vc, 133ra), qädamawi (e.g., fols. 122vb, 123ra), rabǝʿ (e.g., fols. 122vc, 123ra, 124va).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ዓለ for ዓለም (e.g., fols.4rb, 23vc, 26rc)&#13;
 አሜ for አሜን (fol. 73rc)&#13;

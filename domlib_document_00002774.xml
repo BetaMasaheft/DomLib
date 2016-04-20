@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols. 3ra-168vb) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-168vb) &#13;
 I-1) Introduction (fols. 3ra-5ra) &#13;
 I-2) Eve of Palm Sunday (fols. 5ra-7rb) &#13;
 I-3) Palm Sunday (fols. 7rb-13vc) &#13;
@@ -20,15 +20,15 @@ I-4) Monday (fols. 13vc-35vc), including: Homily by John Chrysostom for Monday m
 I-5) Tuesday (fols. 35vb-41vc, 49ra-56vc, 42ra-47rc) &#13;
 I-6) Wednesday (fols. 47rc-48vc, 57ra-69va) &#13;
 I-7) Thursday (fols. 69va-72vc, 81ra-88vc, 73ra-80vc, 89ra-90ra) &#13;
-I-8) Friday (fols. 90ra-137rc), including: Mäḥaləyä mäḥaləy “Song of Songs” (134vc-137ra)&#13;
+I-8) Friday (fols. 90ra-137rc), including: Mäḥalǝyä mäḥalǝy “Song of Songs” (134vc-137ra)&#13;
 I-9) Saturday (fols. 137rc-168vb), including: Mäṣḥafä dorho “Book of the Cock” (fols. 149rb-158rb); Homily by Cyriacus of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 158rb-168vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaˁro Qəddus Qirqos / QDQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="Qändaʿro Qǝddus Qirqos / QDQ"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the donor (?), written in red, was washed out in the supplication formulas (e.g., fols. 12vb, 12ra, 13vc, 69va, 90ra, 128vc).&#13;
 The name of Baḥrä Śǝllase is written, in red, in a secondary hand in the supplication formula on fol. 7va.</donor>
@@ -114,7 +114,7 @@ One ruled line was not used by the scribe at the bottom of fols. 20r-25v.</rl-in
 For Text I-5, the correct sequence of the quires should be: V-VII-VI; for Text I-6, the correct sequence should be: VI-VIII; for Text I-7, the correct sequencer should be: IX-XI-X-XII.&#13;
 - On fol. 149ra, the incipit of the "Mäṣḥafä dorho" (in Text I-9) is as follows:&#13;
 ድርሳን፡ ትምህረተ[sic]፡ ዘአበዊነ፡ ሐዋርያት። ቅዱሳን፡ ዘመሐሩነ፡ መንፈሳዊን፡ እሉ፡ እሙንቱ፡ እለ፡… &#13;
-On fol. 158rb, "Mäṣḥafä dorho" ends with a subscriptio on the translation of the text from Arabic into Gǝˁǝz, during the time of King Yoḥannǝs (probably Yoḥannǝs IV, r. 1872-89); the note reads:&#13;
+On fol. 158rb, "Mäṣḥafä dorho" ends with a subscriptio on the translation of the text from Arabic into Gǝʿǝz, during the time of King Yoḥannǝs (probably Yoḥannǝs IV, r. 1872-89); the note reads:&#13;
 ወተተርጉመት፡ ዛቲ: መጽሐፍ፡ እምዐረቢ፡ ለግእዝ፡ በዓመተ፡ ምሕረት፡ እንዘ፡ ንጉሥነ። ዮሐንስ። &#13;
 It seems that the original date of the translation according to the “year of mercy” has been dropped; the indication to King Yoḥannǝs may refer not to the translation date but to the time when the the Ms. was produced.&#13;
 - On fol. 168vb, the text ends with a short concluding praise to God, in Amharic:&#13;

@@ -10,27 +10,27 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Śərˁatä mənkwəsənna “The Order of the Monastic Profession”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝnzät “Book of the Funeral Ritual” / Śǝrʿatä mǝnkwǝsǝnna “The Order of the Monastic Profession”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝnzät “Book of the Funeral Ritual” (fols. 1r-70v, 105v-111v), incomplete&#13;
-- Homily by ˀabba Sälama, Metropolitan of Ethiopia (fols. 21v-25v)&#13;
+- Homily by ʾabba Sälama, Metropolitan of Ethiopia (fols. 21v-25v)&#13;
 - Homily by St. Jacob of Serug for the funeral of priests and deacons (fols. 40r-46r)&#13;
-II) Śərˁatä mənkwəsənna “The Order of the Monastic Profession” (fols. 71r-105v), incomplete.</shortcontent>
+II) Śǝrʿatä mǝnkwǝsǝnna “The Order of the Monastic Profession” (fols. 71r-105v), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub17"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ˀAgärhǝse ˀAbunä Mamas / AQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ʾAgärhǝse ʾAbunä Mamas / AQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ˀAgärhǝse ˀAbunä Mamas / AQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000091" xlink:title="ʾAgärhǝse ʾAbunä Mamas / AQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest Mäksimos (kahən Mäksimos, fol. 43v) is mentioned in the supplication formulas throughout the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Priest Mäksimos (kahǝn Mäksimos, fol. 43v) is mentioned in the supplication formulas throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1398</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1438</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The Metropolitan ˀabba Bärtolomewos is mentioned on fol. 9r. Bärtolomewos came to Ethiopia in 1398/99 A.D. as a successor of ˀabunä Sälama II “the Translator” and died around 1438. Kahən Mäksimos may be identical to ˁaqabe säˁat Mäksimos (s. EAE II, 30a).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The Metropolitan ʾabba Bärtolomewos is mentioned on fol. 9r. Bärtolomewos came to Ethiopia in 1398/99 A.D. as a successor of ʾabunä Sälama II “the Translator” and died around 1438. Kahǝn Mäksimos may be identical to ʿaqabe säʿat Mäksimos (s. EAE II, 30a).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -88,15 +88,15 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pcruxansatas class="MCRMetaLangText" heritable="false" notinherit="false"><pcruxansata xml:lang="en" inherited="0" form="plain">Crux ansata accompanied by coronis sign on fol. 103r; Christogram on fols. 32v, 79v, 80r, 81r, 109r, 109v, 110r, 110v, 111r.</pcruxansata>
 </pcruxansatas>
-<pcoroniss class="MCRMetaLangText" heritable="false" notinherit="false"><pcoronis xml:lang="en" inherited="0" form="plain">Coronis sign is used on fols. 11v, 30v, 52v, 81v, 82r, 110r; zəyä-sign accompanied by coronis on fol. 17v.</pcoronis>
+<pcoroniss class="MCRMetaLangText" heritable="false" notinherit="false"><pcoronis xml:lang="en" inherited="0" form="plain">Coronis sign is used on fols. 11v, 30v, 52v, 81v, 82r, 110r; zǝyä-sign accompanied by coronis on fol. 17v.</pcoronis>
 </pcoroniss>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donor and Metropolitan ˀabba Bärtolomewos; two initial lines of each section of the text; elements of the punctuation signs; Ethiopic numerals; some other words, e.g., ˀəgäle (e.g., fols. 6v,9r, 11v), qədmä wängel (e.g., fols. 32v, 35r, 48v), wä-təbl (e.g., fols. 32r, 62r, 68v), ˀəskä (e.g., fols. 47r, 51r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donor and Metropolitan ʾabba Bärtolomewos; two initial lines of each section of the text; elements of the punctuation signs; Ethiopic numerals; some other words, e.g., ʾǝgäle (e.g., fols. 6v,9r, 11v), qǝdmä wängel (e.g., fols. 32v, 35r, 48v), wä-tǝbl (e.g., fols. 32r, 62r, 68v), ʾǝskä (e.g., fols. 47r, 51r).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይ፡ ካ፡ for ይበል፡ ካሕን፡ (e.g., fols. 8r, 9r, 26r)&#13;
 ይ፡ ሕ፡ for ይበል፡ ሕዝብ፡ (e.g., fols. 8r, 9r, 10r)&#13;
 ይ፡ ዲ፡ for ይበል፡ ዲያቆን፡ (fols. 8r, 9r)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text II, Śərˁatä mənkwäsənna “The Order of the Monastic Profession”, has similar readings with Grebaut’s edition of ሥርዓተ፡ ምንኵስና፡ ቅድስት (S. GREBAUT, Rituel éthiopien de prise d’habit, Paris 1940) but the order appears completely different. Fol. 85r (ጸሎት፡ እምድኅረ፡ አቅነትከ) matches with p. 10 of the edition (ጸሎት፡ ሶበ፡ ያቀንቱ፡ መነኮሳት); fol. 85r matches p. 14 of the edition (ጸሎት፡ ላዕለ፡ ደናግል) .</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text II, Śǝrʿatä mǝnkwäsǝnna “The Order of the Monastic Profession”, has similar readings with Grebaut’s edition of ሥርዓተ፡ ምንኵስና፡ ቅድስት (S. GREBAUT, Rituel éthiopien de prise d’habit, Paris 1940) but the order appears completely different. Fol. 85r (ጸሎት፡ እምድኅረ፡ አቅነትከ) matches with p. 10 of the edition (ጸሎት፡ ሶበ፡ ያቀንቱ፡ መነኮሳት); fol. 85r matches p. 14 of the edition (ጸሎት፡ ላዕለ፡ ደናግል) .</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

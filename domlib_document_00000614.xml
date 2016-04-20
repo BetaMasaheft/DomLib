@@ -34,11 +34,11 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ˀErmǝyas</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾErmǝyas</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀErmǝyas (see the supplication formula, fol. 60ra).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾErmǝyas (see the supplication formula, fol. 60ra).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of original donor(s) have been erased throughout the Ms. Priest (qes) Wäldä Gäbrǝˀel is mentioned as the donor in  Additio 1. Besides, the names of his relatives Wälättä Giyorgis, Wälättä Muse, Ḍota Sǝllase and Ḫaylä Sǝllase are written over the erasures (also supplication formulas fols. 13ra, 16va, 19ra, 22vb, 39va, 41va, 46va, 53ra, 56vb, 60ra, 69ra, 75ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of original donor(s) have been erased throughout the Ms. Priest (qes) Wäldä Gäbrǝʾel is mentioned as the donor in  Additio 1. Besides, the names of his relatives Wälättä Giyorgis, Wälättä Muse, Ḍota Sǝllase and Ḫaylä Sǝllase are written over the erasures (also supplication formulas fols. 13ra, 16va, 19ra, 22vb, 39va, 41va, 46va, 53ra, 56vb, 60ra, 69ra, 75ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -141,18 +141,18 @@ The bottom line is written above the ruling.</ruling>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Notes indicating the monthly readings are written in the upper margins of the following fols. (the rubricated incipits of the sections being in the columns below):&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Yäkkatit (fol. 2ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäggabit (fol. 13ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Miyazya (fol. 16va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Gǝnbot (fol. 19ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Säne (fol. 22vb)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḥamle (fol. 39va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Näḥase (fol. 46va)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Mäskäräm (fol. 53ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝqǝmt (fol. 55vb)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ḫǝdar (fol. 60ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Taḫsas (fol. 70ra)&#13;
-Mǝnbab ˀamä ˀǝsra-wä-ˀaḥadu lä-Ṭǝrr (fol. 75ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Yäkkatit (fol. 2ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäggabit (fol. 13ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Miyazya (fol. 16va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Gǝnbot (fol. 19ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Säne (fol. 22vb)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḥamle (fol. 39va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Näḥase (fol. 46va)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Mäskäräm (fol. 53ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝqǝmt (fol. 55vb)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ḫǝdar (fol. 60ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Taḫsas (fol. 70ra)&#13;
+Mǝnbab ʾamä ʾǝsra-wä-ʾaḥadu lä-Ṭǝrr (fol. 75ra)&#13;
 - Coloured threads inserted in the corners of some fols.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2011-10-19T08:13:16.803Z</servdate><servdate inherited="0" type="modifydate">2014-04-25T08:52:41.549Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">EGusarova</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

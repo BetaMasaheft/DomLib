@@ -11,32 +11,32 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˤtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaˤtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 1v-4v)&#13;
 - Canon tables (fols. 1v-4v)&#13;
 II) Gospel of Matthew (fols. 5ra-50vb)&#13;
 - List of the “tituli” for the Gospel of Matthew: 66 titles (5rv)&#13;
-- Bəsratä Matewos “The Gospel of Matthew” (fols. 6ra-50vb)&#13;
+- Bǝsratä Matewos “The Gospel of Matthew” (fols. 6ra-50vb)&#13;
 III) Gospel of Mark (fols. 50vb-)&#13;
 - List of the “tituli” for the Gospel of Mark: 49 titles (fols. 50vb-51va)&#13;
-- Bəsratä Marqos “The Gospel of Mark” (fols. 52ra-76rb)&#13;
+- Bǝsratä Marqos “The Gospel of Mark” (fols. 52ra-76rb)&#13;
 IV) Gospel of Luke (fols. 78ra-152vb)&#13;
 - List of the “tituli” for the Gospel of Luke: 84 titles (fols. 76rb-77rb)&#13;
-- Bəsratä Luqas “The Gospel of Luke” (fols. 78ra-152vb)&#13;
+- Bǝsratä Luqas “The Gospel of Luke” (fols. 78ra-152vb)&#13;
 V) Gospel of John (fols. 120rb-154rb)&#13;
 - List of the “tituli” for the Gospel of John: 19 titles (fol. 120rb)&#13;
-- Bəsratä Yoḥannəs “The Gospel of John” (fols. 121ra-154rb).</shortcontent>
+- Bǝsratä Yoḥannǝs “The Gospel of John” (fols. 121ra-154rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dəngəl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe is not mentioned, but the hand is undoubtedly that of Zä-Dəngəl (who copied Mss. AQG-002, QQM-006 and some others).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe is not mentioned, but the hand is undoubtedly that of Zä-Dǝngǝl (who copied Mss. AQG-002, QQM-006 and some others).</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -108,7 +108,7 @@ The bottom line is usually written above the ruling, sometimes below the ruling 
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Angular script.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; grids of the Canon tables (fols. 2r-4v);  1st, 2nd, 5th, 6th lines in the beginning and in the end of the columns, in the incipit pages of the Gospels; titles of the Gospels; two titles of the chapters of the Gospel of Matthew, the word məˁǝraf; elements of punctuation marks; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; grids of the Canon tables (fols. 2r-4v);  1st, 2nd, 5th, 6th lines in the beginning and in the end of the columns, in the incipit pages of the Gospels; titles of the Gospels; two titles of the chapters of the Gospel of Matthew, the word mǝʿǝraf; elements of punctuation marks; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ምዕራ for ምዕራፍ: throughout the text&#13;
 ም for ምዕራፍ: fol. 75va</abbreviation>
@@ -121,10 +121,10 @@ The bottom line is usually written above the ruling, sometimes below the ruling 
 - Lack of the title of the Gospel of Matthew.&#13;
 -The chapters of the Gospels are not numerated.&#13;
 -Only some chapters of the Gospel of Matthew are entitled. If this is so, the title is written in the upper margin. The remaining Gospels do not have titles within the text.&#13;
--The word məˁǝraf corresponds to either a chapter or a section within a chapter. &#13;
+-The word mǝʿǝraf corresponds to either a chapter or a section within a chapter. &#13;
 -Throughout each Gospel a continuous number is given to selected lines (They are written in the margins).&#13;
 -Punctuation sign ቁም (qum) between two black dashes ended with four red circles, or between two red dashes, (or “qu”, fol. 79vb) appears on numerous fols., e.g.: 41ra, 42va, 43va, 45va, 46rb, 48vb, 49ra, 49vab, 50va, 56rb, 60vb, 111vab, 113vab, 117rb, 118rab, 118vb, 119va, 121ra, 121vab, 122ra, 123rab, 127rab, 140rb. It seems to mark the beginning and the end of the passage assigned to be read on a certain day, s. 45vb-46rb. &#13;
--Fols. 118vb, 119va, 132va, 134rb contain, beside ቁም (qum), a word አልዕል (ˀalˁəl), perhaps indicating that the reading is preceded by singing “Hallelujah”.</otherdetail>
+-Fols. 118vb, 119va, 132va, 134rb contain, beside ቁም (qum), a word አልዕል (ʾalʿǝl), perhaps indicating that the reading is preceded by singing “Hallelujah”.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

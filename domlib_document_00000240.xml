@@ -10,34 +10,34 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist” / Täˀamrä Libanos “Miracles of Libanos” / Täˀamrä ˀIyäsus “Miracles of Jesus” / Täˀamrä Mikaˀel “Miracles of Michael” / Täˀamrä Śǝllase “Miracles of the Trinity”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist” / Täʾamrä Libanos “Miracles of Libanos” / Täʾamrä ʾIyäsus “Miracles of Jesus” / Täʾamrä Mikaʾel “Miracles of Michael” / Täʾamrä Śǝllase “Miracles of the Trinity”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Yoḥannəs Mäṭməq “Miracles of John the Baptist”: 10 miracles (fols. 2ra-17va)&#13;
-II) Täˀamrä Libanos “Miracles of Libanos”: 2 miracles  (fols. 17vb-18vb)&#13;
-III) Täˀamrä ˀIyäsus “Miracles of Jesus”: 11 miracles (fols. 21r-44r)&#13;
-IV) Täˀamrä Mikaˀel “Miracles of Michael”: 2 miracles (fols. 44r-46v)&#13;
-V) Täˀamrä Śǝllase “Miracles of the Trinity”: 2 miracles (fols. 46v-48r)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Yoḥannǝs Mäṭmǝq “Miracles of John the Baptist”: 10 miracles (fols. 2ra-17va)&#13;
+II) Täʾamrä Libanos “Miracles of Libanos”: 2 miracles  (fols. 17vb-18vb)&#13;
+III) Täʾamrä ʾIyäsus “Miracles of Jesus”: 11 miracles (fols. 21r-44r)&#13;
+IV) Täʾamrä Mikaʾel “Miracles of Michael”: 2 miracles (fols. 44r-46v)&#13;
+V) Täʾamrä Śǝllase “Miracles of the Trinity”: 2 miracles (fols. 46v-48r)&#13;
 &#13;
 Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dəngəl</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngǝl</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Dəngəl is the scribe of the text in quires IV-VI, mentioned in the supplication formula, fol. 42r. He is the same scribe who is attested in Ms. MR-040 and some other Mss. (QSM-005, MY-019, AQG-002, AGM-001). The hand of quires I-III is somewhat similar to that of MR-024.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Dǝngǝl is the scribe of the text in quires IV-VI, mentioned in the supplication formula, fol. 42r. He is the same scribe who is attested in Ms. MR-040 and some other Mss. (QSM-005, MY-019, AQG-002, AGM-001). The hand of quires I-III is somewhat similar to that of MR-024.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täsfa Maryam and Gädlä Giyorgis are mentioned as the donors in Additio 2 and in the supplication formulas in quires I-III; Täsfa Ḥəywät, together with a few other individuals (e.g., Ṣəge Mikaˀel, fol. 47r), is mentioned in the supplication formulas in quires IV-VI.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täsfa Maryam and Gädlä Giyorgis are mentioned as the donors in Additio 2 and in the supplication formulas in quires I-III; Täsfa Ḥǝywät, together with a few other individuals (e.g., Ṣǝge Mikaʾel, fol. 47r), is mentioned in the supplication formulas in quires IV-VI.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1867</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ˀAbunä Sälama mentioned in Additio 1 is probably etropolitan Sälama III (in tenure 1841-67). Quires IV-VI are probably of somewhat earlier period than quires I-III.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">ʾAbunä Sälama mentioned in Additio 1 is probably etropolitan Sälama III (in tenure 1841-67). Quires IV-VI are probably of somewhat earlier period than quires I-III.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
@@ -101,7 +101,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Poor</phandwriting>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a (fols. 2r-20r): round, irregular letters' shapes.&#13;
-Hand b (fols. 21r-48r): (Zä-Dəngəl), angular letters' shapes.</pchangeofhand>
+Hand b (fols. 21r-48r): (Zä-Dǝngǝl), angular letters' shapes.</pchangeofhand>
 </pchangeofhands>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donors and scribes; incipits of the texts and their subsections; elements of Ethiopic numerals; elements of the punctuation signs; Additio 1.</rubrication>
 </rubrications>
@@ -109,7 +109,7 @@ Hand b (fols. 21r-48r): (Zä-Dəngəl), angular letters' shapes.</pchangeofhand>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fol. 1va-vb: A miracle of G&amp;#228;br&amp;#228; M&amp;#228;nf&amp;#228;s Q&amp;#601;ddus.&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a crude hand.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fols. 18vb-19ra: Donation note. &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>The note is poorly readably since the red ink faded off. The note states that the Ms. Gädlä Giyorgis and Täsfa Maryam purchased the Ms. with their own money and donated it to church of Däbrä Maˁṣo. Condemnatio mentions ˀabuna Sälama who is probably Metropolitan Sälama III (in tenure 1841-67).</det></additional>
+&lt;/span&gt;&lt;/p&gt;</cont><det>The note is poorly readably since the red ink faded off. The note states that the Ms. Gädlä Giyorgis and Täsfa Maryam purchased the Ms. with their own money and donated it to church of Däbrä Maʿṣo. Condemnatio mentions ʾabuna Sälama who is probably Metropolitan Sälama III (in tenure 1841-67).</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;Fols. 19ra-20rb: Excerpt from the First Epistle of John (1 John 1:1-7) .&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in a very crude, angular hand.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- A part of the Ethiopic syllabary, written in the same hand as Additio 3 (?): fol. 20.</extra>

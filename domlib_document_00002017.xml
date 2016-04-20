@@ -10,15 +10,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkəˀa sämaˁtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa sämaʿtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkəˀa sämaˁtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” (fols. 76ra-79ra): 32 strophes, incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa sämaʿtatä Ṗäraqliṭos “Image of the Martyrs of Ṗäraqliṭos” (fols. 76ra-79ra): 32 strophes, incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -102,7 +102,7 @@ The scribe disregarded the ruling: he doesn’t write on the ruled lines.</rulin
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">On fol. 78va l.20, the letter ጵ has the 6th order marker set up on the vertical stroke at the top, oriented to the left; the same, in the same word and passage, is in Mss. AP-046 (fol. 43ra l.3) and AP-019 (fol. 20rb l.7).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">The name of the protagonists sämaˁtatä Ṗäraqliṭos; a few lines alternating with black lines in the incipit page of the text; the word sälam; elements of the punctuation signs, of corrections and of decorations around the word həräy at the text margins.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">The name of the protagonists sämaʿtatä Ṗäraqliṭos; a few lines alternating with black lines in the incipit page of the text; the word sälam; elements of the punctuation signs, of corrections and of decorations around the word hǝräy at the text margins.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The text is incomplete (at the 32nd strophe), the same as in Mss. AP-046 and AP-019.&#13;
 - The handwriting seems to be the same as in AP-019.&#13;

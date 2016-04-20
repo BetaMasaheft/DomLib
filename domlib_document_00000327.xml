@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office Prayers (fols. 1r-3ra l.15), incomplete, only a small fragment of the text preserved. &#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 3ra l.16-28vb l.21), incomplete&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 3ra l.16-28vb l.21), incomplete&#13;
 III) Anaphoras (fols. 29ra-99vb)&#13;
 III-1) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 29ra l.1-42vb l.6)&#13;
 III-2) Anaphora of Our Lord Jesus Christ (fols. 42vb l.8-48va l.18)&#13;
@@ -32,7 +32,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000054" xlink:title="Sämaz Maryam / SMM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wärädä Mǝḥrät is mentioned in the supplication formulas (fols. 29ra, l.6; 48vb, l.4; 66rb, l.14; 75ra, l.12-13 and elsewhere). Cp. also Wäldä Girgis (sic), Habtä Giworgis (sic) and his wife Wälättä Mikaˀel, Additio 1.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wärädä Mǝḥrät is mentioned in the supplication formulas (fols. 29ra, l.6; 48vb, l.4; 66rb, l.14; 75ra, l.12-13 and elsewhere). Cp. also Wäldä Girgis (sic), Habtä Giworgis (sic) and his wife Wälättä Mikaʾel, Additio 1.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -124,9 +124,9 @@ Hand b: quire VIII; ancient way of writing the letter ṗ in the 6th order (s. f
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="line-height: 115%; font-size: 10pt;"&gt;Fol. 27va:&amp;#160;Ownership or donation note (?)&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</cont><det>The note, partly difficult to read, contains the names of Wäldä Girgis (sic), his son Habtä Giworgis (sic) and his wife Wälättä Mikaˀel.</det></additional>
+&lt;/span&gt;&lt;/p&gt;</cont><det>The note, partly difficult to read, contains the names of Wäldä Girgis (sic), his son Habtä Giworgis (sic) and his wife Wälättä Mikaʾel.</det></additional>
 </additionals>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The ˀAnbǝro ˀǝd of the Anaphora of St. Epiphanius is attributed to “Gorgoryos”: fol. 65va l.16.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The ʾAnbǝro ʾǝd of the Anaphora of St. Epiphanius is attributed to “Gorgoryos”: fol. 65va l.16.&#13;
 - Notes in the bottom margin: fols 46vb, 94va, 98va.&#13;
 - Notes in the upper margin: fol. 67r.</extra>
 </extras>

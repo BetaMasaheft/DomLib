@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase "Missal"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Daily Office prayers and litanies  (fols. 4ra-17ra)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 17ra-36va)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 17ra-36va)&#13;
 III)  Anaphoras (fols. 36va-141vb )&#13;
 III-1) Anaphora of Our Lord Jesus Christ (fols. 36va-52vb)&#13;
 III-2) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 53ra-62vb)&#13;
@@ -33,13 +33,13 @@ Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaˀel / NSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000113" xlink:title="Nәḥbi Qәddus Mikaʾel / NSM"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe is possibly the same as the one of the Ms. GMG-019.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original donor appears to be Wäldä Sämaˁt. His name and names of his family members are mentioned in the supplication formula on fol. 38vb. &#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original donor appears to be Wäldä Sämaʿt. His name and names of his family members are mentioned in the supplication formula on fol. 38vb. &#13;
 Other names have been inserted in supplication formulas throughout the Ms. with recent hand, in red pen.</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Bayru Yäšǝqa (?) is mentioned in Additio 2.</owner>
@@ -115,7 +115,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the king, bishop and patriarch; groups of red lines alternating with black in the incipit page of Text I; incipits of the texts and their sections; incipit of Additio 1; musical notation signs; (abbreviated) directives for the ministers; some other words, e.g.  yətəfeśaḥə, ṣägahu, ṣälləyu,kaˁəbä; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the king, bishop and patriarch; groups of red lines alternating with black in the incipit page of Text I; incipits of the texts and their sections; incipit of Additio 1; musical notation signs; (abbreviated) directives for the ministers; some other words, e.g.  yǝtǝfeśaḥǝ, ṣägahu, ṣällǝyu,kaʿǝbä; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይበል፡ ካህን፡&#13;
 ይሕ፡ for ይበል፡ ሕዝብ፡&#13;

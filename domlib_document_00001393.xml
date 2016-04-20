@@ -10,22 +10,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 1ra-98rb)&#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä… “I worship Thy Godhead…” (fols. 1ra-2rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 1ra-98rb)&#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä… “I worship Thy Godhead…” (fols. 1ra-2rb)&#13;
 I-2) Introduction (fols. 3ra-7vb)&#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 3ra-5ra)&#13;
 - Story of the family of Adam (fols. 5ra-7vb)&#13;
-I-3) Täˀamrä ˀIyäsus “Miracles of Jesus”: 75 miracles (fols. 7vb-98rb) &#13;
+I-3) Täʾamrä ʾIyäsus “Miracles of Jesus”: 75 miracles (fols. 7vb-98rb) &#13;
 &#13;
 Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam is mentioned as the buyer of the Ms. in Additio 3.</donor>
 </donors>
@@ -100,7 +100,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 4ra-98rb&#13;
 Hand b: fols. 1ra-2rb</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; incipit of Text I-1; the two initial letters of the word ˀәsäggəd in Text I-1; incipit of Text I-2 and its subsections; incipit of sections of Text I-3; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the donor; incipit of Text I-1; the two initial letters of the word ʾәsäggǝd in Text I-1; incipit of Text I-2 and its subsections; incipit of sections of Text I-3; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I-2, two lines are rubricated, alternating with black lines (s. fols. 4r).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-1) is divided according to the days of the week.</otherdetail>

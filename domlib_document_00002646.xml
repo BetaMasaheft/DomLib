@@ -10,18 +10,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀəgzəˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Təmhərtä ḫəbuˀat “Teaching of Mysteries”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀəgzəˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 3r-33v)&#13;
-II) Təmhərtä ḫəbuˀat “Teaching of Mysteries” (fols. 33v-45r).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 3r-33v)&#13;
+II) Tǝmhǝrtä ḫǝbuʾat “Teaching of Mysteries” (fols. 33v-45r).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of ˀabunä Gäbrä Maryam is written in a secondary hand over erasure on fols. 3r, 18r (here ˀabunä Maryam), 33v and 45r.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of ʾabunä Gäbrä Maryam is written in a secondary hand over erasure on fols. 3r, 18r (here ʾabunä Maryam), 33v and 45r.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -88,7 +88,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The words እግዚኦ፡ and እግዚአብሔር፡ are usually written with ligature (e.g., fols. 3r, 5r).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra, two groups of lines on the incipit page of Text I alternating with black lines; two lines on the incipit page of Text II; the words täzäkkär, ˀaməḥəläkä, ˀəmmä-hi, mäḥalku or their abbreviations in Text I, the initial letters of the word fäṣṣimo in Text I; first word or initial letters of the first word of each subsection in Text II; elements of the punctuation signs and Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra, two groups of lines on the incipit page of Text I alternating with black lines; two lines on the incipit page of Text II; the words täzäkkär, ʾamǝḥǝläkä, ʾǝmmä-hi, mäḥalku or their abbreviations in Text I, the initial letters of the word fäṣṣimo in Text I; first word or initial letters of the first word of each subsection in Text II; elements of the punctuation signs and Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ተዘ፡ for ተዘከር፡ (fol. 5r)&#13;
 ኦወ፡/ኦ፡ ወ፡ for ኦወልድየ፡ (e.g., fols. 6v, 7v)&#13;

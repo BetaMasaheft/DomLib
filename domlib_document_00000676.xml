@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä fǝlsätu lä-ˀabunä Täklä Haymanot “Book of the Translation of ˀabunä Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” / Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä lǝdätu lä-ˀabunä Täklä Haymanot “Book of the Genealogy of ˀabunä Täklä Haymanot” (fols. 3ra-4ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä lǝdätu lä-ʾabunä Täklä Haymanot “Book of the Genealogy of ʾabunä Täklä Haymanot” (fols. 3ra-4ra)&#13;
 - Genealoy of Täklä Haymanot (fols. 3ra-4ra) &#13;
 II) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 4ra-90rb)&#13;
-III) Mäṣḥafä fǝlsätu lä-ˀabunä Täklä Haymanot “Book of the Translation of ˀabunä Täklä Haymanot” (fols. 90va-96rb)&#13;
-IV) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 19 miracles (fols. 97ra-105va)&#13;
+III) Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” (fols. 90va-96rb)&#13;
+IV) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 19 miracles (fols. 97ra-105va)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ˀAḥzära  Maryam /DMA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Maryam (s. Additio 1); also her relatives are mentioned.</donor>
 </donors>

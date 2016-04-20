@@ -10,25 +10,25 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Bǝsratä Yoḥannǝs "Gospel of John" / Mälkǝˀa Maryam "Image of Mary"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Bǝsratä Yoḥannǝs "Gospel of John" / Mälkǝʾa Maryam "Image of Mary"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gospel of John (fols. 3ra-92va)&#13;
 - Bǝsratä Yoḥannǝs "Gospel of John" (fols. 3ra-92ra)&#13;
 - Postscript (fols. 92ra-92va)&#13;
-II) Mälkǝˀa Maryam "Image of Mary" (fols. 92va-103va) (ChRep no. 91, GrohHymn 34)&#13;
+II) Mälkǝʾa Maryam "Image of Mary" (fols. 92va-103va) (ChRep no. 91, GrohHymn 34)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub02.2"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18" other="Poetry"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">On the incipit of Text I (fol. 3r), the name ˀabunä Gäbrä Krǝstos is crudely added in pencil (following the words məslä gäbru...).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">On the incipit of Text I (fol. 3r), the name ʾabunä Gäbrä Krǝstos is crudely added in pencil (following the words mǝslä gäbru...).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Currently the Ms. is in private possession of priest (qäšši) Täsfay ˀAbrǝha.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Currently the Ms. is in private possession of priest (qäšši) Täsfay ʾAbrǝha.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

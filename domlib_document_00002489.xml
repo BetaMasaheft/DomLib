@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanat, Homiliary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanat, Homiliary</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Dərsanat, Homiliary&#13;
-I) Dərsanat, Homiliary (fols. 1ra-156rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Dǝrsanat, Homiliary&#13;
+I) Dǝrsanat, Homiliary (fols. 1ra-156rb)&#13;
 I-1) Homily by Jacob (of Serug) on the Annunciation and on the Virgin Mary and Elizabeth (fols. 1ra-3rb) (cp. Orient. 774, no. 1)&#13;
 I-2) Homily by Jacob (of Serug) on the visit of Mary to Elizabeth (fols. 3rb-6ra) (cp. Orient. 774, no. 2)&#13;
 I-3) Homily by Jacob (of Serug) on the vision of Joseph (fols. 6ra-8vb) (cp. Orient. 774, no. 3)&#13;
@@ -32,7 +32,7 @@ I-15) Homily by John Chrysostom on Palm Sunday (fols. 55vb-59rb) (cp. Orient. 77
 I-16) Homily by Ephrem on Satan and death (fols. 59rb-63rb) (cp. Orient. 774, no. 16)&#13;
 I-17) Homily by Ephrem on Passion of Our Lord and on the thief on the right hand (fols. 63rb-66rb) (cp. Orient. 774, no. 17)&#13;
 I-18) Homily by Jacob of Serug on the angel and the thief (fols. 66rb-72vb) (cp. Orient. 774, no. 18)&#13;
-I-19) Homily by ˀAnəsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 73ra-87ra) (cp. Orient. 774, no. 19)&#13;
+I-19) Homily by ʾAnǝsṭasyos of Däbrä Sina on the burial of Our Lord (fols. 73ra-87ra) (cp. Orient. 774, no. 19)&#13;
 I-20) Homily by John Chrysostom on Passion of Our Lord (fols. 87ra-90va) (cp. Orient. 774, no. 20)&#13;
 I-21) Homily by John Chrysostom on Easter Sunday (fols. 90vb-94rb) (cp. Orient. 774, no. 21)&#13;
 I-22) Homily by John Theologus on Easter Sunday (fols. 94rb-102vb) (cp. Orient. 774, no. 22)&#13;
@@ -45,14 +45,14 @@ I-28) Homily by John Chrysostom on the Apostle Thomas (fols. 124vb-128ra) (cp. O
 I-29) Homily by John Chrysostom on repentance (fols. 128rb-135va) (cp. Orient. 774, no. 29)&#13;
 I-30) The Story of John of Rome who acquired the “Golden Gospel” (fols. 135va-140rb) (cp. Orient. 774, no. 30)&#13;
 I-31) Homily by John Chrysostom on the Ten Virgins (fol. 140rb-145va) (cp. Orient. 774, no. 31)&#13;
-I-32) Homily by ˀAnəsṭasyos of Däbrä Sina on the Transfiguration (fols. 145vb-153ra) (cp. Orient. 774, no. 32)&#13;
+I-32) Homily by ʾAnǝsṭasyos of Däbrä Sina on the Transfiguration (fols. 145vb-153ra) (cp. Orient. 774, no. 32)&#13;
 I-33) Homily by Jacob of Serug on the Annunciation to Zacharias of the birth of John the Baptist (fols. 153ra-156rb) (cp. Orient. 774, no. 33).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1450</fdating>
 </fdatings>

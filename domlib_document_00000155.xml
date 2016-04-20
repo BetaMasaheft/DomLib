@@ -11,13 +11,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Homily by Cyril of Jerusalem on the Assumption of Mary / Homily by Cyriacus of Behnesa on the Assumption of Mary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Homily by Cyril of Jerusalem on the Assumption of Mary / Homily by Cyriacus of Behnesa on the Assumption of Mary</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) ˀƎsäggəd lä-mäläkotəkä... "I worship Thy Godhead..." (fols. 5ra-7vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) ʾƎsäggǝd lä-mäläkotǝkä... "I worship Thy Godhead..." (fols. 5ra-7vb)&#13;
 I-2) Introductory exhortation (fols. 7vb-11ra)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 11ra-12va)&#13;
-I-4) Täˀamrä Maryam "Miracles of Mary": 89 miracles (fols. 12va-14rb, 20rb-125vb)&#13;
-I-5) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 15ra-20rb)&#13;
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 11ra-12va)&#13;
+I-4) Täʾamrä Maryam "Miracles of Mary": 89 miracles (fols. 12va-14rb, 20rb-125vb)&#13;
+I-5) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 15ra-20rb)&#13;
 II) Homily by Cyril of Jerusalem on the Assumption of Mary (fols. 126ra-155vb) (cp. V. ARRAS, De Transitu Mariae apocrypha aethiopice II, Louvain 1974 [CSCO 351, 352 (SAe 68, 69)], no. III)&#13;
 III) Homily by Cyriacus of Behnesa on the Assumption of Mary (fols. 156ra-188vb) (cp. V. ARRAS, De Transitu Mariae apocrypha aethiopice II, Louvain 1974 [CSCO 351, 352 (SAe 68, 69)], no. IV)&#13;
 &#13;
@@ -26,16 +26,16 @@ Additio 1.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01" other="Poetry"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Habtä ˀIyäsus, Wäldä Ḥawaryat Zä-Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Habtä ʾIyäsus, Wäldä Ḥawaryat Zä-Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Habtä ˀIyäsus (the old hand b) wrote Texts I-4, I-5, II and III. His name is mentioned in the subscription, fol. 188rb. He was the scribe of Ms. AP-005.&#13;
-Wäldä Ḥawaryat Zä-Mikaˀel (?), more recent scribe (hand a) wrote Texts I-1, I-2 and I-3: he is mentioned in the concluding supplication, fol. 14rb (on fol. 13va, he is mentioned but not as the scribe).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Habtä ʾIyäsus (the old hand b) wrote Texts I-4, I-5, II and III. His name is mentioned in the subscription, fol. 188rb. He was the scribe of Ms. AP-005.&#13;
+Wäldä Ḥawaryat Zä-Mikaʾel (?), more recent scribe (hand a) wrote Texts I-1, I-2 and I-3: he is mentioned in the concluding supplication, fol. 14rb (on fol. 13va, he is mentioned but not as the scribe).</copyist>
 </copyists>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Perhaps the owner of part of the Ms. (quires I and II) was scribe Wäldä Ḥawaryat Zä-Mikaˀel who mentions himself (fol. 7vb) and his father Zä-Mikaˀel  Wäldä Ḥawaryat (fols. 8ra, 9vb, 13vab) in the supplication formulas.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Perhaps the owner of part of the Ms. (quires I and II) was scribe Wäldä Ḥawaryat Zä-Mikaʾel who mentions himself (fol. 7vb) and his father Zä-Mikaʾel  Wäldä Ḥawaryat (fols. 8ra, 9vb, 13vab) in the supplication formulas.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1500</fdating>
 </fdatings>

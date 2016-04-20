@@ -11,31 +11,31 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 2ra-5v) &#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 2ra-5rb l.18) &#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 2ra-5rb l.18) &#13;
 - “Synopsis of Classes” (fols. 5rb l.19-5va l.30)&#13;
 - On the reliability of the Gospels (fols. 5va l.31-5vb l.13) &#13;
 II) Gospel of Matthew (fols. 5vb-47rb) &#13;
 - Biography of Matthew (fol. 5vb l.13-l.30)&#13;
 - Statement about the Eusebian sections (fol. 5vb l.30-l.34)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fol. 5vb-6va) &#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 8ra-47ra) &#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 8ra-47ra) &#13;
 - Postscript (fol. 47rb)&#13;
 III) Gospel of Mark (fols. 47rb-73rb) &#13;
 - Biography of Mark (fol. 47rb-47va l. 4)&#13;
 - Statement about the Eusebian sections (fol. 47va l.4-l.8).&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fols. 41va-47vb) &#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 48ra-) &#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 48ra-) &#13;
 IV) Gospel of Luke (fols. 74ra-117ra) &#13;
 - Biography of Luke (fols. 73rb-73va)&#13;
 - List of the “tituli” for the Gospel of Luke: 83 titles (fol. 73vab) &#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 74ra-117ra) &#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 74ra-117ra) &#13;
 V) Gospel of John (fols. 118va-139vb) &#13;
 - Biography of John (fol. 118va-151rb)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 118vab)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 119ra-151rb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 119ra-151rb)&#13;
 &#13;
 Additiones 1-6.</shortcontent>
 </shortcontents>
@@ -45,7 +45,7 @@ Additiones 1-6.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000186" xlink:title="QÃ¤ndaË&#129;ro QÉ&#153;ddus Qirqos / QDQ"/>
 </locationlinks>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe who wrote Additiones 2 and 6 is Mänbärä Krəstos.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe who wrote Additiones 2 and 6 is Mänbärä Krǝstos.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1550</fdating>
 </fdatings>
@@ -159,9 +159,9 @@ Characteristics:&#13;
 &#13;
 See: UhlPal 425-544.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; groups of lines on the incipit page of the introduction and of each Gospel; incipits of all sections (one or two initial lines); section numbers; the word məˤəraf "chapter"; elements of the punctuation signs; elements of the Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; groups of lines on the incipit page of the introduction and of each Gospel; incipits of all sections (one or two initial lines); section numbers; the word mǝˤǝraf "chapter"; elements of the punctuation signs; elements of the Ethiopic numerals.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The "Golden Gospel" book of Qändaˁro Qəddus Qirqos church.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The "Golden Gospel" book of Qändaʿro Qǝddus Qirqos church.&#13;
 - The canon tables are missing.&#13;
 - The space left for the rubricated, initial lines of 'On the reliability of the Gospels' is unfilled (fol. 5va).&#13;
 - No opening lines for the Gospel of Mark, the Gospel of Luke and the Gospel of John.&#13;
@@ -206,8 +206,8 @@ the feast of Däbrä Zäyt: fol. 38va. &#13;
 The names of the feasts are written above the heads of the saints:&#13;
 ትስብእት  'The Incarnation' (29 Mäggabit),&#13;
 ልደት  'The Nativity' (29 Taḫśaś),&#13;
-ግዝረት  'The Circumcision of the Lord' (6 Ṭərr), &#13;
-ጥምቀት 'The Baptism' (11 Ṭərr),&#13;
+ግዝረት  'The Circumcision of the Lord' (6 Ṭǝrr), &#13;
+ጥምቀት 'The Baptism' (11 Ṭǝrr),&#13;
 ልደተ፡ ስምዖን  'Presentation of the Lord' (8 Yäkkatit),&#13;
 ትንሣዔ  'The Resurrection' (mobile),&#13;
 እርገት  'The Ascension' (mobile),&#13;

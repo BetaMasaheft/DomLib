@@ -11,9 +11,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ˀabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Haymanotä ʾabäw “Faith of the Fathers” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ˀabäw “Faith of the Fathers” (fols. 2ra-226vc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Haymanotä ʾabäw “Faith of the Fathers” (fols. 2ra-226vc)&#13;
 - Table of contents (fols. 227ra-228r)&#13;
 II) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 228r-231va)&#13;
            &#13;
@@ -25,7 +25,7 @@ Additiones 1-2.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000174" xlink:title="May Ë&#128;AnbÃ¤sa KidanÃ¤ MÇ&#157;á¸¥rÃ¤t / MAKM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1 and 2, ˀabunä Täklä Haymanot donated the Ms. &#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additiones 1 and 2, ʾabunä Täklä Haymanot donated the Ms. &#13;
 The name of Wälättä Krǝstos/Kǝsos has been written throughout the Ms in a secondary hand, in deep reddish brown (e.g., fols. 5vc, 17rb, 226vb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
@@ -119,7 +119,7 @@ The bottom line is written above the ruling.</ruling>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 2r-228v.&#13;
 Hand b: fols. 228r-231v.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I, alternating with black lines; two initial lines of each section of the text; some words like yǝbe (e.g., 221ra, 221vb, 222rc), kǝfl (e.g., fols. 222rc, 223vb, 224vb), tǝˁǝzaz (e.g., fols. 225vc, 226ra, 226vb); Additio 1; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I, alternating with black lines; two initial lines of each section of the text; some words like yǝbe (e.g., 221ra, 221vb, 222rc), kǝfl (e.g., fols. 222rc, 223vb, 224vb), tǝʿǝzaz (e.g., fols. 225vc, 226ra, 226vb); Additio 1; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

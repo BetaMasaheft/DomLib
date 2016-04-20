@@ -11,12 +11,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours” / Excerpt from the Ordinary of the Mass / Təmhərtä ḫəbuˀat “Teaching of the Mysteries” / ˀƎgziˀabəḥer zä-bərhanat ˀəgziˀabəḥer zä-śəlṭanat… “God of Lights, God of Powers…” / Anaphora of Our Lord Jesus Christ</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours” / Excerpt from the Ordinary of the Mass / Tǝmhǝrtä ḫǝbuʾat “Teaching of the Mysteries” / ʾƎgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat… “God of Lights, God of Powers…” / Anaphora of Our Lord Jesus Christ</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälotä kidan zä-śälästu gizeyat “Covenant Prayer of the Three Hours” (fols. 3r-16r)&#13;
-II) Excerpt from the Ordinary of the Mass (fols. 16r-26v) (Śərˁatä Qəddase III, §§ 56-98), cp. QMA-005&#13;
-III) Təmhərtä ḫəbuˀat “Teaching of the Mysteries” (fols. 27r-37v)&#13;
-IV) ˀƎgziˀabəḥer zä-bərhanat ˀəgziˀabəḥer zä-śəlṭanat… “God of Lights, God of Powers…” (fols. 38r-43r)&#13;
+II) Excerpt from the Ordinary of the Mass (fols. 16r-26v) (Śǝrʿatä Qǝddase III, §§ 56-98), cp. QMA-005&#13;
+III) Tǝmhǝrtä ḫǝbuʾat “Teaching of the Mysteries” (fols. 27r-37v)&#13;
+IV) ʾƎgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat… “God of Lights, God of Powers…” (fols. 38r-43r)&#13;
 V) Anaphora of Our Lord Jesus Christ (fols. 43r-53r)&#13;
 &#13;
 Additio 1.</shortcontent>
@@ -24,19 +24,19 @@ Additio 1.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaˀel / DDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000157" xlink:title="Dändera Däbrä Mәḥrät Mikaʾel / DDM"/>
 </locationlinks>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 1 mentions mämhər Biyabäyyən as the owner.&#13;
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Additio 1 mentions mämhǝr Biyabäyyǝn as the owner.&#13;
 Names in the supplication formulas on fols. 41r-v, 42r, 43r have been erased.&#13;
-Currently in private possession of qäšši Təsfay Abräha Dändəra.</owner>
+Currently in private possession of qäšši Tǝsfay Abräha Dändǝra.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1809</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1852</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Alexandrian (?) Patriarch (liqä ṗaṗasəna) Ṗeṭros (i.e. Peter VII, in tenure from 1809 to 1852) is mentioned on fols. 19v and 21r.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Alexandrian (?) Patriarch (liqä ṗaṗasǝna) Ṗeṭros (i.e. Peter VII, in tenure from 1809 to 1852) is mentioned on fols. 19v and 21r.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -120,7 +120,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&amp;#160;&lt;span style="font-family: Arial, sans-serif; font-size: 10pt;"&gt;Fol. 53v: Ownership note.&lt;/span&gt;&lt;/p&gt;&#13;
-&lt;p style="margin-bottom: 0.0001pt;" class="MsoNormal"&gt;&lt;span lang="EN-US" style="font-size:10.0pt;font-family:"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&amp;#160;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Arial, sans-serif;"&gt;Fol. 53v: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4981;&amp;#4977; &amp;#4829;&amp;#4632;&amp;#4925;&amp;#4736;&amp;#4941;&amp;#4961; &amp;#4840;&amp;#4632;&amp;#4637;&amp;#4652;&amp;#4961; &amp;#4706;&amp;#4843;&amp;#4704;&amp;#4845;&amp;#4757;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4736;&amp;#4941;&amp;#4961; &amp;#4752;&amp;#4813;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-family: Nyala; line-height: 115%;"&gt;&amp;#4961;&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4980;&amp;#4974;&amp;#4819;&amp;#4632;&amp;#4720;&amp;#4961; &amp;#4637;&amp;#4613;&amp;#4651;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US" style="font-size: small; line-height: 115%; font-family: Arial, sans-serif;"&gt;.&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in Gəˁəz and Amharic in strong rose pen. It mentions mäməre Biyabäyyən as the owner of the Ms. and it is dated to 1949 or 1936 year of mercy.</det></additional>
+&lt;p style="margin-bottom: 0.0001pt;" class="MsoNormal"&gt;&lt;span lang="EN-US" style="font-size:10.0pt;font-family:"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&amp;#160;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: Arial, sans-serif;"&gt;Fol. 53v: &lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4981;&amp;#4977; &amp;#4829;&amp;#4632;&amp;#4925;&amp;#4736;&amp;#4941;&amp;#4961; &amp;#4840;&amp;#4632;&amp;#4637;&amp;#4652;&amp;#4961; &amp;#4706;&amp;#4843;&amp;#4704;&amp;#4845;&amp;#4757;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4736;&amp;#4941;&amp;#4961; &amp;#4752;&amp;#4813;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-family: Nyala; line-height: 115%;"&gt;&amp;#4961;&amp;#160;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4980;&amp;#4974;&amp;#4819;&amp;#4632;&amp;#4720;&amp;#4961; &amp;#4637;&amp;#4613;&amp;#4651;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;span lang="EN-US" style="font-size: small; line-height: 115%; font-family: Arial, sans-serif;"&gt;.&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in Gǝʿǝz and Amharic in strong rose pen. It mentions mämǝre Biyabäyyǝn as the owner of the Ms. and it is dated to 1949 or 1936 year of mercy.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Text II contains musical notation signs inserted interlineally.  &#13;
 - Omitted letters inserted interlineally, fol. 26r-v; in red ink, fol. 25r.&#13;
@@ -135,7 +135,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 - Scribbles: e.g., fols. 1v, 2r, 2v, 3r, 8v, 13v.&#13;
 - A note in black ink has been effaced on fol. 37v.&#13;
 - Traces of glue on fol. 2v, possibly due to the former presence of an image.&#13;
-- The name of the Metropolitan is indicated by the word ˁəgäle on fols. 19v and 21r (here erased).</extra>
+- The name of the Metropolitan is indicated by the word ʿǝgäle on fols. 19v and 21r (here erased).</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>

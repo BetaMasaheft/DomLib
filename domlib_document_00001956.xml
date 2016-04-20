@@ -10,20 +10,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝˀa Maryam “Image of Mary” / Mälkəˀa Iyäsus “Image of Jesus” / Yəweddəsəwwa mälaˀǝkt lä-Maryam… “The angels praise Mary…” / O rǝḫrǝḫtä ḥəllina... “O tender-hearted...” / Sälam lä-śǝˁləki zä-yǝˀeddǝm lä-nǝṣṣare “Greeting to your icon which is pleasant to the sight…”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa Maryam “Image of Mary” / Mälkǝʾa Iyäsus “Image of Jesus” / Yǝweddǝsǝwwa mälaʾǝkt lä-Maryam… “The angels praise Mary…” / O rǝḫrǝḫtä ḥǝllina... “O tender-hearted...” / Sälam lä-śǝʿlǝki zä-yǝʾeddǝm lä-nǝṣṣare “Greeting to your icon which is pleasant to the sight…”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝˀa Maryam “Image of Mary” (fols. 1r-17r) (cp. Mälkǝˀa gubaˀe, ˀAśmära 1974 E.C., pp. 21-34)&#13;
-II) Mälkəˀa Iyäsus “Image of Jesus” (fols. 17r-32r) (cp. Mälkǝˀa gubaˀe, ˀAśmära 1974 E.C., pp. 36-48), incomplete&#13;
-III) Yəweddəsəwwa mälaˀǝkt lä-Maryam… “The angels praise Mary…” (Hymn to St. Mary) (fols. 32r-35v) (cp. ChRep no. 388)&#13;
-IV) O rǝḫrǝḫtä ḥəllina... “O tender-hearted...” (Hymn to St. Mary) (fols. 35v-37v) (cp. ChRep no. 368)&#13;
-V) Sälam lä-śǝˁləki zä-yǝˀeddǝm lä-nǝṣṣare... “Greeting to your icon which is pleasant to the sight…” (Hymn to St. Mary) (fols. 37v-41v)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa Maryam “Image of Mary” (fols. 1r-17r) (cp. Mälkǝʾa gubaʾe, ʾAśmära 1974 E.C., pp. 21-34)&#13;
+II) Mälkǝʾa Iyäsus “Image of Jesus” (fols. 17r-32r) (cp. Mälkǝʾa gubaʾe, ʾAśmära 1974 E.C., pp. 36-48), incomplete&#13;
+III) Yǝweddǝsǝwwa mälaʾǝkt lä-Maryam… “The angels praise Mary…” (Hymn to St. Mary) (fols. 32r-35v) (cp. ChRep no. 388)&#13;
+IV) O rǝḫrǝḫtä ḥǝllina... “O tender-hearted...” (Hymn to St. Mary) (fols. 35v-37v) (cp. ChRep no. 368)&#13;
+V) Sälam lä-śǝʿlǝki zä-yǝʾeddǝm lä-nǝṣṣare... “Greeting to your icon which is pleasant to the sight…” (Hymn to St. Mary) (fols. 37v-41v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaˀel / QMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaʾel / QMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaˀel / QMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Märgaḥәya Qәddus Mikaʾel / QMM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -112,12 +112,12 @@ Some distinctive features:&#13;
 - ቶ and ቆ have the loop marking the 7th order set at the horizontal stroke (e.g., fols. 28v l.7, 30r l.7)&#13;
 -  the upper horizontal stroke of መ  ወ (esp. መ) in the 1st order is slanted to the left (e.g., fols. 23v l.3, 24r l.4).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (in full or partly); a few lines, alternating with black lines, on the incipit page of Text I; incipit of Texts II, III, IV, V; the initial line of the note on fols. 41v-42r; a few other words, sälam (and its abbreviations) (e.g., fols. 9r, 19r), sǝbḥat (e.g., fol. 31v), sägid (fol. 39v), tǝnśaˀe (fol. 30v); some letters of the word rǝḫrǝḫtä (fol. 36v); elements of the punctuation signs and the text dividers; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra (in full or partly); a few lines, alternating with black lines, on the incipit page of Text I; incipit of Texts II, III, IV, V; the initial line of the note on fols. 41v-42r; a few other words, sälam (and its abbreviations) (e.g., fols. 9r, 19r), sǝbḥat (e.g., fol. 31v), sägid (fol. 39v), tǝnśaʾe (fol. 30v); some letters of the word rǝḫrǝḫtä (fol. 36v); elements of the punctuation signs and the text dividers; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰ᎓/ሰላ᎓ for ሰላም፡(e.g., fols. 4r, 5r, 17v, 40v)&#13;
 ማርያ፡ for ማርያም፡ (e.g., fols. 2v, 34v).</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In Text II (Mälkəˀa Iyäsus) the last two strophes, “Sälam sälam lä-kwǝllon...” and “ˀAmlak mǝdr wä-sämayat...” are missing (cp. Mälkǝˀa gubaˀe, ˀAśmära 1974 E.C., p. 48).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In Text II (Mälkǝʾa Iyäsus) the last two strophes, “Sälam sälam lä-kwǝllon...” and “ʾAmlak mǝdr wä-sämayat...” are missing (cp. Mälkǝʾa gubaʾe, ʾAśmära 1974 E.C., p. 48).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

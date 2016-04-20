@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dəggwa, Antiphonary / Mäzmur, Antiphones for Sundays of the year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝggwa, Antiphonary / Mäzmur, Antiphones for Sundays of the year</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dəggwa, Antiphonary (fols. 5ra-74va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝggwa, Antiphonary (fols. 5ra-74va)&#13;
 II) Mäzmur, Antiphones for Sundays of the year (fols. 75ra-105r)&#13;
 - Table of halleluiatic chants (fols. 102vb-105r)&#13;
 &#13;
@@ -20,9 +20,9 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siˁet Qәddәst Maryam / GMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qәddәst Maryam / GMS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -123,7 +123,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I-II; one or two initial lines of the sections of Text I (e.g., ˀamä 20 wä 1 wazema zä-Ṣəyon); names of sections of Text II (e.g., mäzmur zä-Däbrä Zäyt) followed by feast names; two initial lines of parts of Text II (fols. 81vb, 97va); antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, zä-ˀamlakiyä, zä-yəˀəze, yətbaräk); names of other chants and their abbreviations sometimes followed by month and feast names (e.g., məlṭan, məsbak, ˁəzl); musical notation: intratextual signs (e.g., səräyu, qädami, yəgäbru, qalä ˁawadi, ˀaklilä, täsäfḥa), interlinear (e.g., fol. 49rb) and elements of the marginal signs; elements of the Table of halleluiatic chants; chains of red and black dots separating groups of antiphones; elements of the punctuation signs, Ethiopic numerals or their elements.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I-II; one or two initial lines of the sections of Text I (e.g., ʾamä 20 wä 1 wazema zä-Ṣǝyon); names of sections of Text II (e.g., mäzmur zä-Däbrä Zäyt) followed by feast names; two initial lines of parts of Text II (fols. 81vb, 97va); antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, zä-ʾamlakiyä, zä-yǝʾǝze, yǝtbaräk); names of other chants and their abbreviations sometimes followed by month and feast names (e.g., mǝlṭan, mǝsbak, ʿǝzl); musical notation: intratextual signs (e.g., sǝräyu, qädami, yǝgäbru, qalä ʿawadi, ʾaklilä, täsäfḥa), interlinear (e.g., fol. 49rb) and elements of the marginal signs; elements of the Table of halleluiatic chants; chains of red and black dots separating groups of antiphones; elements of the punctuation signs, Ethiopic numerals or their elements.&#13;
 Sometimes only two or three initial letters of a word are rubricated.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">Some of the abbreviations used throughout the texts:&#13;

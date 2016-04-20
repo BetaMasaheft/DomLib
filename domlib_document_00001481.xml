@@ -10,36 +10,36 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the second half of the year (fols. 3ra-172rb) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the second half of the year (fols. 3ra-172rb) &#13;
 I-1) Mäggabit: (fols. 3ra-31rc)&#13;
 I-2) Miyazya: (fols. 31ra-53va)&#13;
-I-3) Gənbot: (fols. 54ra-81vc)&#13;
+I-3) Gǝnbot: (fols. 54ra-81vc)&#13;
 I-4) Säne: (fols. 82ra-111va)&#13;
 I-5) Ḥamle: (fols. 112ra-141vc)&#13;
 I-6) Näḥase: (fols. 142ra-167va)&#13;
-I-7) Ṗagwəmen: (fols. 167vb-172rb)&#13;
+I-7) Ṗagwǝmen: (fols. 167vb-172rb)&#13;
 - Postscript: fol. 172rb&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ˁAddigrat Mädḫane ˁAläm / AMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ʿAddigrat Mädḫane ʿAläm / AMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ˁAddigrat Mädḫane ˁAläm / AMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000064" xlink:title="ʿAddigrat Mädḫane ʿAläm / AMM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">šum ˀagame Kasa (the son of ras Səbḥat) is mentioned as the donor in Additio 2. His baptismal name, Wäldä ˀArägawi (cp. Mss. AMQ-011, MKL-006), has been written in the supplication formulas in a secondary hand, over erasures.&#13;
-The names of the original donors have been erased from almost all supplication formulas. The names Wäldä Rufaˀel and ˀAmätä Maryam have been preserved on some fols. e.g., 25vb, 61rb, 83vb, 84rb, 127va, 128rab, 167vc.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">šum ʾagame Kasa (the son of ras Sǝbḥat) is mentioned as the donor in Additio 2. His baptismal name, Wäldä ʾArägawi (cp. Mss. AMQ-011, MKL-006), has been written in the supplication formulas in a secondary hand, over erasures.&#13;
+The names of the original donors have been erased from almost all supplication formulas. The names Wäldä Rufaʾel and ʾAmätä Maryam have been preserved on some fols. e.g., 25vb, 61rb, 83vb, 84rb, 127va, 128rab, 167vc.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1917</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1918</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Nəguś (of Gondär) Wäldä Gyorgis (r. 1917-18, s. EAE, IV, 1100) is mentioned on fols. 101ra, 101rb, 101vc. &#13;
-šum ˀagame Kasa, the governor of ˁAgamä in 1914-18, is mentioned in Additio 2.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Nǝguś (of Gondär) Wäldä Gyorgis (r. 1917-18, s. EAE, IV, 1100) is mentioned on fols. 101ra, 101rb, 101vc. &#13;
+šum ʾagame Kasa, the governor of ʿAgamä in 1914-18, is mentioned in Additio 2.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -115,9 +115,9 @@ Hand b: fols. 142r-172rb, slender upright letters;  the vertical elements appear
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 53vb: Inventory of the books of the church &lt;/span&gt;&lt;span style="line-height: 115%"&gt;M&amp;#228;d&amp;#7723;ane &amp;#705;Al&amp;#228;m&lt;/span&gt;&lt;span style="line-height: 115%"&gt;. &lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>Written in a recent crude hand.&#13;
-The books in the possession of Mädḫane ˁAläm church of ˁAddigrat are listed.</det></additional>
+The books in the possession of Mädḫane ʿAläm church of ʿAddigrat are listed.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal; margin-bottom: 0pt"&gt;&lt;span style="font-size: small"&gt;Fol. 172rb: Donation note.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 172rb: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4720;&amp;#4659;&amp;#4840;&amp;#4902;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4665;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4875;&amp;#4636;&amp;#4961; &amp;#4779;&amp;#4659;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4849;&amp;#4961; &amp;#4616;&amp;#4705;&amp;#4653;&amp;#4781;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;[sic]&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large"&gt;&lt;span style="line-height: 115%"&gt;&amp;#4961;&lt;/span&gt; &amp;#4651;&amp;#4661;&amp;#4961; &lt;/span&gt;&amp;#4656;&amp;#4709;&amp;#4624;&amp;#4725;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4616;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4739;&amp;#4756;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4853;&amp;#4877;&amp;#4651;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4608;&amp;#4961; &amp;#4704;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>Written in a well-trained hand, in red ink.&#13;
-The note states that šum ˀagame Kasa (in office 1914-18, 1941-48), the son of ras Səbḥat (b. 1844, d. 1914), donated this book to the church Mädḫane ˁAläm in ˁAddigrat.</det></additional>
+The note states that šum ʾagame Kasa (in office 1914-18, 1941-48), the son of ras Sǝbḥat (b. 1844, d. 1914), donated this book to the church Mädḫane ʿAläm in ʿAddigrat.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Two notes, almost completely erased and illegible, written in red ink: fols. 53va, 111vab.&#13;
 - Crude pencil notes: fols. 172rc, 173vc.&#13;

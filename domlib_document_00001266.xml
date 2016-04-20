@@ -7,18 +7,18 @@
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-11</regdate>
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəñña"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝñña"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanä mädḫane ˁaläm “Homily on the Saviour of the World” / Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” / Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanä mädḫane ʿaläm “Homily on the Saviour of the World” / Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” / Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dərsanä mädḫane ˁaläm “Homily on the Saviour of the World” (fols. 4ra-10va l.14) &#13;
-II) Mäṣḥaf lä-täzkarä mädḫane ˁaläm “Book for the Commemoration of the Saviour of the World” (fols. 10va l.15-41vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä mädḫane ʿaläm “Homily on the Saviour of the World” (fols. 4ra-10va l.14) &#13;
+II) Mäṣḥaf lä-täzkarä mädḫane ʿaläm “Book for the Commemoration of the Saviour of the World” (fols. 10va l.15-41vb)&#13;
 II-1) Introduction (fols. 10va l.15-11vb l.15)&#13;
-II-2) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbˁa Ṣəyon)” (fols. 11vb l.16-41vb)&#13;
-II-3) Täˀamrä Täklä Maryam “Miracles of Täklä Maryam” (fols. 42ra-56va l.2)&#13;
-III) Mälkəˀa mädḫane ˁaläm “Image of the Saviour of the World” (fols. 56va l.3-61vb)&#13;
+II-2) Gädlä Täklä Maryam “Vita of Täklä Maryam (Mäbʿa Ṣǝyon)” (fols. 11vb l.16-41vb)&#13;
+II-3) Täʾamrä Täklä Maryam “Miracles of Täklä Maryam” (fols. 42ra-56va l.2)&#13;
+III) Mälkǝʾa mädḫane ʿaläm “Image of the Saviour of the World” (fols. 56va l.3-61vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -30,19 +30,19 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="DÃ¤brÃ¤ MaË&#129;á¹£o QÓ&#153;ddus Yoá¸¥annÓ&#153;s / MY"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Kiros Yəsḥaq</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Kiros Yǝsḥaq</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions priest Gäbrä Kiros Yəsḥaq from Qäqäma as the seller of the Ms. Most probably he is also the scribe.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions priest Gäbrä Kiros Yǝsḥaq from Qäqäma as the seller of the Ms. Most probably he is also the scribe.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many names are mentioned in the supplication formulas throughout the Ms.: Gäbrä Ṣadəq (e.g., fols. 11vb, 21va, 25va, 34vb), Zä-Yoḥannəs (fols. 11vb, 34vb), Wälättä Krəstos (fols. 11vb, 21vb, 22rb), Gäbrä Yoḥannəs (fols. 12ra, 30ra), Wälättä Gäbrä Ḫer (fol. 12ra),  Zä-Mädḫən (fols. 14ra, 26ra), Wälättä Kidan (fols. 14ra, 26ra), Wälättä Ḥawaryat (fols. 17ra, 26ra), Täklä Maryam (fols. 7va, 19ra), Wälättä Śəllase (fols. 7va, 19ra), Gäbrä Yoḥannəs (fols. 21vb, 25va), Zä-ˀArägawi, (fols. 21vb, 25va), Wälättä Gäbrəˀel (e.g., fols. 22rb, 25va), Gäbrä Maryam (fols. 30ra, 42ra), Zä-Zäkaryas (fol. 36vb), Gäbrä Mädḫən (fol. 37ra), Täsfa  Yoḥannəs, Gäbrä ˀAmlak (fol. 41va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Many names are mentioned in the supplication formulas throughout the Ms.: Gäbrä Ṣadǝq (e.g., fols. 11vb, 21va, 25va, 34vb), Zä-Yoḥannǝs (fols. 11vb, 34vb), Wälättä Krǝstos (fols. 11vb, 21vb, 22rb), Gäbrä Yoḥannǝs (fols. 12ra, 30ra), Wälättä Gäbrä Ḫer (fol. 12ra),  Zä-Mädḫǝn (fols. 14ra, 26ra), Wälättä Kidan (fols. 14ra, 26ra), Wälättä Ḥawaryat (fols. 17ra, 26ra), Täklä Maryam (fols. 7va, 19ra), Wälättä Śǝllase (fols. 7va, 19ra), Gäbrä Yoḥannǝs (fols. 21vb, 25va), Zä-ʾArägawi, (fols. 21vb, 25va), Wälättä Gäbrǝʾel (e.g., fols. 22rb, 25va), Gäbrä Maryam (fols. 30ra, 42ra), Zä-Zäkaryas (fol. 36vb), Gäbrä Mädḫǝn (fol. 37ra), Täsfa  Yoḥannǝs, Gäbrä ʾAmlak (fol. 41va).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions ˀabba Täsfa Mikaˀel ˀArˀaya as the buyer.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions ʾabba Täsfa Mikaʾel ʾArʾaya as the buyer.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">2006</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">2006</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions the day of the transaction: 21 Ṭəqəmt 1999 A.M., i.e., 30 November 2006 A.D.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The sale note (s. Additio 1) mentions the day of the transaction: 21 Ṭǝqǝmt 1999 A.M., i.e., 30 November 2006 A.D.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -126,7 +126,7 @@ The bottom line is written above the ruling.</ruling>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The letters have distinctive hair lines.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines (alternating with black lines) in the incipit page of Texts I-III; one or two initial lines of the sections of Texts I-II; name of the protagonist of Texts I-II; every second letter in some words in Text II (e.g., fol. 24va l.22); some words in Text II; the words sälam “salutation” and səbḥat “glory” in Text III; names of the days of the week or their elements; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines (alternating with black lines) in the incipit page of Texts I-III; one or two initial lines of the sections of Texts I-II; name of the protagonist of Texts I-II; every second letter in some words in Text II (e.g., fol. 24va l.22); some words in Text II; the words sälam “salutation” and sǝbḥat “glory” in Text III; names of the days of the week or their elements; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">The following abbreviations are used throughout Text III:&#13;
 መድ፡ ዓለ፡ ክር፡ for መድኃኔ፡ ዓለም፡ ክርስቶስ፡&#13;
@@ -137,7 +137,7 @@ The bottom line is written above the ruling.</ruling>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 61r: Record concerning the sale of the book.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 61r:&lt;/span&gt;&lt;span style="font-size: large;"&gt; &amp;#4821;&amp;#4616;&amp;#4725;&amp;#4961; &lt;span style="font-size: small;"&gt;21&amp;#4961; 3/ 1999&lt;/span&gt; &amp;#4819;&amp;#4961; &amp;#4779;&amp;#4709;&amp;#4961; &amp;#4688;&amp;#4669;&amp;#4961; &amp;#4872;/&amp;#4778;&amp;#4654;&amp;#4661;&amp;#4961; &amp;#4845;&amp;#4659;&amp;#4677;&amp;#4961; &amp;#4808;&amp;#4648;&amp;#4851;&amp;#4961; &amp;#4851;&amp;#4880;&amp;#4819;&amp;#4961; &amp;#4720;&amp;#4637;&amp;#4708;&amp;#4757;&amp;#4961; &amp;#4685;&amp;#4664;&amp;#4725;&amp;#4961; &amp;#4672;&amp;#4672;&amp;#4635;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4853;&amp;#4653;&amp;#4659;&amp;#4752;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4739;&amp;#4756;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4709;&lt;span style="font-size: small;"&gt;350&amp;#4961;&lt;/span&gt;&amp;#160;&amp;#4672;&amp;#4653;&amp;#4666;&amp;#4961; &amp;#4664;&amp;#4845;&amp;#4896;&amp;#4961; &amp;#4768;&amp;#4616;&amp;#4777;&amp;#4961; &amp;#4757;&amp;#4768;&amp;#4707;&amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4768;&amp;#4653;&amp;#4768;&amp;#4843;&amp;#4961; &amp;#4709;&amp;#4637;&amp;#4667;&amp;#4896;&amp;#4845;&amp;#4961; &amp;#4709;&amp;#4941;&amp;#4653;&amp;#4635;&amp;#4845;&lt;/span&gt;&lt;/div&gt;&#13;
 &lt;p&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4672;&amp;#4666; &amp;#4872;/&amp;#4778;&amp;#4654;&amp;#4661; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;div style="text-align: justify; line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;On the day 21 &amp;#7788;&amp;#601;q&amp;#601;mt 1999 year&amp;#160;[of mercy]&amp;#160;from priest G&amp;#228;br&amp;#228; Kiros Y&amp;#601;saq, w&amp;#228;r&amp;#228;da Dagw&amp;#228;&amp;#705;a T&amp;#228;mben, &lt;span style="color: black;"&gt;qu&amp;#353;&amp;#228;t&lt;/span&gt; Q&amp;#228;q&amp;#228;ma, I sold the book &amp;#8220;Homily on the Saviour of the World&amp;#8221; for 350 b&amp;#601;rr to &amp;#704;abba T&amp;#228;sfa Mika&amp;#704;el &amp;#704;Ar&amp;#704;aya, by my selling, by my signature&lt;/span&gt;&lt;/div&gt;&#13;
-&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;[Signature:] priest G&amp;#228;br&amp;#228; Kiros&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>The recent note is written in Təgrəñña, in pen. It mentions the day of the transaction, 21 Ṭəqəmt 1999 year of mercy (= 30 November 2006 A.D.), the seller and most probably the scribe, priest Gäbrä Kiros Yəsḥaq from wäräda Dägˁa Tämben, qušät Qäqäma, the buyer ˀabba Täsfa Mikaˀel ˀArˀaya and the sum paid, 350 bərr.</det></additional>
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;[Signature:] priest G&amp;#228;br&amp;#228; Kiros&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran><det>The recent note is written in Tǝgrǝñña, in pen. It mentions the day of the transaction, 21 Ṭǝqǝmt 1999 year of mercy (= 30 November 2006 A.D.), the seller and most probably the scribe, priest Gäbrä Kiros Yǝsḥaq from wäräda Dägʿa Tämben, qušät Qäqäma, the buyer ʾabba Täsfa Mikaʾel ʾArʾaya and the sum paid, 350 bǝrr.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Lacunas in supplication formulas for writing a donor’s name are most often not filled. &#13;
 - Donor’s names are crudely written in a blue pen, probably by the same hand as Additio 1.</extra>
@@ -150,7 +150,7 @@ The bottom line is written above the ruling.</ruling>
 </txquiremarks>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
-<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Daily readings are indicated by the names of the days of the week written in the upper margin: zä-sänuy (fols. 10va, 42ra, 48ra), zä-śälus (fols. 16vb, 42va, 49vb), zä-räbuˁ (fols. 21va, 43rb), zä-ḥamus (fols. 24va, 43va), zä-ˀarb (fols. 30ra, 44rb, 52vb), zä-qädam (fol. 34vb, 44vb, 54va), zä-ˀəḥud (fol. 39vb, 45va, 55vb).</txfindingaid>
+<txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Daily readings are indicated by the names of the days of the week written in the upper margin: zä-sänuy (fols. 10va, 42ra, 48ra), zä-śälus (fols. 16vb, 42va, 49vb), zä-räbuʿ (fols. 21va, 43rb), zä-ḥamus (fols. 24va, 43va), zä-ʾarb (fols. 30ra, 44rb, 52vb), zä-qädam (fol. 34vb, 44vb, 54va), zä-ʾǝḥud (fol. 39vb, 45va, 55vb).</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">Fol. 4r: incipit of Text I, coloured (in blue pen and rose ink) horizontal ornamental band with two lateral and one central extension; geometric motifs.</frame>
 </frames>

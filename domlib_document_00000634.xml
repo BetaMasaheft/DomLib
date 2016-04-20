@@ -12,16 +12,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the first half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the first half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar "Synaxarion" for the first half of the year (fols. 3ra-217vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar "Synaxarion" for the first half of the year (fols. 3ra-217vb)&#13;
 I-1) Mäskäräm (fols. 3ra-34va) &#13;
-I-2) Ṭəqəmt (fols. 35ra-65vc)&#13;
-I-3) Ḫədar (fols. 66ra-101vc)&#13;
+I-2) Ṭǝqǝmt (fols. 35ra-65vc)&#13;
+I-3) Ḫǝdar (fols. 66ra-101vc)&#13;
 I-4) Taḫśaś (fols. 102ra-139vb) &#13;
-I-5) Ṭərr (fols. 140ra-189rc)&#13;
+I-5) Ṭǝrr (fols. 140ra-189rc)&#13;
 I-6) Yäkkatit (fols. 189va l.8 – 217vb) &#13;
-The commemorative notices are followed by ˁarke-hymns.</shortcontent>
+The commemorative notices are followed by ʿarke-hymns.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05" other="Religious poetry"/>
 </subjects>
@@ -31,14 +31,14 @@ The commemorative notices are followed by ˁarke-hymns.</shortcontent>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Giyorgis mentioned in the supplication formulas throughout the manuscript (in several cases it was washed out).&#13;
 Besides him, on fol. 25rc (ls. 5-7), within the supplication formula at the end of the commemorative notice, there are the names of several other individuals mentioned as his wife and his children, resp.: Romanä Wärq, Gäbrä Mäsqäl and Gäbrä Maryam.&#13;
-Other name mentioned is Wäldä Mikaˀel (especially in supplication formulas in the second part of the text). &#13;
-In some passages at the beginning, the names of Täklä Mikaˀel (s., e.g., fols. 6rb, ls. 15-16, 7rb, ls. 4-5) and Gäbrä ˀƎgziˀabǝḥer (s., e.g., fols. 50rb, ls. 3 and 14, 76vc, l.12) are added by secondary hand, in pen, in place of the original name washed out (Wäldä Giyorgis ?).</donor>
+Other name mentioned is Wäldä Mikaʾel (especially in supplication formulas in the second part of the text). &#13;
+In some passages at the beginning, the names of Täklä Mikaʾel (s., e.g., fols. 6rb, ls. 15-16, 7rb, ls. 4-5) and Gäbrä ʾƎgziʾabǝḥer (s., e.g., fols. 50rb, ls. 3 and 14, 76vc, l.12) are added by secondary hand, in pen, in place of the original name washed out (Wäldä Giyorgis ?).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1889</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1913</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mention of Kings  Yoḥannəs IV (r. 1872-89) (s., e,g., fols. 13ra, ls. 32-33, 15ra, ls. 6-7, 43vc, ls. 9-10, 90vc, l.24) and Mənilək II (1889-1913) (s., e.g., fols. 62r, ls. 9-10, 90vc, ls. 16-17). Most probably, the writing was started during the time of Yoḥannəs IV, and finished during the reign of Mənilək.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Mention of Kings  Yoḥannǝs IV (r. 1872-89) (s., e,g., fols. 13ra, ls. 32-33, 15ra, ls. 6-7, 43vc, ls. 9-10, 90vc, l.24) and Mǝnilǝk II (1889-1913) (s., e.g., fols. 62r, ls. 9-10, 90vc, ls. 16-17). Most probably, the writing was started during the time of Yoḥannǝs IV, and finished during the reign of Mǝnilǝk.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

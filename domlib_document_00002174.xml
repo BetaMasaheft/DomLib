@@ -10,21 +10,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkəˀa ˁAbiyä ˀƎgziˀ “Image of ˁAbiyä ˀƎgziˀ” / Mälkəˀa Iyäsus “Image of Jesus” / Mälkəˀa Täklä Haymanot “Image of Täklä Haymanot” / Sǝbḥatä fǝqur zä-Mikaˀel “Praise of the Beloved for Mikaˀel”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa ʿAbiyä ʾƎgziʾ “Image of ʿAbiyä ʾƎgziʾ” / Mälkǝʾa Iyäsus “Image of Jesus” / Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot” / Sǝbḥatä fǝqur zä-Mikaʾel “Praise of the Beloved for Mikaʾel”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkəˀa ˁAbiyä ˀƎgziˀ “Image of ˁAbiyä ˀƎgziˀ” (fols. 1v-8v) (ChRep 191, no. 19)&#13;
-II) Mälkəˀa Iyäsus “Image of Jesus” (fols. 8v-29v) (ChRep 199, no. 123)&#13;
-III) Mälkəˀa Täklä Haymanot “Image of Täklä Haymanot” (fols. 31r-52v) (ChRep 339, no. 211)&#13;
-IV) Sǝbḥatä fǝqur zä-Mikaˀel “Praise of the Beloved for Mikaˀel” (section of Horologium) (fols. 53r-59v), (cp. EMML no. 5907).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa ʿAbiyä ʾƎgziʾ “Image of ʿAbiyä ʾƎgziʾ” (fols. 1v-8v) (ChRep 191, no. 19)&#13;
+II) Mälkǝʾa Iyäsus “Image of Jesus” (fols. 8v-29v) (ChRep 199, no. 123)&#13;
+III) Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot” (fols. 31r-52v) (ChRep 339, no. 211)&#13;
+IV) Sǝbḥatä fǝqur zä-Mikaʾel “Praise of the Beloved for Mikaʾel” (section of Horologium) (fols. 53r-59v), (cp. EMML no. 5907).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ˁAddi Qiyaḥto Qəddəst Maryam / QQM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000159" xlink:title="ʿAddi Qiyaḥto Qǝddǝst Maryam / QQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Mikaˀel is mentioned in the supplication formulas. Besides, the name of Gäbrä Giyorgis has been added into the supplication formulas with a modern marker.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Mikaʾel is mentioned in the supplication formulas. Besides, the name of Gäbrä Giyorgis has been added into the supplication formulas with a modern marker.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -90,7 +90,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and regular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two lines on the incipit page of Texts I and II; two lines on the incipit page of Texts II and III, alternating with black lines; initial words of each strophe; elements of quire marks; elements of the punctuation signs; elements of Ethiopic numerals; the word ˀǝnzä (fol. 52r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; two lines on the incipit page of Texts I and II; two lines on the incipit page of Texts II and III, alternating with black lines; initial words of each strophe; elements of quire marks; elements of the punctuation signs; elements of Ethiopic numerals; the word ʾǝnzä (fol. 52r).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ፡ for ሰላም፡ (e.g., fols. 14r, 16r, 20r)&#13;
 ኢየሱ፡ for ኢየሱስ፡ (e.g., fols. 15r, 19v, 22r)&#13;

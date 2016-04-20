@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 3ra-118rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 3ra-118rb)&#13;
 I-1) Introduction (fols.  3ra-9vb) &#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 3ra-6rb)  &#13;
 - Story of the family of Adam (fols. 6rb-9vb)&#13;
-I-2) Täˀamrä ˀIyasus “Miracles of Jesus”: 48 miracles (fols. 9vb-118rb)&#13;
+I-2) Täʾamrä ʾIyasus “Miracles of Jesus”: 48 miracles (fols. 9vb-118rb)&#13;
 &#13;
 Additio 1; colophon.</shortcontent>
 </shortcontents>
@@ -126,9 +126,9 @@ Hand b: fols. 79ra l.5-118vb: the letters are right-sloping, wide and angular, t
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; the name of the scribe; a few groups of lines (alternating with black lines) on the incipit page of Text I; the incipit and number of the miracles; the incipit of sections of miracles 34 and 48; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles 1-31 are numbered. The miracles (10) on fols. 81ra-118vb are not numbered. &#13;
-The first miracle (fols. 9vb l.9-11va l.5) is incorporated into Text I-1, introduced with the word kəfl “part”, and numbered as miracle 1. &#13;
-On fols. 57ra-73vb, 77rb-81ra the miracles are introduced with the word kəfl “part” and they are not numbered. &#13;
-The miracle on fols. 73vb-77rb is introduced with the word məˁraf “chapter” and it is not numbered.</otherdetail>
+The first miracle (fols. 9vb l.9-11va l.5) is incorporated into Text I-1, introduced with the word kǝfl “part”, and numbered as miracle 1. &#13;
+On fols. 57ra-73vb, 77rb-81ra the miracles are introduced with the word kǝfl “part” and they are not numbered. &#13;
+The miracle on fols. 73vb-77rb is introduced with the word mǝʿraf “chapter” and it is not numbered.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

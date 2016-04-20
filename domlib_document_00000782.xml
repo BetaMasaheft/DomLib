@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 5ra-100vb)&#13;
-II) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 101ra-117vb).</shortcontent>
+II) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles (fols. 101ra-117vb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
@@ -21,9 +21,9 @@ II) Täˀamrä Täklä Haymanot “Miracles of Täklä Haymanot”: 20 miracles 
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000206" xlink:title="May á¹¢Ã¤Ë&#129;ada Å&#154;É&#153;llase / MSAE"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaˀel</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mikaʾel</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Gäbrä Mikaˀel, is mentioned in the supplication formulas on fols. 82va-vb, 111vb, 115arb, 100va, 117rb.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Gäbrä Mikaʾel, is mentioned in the supplication formulas on fols. 82va-vb, 111vb, 115arb, 100va, 117rb.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -120,9 +120,9 @@ Mäskäräm: fol. 54v&#13;
 Näḥase: fol. 82v&#13;
 Gǝnbot: fol. 93r.&#13;
 - Readings are indicated by the names of other occasions in the upper margin:  &#13;
-zä-ˀarawit: fol. 84v&#13;
+zä-ʾarawit: fol. 84v&#13;
 zä-motu: fol. 88v &#13;
 zä-lәdätu: fol. 110r&#13;
-zä-ˁәräftu: fol. 111r.</txfindingaid>
+zä-ʿәräftu: fol. 111r.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-03-01T14:26:56.065Z</servdate><servdate inherited="0" type="modifydate">2014-11-07T15:00:12.604Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

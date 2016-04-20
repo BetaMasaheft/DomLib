@@ -10,23 +10,23 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä ˀIyäsus “Miracles of Jesus”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä ʾIyäsus “Miracles of Jesus”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä ˀIyäsus “Miracles of Jesus” (fols. 3ra-121va) &#13;
-I-1) ˀƎsäggəd lä-mäläkotəkä... “I worship Thy Godhead…” (fols. 3ra-4va) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä ʾIyäsus “Miracles of Jesus” (fols. 3ra-121va) &#13;
+I-1) ʾƎsäggǝd lä-mäläkotǝkä... “I worship Thy Godhead…” (fols. 3ra-4va) &#13;
 I-2) Introduction (fols. 5ra-11rb) &#13;
 - On John the Evangelist as the author of the book; on the creation and the fall of the angels (fols. 5ra-7vb) &#13;
 - Story of the family of Adam (fols. 8ra-11rb) &#13;
-I-3) Täˀamrä ˀIyäsus “Miracles of Jesus”:  66 miracles (fols. 11rb-117ra)&#13;
+I-3) Täʾamrä ʾIyäsus “Miracles of Jesus”:  66 miracles (fols. 11rb-117ra)&#13;
 I-4) Correspondence between King Abgar and Jesus; the story of the martyrs of Akmim (fols. 117ra-121va) (ed. S. GRÉBAUT, “Les relations entre Abgar et Jésus”, ROC 21, 1918-19, 73-87; “La mort des martyrs d'Akmim“, ibid. 92-93).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam, Zärˀa Ṣəyon, Ḫadära Mikaˀel, ˀAmḫa Giyorgis and Ləˁulä Qal are mentioned in the supplication formulas.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam, Zärʾa Ṣǝyon, Ḫadära Mikaʾel, ʾAmḫa Giyorgis and Lǝʿulä Qal are mentioned in the supplication formulas.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -101,10 +101,10 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Poor, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Texts I-1, I-4; incipit of sections of Text I-2; numbers and incipits of miracles; word ˀəsäggəd in Text I-1; elements of the punctuation signs; Ethiopic numerals and/or their elements.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Texts I-1, I-4; incipit of sections of Text I-2; numbers and incipits of miracles; word ʾǝsäggǝd in Text I-1; elements of the punctuation signs; Ethiopic numerals and/or their elements.&#13;
 A few groups of lines on the incipit page of Text I-2.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles are introduced with the words məˁəraf “chapter”, täˀamər “miracle”, täˀamrihu “his miracle”, nägär “speech”. They are counted starting from number 6 (fol. 14vb).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The miracles are introduced with the words mǝʿǝraf “chapter”, täʾamǝr “miracle”, täʾamrihu “his miracle”, nägär “speech”. They are counted starting from number 6 (fol. 14vb).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

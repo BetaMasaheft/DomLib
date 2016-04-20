@@ -13,29 +13,29 @@
 </wsystems>
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Synaxarion (four months)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the first four months of the year (fols. 2ra-253v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the first four months of the year (fols. 2ra-253v)&#13;
 I-1) Mäskäräm (fols. 2ra-63rc)&#13;
-I-2) Ṭəqəmt (fols. 64ra-117vc)&#13;
-I-3) Ḫədar (fols. 118ra-180vc) &#13;
+I-2) Ṭǝqǝmt (fols. 64ra-117vc)&#13;
+I-3) Ḫǝdar (fols. 118ra-180vc) &#13;
 I-4) Taḫśaś (fols. 181ra-253vc)&#13;
-The commemoration notes are followed by ˁarke-hymns&#13;
+The commemoration notes are followed by ʿarke-hymns&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golˁa Däbrä Bərhan Yoḥannəs/ BGY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golʿa Däbrä Bǝrhan Yoḥannǝs/ BGY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golˁa Däbrä Bərhan Yoḥannəs/ BGY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000161" xlink:title="Golʿa Däbrä Bǝrhan Yoḥannǝs/ BGY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased. The name of Zä-Mänfäs Qəddus (the baptismal name of däǧǧazmač Säbagadis), as well as of his father Wäldä Ləˁul and mother Wälättä Ṣəyon, is written in the main or secondary hand, in the supplication formulas over the erasures (e.g., fols. 2rb, 3rbc, 5vc, 6ra; s. also fol. 63rc). The name Säbagadəs is mentioned on fol. 117vc. &#13;
-On fols. 46vc and 109ra, the partly erased name of the original donor can be reconstructed as Ḫaylä Śəllase. The name of his mother begins as Wälättä Nə- (perhaps Wälättä Nəgəśt, cf. especially fol. 179ra). The name of his father may be tentatively reconstructed as Täklä Haymanot.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of the original donor has been erased. The name of Zä-Mänfäs Qǝddus (the baptismal name of däǧǧazmač Säbagadis), as well as of his father Wäldä Lǝʿul and mother Wälättä Ṣǝyon, is written in the main or secondary hand, in the supplication formulas over the erasures (e.g., fols. 2rb, 3rbc, 5vc, 6ra; s. also fol. 63rc). The name Säbagadǝs is mentioned on fol. 117vc. &#13;
+On fols. 46vc and 109ra, the partly erased name of the original donor can be reconstructed as Ḫaylä Śǝllase. The name of his mother begins as Wälättä Nǝ- (perhaps Wälättä Nǝgǝśt, cf. especially fol. 179ra). The name of his father may be tentatively reconstructed as Täklä Haymanot.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1770</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1831</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Late 18th-century - 1831(?). Zä-Mänfäs Qəddus is baptismal name of däǧǧazmač Säbagadis (1770-1831). The name Säbagadəs (sic!) is explicitly written on fol. 117vc.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Late 18th-century - 1831(?). Zä-Mänfäs Qǝddus is baptismal name of däǧǧazmač Säbagadis (1770-1831). The name Säbagadǝs (sic!) is explicitly written on fol. 117vc.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -98,7 +98,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; four groups of lines on the incipit page of each month, alternating with black lines; two lines in the incipit of the first commemorative notice of the day; one line (or the first word, as in fol. 30rb) in the incipit of the other commemorative notices of the day; the first word of each ˁarke-hymn; elements of the punctuation signs; elements of Ethiopic numbers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; four groups of lines on the incipit page of each month, alternating with black lines; two lines in the incipit of the first commemorative notice of the day; one line (or the first word, as in fol. 30rb) in the incipit of the other commemorative notices of the day; the first word of each ʿarke-hymn; elements of the punctuation signs; elements of Ethiopic numbers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">አሜ፡ for አሜን፡ (fols. 6ra, 9rb, 12rc)</abbreviation>
 </abbreviations>

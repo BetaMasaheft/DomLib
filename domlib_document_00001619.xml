@@ -12,35 +12,35 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the second half of the year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the second half of the year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the second half of the year (fols. 3ra-181rc)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the second half of the year (fols. 3ra-181rc)&#13;
 I-1) Mäggabit (fols. 3ra-35vb)&#13;
 I-2) Miyazya (fols. 36ra-60va)&#13;
-I-3) Gənbot (fols. 61ra-93rb) &#13;
+I-3) Gǝnbot (fols. 61ra-93rb) &#13;
 I-4) Säne (fols. 94ra-122vc)&#13;
 I-5) Ḥamle (fols. 123ra-155ra)&#13;
 I-6) Näḥase (fols. 156ra-176rb)&#13;
-I-7) Ṗagwəmen (fols. 177ra-181ra) &#13;
+I-7) Ṗagwǝmen (fols. 177ra-181ra) &#13;
 - Postscript (commissioner's statement): fol. 181ra&#13;
-- Zä-ˀaqräbku maḫletä... “The song I am offering...” (concluding prayer): fol. 181ra-rb&#13;
-The commemorative notices are followed by ˁarke-hymns&#13;
+- Zä-ʾaqräbku maḫletä... “The song I am offering...” (concluding prayer): fol. 181ra-rb&#13;
+The commemorative notices are followed by ʿarke-hymns&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gərma Ṣəyon is mentioned  as the commissioner of the Ms. in the postscript and in Additio 2. His name and the names of other individuals are written in supplication formulas throughout the Ms.: Gərma Ṣəyon (e.g., fols. 3vb, 4va, 46ra, 66rb, 90ra, 106rc, 146va, 170rc), his father Läbase Krəstos (e.g., fols. 5vc, 7rb, 47ra, 66rb, 90ra, 106rb, 146va), Wäldä Krəstos (e.g., fols. 3ra, 3vab), ˀabunä ˀAskalä Maryam (e.g., fols. 171vb, 172rac, 173ra), ˀabunä ˀAskalä Dəngəl (e.g., fols. 172rabc, 173ra, 174ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gǝrma Ṣǝyon is mentioned  as the commissioner of the Ms. in the postscript and in Additio 2. His name and the names of other individuals are written in supplication formulas throughout the Ms.: Gǝrma Ṣǝyon (e.g., fols. 3vb, 4va, 46ra, 66rb, 90ra, 106rc, 146va, 170rc), his father Läbase Krǝstos (e.g., fols. 5vc, 7rb, 47ra, 66rb, 90ra, 106rb, 146va), Wäldä Krǝstos (e.g., fols. 3ra, 3vab), ʾabunä ʾAskalä Maryam (e.g., fols. 171vb, 172rac, 173ra), ʾabunä ʾAskalä Dǝngǝl (e.g., fols. 172rabc, 173ra, 174ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1801</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1818</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ˀƎgwalä Ṣəyon (r. 1801-18) is mentioned in supplication formulas on fols. 3ra and 16vb.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King ʾƎgwalä Ṣǝyon (r. 1801-18) is mentioned in supplication formulas on fols. 3ra and 16vb.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -116,8 +116,8 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fols. 35vb-36rc: Tarik z&amp;#228;-t&amp;#228;&amp;#7779;&amp;#601;&amp;#7717;f&amp;#228; b&amp;#228;-m&amp;#228;wa&amp;#705;&amp;#601;lihomu l&amp;#228;-n&amp;#228;gu&amp;#347;&amp;#228; n&amp;#228;g&amp;#228;&amp;#347;t Yo&amp;#7717;ann&amp;#601;s..., "History that was written in the time of the King of Kings &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Yo&amp;#7717;ann&amp;#601;s...&lt;/span&gt;&lt;/span&gt;", a short historiographic composition.&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note, in a mediocre hand, was written during the time of King Yoḥannəs IV (r. 1872-89), nəburä ˀəd ˀIyasu and ˀabba Täklä Haymanot and ˀaläqa Täklä ˀƎsṭifanos from Gondär (the scribe?) "who was with them". The note is a list of metropolitans of the Ethiopian Orthodox Church from ˀabba Sälama to ˀabunä ˀAtnatewos (in tenure 1867-76), with description of some events. It contains 107 names. Besides, it mentions some rulers of Ethiopia and events that took place when they were in power, such as King Susənyos and the arrival of the Catholic priests, the restoration of the Orthodox faith, the rule of King ˀIyasu, the conflict between däğğazmač Wube and ras ˁAli, the death of ˀAtnatewos at ˁAdwa.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 181rb-rc: Extensive donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in the main hand. It states that the commissioner of the Ms. is ˀabba Gərma Ṣəyon who donated it to the Däbrä Dammo monastery.</det></additional>
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note, in a mediocre hand, was written during the time of King Yoḥannǝs IV (r. 1872-89), nǝburä ʾǝd ʾIyasu and ʾabba Täklä Haymanot and ʾaläqa Täklä ʾƎsṭifanos from Gondär (the scribe?) "who was with them". The note is a list of metropolitans of the Ethiopian Orthodox Church from ʾabba Sälama to ʾabunä ʾAtnatewos (in tenure 1867-76), with description of some events. It contains 107 names. Besides, it mentions some rulers of Ethiopia and events that took place when they were in power, such as King Susǝnyos and the arrival of the Catholic priests, the restoration of the Orthodox faith, the rule of King ʾIyasu, the conflict between däğğazmač Wube and ras ʿAli, the death of ʾAtnatewos at ʿAdwa.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small"&gt;&lt;span style="line-height: 115%"&gt;Fol. 181rb-rc: Extensive donation note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written in the main hand. It states that the commissioner of the Ms. is ʾabba Gǝrma Ṣǝyon who donated it to the Däbrä Dammo monastery.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">-	The title ስንክሳር and the internal number of the monastic library (384) are written on fol. 1r. &#13;
 -	Four lines of the incipit of the Synaxarion are written four times on fol. 2r.</extra>

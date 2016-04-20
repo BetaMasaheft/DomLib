@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qəddase “Missal”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase “Missal”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śərˁatä qəddase “Ordinary of the Mass” (fols. 1va-18vb), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Śǝrʿatä qǝddase “Ordinary of the Mass” (fols. 1va-18vb), incomplete&#13;
 II) Anaphora of the Apostles (fols. 19ra-35rb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
@@ -27,13 +27,13 @@ II) Anaphora of the Apostles (fols. 19ra-35rb), incomplete.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1828</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Qerəllos mentioned as the metropolitan (ṗaṗas) on fol. 12ra is probably Qerǝllos III (in tenure in 1816-28).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Qerǝllos mentioned as the metropolitan (ṗaṗas) on fol. 12ra is probably Qerǝllos III (in tenure in 1816-28).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
 <txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">The Ms. is very worn. &#13;
 The original sewing is to the most part missing. &#13;
-Text I begins with the Morning Litany (Liṭon zä-nägh) and ends with the Thanksgiving Prayer of St. Basil (Ṣälotä ˀakkwätet zä-Basəlyos) unfinished. &#13;
+Text I begins with the Morning Litany (Liṭon zä-nägh) and ends with the Thanksgiving Prayer of St. Basil (Ṣälotä ʾakkwätet zä-Basǝlyos) unfinished. &#13;
 Text on fol. 35v is abraded and hardly readable (containing most probably the end of Text II).&#13;
 Fol. 36 is mutilated.</txstate>
 </txstates>

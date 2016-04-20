@@ -10,23 +10,23 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase Maryam “Praise of Mary” / Mäwaśəˀt zä-fälasəyan, Antiphonary for the hermits / Məˁəraf, The Common of the Office / Dəggwa, Antiphonary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Wǝddase Maryam “Praise of Mary” / Mäwaśǝʾt zä-fälasǝyan, Antiphonary for the hermits / Mǝʿǝraf, The Common of the Office / Dǝggwa, Antiphonary</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Wǝddase Maryam “Praise of Mary” (fols. 3ra-18rb)&#13;
-II) Mäwaśəˀt zä-fälasəyan, Antiphonary for the hermits (fols. 19ra-22rb)	&#13;
-III) Ṣälotä kidan zä-śälästu gizeyat “Covenant of the three hours”, introductory prayer in ˀararay-mode (fol. 22va-vb)(MQ, Śǝrˁatä qǝddase, ch. III, § 174) &#13;
-IV) Məˁəraf, The Common of the Office (fols. 23ra-36vb)&#13;
+II) Mäwaśǝʾt zä-fälasǝyan, Antiphonary for the hermits (fols. 19ra-22rb)	&#13;
+III) Ṣälotä kidan zä-śälästu gizeyat “Covenant of the three hours”, introductory prayer in ʾararay-mode (fol. 22va-vb)(MQ, Śǝrʿatä qǝddase, ch. III, § 174) &#13;
+IV) Mǝʿǝraf, The Common of the Office (fols. 23ra-36vb)&#13;
 IV-1) Wazema, The Office of Vigils (fols. 23ra-26va) &#13;
-IV-2) Kəśtät zä-ˀaryam, The festive Office (fols. 26vb-36vb) &#13;
-V) Dəggwa, Antiphonary (for the feasts of the year) (fols. 38ra-120v)&#13;
+IV-2) Kǝśtät zä-ʾaryam, The festive Office (fols. 26vb-36vb) &#13;
+V) Dǝggwa, Antiphonary (for the feasts of the year) (fols. 38ra-120v)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1650</fdating>
 </fdatings>
@@ -103,7 +103,7 @@ Horizontal ruling lines are not visible</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; title and incipit of daily readings of Text I; refrains of Text I (written out fully or abbreviated); numbers of Pss. in Text II; names of sections of antiphons and their abbreviations (məlṭan and mäzmur) in Text II; initial line of Text III; titles of Texts IV and V; names of supplications, antiphons and chants, and their abbreviations (e.g., mästäbqʷəˁ, məlṭan, mäzmur, sälam, ˀaryam) of Text IV; names of feasts of Text IV; names of sections followed by feast names (e.g., wazema zä-mäsqäl, wazema zä-ˀarbaˁətu ˀənsəsa) of Text IV; names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, zä-ˀamlakiyä, zä-yəˀəze, yətbaräk); names of other chants and their abbreviations (e.g., məlṭan, məsbak, ˁəzl); intratextual musical signs (e.g., ˁararat mäḥa, ḥaḍä, wäy, läkä sə, qädami zema); elements of the punctuation signs; Ethiopic numerals or their elements.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; title and incipit of daily readings of Text I; refrains of Text I (written out fully or abbreviated); numbers of Pss. in Text II; names of sections of antiphons and their abbreviations (mǝlṭan and mäzmur) in Text II; initial line of Text III; titles of Texts IV and V; names of supplications, antiphons and chants, and their abbreviations (e.g., mästäbqʷǝʿ, mǝlṭan, mäzmur, sälam, ʾaryam) of Text IV; names of feasts of Text IV; names of sections followed by feast names (e.g., wazema zä-mäsqäl, wazema zä-ʾarbaʿǝtu ʾǝnsǝsa) of Text IV; names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, zä-ʾamlakiyä, zä-yǝʾǝze, yǝtbaräk); names of other chants and their abbreviations (e.g., mǝlṭan, mǝsbak, ʿǝzl); intratextual musical signs (e.g., ʿararat mäḥa, ḥaḍä, wäy, läkä sǝ, qädami zema); elements of the punctuation signs; Ethiopic numerals or their elements.&#13;
 &#13;
 Two lines (alternating with a black line) on the incipit page of Texts I, IV and V.</rubrication>
 </rubrications>

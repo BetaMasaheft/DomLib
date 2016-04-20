@@ -11,21 +11,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Chronicles and historiographical miscellanea / Excerpt from Mäṣḥafä ḉäwata śəgawi wä-mänfäsawi “Book of the Secular and Spiritual Diversions”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Chronicles and historiographical miscellanea / Excerpt from Mäṣḥafä ḉäwata śǝgawi wä-mänfäsawi “Book of the Secular and Spiritual Diversions”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Tarikä ˀaminä ˀItyopya zä-wəˀətu təwfitä qəddusan “History of Faith of Ethiopia which is the Tradition of the Saints” (fols. 3r-14r)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Tarikä ʾaminä ʾItyopya zä-wǝʾǝtu tǝwfitä qǝddusan “History of Faith of Ethiopia which is the Tradition of the Saints” (fols. 3r-14r)&#13;
 II) Mäṣḥafä tarik zä-Galla “Book of the History of the Oromo” (fols. 15r-52r)&#13;
-III) Mäṣḥafä tarik zä-wäyzaro ˀAgaya “Book of the History of Wäyzaro ˀAgaya” (fols. 52r-53v)&#13;
-IV) Homily on the love of Zärˁa Buruk for the Saviour of the World (fols. 53v-55v)&#13;
-V) Tarik zä-ˀItyopya tarikä nägäśtatiha “History of Ethiopia and History of its Kings” (fols. 56r-108v)&#13;
+III) Mäṣḥafä tarik zä-wäyzaro ʾAgaya “Book of the History of Wäyzaro ʾAgaya” (fols. 52r-53v)&#13;
+IV) Homily on the love of Zärʿa Buruk for the Saviour of the World (fols. 53v-55v)&#13;
+V) Tarik zä-ʾItyopya tarikä nägäśtatiha “History of Ethiopia and History of its Kings” (fols. 56r-108v)&#13;
 - History of Šäwa (fols. 56r-62v), different from the text published, ASFA-WOSSEN ASSERATE, Die Geschichte von Šawā (Äthiopien) 1700–1865 nach dem Tārika Nagaśt des Belātten Gētā Ḫeruy Walda Śēllasē, Wiesbaden 1980 (SKK 53)&#13;
 - Transformation of the Ethiopian state (fols. 62v-67v)&#13;
 - The Fall of the Šäwan Kingdom (fols. 79r-87r)&#13;
-- History of King Mənilək (fols. 87r-107r)&#13;
+- History of King Mǝnilǝk (fols. 87r-107r)&#13;
 - History after the year 1879 E.C. [= 1886 A.D.] (fols. 107r-108r), interrupted and incomplete (?)&#13;
-VI) Yä-ˀItyoṗya nägäśtat təwləd “Genealogy of the Ethiopian Kings” (fols. 111r-145r) (Amharic version of a “short chronicle” compiled by aläqa Lämläm in 1902, see B. TURAIEV, “Zametki k kratkoj efiopskoj hronike”, Vizantijskij vremennik 17, 1910, 270-82; V. PLATONOV, “Kratkaja hronika alaki Lemlema po rukopisi LO INA Ef. 30”, Africana. Kultura I jazyki narodov Afriki 1966 [Trudy Instituta etnografii imeni N.N. Mikluho-Maklaja, new ser. 90], 36-51).&#13;
+VI) Yä-ʾItyoṗya nägäśtat tǝwlǝd “Genealogy of the Ethiopian Kings” (fols. 111r-145r) (Amharic version of a “short chronicle” compiled by aläqa Lämläm in 1902, see B. TURAIEV, “Zametki k kratkoj efiopskoj hronike”, Vizantijskij vremennik 17, 1910, 270-82; V. PLATONOV, “Kratkaja hronika alaki Lemlema po rukopisi LO INA Ef. 30”, Africana. Kultura I jazyki narodov Afriki 1966 [Trudy Instituta etnografii imeni N.N. Mikluho-Maklaja, new ser. 90], 36-51).&#13;
 VI) History of Aḥmed Graň’s wars (fols. 147r-161v) (close to the text ed. in A. CAQUOT, “Histoire amharique de Grāň et des Gallas”, AE 2, 1957, 123-43)&#13;
-VII) Excerpt from Mäṣḥafä ḉäwata śəgawi wä-mänfäsawi “Book of the Secular and Spiritual Diversions”, by ˀaläqa Zännäb (fols. 161v-173v)&#13;
+VII) Excerpt from Mäṣḥafä ḉäwata śǝgawi wä-mänfäsawi “Book of the Secular and Spiritual Diversions”, by ʾaläqa Zännäb (fols. 161v-173v)&#13;
 &#13;
 Additiones 1-4.</shortcontent>
 </shortcontents>
@@ -144,8 +144,8 @@ Hand c (fols. 147r-184r): careless, rushed.</pchangeofhand>
 </colophons>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 110v: Short poem concerning the 1892 plot of &amp;#704;al&amp;#228;qa &amp;#704;Admasu to assassinate King M&amp;#601;nil&amp;#601;k II.&lt;/p&gt;</cont><det>Cp. GUÈBRÈ SELLASIÉ, Chronique du Règne de Ménélik II, Roi des Rois d’Éthiopie, ed. by MAURICE DE COPPET, tr. by TÈSFA SELLASSIÉ, 2 vols., Paris 1930–31, vol. 1, 327.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 174r-176v: Poem on the history of &amp;#352;&amp;#228;wa.&lt;/p&gt;</cont></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 186r: Purchase note.&lt;/p&gt;</cont><det>The note is written in a poor hand. 11 Ṭər 1943 E.C. is referred to as the date of the purchase.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 186r: Purchase note.&lt;/p&gt;</cont><det>The note is written in a poor hand. 11 Ṭǝr 1943 E.C. is referred to as the date of the purchase.</det></additional>
 </additionals>
-<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 2v: Angel (seraph) and the Cross-shaped Tree of Life.</info><details>Cp. the representation of the Garden of Eden in Enoch 24:4 ("third heaven") and the Kəbrä nägäśt.</details></miniature>
+<miniatures class="DLMiniature" heritable="false" notinherit="false"><miniature xml:lang="en" inherited="0"><info>Fol. 2v: Angel (seraph) and the Cross-shaped Tree of Life.</info><details>Cp. the representation of the Garden of Eden in Enoch 24:4 ("third heaven") and the Kǝbrä nägäśt.</details></miniature>
 </miniatures>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-07-28T11:57:24.566Z</servdate><servdate inherited="0" type="modifydate">2014-08-26T11:36:46.862Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

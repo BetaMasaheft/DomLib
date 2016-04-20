@@ -7,35 +7,35 @@
 <regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-04</regdate>
 </regdates>
 <languages class="MCRMetaClassification" heritable="false" notinherit="false"><language inherited="0" classid="domlib_class_00000001" categid="Lan05"/>
-<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Təgrəñña"/>
+<language inherited="0" classid="domlib_class_00000001" categid="Lan00" other="Tǝgrǝñña"/>
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanä Mikaˀel, Homiliary for the feasts of St. Michael / Mälkəˀa Mikaˀel "Image of Michael"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael / Mälkǝʾa Mikaʾel "Image of Michael"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä Mikaˀel, Homiliary for the feasts of St. Michael (fols. 1ra-46rb) &#13;
-I-1) Homily by Timothy (Dumatewos), Patriarch of Alexandria for the 12th of Ḫǝdar (fols. 1ra-7ra); miracle (fols. 7ra-8va); commemorative notice (fols. 8va-9ra); ˀarke-hymn (fol. 9ra) &#13;
-I-2) Homily by an anonymous author for Taḫśaś (fols. 9rb-11vb, 40ra-41vb); miracle (fols. 12ra-rb, 13ra-vb, 41vb); commemorative notice (fol. 12rb-vb); ˀarke-hymn (fol. 12vb) &#13;
-I-3) Homily [by Epiphanius, Metropolitan of Cyprus] for Ṭǝrr (fols. 12vb, 14ra-15vb, 17ra-18vb, 19ra, 32ra-35vb); miracle (fols. 16ra-rb,19ra-vb); commemorative notice (fol. 16rb-va); ˀarke-hymn (fol. 16va-vb) &#13;
-I-4) Homily by "one of the ancient saints, the Orthodox" [anonymous author] for the 12th of Yäkkatit (fols. 16vb, 20ra-26rb); miracle (fols. 26rb-27rb); commemorative notice (fol. 27rb-va); ˀarke-hymn (fol. 27va-vb) &#13;
-I-5) Homily by Yoḥannǝs, Metropolitan of ˀAksum for Säne (fols. 27vb, 28ra-31vb, 36ra-37vb, 38ra); miracle (fol. 38ra-vb); commemorative notice (fols. 38vb-39vb, 42ra); ˀarke-hymn (fol. 42ra) &#13;
-I-6) Homily by the 24 Heavenly Priests [anonymous author] [for Näḥase] (fols. 42ra-45rb); miracle (fols. 45rb-46ra); commemorative notice (fol. 46rb); ˀarke-hymn (fol. 46rb) &#13;
-II) Mälkǝˁa Mikaˀel “Image of Michael” (fols. 47va-52ra) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael (fols. 1ra-46rb) &#13;
+I-1) Homily by Timothy (Dumatewos), Patriarch of Alexandria for the 12th of Ḫǝdar (fols. 1ra-7ra); miracle (fols. 7ra-8va); commemorative notice (fols. 8va-9ra); ʾarke-hymn (fol. 9ra) &#13;
+I-2) Homily by an anonymous author for Taḫśaś (fols. 9rb-11vb, 40ra-41vb); miracle (fols. 12ra-rb, 13ra-vb, 41vb); commemorative notice (fol. 12rb-vb); ʾarke-hymn (fol. 12vb) &#13;
+I-3) Homily [by Epiphanius, Metropolitan of Cyprus] for Ṭǝrr (fols. 12vb, 14ra-15vb, 17ra-18vb, 19ra, 32ra-35vb); miracle (fols. 16ra-rb,19ra-vb); commemorative notice (fol. 16rb-va); ʾarke-hymn (fol. 16va-vb) &#13;
+I-4) Homily by "one of the ancient saints, the Orthodox" [anonymous author] for the 12th of Yäkkatit (fols. 16vb, 20ra-26rb); miracle (fols. 26rb-27rb); commemorative notice (fol. 27rb-va); ʾarke-hymn (fol. 27va-vb) &#13;
+I-5) Homily by Yoḥannǝs, Metropolitan of ʾAksum for Säne (fols. 27vb, 28ra-31vb, 36ra-37vb, 38ra); miracle (fol. 38ra-vb); commemorative notice (fols. 38vb-39vb, 42ra); ʾarke-hymn (fol. 42ra) &#13;
+I-6) Homily by the 24 Heavenly Priests [anonymous author] [for Näḥase] (fols. 42ra-45rb); miracle (fols. 45rb-46ra); commemorative notice (fol. 46rb); ʾarke-hymn (fol. 46rb) &#13;
+II) Mälkǝʿa Mikaʾel “Image of Michael” (fols. 47va-52ra) &#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodˁä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000108" xlink:title="Mäḵodʿä Däbrä Gännät Kidanä Mǝḥrät  / GKM"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabəḥer</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ˀƎgziˀabəḥer is mentioned as the scribe on fols. 38ra, 46va, 52ra. The same scribe produced Ms. DMA-010.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer is mentioned as the scribe on fols. 38ra, 46va, 52ra. The same scribe produced Ms. DMA-010.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Maryam is mentioned as the commissioner (ˀaṣḥafiha) on fol. 38ra. Furthermore her name and the names of her father Gäbrä Solomon, her mother Wälättä Giyorgis and her sister Wälättä Mikaˀel are written in supplication formulas. In addition, several other persons are mentioned: Wälättä Yoḥannəs (fol. 9rb), Ḫirutä Śəllase (fol. 12vb), Wäldä ˀƎsṭifanos (fols. 12rb, 38ra), Wälättä Tənśaˀe (fol. 13ra), Gäbrä Maryam (fol. 16rb), Wäldä Maryam (fols. 16rb, 19ra), Ḫaylä Maryam (fol. 19ra-rb), Ḫarägä Wäyn (fol. 19rb), Täwäldä Mädḫən (fols. 38ra, 41vb), ˀabunä Ḫaylä Maryam (fol. 42ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wälättä Maryam is mentioned as the commissioner (ʾaṣḥafiha) on fol. 38ra. Furthermore her name and the names of her father Gäbrä Solomon, her mother Wälättä Giyorgis and her sister Wälättä Mikaʾel are written in supplication formulas. In addition, several other persons are mentioned: Wälättä Yoḥannǝs (fol. 9rb), Ḫirutä Śǝllase (fol. 12vb), Wäldä ʾƎsṭifanos (fols. 12rb, 38ra), Wälättä Tǝnśaʾe (fol. 13ra), Gäbrä Maryam (fol. 16rb), Wäldä Maryam (fols. 16rb, 19ra), Ḫaylä Maryam (fol. 19ra-rb), Ḫarägä Wäyn (fol. 19rb), Täwäldä Mädḫǝn (fols. 38ra, 41vb), ʾabunä Ḫaylä Maryam (fol. 42ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

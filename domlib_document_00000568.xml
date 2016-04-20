@@ -11,18 +11,18 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀAmmǝstu ˀaˁmadä mǝsṭir “The Five Pillars of Mystery”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾAmmǝstu ʾaʿmadä mǝsṭir “The Five Pillars of Mystery”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ˀAmmǝstu ˀaˁmadä mǝsṭir “The Five Pillars of Mystery” (fols. 1v-45r), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) ʾAmmǝstu ʾaʿmadä mǝsṭir “The Five Pillars of Mystery” (fols. 1v-45r), incomplete&#13;
 I-1) Mǝsṭirä ṭǝmqät “Mystery of Baptism” (fols. 1v-20r)&#13;
 I-2) Mǝsṭirä qwǝrban  “Mystery of the Eucharist” (fols. 20r-32r)&#13;
-I-3) Mǝsṭirä tǝnśaˀe mutan “Mystery of the Resurrection of the Dead”(32r-45r)</shortcontent>
+I-3) Mǝsṭirä tǝnśaʾe mutan “Mystery of the Resurrection of the Dead”(32r-45r)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub19"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qəddus Mikaˀel / SDM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </locationlinks>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">The Ms. is in the private possession of priest (qäšši) Gidäy Ḥagos.</owner>
 </owners>
@@ -97,7 +97,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">A prayer taken from the Anaphora of Our Lord Jesus Christ (Qǝddase ˀƎgziˁ), crudely written: fol. 45r: &#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">A prayer taken from the Anaphora of Our Lord Jesus Christ (Qǝddase ʾƎgziʿ), crudely written: fol. 45r: &#13;
 An extract from a prayer of exorcism: fol. 45v: &#13;
 A note on the computus: fol. 46v.&#13;
 Pen trial: fols. 46r, 47v, 49v.</extra>

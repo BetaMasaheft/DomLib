@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 3ra-4va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 3ra-4va)&#13;
 I-2) Introductory exhortation and hymns (fols. 4va-5vc)&#13;
-I-3) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 5vc-6vb)&#13;
-I-4) Täˀamrä Maryam: 162 miracles (fols. 9ra-107rc).</shortcontent>
+I-3) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 5vc-6vb)&#13;
+I-4) Täʾamrä Maryam: 162 miracles (fols. 9ra-107rc).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
@@ -23,7 +23,7 @@ I-4) Täˀamrä Maryam: 162 miracles (fols. 9ra-107rc).</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">"Her maid" Ṣərḥa Dəngəl is mentioned in supplication formulas (e.g., fol. 9vc); besides, Ḥabtä Dəngəl, Täsfa Ṣəyon, ˀAṣmä Giyorgis, Tərsitä Dəngəl are mentioned (e.g., fol. 107rb). At some places, the original names have been erased and other names have been written instead.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">"Her maid" Ṣǝrḥa Dǝngǝl is mentioned in supplication formulas (e.g., fol. 9vc); besides, Ḥabtä Dǝngǝl, Täsfa Ṣǝyon, ʾAṣmä Giyorgis, Tǝrsitä Dǝngǝl are mentioned (e.g., fol. 107rb). At some places, the original names have been erased and other names have been written instead.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>

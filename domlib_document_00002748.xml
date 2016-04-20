@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsan zä-qǝddus Yoḥannǝs wäldä Zäbdewos bä-ˀǝntä ˤǝbäya wä-kǝbra lä-Maryam “Homily by John the Son of Zebedee on the Greatness and Glory of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsan zä-qǝddus Yoḥannǝs wäldä Zäbdewos bä-ʾǝntä ˤǝbäya wä-kǝbra lä-Maryam “Homily by John the Son of Zebedee on the Greatness and Glory of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsan zä-qǝddus Yoḥannǝs wäldä Zäbdewos bä-ˀǝntä ˤǝbäya wä-kǝbra lä-Maryam “Homily by John the Son of Zebedee on the Greatness and Glory of Mary” (fols. 2ra-18rb) (the work known as Raˀəyä Maryam, or Apocalypse of Mary, M. CHAINE, Apocrypha de B. Maria virgine, Romae - Parisiis - Lipsiae 1909 (CSCO 39, 40, SAe7, text pp. 53-80; cp. EAE III, 882-883).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsan zä-qǝddus Yoḥannǝs wäldä Zäbdewos bä-ʾǝntä ˤǝbäya wä-kǝbra lä-Maryam “Homily by John the Son of Zebedee on the Greatness and Glory of Mary” (fols. 2ra-18rb) (the work known as Raʾǝyä Maryam, or Apocalypse of Mary, M. CHAINE, Apocrypha de B. Maria virgine, Romae - Parisiis - Lipsiae 1909 (CSCO 39, 40, SAe7, text pp. 53-80; cp. EAE III, 882-883).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase</nmcopyist>
 </nmcopyists>

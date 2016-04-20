@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥəmamat “Book of the Rite of the Holy Week” (fols.2r-134v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gәbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols.2r-134v)&#13;
 I-1) Introduction (fols. 2r-3va)&#13;
 I-2) Eve of Palm Sunday (fols.3va-5rb)&#13;
 I-3) Palm Sunday (fols. 5rb-10rb)&#13;
@@ -22,7 +22,7 @@ I-6) Wednesday (fols. 34vc-44va)&#13;
 I-7) Thursday (fols. 44va-58rb)&#13;
 I-8) Friday (fols. 58rb-101ra)&#13;
 I-9) Saturday (fols.101ra-115vc)&#13;
-- Raˀəyä Yoḥannəs "Revelation of John" (fols. 104ra-111va)&#13;
+- Raʾǝyä Yoḥannǝs "Revelation of John" (fols. 104ra-111va)&#13;
 - Mäṣḥafä dorho “Book of the Cock” (fols. 116ra-123vc)&#13;
 - Homily of Cyriacus of Behnesa [Laḥa Maryam “Lamentation of Mary”] (fols. 124ra-132va)&#13;
 I-10) [Sunday] (fols. 132va-134vb)&#13;
@@ -32,11 +32,11 @@ Additiones 1-3.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ˁAläm / MAC"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ʿAläm / MAC"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ˁAläm / MAC"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="Ḉähat Mädḫane ʿAläm / MAC"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original name(s) of the donor has been erased from the concluding formula on fol. 133vb. The names Zä-Giyorgis, Gäbrä Mädḫən, Wälättä Giyorgis are mentioned in the supplication formulas throughout the Ms., written in a secondary hand (possibly the same as Additio 2). Another name, Wälättä Haymanot, is also mentioned in the supplication formula, written in a different (?) hand.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The original name(s) of the donor has been erased from the concluding formula on fol. 133vb. The names Zä-Giyorgis, Gäbrä Mädḫǝn, Wälättä Giyorgis are mentioned in the supplication formulas throughout the Ms., written in a secondary hand (possibly the same as Additio 2). Another name, Wälättä Haymanot, is also mentioned in the supplication formula, written in a different (?) hand.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
 </fdatings>
@@ -142,7 +142,7 @@ The last ruled line in fols. 29r-30v is left empty.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre but careful, regular.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, e.g. fols. 2r, 11vc, 19va, 23rb, 49rc, 67r, 78vc, 104r, 116r, 124r); titles of the Biblical books and other works; excerpts of hymns for the Good Friday, fols. 72v-73r, 77v-78r, 87r-88r, 90v-91r; the word nastäbäqwəˁ ḫabekä (fols. 54rc-54vb); the words ˁəgziˀo täśähalännä and its abbreviations in fols. 132va-133vb; directives for the ministers and their abbreviations in fols. 54vb-55rb; elements of the text dividers; names of the donors are written with a different ink (deep vermillion); elements of the quire marks; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits of the texts, their sections and subsections (in some cases a few lines are rubricated alternating with black lines, e.g. fols. 2r, 11vc, 19va, 23rb, 49rc, 67r, 78vc, 104r, 116r, 124r); titles of the Biblical books and other works; excerpts of hymns for the Good Friday, fols. 72v-73r, 77v-78r, 87r-88r, 90v-91r; the word nastäbäqwǝʿ ḫabekä (fols. 54rc-54vb); the words ʿǝgziʾo täśähalännä and its abbreviations in fols. 132va-133vb; directives for the ministers and their abbreviations in fols. 54vb-55rb; elements of the text dividers; names of the donors are written with a different ink (deep vermillion); elements of the quire marks; elements of the punctuation signs; Ethiopic numerals or their elements.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይቤ᎓ መተር᎓/ ይቤ᎓ መተ᎓/ ይቤ᎓ መ᎓ for ይቤ᎓ መተርጕም᎓  &#13;
 ይሕ፡ for ይብል፡ ሕዝብ፡ (fol. 54vb-55rb)&#13;
@@ -159,12 +159,12 @@ The last ruled line in fols. 29r-30v is left empty.</ruling>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts of hymns for the Good Friday (?) added in the upper margins of fols.  72v-73r, 77v-78r, 87r-88r, 90v-91r. &#13;
 - Names of the feasts, title of the works indicating the readings are written in the upper margin of some fols.:  &#13;
-ˀit wäybalḥəkəmu: fol. 2r&#13;
-mäśärätä kälˁa: fol. 3r&#13;
-mənbab zä-ˀəhud särk, between two lines: fol. 4v&#13;
+ʾit wäybalḥǝkǝmu: fol. 2r&#13;
+mäśärätä kälʿa: fol. 3r&#13;
+mǝnbab zä-ʾǝhud särk, between two lines: fol. 4v&#13;
 hardly readable: fol.118v&#13;
 unreadable: fol.119r&#13;
-Lahəya dəngəl: fol. 124r&#13;
+Lahǝya dǝngǝl: fol. 124r&#13;
 zä-su&lt;...&gt;: fol. 128r, rubricated. &#13;
 - Names of the feasts, title of the works indicating the readings are crudely written in the upper margin of some fols. by a recent hand: fol. 7v, in pencil; fol. 57v, in blue pen; fol. 99r, in red pen; fol. 104r, in blue pen; fol. 113av, in blue pen; fol. 116r, in blue pen and pencil.&#13;
 - Erasures in fols. 32rc, 108v, 123vc, 133vb, 133vc.&#13;

@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä qǝddase "Missal"</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I Daily Office prayers and litanies  (fols. 4ra-21vb)&#13;
-II) Śǝrˁatä qǝddase "Ordinary of the Mass" (fols. 22ra-52va)&#13;
+II) Śǝrʿatä qǝddase "Ordinary of the Mass" (fols. 22ra-52va)&#13;
 III)  Anaphoras (fols. 52va-156ra)&#13;
 III-1) Anaphora of the Apostels (fols. 52va-70rb)&#13;
 III-2) Anaphora of Our Lady by St. Cyriacus of Behnesa (fols. 70rb-80vb)&#13;
@@ -31,17 +31,17 @@ III-13) Second Anaphora of St. Gregory ("Christmas-liturgy of St. Gregory") (fol
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.1"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ˀAndel Qǝddǝst Maryam / MA"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000145" xlink:title="ʾAndel Qǝddǝst Maryam / MA"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Wäldä ˀIyäsus and his mother Maryam are written in supplication formulas in brown ink (fols. 16va, 39vb, 52vb, 57va, 64vb, 65vb, 70va, 80vb, 81ra, 91rb, 120ra, 120rb, 135rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Wäldä ʾIyäsus and his mother Maryam are written in supplication formulas in brown ink (fols. 16va, 39vb, 52vb, 57va, 64vb, 65vb, 70va, 80vb, 81ra, 91rb, 120ra, 120rb, 135rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1881</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1917</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Patriarch Qerǝllos (in tenure 1874-1927) and Metropolitan Peṭros (in tenure 1881-1917) are mentioned throuhout the Ms., e.g. on fols. 34vb, 37va, 48vb, 49ra, 52vb, 58rb, 71ra, 71va, 105rb. The name of King Mikaˀel (1847/50-1918) is mentioned on fol. 48va.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Patriarch Qerǝllos (in tenure 1874-1927) and Metropolitan Peṭros (in tenure 1881-1917) are mentioned throuhout the Ms., e.g. on fols. 34vb, 37va, 48vb, 49ra, 52vb, 58rb, 71ra, 71va, 105rb. The name of King Mikaʾel (1847/50-1918) is mentioned on fol. 48va.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>

@@ -13,19 +13,19 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝggwa, Antiphonary</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝggwa, Antiphonary (fols. 3ra-220rb)&#13;
-I-1) Dəggwa, Antiphonary (from the feast of St. John the Baptist, 1st Mäskäräm, to the feast of the Martyrs, 27 Ḥǝdar) (fols. 3ra-61rc)&#13;
-I-2) Dəggwa, Antiphonary (for the season of Teaching, from the 1st Taḥśaś till 8 Yäkkatit, Səmˁon) (fols. 61ra-117vc)&#13;
+I-1) Dǝggwa, Antiphonary (from the feast of St. John the Baptist, 1st Mäskäräm, to the feast of the Martyrs, 27 Ḥǝdar) (fols. 3ra-61rc)&#13;
+I-2) Dǝggwa, Antiphonary (for the season of Teaching, from the 1st Taḥśaś till 8 Yäkkatit, Sǝmʿon) (fols. 61ra-117vc)&#13;
 - Table of halleluiatic chants (fols. 118ra-va)&#13;
-I-3) Ṣomä dəggwa, Antiphonary for Lent (fols. 119ra-145vb)&#13;
-I-4) Dəggwa, Antiphonary (for the period of Easter and the season of the Rains)(fols. 146ra-220rb)&#13;
+I-3) Ṣomä dǝggwa, Antiphonary for Lent (fols. 119ra-145vb)&#13;
+I-4) Dǝggwa, Antiphonary (for the period of Easter and the season of the Rains)(fols. 146ra-220rb)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.3"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqəl Maryam Ṣəyon /QS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000198" xlink:title="Qälaqǝl Maryam Ṣǝyon /QS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1664</fdating>
 </fdatings>
@@ -103,7 +103,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I-1 – I-4, alternating with black lines; names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, sälam, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, zä-ˀamlakiyä, yətbaräk); names of other chants and their abbreviations (e.g., məlṭan, ˁəzl); musical notation: elements of marginal signs; Ethiopic numerals or their elements; elements of the punctuation signs and text dividers.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Texts I-1 – I-4, alternating with black lines; names of antiphons and their abbreviations (e.g., maḫlet, mäzmur, sälam, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, zä-ʾamlakiyä, yǝtbaräk); names of other chants and their abbreviations (e.g., mǝlṭan, ʿǝzl); musical notation: elements of marginal signs; Ethiopic numerals or their elements; elements of the punctuation signs and text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ም፡, ምል፡, ምልጣ፡ for ምልጣን፡ (e.g., fols. 3rab, 4vc, 7rc)&#13;
 ማኅ፡, ማኅሌ፡ for ማኅሌት፡ (e.g., fols. 14vb, 62rb)&#13;

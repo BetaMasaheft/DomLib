@@ -11,21 +11,21 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsanä Mikaˀel, Homiliary for the feasts of St. Michael / ˀAmäḥaḍḍǝnäkkǝmu ˀagaˀǝztǝyä ˀab wä-wäld wä-mänfäs qǝddus … “I entrust myself to you my lords, the Father and the Son and the Holy Spirit …”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael / ʾAmäḥaḍḍǝnäkkǝmu ʾagaʾǝztǝyä ʾab wä-wäld wä-mänfäs qǝddus … “I entrust myself to you my lords, the Father and the Son and the Holy Spirit …”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä Mikaˀel, Homiliary for the feasts of St. Michael (fols. 4ra-61rb)&#13;
-II) ˀAmäḥaḍḍǝnäkkǝmu ˀagaˀǝztǝyä ˀab wä-wäld wä-mänfäs qǝddus … “I entrust myself to you my lords, the Father and the Son and the Holy Spirit …” (fols. 61rb-64va)&#13;
-III) ˀO-zä-ˀaṣorukä mäsqälä ˀǝnbälä fǝtḥ …  “Oh those who let you carry the cross without justice …” (fols. 64va-65va)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsanä Mikaʾel, Homiliary for the feasts of St. Michael (fols. 4ra-61rb)&#13;
+II) ʾAmäḥaḍḍǝnäkkǝmu ʾagaʾǝztǝyä ʾab wä-wäld wä-mänfäs qǝddus … “I entrust myself to you my lords, the Father and the Son and the Holy Spirit …” (fols. 61rb-64va)&#13;
+III) ʾO-zä-ʾaṣorukä mäsqälä ʾǝnbälä fǝtḥ …  “Oh those who let you carry the cross without justice …” (fols. 64va-65va)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub21"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Various persons are mentioned in the supplication formulas: Gäbrä Maryam, Täsfa Maryam, Wälättä Sämaˁt, Wälättä Krǝstos, Gäbrä Śǝllase, Gäbrä ˀƎgziˀabǝḥer, Gäbrä ˀArägawi, Wäldä Gärima (fols. 6va, 11va, 13rb etc.).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Various persons are mentioned in the supplication formulas: Gäbrä Maryam, Täsfa Maryam, Wälättä Sämaʿt, Wälättä Krǝstos, Gäbrä Śǝllase, Gäbrä ʾƎgziʾabǝḥer, Gäbrä ʾArägawi, Wäldä Gärima (fols. 6va, 11va, 13rb etc.).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -105,7 +105,7 @@ The scribe did not use the bottom ruled line on fols. 5r and 12r.</rl-info></tau
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonist and of other characters like Gäbrǝˀel (fols. 15ra, 31rab, 55rb); names of the donors (in most cases only the second component); other words like sänbät “Sabbath” on fol. 15va; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the protagonist and of other characters like Gäbrǝʾel (fols. 15ra, 31rab, 55rb); names of the donors (in most cases only the second component); other words like sänbät “Sabbath” on fol. 15va; elements of the punctuation signs and of the text dividers; elements of Ethiopic numerals.&#13;
 &#13;
 Several groups of lines on the incipit page of Texts I (alternating with black lines); two initial lines of subsections (miracles and commemorative notices), the first word in the incipit of subsections (hymns), i.e. sälam "salutation"; two initial lines in the incipit of Text II and of its sections; initial line in the incipit of Text III and first word of each stanza.</rubrication>
 </rubrications>

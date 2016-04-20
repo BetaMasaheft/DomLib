@@ -10,13 +10,13 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam “Miracles of Mary”&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam “Miracles of Mary”&#13;
 I-1) Introductory exhortation (fols. 1ra-4rb)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki... “I worship Thee…” (fols. 4va-5va)&#13;
-I-3) Mäṣḥafä śərˁat, Introductory rite of al-Muˁallaqah (fols. 6ra-9vb)&#13;
-I-4) Täˀamrä Maryam “Miracles of Mary”: 109 miracles (fols. 9vb-116vb)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 4va-5va)&#13;
+I-3) Mäṣḥafä śǝrʿat, Introductory rite of al-Muʿallaqah (fols. 6ra-9vb)&#13;
+I-4) Täʾamrä Maryam “Miracles of Mary”: 109 miracles (fols. 9vb-116vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -26,7 +26,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000053" xlink:title="Säbäya Maryam /SM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of Ḫabtä Mikaˀel was added to the supplication formula on fol. 9vb in a secondary hand (s. also Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name of Ḫabtä Mikaʾel was added to the supplication formula on fol. 9vb in a secondary hand (s. also Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1450</fdating>
 </fdatings>
@@ -121,7 +121,7 @@ Hand b: quire I.</pchangeofhand>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 116vb-117r: Concluding supplication.&lt;/p&gt;</cont><det>Ḫabtä Mikaˀel and other persons are mentiones. The short supplication is written in red.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 116vb-117r: Concluding supplication.&lt;/p&gt;</cont><det>Ḫabtä Mikaʾel and other persons are mentiones. The short supplication is written in red.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title ተአምረ፡ ማርያም is written on the front board with red modern paint.</extra>
 </extras>

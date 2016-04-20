@@ -44,13 +44,13 @@ I-28) The Martyrdom of St. Thomas (fols. 150ra-150vb), incomplete.</shortcontent
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maˁṣo / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo / MY"/>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The same scribe probably wrote Mss. MY-002 and MY-008.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Hallo ˀAmlak is mentioned in the supplication formulas (e.g., fols. 1va, l.15; 16va, l.29; 63va, l.29; 131vb, l.23), but elsewhere the name Hallo Krǝstos (fols. 35vb, l.31; 44vb, ls. 20-21).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Hallo ʾAmlak is mentioned in the supplication formulas (e.g., fols. 1va, l.15; 16va, l.29; 63va, l.29; 131vb, l.23), but elsewhere the name Hallo Krǝstos (fols. 35vb, l.31; 44vb, ls. 20-21).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1382</fdating>
 </fdatings>
@@ -142,7 +142,7 @@ Crux ansata with coronis, marking the beginning of each new text (used thoughout
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><nm>I.</nm><text>I. Gädlä Ḥawaryat, Apocryphal Acts of the Apostles</text><completeness>Incomplete</completeness><folios>1ra-150vb</folios><mss>EMML no. 1482 (15th cent.),&#13;
 fols. 2r-152v: “Combat of the Apostles [Gadla Ḥawāreyāt]”&#13;
-(EMML IV, 606-08; Monastery of Abba Säyfä Mikaˀel, Ṣaˁada Ǝmba Śǝllase, Kärän, Eritrea).&#13;
+(EMML IV, 606-08; Monastery of Abba Säyfä Mikaʾel, Ṣaʿada Ǝmba Śǝllase, Kärän, Eritrea).&#13;
 EMML no. 1767 (1292/7),&#13;
 fols. 4r-232r: “Combat of the Apostles [Gadla Ḥawāreyāt]”&#13;
 (EMML V, 237-39; Monastery of Ḥayq Ǝsṭifanos, Ambassäl, Wällo).&#13;
@@ -253,7 +253,7 @@ F. Morard, “Acts of the Apostles”, in: CE I, 58-61.</text></literature></lit
 &lt;p style="text-align: justify;"&gt;&lt;span style="font-size: larger;"&gt;- According to the distribution of the texts, the G&amp;#228;dl&amp;#228; &amp;#7717;awaryat  of MY-001 would belong to I recension (cp. BauGaH,  83-84). Text  I-3, the Martyrdom of St. Peter, does not contain the "Discourse  of  Peter on the Cross" (= BConAp I, 45-49; BConAp II, 30-34). &lt;/span&gt;&lt;/p&gt;</details></desccontent>
 </desccontents>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Cues for the rubricator (numerals) written in the margins of the column: e.g., fols. 10v, 18v, 37v, 44v, 132v, 133v, 135v.&#13;
-- Short supplication for Zäbanä Krəstos (in his own hand): fol. 42rb, interlineally. &#13;
+- Short supplication for Zäbanä Krǝstos (in his own hand): fol. 42rb, interlineally. &#13;
 - Crude recent notes in pen or in pencil on fols: 124v (below the text), 125v (above the text), 127r (below the text), 127v (on the left side of the text), 128r (below the text), 129v (below the text), 131v (below the text), 142v (above the text).</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>

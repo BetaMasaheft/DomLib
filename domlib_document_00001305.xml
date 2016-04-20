@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dәrsanä sänbätä krəstiyan “Homily on the Sabbath of Christians”  / Mälkəˀa sänbätä krəstiyan “Image of the Sabbath of Christians” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dәrsanä sänbätä krǝstiyan “Homily on the Sabbath of Christians”  / Mälkǝʾa sänbätä krǝstiyan “Image of the Sabbath of Christians” / Mäṣḥafä ṭomar “Book of the Letter (from Heaven)”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dәrsanä sänbätä krəstiyan “Homily on the Sabbath of Christians” (Homily on the observance of Sunday, ascribed to Jacob of Serug) (fols. 3ra–20va)&#13;
-II) Mälkəˀa sänbätä krəstiyan “Image of the Sabbath of Christians” (fols. 20va–22ra)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dәrsanä sänbätä krǝstiyan “Homily on the Sabbath of Christians” (Homily on the observance of Sunday, ascribed to Jacob of Serug) (fols. 3ra–20va)&#13;
+II) Mälkǝʾa sänbätä krǝstiyan “Image of the Sabbath of Christians” (fols. 20va–22ra)&#13;
 III) Mäṣḥafä ṭomar “Book of the Letter (from Heaven)” (fols. 22ra–30rb)&#13;
 &#13;
 Colophon.</shortcontent>
@@ -24,9 +24,9 @@ Colophon.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="LÃ¤qay KidanÃ¤ MÓ&#153;á¸¥rÃ¤t / MKL"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ˀAb</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Näṣṣärä ʾAb</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe Näṣṣärä ˀAb is mentioned in the colophon. The same scribe copied Mss. EHPP-004, EHPP-013.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe Näṣṣärä ʾAb is mentioned in the colophon. The same scribe copied Mss. EHPP-004, EHPP-013.</copyist>
 </copyists>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ḫaylä  Śǝllase is mentioned as the donor and commissioner of the Ms. in the colophon, together with “his father” Gäbrä Maryam. His name is also written in the supplication formulas (fols. 18rb l.21, 20ra ls.3-4, 20va ls.5-6, 27vb l.19); in the supplication formula on fol. 20ra (ls.4-5) Täklä Haymanot is mentioned as “his son”.</donor>
 </donors>
@@ -34,7 +34,7 @@ Colophon.</shortcontent>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Probably the second half of the 19th cent. (the time of King Yoḥannəs IV, r. 1872-89, s. EHPP-013).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Probably the second half of the 19th cent. (the time of King Yoḥannǝs IV, r. 1872-89, s. EHPP-013).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -104,7 +104,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 Four lines (in both columns) in the incipit page of Text I (fol. 3r), divided into two groups alternating with black lines;&#13;
 the first two lines in the incipit of Text II (fol. 20va); &#13;
 the first three lines of incipit of Text III (fol. 22ra); &#13;
-the words sänbät (and its abbreviation “sanba”), sänbätawit, bä-sänbät, sälam (and its abbreviation “säla”), säbḥat, ˀo-fəquranəyä (fol. 17rb).&#13;
+the words sänbät (and its abbreviation “sanba”), sänbätawit, bä-sänbät, sälam (and its abbreviation “säla”), säbḥat, ʾo-fǝquranǝyä (fol. 17rb).&#13;
 Elements of Ethiopic numbers, of punctuation signs and text dividers.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ᎓ for ሰላም᎓ (e.g., fols. 20vb l.9, 21rb l.6, 21vb l.4)&#13;
@@ -445,7 +445,7 @@ mso-hansi-theme-font:minor-latin;&#13;
 mso-bidi-font-family:"Times New Roman";&#13;
 mso-bidi-theme-font:minor-bidi;}&#13;
 &lt;/style&gt;&#13;
-&lt;![endif]--&gt;&lt;span lang="AMH" unicode="" arial="" style="line-height: 115%; font-family: Nyala; font-size: 10pt; mso-fareast-font-family: "&gt; &amp;#4616;&amp;#4773;&amp;#4632;&amp;#4961; &amp;#4782;&amp;#4752;&amp;#4961; &amp;#4704;&amp;#4781;&amp;#4941;&amp;#4768;&amp;#4725;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773;&amp;#4961; &amp;#4845;&amp;#4941;&amp;#4723;&amp;#4813;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4773;&amp;#4632;&amp;#4961; &amp;#4782;&amp;#4752;&amp;#4961; &amp;#4704;&amp;#4608;&amp;#4780;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4624;&amp;#4675;&amp;#4674;&amp;#4653;&amp;#4961; &amp;#4877;&amp;#4829;&amp;#4725;&amp;#4961; &amp;#4773;&amp;#4757;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4653;&amp;#4846;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4925;&amp;#4629;&amp;#4811;&amp;#4961; &amp;#4616;&amp;#4827;&amp;#4722;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</col><det>This note contains a long supplication formula dedicated to the donor and commissioner of the Ms., Ḫaylä Śǝllase, together with his father Gäbrä Maryam, and to the scribe Näṣṣärä ˀAb.</det></colophon>
+&lt;![endif]--&gt;&lt;span lang="AMH" unicode="" arial="" style="line-height: 115%; font-family: Nyala; font-size: 10pt; mso-fareast-font-family: "&gt; &amp;#4616;&amp;#4773;&amp;#4632;&amp;#4961; &amp;#4782;&amp;#4752;&amp;#4961; &amp;#4704;&amp;#4781;&amp;#4941;&amp;#4768;&amp;#4725;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773;&amp;#4961; &amp;#4845;&amp;#4941;&amp;#4723;&amp;#4813;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4773;&amp;#4632;&amp;#4961; &amp;#4782;&amp;#4752;&amp;#4961; &amp;#4704;&amp;#4608;&amp;#4780;&amp;#4725;&amp;#4961; &amp;#4704;&amp;#4624;&amp;#4675;&amp;#4674;&amp;#4653;&amp;#4961; &amp;#4877;&amp;#4829;&amp;#4725;&amp;#4961; &amp;#4773;&amp;#4757;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4653;&amp;#4846;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4925;&amp;#4629;&amp;#4811;&amp;#4961; &amp;#4616;&amp;#4827;&amp;#4722;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</col><det>This note contains a long supplication formula dedicated to the donor and commissioner of the Ms., Ḫaylä Śǝllase, together with his father Gäbrä Maryam, and to the scribe Näṣṣärä ʾAb.</det></colophon>
 </colophons>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: ; font-size: 10pt"&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/p&gt;</cont></additional>
@@ -458,10 +458,10 @@ fols. 7vb l.5 and 15rb l.9&#13;
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">Notes indicating the division of the text (written in black ink in the same hand, in the upper margin):&#13;
-mǝˁraf: fol. 14v&#13;
-3 mǝˁraf: fol. 20r&#13;
+mǝʿraf: fol. 14v&#13;
+3 mǝʿraf: fol. 20r&#13;
 mäṣǝfä[sic] ṭomar:  fol. 22r&#13;
-mǝˁraf: fol. 25r&#13;
-mǝˁraf: fol.  28r</txfindingaid>
+mǝʿraf: fol. 25r&#13;
+mǝʿraf: fol.  28r</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-04-03T09:01:41.220Z</servdate><servdate inherited="0" type="modifydate">2015-07-10T09:55:32.608Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">VPisani</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

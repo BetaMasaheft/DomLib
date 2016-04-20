@@ -10,55 +10,55 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dərsan maḥyawi “The Life-Giving Homily”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝrsan maḥyawi “The Life-Giving Homily”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dərsan maḥyawi “The Life-Giving Homily” (fols. 3ra-59rb) &#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Dǝrsan maḥyawi “The Life-Giving Homily” (fols. 3ra-59rb) &#13;
 I-1) Introductory prayer (fols. 3ra-3vb) &#13;
-I-2) Reading for Monday, Compline (nəwam) (fols. 3vb-13ra) &#13;
+I-2) Reading for Monday, Compline (nǝwam) (fols. 3vb-13ra) &#13;
 -	homilies (fols. 3vb-6rb, 7rb-8va, 11ra-11va)&#13;
 -	absolution prayers (fols. 6rb-7rb, 8va-10rb, 10vb-11ra, 11va-11vb)&#13;
 -	miracle (fols. 10rb-10vb)&#13;
--	ˀarke (fols. 11vb-13ra)&#13;
+-	ʾarke (fols. 11vb-13ra)&#13;
 I-3) Reading for Tuesday, Matins (mänfäqä lelit) (fols. 13ra-21va)&#13;
 -	homilies (fols. 13ra-14rb, 15rb-15vb, 16ra-17ra, 17rb-18ra, 18rb-19va, 19vb-20rb)&#13;
 -	miracle (fols. 14rb-15rb)&#13;
 -	absolution prayers (fols. 15vb-16ra, 17ra, 18ra-18rb, 19vb) &#13;
--	ˀarke (fols. 20va-21va)&#13;
+-	ʾarke (fols. 20va-21va)&#13;
 I-4) Reading for Wednesday, Lauds (nägh) (fols. 21va-28va)&#13;
 -	homilies (fols. 21va-23ra, 24rb-25vb, 25vb-26vb, 27ra-27rb)&#13;
 -	absolution prayers (fols. 23ra-24ra, 25vb, 26vb-27ra, 27rb-27va)&#13;
 -	miracle (fols. 24ra-24rb)&#13;
--	ˀarke (fols. 27va-28va) &#13;
-I-5) Reading for Thursday, Terce (śälästu säˁat) (fols. 28va-37va)&#13;
+-	ʾarke (fols. 27va-28va) &#13;
+I-5) Reading for Thursday, Terce (śälästu säʿat) (fols. 28va-37va)&#13;
 -	homilies (fols. 28va-32rb, 32va-33rb, 33rb-34va, 34vb-36rb)&#13;
 -	absolution prayers (fols. 32rb-32va, 33rb, 34va-34vb, 36rb)&#13;
--	ˀarke (fols. 36rb-37va) &#13;
+-	ʾarke (fols. 36rb-37va) &#13;
 I-6) Reading for Friday, Sext (qätr) (fols. 37va-46vb)&#13;
 -	homilies (fols. 37va-39ra, 41va-43vb, 44ra-44rb, 44vb-45ra)&#13;
 -	absolution prayers (fols. 41va, 43vb-44ra, 44va, 45rb-45va)&#13;
 -	3 miracles (fols. 39ra-41va, 44rb-44va, 45ra-45rb) &#13;
--	ˀarke (fols. 45va-46vb) &#13;
-I-7) Reading for Saturday, None (täsaˁtu säˁat) (fols. 46vb-54rb) &#13;
+-	ʾarke (fols. 45va-46vb) &#13;
+I-7) Reading for Saturday, None (täsaʿtu säʿat) (fols. 46vb-54rb) &#13;
 -	homilies (fols. 46vb-49ra, 49ra-51rb, 52va-53ra) &#13;
 -	absolution prayers (fols. 49ra, 52rb-52va, 53ra-53rb)&#13;
 -	2 miracles (fols. 51rb-51va, 51va-52rb)&#13;
--	ˀarke (fols. 53rb-54rb)&#13;
+-	ʾarke (fols. 53rb-54rb)&#13;
 I-8) Reading for Sunday, Vespers (śärk) (fols. 54rb-59rb) &#13;
 -	homilies (fols. 54rb-57rb, 57rb-57vb, 57vb-58v) &#13;
 -	absolution prayers (fols. 57rb, 57vb, 58va)&#13;
--	ˀarke (fols. 58va-59rb)&#13;
-I-9) Zena säqoqawəki... “The Story of Your lamentation...” (fols. 59rb-61vb)&#13;
+-	ʾarke (fols. 58va-59rb)&#13;
+I-9) Zena säqoqawǝki... “The Story of Your lamentation...” (fols. 59rb-61vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub00" other="Prayer"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ˁAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000065" xlink:title="ʿAddigrat Däbrä Mänkәrat Qәddus Qirqos / AMQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Śəllase is mentioned as the donor in Additio 1. He and his wife, Wälättä Yoḥannəs, are mentioned in the supplication formulas throughout the Ms.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase is mentioned as the donor in Additio 1. He and his wife, Wälättä Yoḥannǝs, are mentioned in the supplication formulas throughout the Ms.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -133,7 +133,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Rather poor, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few lines on the incipit page (alternating with black lines); two initial lines of the beginning of the daily readings; initial line(s) of the sections of the daily readings (homilies, absolution prayers, miracles and ˀarke); selected words or parts of words in ˀarke; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; a few lines on the incipit page (alternating with black lines); two initial lines of the beginning of the daily readings; initial line(s) of the sections of the daily readings (homilies, absolution prayers, miracles and ʾarke); selected words or parts of words in ʾarke; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 Names of the days indicating daily readings are written in red pencil.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ለዓ፡ ዓለ፡ አሜን፡ for ለዓለመ፡ ዓለም፡ አሜን፡ (e.g., fols. 10vb, 16ra) &#13;
@@ -144,8 +144,8 @@ Names of the days indicating daily readings are written in red pencil.</rubricat
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 62r: Donation note.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 62r: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4726;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4808;&amp;#4709;&amp;#4773;&amp;#4658;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4633;&lt;span style="font-size: small;"&gt;[sic]&lt;/span&gt;&amp;#4961;&amp;#160;&amp;#4773;&amp;#4633;&amp;#4961;&amp;#160;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Nyala;"&gt;&amp;#4808;&amp;#4616;&amp;#4720;&amp;#4645;&amp;#4619;&amp;#4660;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala; mso-fareast-font-family: Calibri; mso-ansi-language: AMH; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Nyala;"&gt;&amp;#4633;&lt;span style="font-size: small;"&gt;&lt;font face="Arial"&gt;[sic]&lt;/font&gt;&lt;/span&gt;&amp;#4961;&lt;/span&gt; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4616;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4674;&amp;#4653;&amp;#4678;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4853;&amp;#4877;&amp;#4651;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4624;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the same poor hand as the main text, in red. According to the note ˀato Wäldä Śəllase donated the book to the Qirqos church in ˁAddigart. Also the name of Wäldä Śəllase's wife, Wälättä Yoḥannəs, father, Gäbrä Yoḥannəs, and mother, Wälättä Śəllase, are mentioned.</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: 150%;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 150%;"&gt;Fol. 62r: Short&amp;#160;exhortation to Christ for protection. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><det>The exhortation is written in a fine hand, in pen. A certain Gäbrä Krəstos entreats Christ to protect his life.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;div style="line-height: normal;"&gt;&lt;span style="font-size: small;"&gt;Fol. 62r: Donation note.&lt;/span&gt;&lt;/div&gt;</cont><add>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 62r: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4726;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4808;&amp;#4709;&amp;#4773;&amp;#4658;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4633;&lt;span style="font-size: small;"&gt;[sic]&lt;/span&gt;&amp;#4961;&amp;#160;&amp;#4773;&amp;#4633;&amp;#4961;&amp;#160;&lt;span lang="EN-US" style="line-height: 115%; font-family: Nyala; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Nyala;"&gt;&amp;#4808;&amp;#4616;&amp;#4720;&amp;#4645;&amp;#4619;&amp;#4660;&lt;/span&gt;&lt;span lang="AMH" style="line-height: 115%; font-family: Nyala; mso-fareast-font-family: Calibri; mso-ansi-language: AMH; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Nyala;"&gt;&amp;#4633;&lt;span style="font-size: small;"&gt;&lt;font face="Arial"&gt;[sic]&lt;/font&gt;&lt;/span&gt;&amp;#4961;&lt;/span&gt; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4616;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4674;&amp;#4653;&amp;#4678;&amp;#4661;&amp;#4961; &amp;#4768;&amp;#4853;&amp;#4877;&amp;#4651;&amp;#4725;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4624;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><det>The note is written in the same poor hand as the main text, in red. According to the note ʾato Wäldä Śǝllase donated the book to the Qirqos church in ʿAddigart. Also the name of Wäldä Śǝllase's wife, Wälättä Yoḥannǝs, father, Gäbrä Yoḥannǝs, and mother, Wälättä Śǝllase, are mentioned.</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;div style="text-align: justify; line-height: 150%;"&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 150%;"&gt;Fol. 62r: Short&amp;#160;exhortation to Christ for protection. &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;</cont><det>The exhortation is written in a fine hand, in pen. A certain Gäbrä Krǝstos entreats Christ to protect his life.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Pen trials: fol. 62r.&#13;
 - Minor notes, writing exercises, doodles: on the leather cover of the inner faces of both the boards, fols. 3r, 17r, 19rv, 21va, 33rb, 61va, 62rv, 63rv.</extra>

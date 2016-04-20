@@ -12,22 +12,22 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam "Miracles of Mary"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam "Miracles of Mary"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täˀamrä Maryam "Miracles of Mary" (fols. 3ra-121va)&#13;
-I-1a) Täˀamrä Maryam "Miracles of Mary": 23 miracles (fols. 3ra-15va, 105va-121va)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki... "I worship Thee..." (fols. 16ra-vb)&#13;
-I-1b) Täˀamrä Maryam "Miracles of Mary": 34 miracles (fols. 17ra-105va)&#13;
-I-3) ˀAkkonu bəˀəsi... “Does not the man...” (distributed among the miracles of Mary, fols. 18vb-92rb).</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Täʾamrä Maryam "Miracles of Mary" (fols. 3ra-121va)&#13;
+I-1a) Täʾamrä Maryam "Miracles of Mary": 23 miracles (fols. 3ra-15va, 105va-121va)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki... "I worship Thee..." (fols. 16ra-vb)&#13;
+I-1b) Täʾamrä Maryam "Miracles of Mary": 34 miracles (fols. 17ra-105va)&#13;
+I-3) ʾAkkonu bǝʾǝsi... “Does not the man...” (distributed among the miracles of Mary, fols. 18vb-92rb).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ˀAbunä ˀArägawi / DD"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo ʾAbunä ʾArägawi / DD"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ṣägga Zä-ˀAb is mentioned in the supplication formulas throughout Text I-1a (hand a).&#13;
-Wäldä Krǝstos, ˀƎlleni and ˀƎsṭifanos are mentioned throughout Text II (hand c).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ṣägga Zä-ʾAb is mentioned in the supplication formulas throughout Text I-1a (hand a).&#13;
+Wäldä Krǝstos, ʾƎlleni and ʾƎsṭifanos are mentioned throughout Text II (hand c).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1632</fdating>
 </fdatings>
@@ -165,7 +165,7 @@ Cp. BHMirM: Plates VIII, IX, X</details></miniature>
 ዘከመ፡ አንሥአቶ፡ እግዝእትነ።&#13;
 Cp. BHMirM: Plate XI</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 31v: Mary and the child Mary.</info><details>Legend: ይእቲ፡ ወለት።&#13;
-ˀArke-hymn: መቅደሰ፡ ሥላሴ፡ ማርያም፡ ዘተገልበብኪ፡ ስብሐተ፡ እንዘ፡ በረከትኪ፡ ይጸወር፡ ወአሣዕነኪ፡ ድርገተ፡ ወልደ፡ ክርስቶስ፡ ገብርኪ፡ አቅመ፡ ተመነየ፡ ትምኔተ፡ ጥቡዓ፡ ከመ፡ ይትሉኪ፡ መንገለ፡ ሖርኪ፡ ፍኖተ፡ ብሂላተ፡ እንዘ፡ አስምዒዮ፡ ወሥመሪ፡ ዘንተ።&#13;
+ʾArke-hymn: መቅደሰ፡ ሥላሴ፡ ማርያም፡ ዘተገልበብኪ፡ ስብሐተ፡ እንዘ፡ በረከትኪ፡ ይጸወር፡ ወአሣዕነኪ፡ ድርገተ፡ ወልደ፡ ክርስቶስ፡ ገብርኪ፡ አቅመ፡ ተመነየ፡ ትምኔተ፡ ጥቡዓ፡ ከመ፡ ይትሉኪ፡ መንገለ፡ ሖርኪ፡ ፍኖተ፡ ብሂላተ፡ እንዘ፡ አስምዒዮ፡ ወሥመሪ፡ ዘንተ።&#13;
 Cp. BHMirM: Plate XII</details></miniature>
 <miniature xml:lang="en" inherited="0"><info>Fol. 33v: Mary and the painter whose scaffold was overthrown by the devil.</info><details>Legends:&#13;
 ዘከመ፡ ሠዓለ፡ ሠዓሊ፡ ገነተ፡ ማኅደረ፡ ጸድቃን፡ ወእሳተ፡ ሲኦል፡ ማኅደረ፡ ዲያብሎስ፡ ወሠራዊቱ።&#13;
@@ -218,7 +218,7 @@ Cp. BHMirM: Plates XXIV, XXV, XXVI</details></miniature>
 ዘከመ፡ አንቀሐታ፡ እግዝእትነ።  &#13;
 ዘከመ፡ ከሠተት፡ አዕይንቲሃ፡ በሐሊባ።&#13;
 Cp. BHMirM: Plates XXVII, XXVIII, XXIX</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 54v: Mary and the three poor daughters of  ˁƎberayit.</info><details>Legends:&#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 54v: Mary and the three poor daughters of  ʿƎberayit.</info><details>Legends:&#13;
 ዘከመ፡ ጸለየት፡ ዕቤራዪት፡ ኀበ፡ እግዝእትነ፡ በእንተ፡ ንዴቶን፡ ለሠላስ፡ አዋልዲሃ። &#13;
 እሎን፡ እማንቱ፡ አዋልዲሃ፡ ለዕቤራዪት፡ ቀዳሚት፡ ማርያም፡ ወዳግሚት፡ ማርታ፡ ወሣልሲት፡ የዋሂት። ማርያም፡ ሞተት፡  ወለክልኤቱ፡ ነሥኦን፡ ቴዎግ፡ ፀራቢ።&#13;
 ዘከመ፡ ገነዝዋ፡ ለወለተ፡ ዕቤራይተ፡ ዘከመ፡ ነገረታ፡ እግዝእትነ።&#13;
@@ -291,16 +291,16 @@ Cp. BHMirM: Plates XLV, XLVI</details></miniature>
 ዝኒ፡ ዘዘበጠ፡ በሰይፍ።&#13;
 ዘከመ፡ ገነዝዎ፡ እሉ፡ ሰብእ፡ ለባሮክ።&#13;
 Cp. BHMirM: Plates XLVII, XLVIII, XLIX</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 78v: Mary and Anastasius (ˀAnǝsṭasyos)</info><details>Legends:&#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 78v: Mary and Anastasius (ʾAnǝsṭasyos)</info><details>Legends:&#13;
 ዘከመ፡ ጸለየ፡ አንስጣስዮስ፡ ቀዊሞ፡ ቅድመ፡ ሥዕለ፡ እግዝእትነ። &#13;
 ዘከመ፡ ተናገረቶ፡ እግዝእትነ፡ ማርያም፡ ነገረ፡ ፍሥሐ፡ ለአንስጣስዮስ፡ እንዘ፡ ሀሎ፡ ስኩበ፡ በደዌሁ። &#13;
 Cp. BHMirM: Plate: L</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 82r: Monks beating ˀAbba Śalusi and forbidding him to eat beans.</info><details>Legends:&#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 82r: Monks beating ʾAbba Śalusi and forbidding him to eat beans.</info><details>Legends:&#13;
 ዘከመ፡ ዘበጥዎ፡ ወረገፅዎ፡ መነኮሳት፡ ላአባ፡ ሣሉሲ። &#13;
 ዘከመ፡ ከልእዎ፡ መነኮሳት፡ በሊዓ፡ ተርሙስ፡ ለአባ፡ ሳሉሲ። &#13;
 ዘከመ፡ ጸለየ፡ አባ፡ ሣሉሲ።&#13;
 Cp. BHMirM: Plates: LI, LII, LIII</details></miniature>
-<miniature xml:lang="en" inherited="0"><info>Fol. 86r: The cannibal of Qəmər (bälaˀe säbˀ).</info><details>Legends:&#13;
+<miniature xml:lang="en" inherited="0"><info>Fol. 86r: The cannibal of Qǝmǝr (bälaʾe säbʾ).</info><details>Legends:&#13;
 ብእሲ፡ ባዕል፡ ዘሀገረ፡ ቅምር፡ ዘበልዓ፡ ፸ወ፰ ነፍሳት።&#13;
 ዘከመ፡ ጐዩ፡ ሰብእ፡ ዘሀገረ፡ ቅምር፡ ኃዲጎሙ፡ አብያቲሆሙ፡ ከመ፡ ኢይብልዖሙ፡ ...&#13;
 ዘከመ፡ ሐረዳ፡ በላዔ፡ ሰብእ፡ ለብእሲቱ፡ ወበልዓ፡ ሥጋሃ። &#13;

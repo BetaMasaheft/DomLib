@@ -10,15 +10,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dəggwa, Antiphonary</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Dǝggwa, Antiphonary</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Dəggwa, Antiphonary (from the feast of St. John the Baptist to the Assumption of the Virgin Mary, 21st Ṭərr) (fols. 3ra-45vb), incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I)	Dǝggwa, Antiphonary (from the feast of St. John the Baptist to the Assumption of the Virgin Mary, 21st Ṭǝrr) (fols. 3ra-45vb), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaˀel / QSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000049" xlink:title="Qärsäbär Mikaʾel / QSM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -103,7 +103,7 @@ The bottom line is written above the ruling.</ruling>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Fine and careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; dates followed by the feast name (e.g., ˀamä 5 lä-mäskäräm ˀElsabeṭ) and often by the word wazema, followed by the feast name (e.g., wazema zä-zäwätr zä-ṣəgeyat, wazema zä-qəddus Mikaˀel); names of antiphons and their abbreviations followed by initial words or letters (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ˀabun, ˀaryam, ˀəsmä lä-ˁaläm, kwəlləkkəmu, zä-ˀamlakiyä, zä-yəˀəze, yətbaräk); names of other chants and their abbreviations (e.g., məlṭan, məsbak, məqnay, mədgam, qənnəwat, ˁəzl);  musical notation signs: intratextual (e.g., səräyu, ˀaklilä, ḥaḍäbo, ˀaṭmäqä, ˀaryam qädami zema) and marginal (entire and elements); red and black dot chains separating groups of antiphons; elements of the punctuation signs; Ethiopic numerals or their elements.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; dates followed by the feast name (e.g., ʾamä 5 lä-mäskäräm ʾElsabeṭ) and often by the word wazema, followed by the feast name (e.g., wazema zä-zäwätr zä-ṣǝgeyat, wazema zä-qǝddus Mikaʾel); names of antiphons and their abbreviations followed by initial words or letters (e.g., maḫlet, mäzmur, śäläst, sälam, bä-5-tu, ʾabun, ʾaryam, ʾǝsmä lä-ʿaläm, kwǝllǝkkǝmu, zä-ʾamlakiyä, zä-yǝʾǝze, yǝtbaräk); names of other chants and their abbreviations (e.g., mǝlṭan, mǝsbak, mǝqnay, mǝdgam, qǝnnǝwat, ʿǝzl);  musical notation signs: intratextual (e.g., sǝräyu, ʾaklilä, ḥaḍäbo, ʾaṭmäqä, ʾaryam qädami zema) and marginal (entire and elements); red and black dot chains separating groups of antiphons; elements of the punctuation signs; Ethiopic numerals or their elements.&#13;
 A few lines, alternating with three black lines, on the incipit page.&#13;
 Sometimes only two or three initial letters of a word are rubricated.</rubrication>
 </rubrications>

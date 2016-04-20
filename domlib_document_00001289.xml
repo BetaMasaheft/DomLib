@@ -11,10 +11,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ˀǝgzǝˀtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” / Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Nǝgǝränni sǝmäkä … “Tell me your name …”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” / Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne / Nǝgǝränni sǝmäkä … “Tell me your name …”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ˀǝgzǝˀtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” (fols. 4ra-39ra)&#13;
-II) Ṣälot zä-ˀǝgzǝˀtənä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 39rb-63rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-wǝsṭä hagärä Bartos “Prayer of Our Lady Mary in the Country of Bartos” (fols. 4ra-39ra)&#13;
+II) Ṣälot zä-ʾǝgzǝʾtǝnä Maryam bä-Däbrä Golgota, Prayer of Our Lady Mary on Mount Golgotha on the 21st of Säne (fols. 39rb-63rb)&#13;
 III) Nǝgǝränni sǝmäkä … “Tell me your name …” (fols. 63rb-67rb)&#13;
            &#13;
 Additio 1.</shortcontent>
@@ -98,7 +98,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span unicode="" style="font-size:10.0pt;Arial"&gt;Fol. 67va:&lt;/span&gt;&lt;span unicode="" style="font-size:10.0pt;Arial"&gt; Ownership note.&lt;/span&gt;&lt;/p&gt;</cont><add>&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;span style="line-height: 115%;"&gt;Fol. 67va:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;span style="font-size:12.0pt;line-height:115%;Arial Unicode MS"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;span style="line-height: 115%;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#5011; &amp;#4840;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#5011; &amp;#4872;&amp;#4755;&amp;#4613;&amp;#4725;&amp;#5011; &amp;#4824;&amp;#4656;&amp;#4648;&amp;#4675;&amp;#5011; &amp;#4808;&amp;#4824;&amp;#4936;&amp;#4624;&amp;#4675;&amp;#5011; &amp;#4813;&amp;#4873;&amp;#4824;&amp;#5011; &amp;#4616;&amp;#4845;&amp;#4777;&amp;#4757;&amp;#5011; &amp;#4704;&amp;#4661;&amp;#4621;&amp;#4899;&amp;#4752; &lt;/span&gt;&lt;span style="line-height: 115%;"&gt;&amp;#8230;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="line-height: 115%;"&gt;&lt;br /&gt;&#13;
 &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</add><tran>&lt;p&gt;&lt;span unicode="" style="font-size:10.0pt;line-height:115%;Arial"&gt;&lt;span style="font-size:10.0pt;line-height:115%;Arial" unicode=""&gt;Fol. 67va: This book is of Maryam G&amp;#228;naht, may the one who stole it and erased it, be excommunicated by the authority of &amp;#8230;&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</tran><det>In Gəˁəz and Amharic.</det></additional>
+&lt;/span&gt;&lt;/p&gt;</tran><det>In Gǝʿǝz and Amharic.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Interlinear corrections: fols, 13vb, 15va.&#13;
 - Spaces for rubrication left unfilled: fols. 11ra, 16va, 19va, 28rb.&#13;

@@ -11,20 +11,20 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täˀamrä Maryam “Miracles of Mary” / Täˀamrä Mikaˀel "Miracles of Michael"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Täʾamrä Maryam “Miracles of Mary” / Täʾamrä Mikaʾel "Miracles of Michael"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śərˁat, The introductory rite of al-Muˁallaqah (fols. 5ra-6va)&#13;
-I-2) ˀƎsäggəd läki wä-ˀəweddəsäki “I worship Thee…” (fols. 6va-7ra)&#13;
-I-3) Täˀamrä Maryam “Miracles of Mary”: 93 miracles (fols. 2ra-4vb, 7ra-77ra)&#13;
-II) Täˀamrä Mikaˀel "Miracles of Michael": 1 miracle (fols. 77rb-77vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I-1) Mäṣḥafä śǝrʿat, The introductory rite of al-Muʿallaqah (fols. 5ra-6va)&#13;
+I-2) ʾƎsäggǝd läki wä-ʾǝweddǝsäki “I worship Thee…” (fols. 6va-7ra)&#13;
+I-3) Täʾamrä Maryam “Miracles of Mary”: 93 miracles (fols. 2ra-4vb, 7ra-77ra)&#13;
+II) Täʾamrä Mikaʾel "Miracles of Michael": 1 miracle (fols. 77rb-77vb)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗaraqliṭos / AP"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗaraqliṭos / AP"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to the colophon, the commissioner is Gäbrä Giyorgis, and the donor is Wälättä Libanos.</donor>
 </donors>

@@ -10,24 +10,24 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Libanos “Vita of Libanos” /  Täˀamrä Libanos “Miracles of Libanos” / Mälkәˀa Libanos “Image of Libanos”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Libanos “Vita of Libanos” /  Täʾamrä Libanos “Miracles of Libanos” / Mälkәʾa Libanos “Image of Libanos”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Libanos “Vita of Libanos” (fols. 1ra-44vb)&#13;
-II) Täˀamrä Libanos “Miracles of Libanos”: 11 miracles (fols. 45ra-54ra)&#13;
-III) Mälkәˀa Libanos “Image of Libanos”: 28 strophes (fols. 55ra-58ra).</shortcontent>
+II) Täʾamrä Libanos “Miracles of Libanos”: 11 miracles (fols. 45ra-54ra)&#13;
+III) Mälkәʾa Libanos “Image of Libanos”: 28 strophes (fols. 55ra-58ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Məˀəsar Gwəḥila Qəddus Mikaˀel / MGM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000216" xlink:title="Mǝʾǝsar Gwǝḥila Qǝddus Mikaʾel / MGM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Gärima</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Gärima is mentioned as the scribe on fols. 43vb and 52vb (here he is mentioned as ˀabba Wäldä Gärima).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Gärima is mentioned as the scribe on fols. 43vb and 52vb (here he is mentioned as ʾabba Wäldä Gärima).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Täsfa Mikaˀel and his wife Wälättä Ṣadəqan are mentioned in the supplication formulas throughout the Ms. (e.g., fols. 2rb, 8va, 14vb, 17ra).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The names of Täsfa Mikaʾel and his wife Wälättä Ṣadǝqan are mentioned in the supplication formulas throughout the Ms. (e.g., fols. 2rb, 8va, 14vb, 17ra).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -99,7 +99,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ፡ for ሰላም፡ (in Text III)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the Gädlä Libanos, Täˀamrä Libanos and Mälkәˀa Libanos compare: A. BAUSI, La «Vita» e i «miracoli» di Libānos, Lovanii 2003 (CSCO 595, 596 [SAe 105, 106]).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the Gädlä Libanos, Täʾamrä Libanos and Mälkәʾa Libanos compare: A. BAUSI, La «Vita» e i «miracoli» di Libānos, Lovanii 2003 (CSCO 595, 596 [SAe 105, 106]).&#13;
 - Text I.&#13;
 Of this text, there are three different recensions (cp. Bausi 2003, XIII-XX):&#13;
 1) GETATCHEW HAILE, “The Homily of Abba Elǝyas, Bishop of Aksum, on Mäṭṭa”, ABoll 108, 1990, 29-47.&#13;
@@ -109,7 +109,7 @@ Of this text, there are three different recensions (cp. Bausi 2003, XIII-XX):&#1
 The text in MGM-012 seems more closed to the text as in the so called second recension, but with some more passages in the initial part.&#13;
 Certainly, it is needed a further and accurate investigation.&#13;
 &#13;
-The text is attributed to ˀElyas, the Bishop of Aksum (mention on fol. 17ra).&#13;
+The text is attributed to ʾElyas, the Bishop of Aksum (mention on fol. 17ra).&#13;
 &#13;
 The text contains, on fols. 1ra-vb, a rhymed  prologue:&#13;
 በስመ፡ አብ፡ ወወልድ፡ ወመንፈስ፡ ቅዱስ፡ ፩አምላክ፨ በስመ፡ እግዚአብሔር፡ አብ፡ ዘአምቅድመ፡ ዓለም፡ ህላዌሁ፨ ወእስከ፡ ለዓለም፡ ዘኢየሐልቅ፡ ምስፍናሁ። ልዑል፡ በልዕልናሁ፨ ስብሕ፡ በስብሐቲሁ፨ ...&#13;

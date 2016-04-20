@@ -10,17 +10,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sənkəssar “Synaxarion” (the entire year)</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Sǝnkǝssar “Synaxarion” (the entire year)</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sənkəssar “Synaxarion” for the entire year (fols. 1ra-175va), incomplete&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Sǝnkǝssar “Synaxarion” for the entire year (fols. 1ra-175va), incomplete&#13;
 I-1) Mäskäräm (fols. 1ra-19vb)&#13;
-I-2) Ṭəqəmt (fols. 20ra-38rb)&#13;
-I-3) Ḫədar (fols. 38va-59va)&#13;
-I-4) Ṭərr (fols. 60ra-85vb)&#13;
+I-2) Ṭǝqǝmt (fols. 20ra-38rb)&#13;
+I-3) Ḫǝdar (fols. 38va-59va)&#13;
+I-4) Ṭǝrr (fols. 60ra-85vb)&#13;
 I-5) Yäkkatit (fols. 86ra-104ra) &#13;
 I-6) Mäggabit (fols. 104ra-129ra)&#13;
 I-7) Miyazya (fols. 129rb-143rb)&#13;
-I-8) Gənbot (fols. 144ra-158vb)&#13;
+I-8) Gǝnbot (fols. 144ra-158vb)&#13;
 I-9) Säne (fols. 160va-166vb)&#13;
 I-10) Ḥamle (fols. 167ra–174va) &#13;
 I-11) Näḥase (fols. 159rb-159va, 174va-175va).</shortcontent>
@@ -114,38 +114,38 @@ For palaeographic features of the hand, s. UhlPal 95, 212, 300-424. For the form
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Incipit of each commemorative notice; elements of the punctuation signs (e.g., chains of red and black dots and nine dot asterisks separating the months, chains of red and black dots separating commemorative notices); elements of Ethiopic numerals and coronis-signs.&#13;
 &#13;
 Several lines or groups of lines on the page opening the commemorative notices for each month are rubricated: &#13;
-6 red lines above in groups of 2 alternating with black lines (fols. 20r [Ṭəqəmt], 61r [Ṭərr], 86r [Yäkkatit], 144r [Gənbot]); &#13;
+6 red lines above in groups of 2 alternating with black lines (fols. 20r [Ṭǝqǝmt], 61r [Ṭǝrr], 86r [Yäkkatit], 144r [Gǝnbot]); &#13;
 4 red lines above alternating with black lines (fols. 104ra [Mäggabit], 129rb [Miyazya]);&#13;
-3 red lines above alternating with black lines (fol. 38va [Ḫədar], 174va [Näḥase]).</rubrication>
+3 red lines above alternating with black lines (fol. 38va [Ḫǝdar], 174va [Näḥase]).</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The Ms. is incomplete; numerous fols. are missing:&#13;
 - Mäskäräm: 1st-7th are missing&#13;
 - Taḫśaś: entire month is missing&#13;
 - Yäkkatit: 10th, 26th-27th are missing&#13;
 - Miyazya: 3rd, 28th-30th are missing; two entries for 25th but none for 24th, but entry in fol. 141rb-vb belongs apparently to 24th (see: : ColSyn XII 570-574)&#13;
-- Gənbot: 15th-16th are missing. 30th is incomplete&#13;
+- Gǝnbot: 15th-16th are missing. 30th is incomplete&#13;
 - Säne: 1st-14th; 16th-19th are missing&#13;
 - Ḥamle: 1st, 6th-8th, 11th-16th, 19th-28th are missing&#13;
 - Näḥase: 4th-16th, 19th-30th are missing&#13;
-- Ṗagwəmen: entire month is missing.&#13;
+- Ṗagwǝmen: entire month is missing.&#13;
 The text is laid out in two columns, possibly a typical feature of Synaxarion ma nuscript before the mid-16th cent. (three columns were introduced later).&#13;
 &#13;
-Fol. 60, containing part of the entry for 8th Ṭərr, is misplaced. &#13;
+Fol. 60, containing part of the entry for 8th Ṭǝrr, is misplaced. &#13;
 In fol. 98 the commemorative date is partly rubbed out (፲ወ?): &#13;
--	mentioned are here: abba Sawiros, abba Yaˁqob; commemorated on 14th Yäkkatit (see: ColSyn X 542-546)&#13;
+-	mentioned are here: abba Sawiros, abba Yaʿqob; commemorated on 14th Yäkkatit (see: ColSyn X 542-546)&#13;
 -	however, the commemorative notices for 14th Yäkkatit are written on fol. 97ra-98ra; here, abba Ṭimote (Timothy Patriarch of Alexandria) among others is mentioned who is commemorated on 13th Yäkkatit (see: ColSyn X 536-537).&#13;
 &#13;
-The text differs significantly from the published/edited versions (GUIDI-COLIN, BUDGE, recent Ethiopian church edition) in terms of language, e.g., spelling of names (persons and places, e.g., fol. 11va: Qǝwsṭos instead of Qwäsṭänṭinos [Constantine], fol. 12ra: ˀAtnatyos instead of ˀAtnasyos [Athanasius]) and in terms of content. Some entries are much shorter (e.g., 23th Miyazya – George of Lydda, fols. 141va-141ra) and not all saints of the universal church are mentioned (like St. Qirqos, 15th Ṭərr). The Ethiopian saints like ˀƎwoṭaṭewos (18th Mäskäräm),	 Gäbrä Mänfäs Qeddus (30th Mäggabit), Libanos/Mäṭaˁ (3rd Ṭərr), Yared (11th Gənbot), King Kaleb (20th Gənbot) are not commemorated at all.&#13;
-It is possible that the Sənkəssar for the entire year was written in only one codex, even though the division of the text into two codices has been a common practice – at least later. In this Ms. the end of the first half of the year (30th Yäkkatit) and the beginning of the second half (1st Mäggabit) are written on the same folio (fol. 104ra). The whole text is written in the same hand. However, a division of this comprehensive text in a different way could be also possible.</otherdetail>
+The text differs significantly from the published/edited versions (GUIDI-COLIN, BUDGE, recent Ethiopian church edition) in terms of language, e.g., spelling of names (persons and places, e.g., fol. 11va: Qǝwsṭos instead of Qwäsṭänṭinos [Constantine], fol. 12ra: ʾAtnatyos instead of ʾAtnasyos [Athanasius]) and in terms of content. Some entries are much shorter (e.g., 23th Miyazya – George of Lydda, fols. 141va-141ra) and not all saints of the universal church are mentioned (like St. Qirqos, 15th Ṭǝrr). The Ethiopian saints like ʾƎwoṭaṭewos (18th Mäskäräm),	 Gäbrä Mänfäs Qeddus (30th Mäggabit), Libanos/Mäṭaʿ (3rd Ṭǝrr), Yared (11th Gǝnbot), King Kaleb (20th Gǝnbot) are not commemorated at all.&#13;
+It is possible that the Sǝnkǝssar for the entire year was written in only one codex, even though the division of the text into two codices has been a common practice – at least later. In this Ms. the end of the first half of the year (30th Yäkkatit) and the beginning of the second half (1st Mäggabit) are written on the same folio (fol. 104ra). The whole text is written in the same hand. However, a division of this comprehensive text in a different way could be also possible.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Spaces left for rubrication are occasionally not filled: e.g., fols. 83v-85v: initial lines of the commemorative notices for 29th and 30th Ṭərr.&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Spaces left for rubrication are occasionally not filled: e.g., fols. 83v-85v: initial lines of the commemorative notices for 29th and 30th Ṭǝrr.&#13;
 &#13;
 - The beginning of the first commemorative notice for some of the months were again crudely written in a secondary hand:&#13;
-for Ṭəqəmt: fol. 19vb&#13;
+for Ṭǝqǝmt: fol. 19vb&#13;
 for Yäkkatit: fol. 85vb,&#13;
-for Gənbot: fol. 143va-vb.&#13;
+for Gǝnbot: fol. 143va-vb.&#13;
 &#13;
 - Words/passages referring to or correcting the text are written in the lower margin of fols. 11v, 12v, 37v.&#13;
 - A few corrections are written over erased words and passages: e.g., fols. 87va, 88rb, 89va, 165va.&#13;

@@ -13,32 +13,32 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀArbaˁtu wängel “Four Gospels”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Introduction (fols. 5ra-15rb)&#13;
-- Mäqdəmä wängel “Introduction to the Gospels” (fols. 5ra-13ra)&#13;
+- Mäqdǝmä wängel “Introduction to the Gospels” (fols. 5ra-13ra)&#13;
 - Letter of Eusebius to Carpianus (fols. 13ra-14ra)&#13;
 - “Synopsis of Classes” (fol. 14ra-vb)&#13;
 - On the reliability of the Gospels (fols. 14vb-15rb, l.6)&#13;
 - Statement about the Eusebian sections (fol. 15rb, ls.6-12)&#13;
 II) Gospel of Matthew (fols. 15rb-16ra; 19ra-66vb)&#13;
 - List of the “tituli” for the Gospel of Matthew: 68 titles (fols. 15rb-16ra)&#13;
-- Bəsratä Matewos “Gospel of Matthew” (fols. 19ra-66va)&#13;
+- Bǝsratä Matewos “Gospel of Matthew” (fols. 19ra-66va)&#13;
 - Postscript (fol. 66va-vb)&#13;
 III) Gospel of Mark (fols. 16ra-va; 67ra-96va)&#13;
 - List of the “tituli” for the Gospel of Mark: 48 titles (fol. 16ra-va)&#13;
 - Biography of Mark (fol. 67ra-va)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 68ra-96va)&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 68ra-96va)&#13;
 - Postscript (fol. 96va)&#13;
 IV) Gospel of Luke (fols. 16va-17rb; 96va-148va)&#13;
 - List of the “tituli” for the Gospel of Luke: 83 titles (fols. 16va-17rb)&#13;
 - Biography of Luke (fol. 96va-vb)&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 97ra-148va)&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 97ra-148va)&#13;
 - Postscript (fol. 148va)&#13;
 V) Gospel of John (fols. 17rb-va; 149ra-188vb; 189ra-vb)&#13;
 - List of the “tituli” for the Gospel of John: 20 titles (fol. 17rb-va)&#13;
 - Biography of John (fol. 189ra-vb)&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 149ra-188vb)&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 149ra-188vb)&#13;
 - Postscript (fol. 188vb)&#13;
 &#13;
 Additiones 1-2; Colophon.</shortcontent>
@@ -49,19 +49,19 @@ Additiones 1-2; Colophon.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000105" xlink:title="Däbrä Dammo / DD"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Śəllase</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Śǝllase</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ˀabba Gäbrä Śəllase (s. colophon).</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">ʾabba Gäbrä Śǝllase (s. colophon).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">mämhər ˀAskalä Maryam (mentioned in the supplication formulas on fols. 68rb, 96va, 97rb, 149rb, in Additio 1 and the colophon). Additio 1 also mentions his (spiritual) father ˀabunä Wäldä ˁAbiyä ˀƎgziˀ, his brother ˀabba Gäbrä ˀIyäsus and his son Täklä Maryam.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">mämhǝr ʾAskalä Maryam (mentioned in the supplication formulas on fols. 68rb, 96va, 97rb, 149rb, in Additio 1 and the colophon). Additio 1 also mentions his (spiritual) father ʾabunä Wäldä ʿAbiyä ʾƎgziʾ, his brother ʾabba Gäbrä ʾIyäsus and his son Täklä Maryam.</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Addition 1, the book was originally in privated possession of mämhər ˀAskalä Maryam.</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">According to Addition 1, the book was originally in privated possession of mämhǝr ʾAskalä Maryam.</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1891</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1891</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms. was completed in “the year of the world” 7383 (= 1890/91 A.D.). Additional data in the colophon (the mäṭqəˁ and ˀabäqte, the year of the Evangelist Luke) correspond to 1891 A.D.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">According to the colophon, the Ms. was completed in “the year of the world” 7383 (= 1890/91 A.D.). Additional data in the colophon (the mäṭqǝʿ and ʾabäqte, the year of the Evangelist Luke) correspond to 1891 A.D.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -131,7 +131,7 @@ Despite the initial impression that parts of the text were written by a differen
 </pchangeofhands>
 <ppunctuations class="MCRMetaLangText" heritable="false" notinherit="false"><ppunctuation xml:lang="en" inherited="0" form="plain">Three horizontal chains of red and black dots connected with six vertical chains of similar dots (fol. 15ra).</ppunctuation>
 </ppunctuations>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts (sometimes alternately in black and red lines); the word məˁəraf, numbers, x-shaped signs and incipits of the chapters; elements of the punctuation signs and Ethiopic numerals; names of the donor and scribe.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipits and headings of the texts (sometimes alternately in black and red lines); the word mǝʿǝraf, numbers, x-shaped signs and incipits of the chapters; elements of the punctuation signs and Ethiopic numerals; names of the donor and scribe.&#13;
 &#13;
 On the incipit page of each Gospel, a few lines are rubricated (in groups of two lines, alternating with black lines).</rubrication>
 </rubrications>
