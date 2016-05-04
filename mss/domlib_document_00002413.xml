@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krәstәnna “Book of the Christening”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krəstənna “Book of the Christening”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä krәstәnna “Book of the Christening” (fols. 3r-38v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä krəstənna “Book of the Christening” (fols. 3r-38v)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -22,7 +22,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000208" xlink:title="Bet Muḵaʿ Mikaʾel / BMQM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The Ms. was commissioned by Wäldä ʾAbrәha (s. Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The Ms. was commissioned by Wäldä ʾAbrəha (s. Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -100,17 +100,17 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The size of the script changes (cp. fols. 26v-27) and the quality deteriorates, but the hand remains the same.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; directives to the ministers and their abbreviations; initial words or title of the prayers; the word ʿәgäle (fol. 3v); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; directives to the ministers and their abbreviations; initial words or title of the prayers; the word ʿəgäle (fol. 3v); elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 3r), few lines are rubricated alternating with black lines.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;
 ይዲ፡ for ይብል፡ ዲያቆን፡ &#13;
 ይሕ፡ for ይብል፡ ሕዝብ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭәmqät on fol. 3r.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭəmqät on fol. 3r.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 38v: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 38v: &lt;span style="font-size: large;"&gt;&amp;#4827;&amp;#4722;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4708;&amp;#4725;&amp;#4961; &amp;#4633;&amp;#4779;&amp;#4821;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4939;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4611;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note states that the Ms. is owned by the church Bet Muḵaʿ Mikaʾel and that it was commissioned by Wäldä ʾAbrәha.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 38v: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 38v: &lt;span style="font-size: large;"&gt;&amp;#4827;&amp;#4722;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4677;&amp;#4849;&amp;#4661;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4708;&amp;#4725;&amp;#4961; &amp;#4633;&amp;#4779;&amp;#4821;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4939;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4709;&amp;#4653;&amp;#4611;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>The note states that the Ms. is owned by the church Bet Muḵaʿ Mikaʾel and that it was commissioned by Wäldä ʾAbrəha.</det></additional>
 </additionals>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2014-11-17T14:28:59.252Z</servdate><servdate inherited="0" type="modifydate">2014-12-16T16:05:07.337Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

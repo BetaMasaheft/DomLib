@@ -11,10 +11,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaślәṭi, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaśləṭi, Lectionary for the entire year</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains only one text:&#13;
-I) Mäṣḥafä ʾaślәṭi, Lectionary for the entire year (fols. 5ra-58vb.)</shortcontent>
+I) Mäṣḥafä ʾaśləṭi, Lectionary for the entire year (fols. 5ra-58vb.)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
@@ -22,7 +22,7 @@ I) Mäṣḥafä ʾaślәṭi, Lectionary for the entire year (fols. 5ra-58vb.)<
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="Ë&#129;AddÃ¤qaá¸¥arsi á¹&#150;Ã¤raqliá¹­os / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾAnanya and Wälättä Yoḥannәs are mentioned in supplication formulas (e.g. fols. 5ra, 5vb, 7ra, 13rb). Names of other individuals are also mentioned in the supplication formulas (s. e.g. fols. 20ra, 22ra): Gäbrä Yoḥannәs, Ḫaylä Maryam, ʿAmätä Mikaʾel, Täklä Maryam, Wälättä Maryam, Wälättä Ṣadǝqan, Zä-Gäbrәʾel, Gäbrä ʾƎgziʾabәḥer, Gäbrä Kidan, Wälättä Śәllase and ʾAmätä Śәllase.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾAnanya and Wälättä Yoḥannəs are mentioned in supplication formulas (e.g. fols. 5ra, 5vb, 7ra, 13rb). Names of other individuals are also mentioned in the supplication formulas (s. e.g. fols. 20ra, 22ra): Gäbrä Yoḥannəs, Ḫaylä Maryam, ʿAmätä Mikaʾel, Täklä Maryam, Wälättä Maryam, Wälättä Ṣadǝqan, Zä-Gäbrəʾel, Gäbrä ʾƎgziʾabəḥer, Gäbrä Kidan, Wälättä Śəllase and ʾAmätä Śəllase.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -111,7 +111,7 @@ The bottom line is written above the ruling.</ruling>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; names of the donors; directives to the ministers; notes written in the upper margins (fols. 7vb, 54r); titles of books to be read; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 6r), a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The text is called ʾAslәṭ in the incipit (fol. 6ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The text is called ʾAsləṭ in the incipit (fol. 6ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

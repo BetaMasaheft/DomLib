@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Barәkännä ʾәgziʾo… “Bless us, O Lord…” / Mäṣḥafä gәṣṣәw, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Barəkännä ʾəgziʾo… “Bless us, O Lord…” / Mäṣḥafä gəṣṣəw, Lectionary for the entire year</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains only one text:&#13;
-I) Barәkännä ʾәgziʾo… “Bless us, O Lord…” (Blessing prayer)(fols. 3r-6r)&#13;
-II) Mäṣḥafä gәṣṣәw, Lectionary for the entire year (fols. 8ra-51rb)&#13;
+I) Barəkännä ʾəgziʾo… “Bless us, O Lord…” (Blessing prayer)(fols. 3r-6r)&#13;
+II) Mäṣḥafä gəṣṣəw, Lectionary for the entire year (fols. 8ra-51rb)&#13;
 II-1) Scriptural readings for the days of the week (fols. 8ra-32ra)&#13;
 II-2) Scriptural readings for liturgical periods, fasts and feasts (for the entire year) (fols. 32ra-51rb)&#13;
 &#13;
@@ -26,7 +26,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="DÃ¤brÃ¤ MaË&#129;á¹£o QÓ&#153;ddus Yoá¸¥annÓ&#153;s / MY"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of individuals ʾabunä Zärʿa Bәruk, ʾabunä Gäbrä Yoḥannәs, ʾabunä ʿƎqwäba Yoḥannәs, Wälättä Ṣadәqan, Wälättä Krәstos, Wälättä Gäbrәʾel and ʾabunä ʾAsäbä (or ʾAsbä) Maryam, are mentioned in the supplication formula in fols. 5v-6r.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Names of individuals ʾabunä Zärʿa Bəruk, ʾabunä Gäbrä Yoḥannəs, ʾabunä ʿƎqwäba Yoḥannəs, Wälättä Ṣadəqan, Wälättä Krəstos, Wälättä Gäbrəʾel and ʾabunä ʾAsäbä (or ʾAsbä) Maryam, are mentioned in the supplication formula in fols. 5v-6r.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -163,7 +163,7 @@ The bottom line is written above the ruling.</ruling>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: quires II-VII (fols. 8ra-51rb).&#13;
 Hand b: quire I (fols. 3r-6r).</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text II-1); names of the donors; directives to the ministers; titles of books to be read; the words “Barәkännä ʾәgziʾo… in Text I; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text II-1); names of the donors; directives to the ministers; titles of books to be read; the words “Barəkännä ʾəgziʾo… in Text I; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text II (fol. 8r) the two first lines of each column are rubricated.</rubrication>
 </rubrications>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Cp. Mss. AMS-011, SDGM-007, GMS-015, DMD-021.</otherdetail>

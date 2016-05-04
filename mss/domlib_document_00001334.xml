@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäftәḥe śәray “Undoing of Charms” / Ǝgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat... “God of Lights, God of Powers...” / Fәtḥat zäwäld “Absolution of the Son”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäftəḥe śəray “Undoing of Charms” / Ǝgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat... “God of Lights, God of Powers...” / Fətḥat zäwäld “Absolution of the Son”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäftәḥe śәray “Undoing of Charms”: 24 protective prayers (fols. 5r-63v)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäftəḥe śəray “Undoing of Charms”: 24 protective prayers (fols. 5r-63v)&#13;
 II) Ǝgziʾabǝḥer zä-bǝrhanat ʾǝgziʾabǝḥer zä-śǝlṭanat... “God of Lights, God of Powers...”  (fols. 64r-69r) &#13;
-III) Fәtḥat zäwäld “Absolution of the Son” (fols. 69r-72v).</shortcontent>
+III) Fətḥat zäwäld “Absolution of the Son” (fols. 69r-72v).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub11"/>
 </subjects>
@@ -28,7 +28,7 @@ III) Fәtḥat zäwäld “Absolution of the Son” (fols. 69r-72v).</shortconte
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1955</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śәllase I (r. 1930-1974) and Bishop ʾabunä Yәsḥaq (appointed in Tәgray 1928/29 A.D., d. 1954/55 A.D.) are mentioned on fol. 21v.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">King Ḫaylä Śəllase I (r. 1930-1974) and Bishop ʾabunä Yəsḥaq (appointed in Təgray 1928/29 A.D., d. 1954/55 A.D.) are mentioned on fol. 21v.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -88,7 +88,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Crude ownership note, in blue pen, fol. 2v: ቐሺ ገብረ ሃዋርያት ዕቅባኡ “Priest Gäbrä Hawaryat ʿƎqbaʾu”. &#13;
-– Crude notes in pencil; a name in blue pen, fol. 3v: ቄስ አብርሃ ገ/ሥላሴ ጠዳት ቀበሌ “priest Gäbrä Śәllase ṭädat qäbäle” (?).&#13;
+– Crude notes in pencil; a name in blue pen, fol. 3v: ቄስ አብርሃ ገ/ሥላሴ ጠዳት ቀበሌ “priest Gäbrä Śəllase ṭädat qäbäle” (?).&#13;
 - Crude note in red pen, fol.4v.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>

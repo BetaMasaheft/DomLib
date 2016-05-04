@@ -32,7 +32,7 @@ Additiones 1-3.</shortcontent>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Mikaʾel is mentioned as the scribe in Additio 1.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The people of (?) Zagwa and Märäta are mentioned as commissioners in Additio 2. But Additio 3 mentions Wäldä Giyorgis, his son ʿAmdä Mikaʾel, and his grandsons Ḵuʿәlay, ʾAdonәyas and Däbäsay. Several other names are written in supplication formulas: Wälätä Mikaʿel (fols. 9ra, 90ra), ʿAmdä Śәllase (fols. 11rb, 14va, 34rb), Kәflä Maryam (fols. 11vb, 22ra, 30ra), Ṣәgge Mikaʿel (fols. 10rb, 21vb) and Zä-Gäbrәʾel (fols. 24vb, 35vb, 89va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The people of (?) Zagwa and Märäta are mentioned as commissioners in Additio 2. But Additio 3 mentions Wäldä Giyorgis, his son ʿAmdä Mikaʾel, and his grandsons Ḵuʿəlay, ʾAdonəyas and Däbäsay. Several other names are written in supplication formulas: Wälätä Mikaʿel (fols. 9ra, 90ra), ʿAmdä Śəllase (fols. 11rb, 14va, 34rb), Kəflä Maryam (fols. 11vb, 22ra, 30ra), Ṣəgge Mikaʿel (fols. 10rb, 21vb) and Zä-Gäbrəʾel (fols. 24vb, 35vb, 89va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -112,7 +112,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the scribe; a few lines on the incipit page of the text, alternating with black lines; two initial lines of each section of the text; elements of the punctuation signs; elements of Ethiopic numerals; parts of abbreviations; quire marks; some other words, e.g., ṣällǝyu (e.g., fols. 7vb, 8ra, 9va),  wä-kaʿǝbä (e.g., fols. 7vb, 38ra, 55ra), tәʾәzaz (e.g., fols. 13rb, 14va, 17rb), wä-yǝbälu (fols. 15va, 16rb), wä-ʾәmzә (e.g.,fols. 16ra, 30ra, 32vb).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; name of the scribe; a few lines on the incipit page of the text, alternating with black lines; two initial lines of each section of the text; elements of the punctuation signs; elements of Ethiopic numerals; parts of abbreviations; quire marks; some other words, e.g., ṣällǝyu (e.g., fols. 7vb, 8ra, 9va),  wä-kaʿǝbä (e.g., fols. 7vb, 38ra, 55ra), təʾəzaz (e.g., fols. 13rb, 14va, 17rb), wä-yǝbälu (fols. 15va, 16rb), wä-ʾəmzə (e.g.,fols. 16ra, 30ra, 32vb).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ፍ፡ ይ፡ ለ፡ በድ፡ for ፍቱሐ፡ ይረስዮ፡ ለዝንቱ፡ በድን፡ (fol. 30rb-va)&#13;
 ይ፡ ካ፡ for ይበል፡ ካሕን፡ (e.g., fols. 31va, 38rb, 50rb)&#13;
@@ -129,8 +129,8 @@ The bottom line is written above the ruling.</rl-info></taunit>
 It mentions the name Wäldä Giyorgis as the commissioner.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- The title of the work is crudely written in black paint on the outer face of the front board.&#13;
-- The name Gabrä Ḥә[y]wät is written by pencil on fol. 1v.&#13;
-- Words ʾәgäle and ʾәgälit are marked by thin lines above and below: e.g., fols. 13vb, 38rb, 41rb, 78ra.&#13;
+- The name Gabrä Ḥə[y]wät is written by pencil on fol. 1v.&#13;
+- Words ʾəgäle and ʾəgälit are marked by thin lines above and below: e.g., fols. 13vb, 38rb, 41rb, 78ra.&#13;
 - Corrections written interlineally: fols. 31rb, 60va, 75va.&#13;
 - Correction written in the upper margin: fol. 89v.</extra>
 </extras>

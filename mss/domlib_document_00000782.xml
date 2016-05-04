@@ -122,7 +122,7 @@ Gǝnbot: fol. 93r.&#13;
 - Readings are indicated by the names of other occasions in the upper margin:  &#13;
 zä-ʾarawit: fol. 84v&#13;
 zä-motu: fol. 88v &#13;
-zä-lәdätu: fol. 110r&#13;
-zä-ʿәräftu: fol. 111r.</txfindingaid>
+zä-lədätu: fol. 110r&#13;
+zä-ʿəräftu: fol. 111r.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-03-01T14:26:56.065Z</servdate><servdate inherited="0" type="modifydate">2014-11-07T15:00:12.604Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">MVilla</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

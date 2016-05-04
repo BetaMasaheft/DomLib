@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Libanos “Vita of Libanos” /  Täʾamrä Libanos “Miracles of Libanos” / Mälkәʾa Libanos “Image of Libanos”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Libanos “Vita of Libanos” /  Täʾamrä Libanos “Miracles of Libanos” / Mälkəʾa Libanos “Image of Libanos”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Libanos “Vita of Libanos” (fols. 1ra-44vb)&#13;
 II) Täʾamrä Libanos “Miracles of Libanos”: 11 miracles (fols. 45ra-54ra)&#13;
-III) Mälkәʾa Libanos “Image of Libanos”: 28 strophes (fols. 55ra-58ra).</shortcontent>
+III) Mälkəʾa Libanos “Image of Libanos”: 28 strophes (fols. 55ra-58ra).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub05"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
@@ -99,7 +99,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ሰላ፡ for ሰላም፡ (in Text III)</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the Gädlä Libanos, Täʾamrä Libanos and Mälkәʾa Libanos compare: A. BAUSI, La «Vita» e i «miracoli» di Libānos, Lovanii 2003 (CSCO 595, 596 [SAe 105, 106]).&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- For the Gädlä Libanos, Täʾamrä Libanos and Mälkəʾa Libanos compare: A. BAUSI, La «Vita» e i «miracoli» di Libānos, Lovanii 2003 (CSCO 595, 596 [SAe 105, 106]).&#13;
 - Text I.&#13;
 Of this text, there are three different recensions (cp. Bausi 2003, XIII-XX):&#13;
 1) GETATCHEW HAILE, “The Homily of Abba Elǝyas, Bishop of Aksum, on Mäṭṭa”, ABoll 108, 1990, 29-47.&#13;

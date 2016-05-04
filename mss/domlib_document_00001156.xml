@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” / Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” / Täʾamrä Mäzgäbä Śәllase “Miracles of Mäzgäbä Śәllase</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śəllase “Vita of Mäzgäbä Śəllase” / Mälkəʾa Mäzgäbä Śəllase “Image of Mäzgäbä Śəllase” / Täʾamrä Mäzgäbä Śəllase “Miracles of Mäzgäbä Śəllase</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śәllase “Vita of Mäzgäbä Śәllase” (fols. 4ra-57rb)&#13;
-II) Mälkәʾa Mäzgäbä Śәllase “Image of Mäzgäbä Śәllase” (fols. 57va-60vb)&#13;
-III) Täʾamrä Mäzgäbä Śәllase “Miracles of Mäzgäbä Śәllase (fols. 61ra-66vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śəllase “Vita of Mäzgäbä Śəllase” (fols. 4ra-57rb)&#13;
+II) Mälkəʾa Mäzgäbä Śəllase “Image of Mäzgäbä Śəllase” (fols. 57va-60vb)&#13;
+III) Täʾamrä Mäzgäbä Śəllase “Miracles of Mäzgäbä Śəllase (fols. 61ra-66vb)&#13;
 &#13;
 Additio 1.</shortcontent>
 </shortcontents>
@@ -24,7 +24,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000071" xlink:title="FÃ¤qada Maryam / FBM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ms. commissioned by Täklä Haymanot and his wife Wälättä Mädḫәn, under the advice of his spiritual father Zä-Wäldä Maryam (s. Additio 1).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Ms. commissioned by Täklä Haymanot and his wife Wälättä Mädḫən, under the advice of his spiritual father Zä-Wäldä Maryam (s. Additio 1).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
 </fdatings>
@@ -134,7 +134,7 @@ On the incipit page of Texts I, II, III (fols. 4r, 57r, 61r), a few lines are ru
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 60vb, l.8-19: Donation note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 60vb, l. 8: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4936;&amp;#4675;&amp;#4851;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4709;&amp;#4773;&amp;#4658;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4741;&amp;#4757;&amp;#4961; &amp;#4704;&amp;#4637;&amp;#4781;&amp;#4648;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4632;&amp;#4757;&amp;#4936;&amp;#4659;&amp;#4810;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4845;&amp;#4961; &amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4653;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4633;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4961; &amp;#4739;&amp;#4648;&amp;#4843;&amp;#4961; &amp;#4808;&amp;#4813;&amp;#4617;&amp;#4849;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4624;&amp;#4811;&amp;#4653;&amp;#4843;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4778;&amp;#4851;&amp;#4752;&amp;#4961;&lt;/span&gt; [fol. 67ra] &lt;span style="font-size: large;"&gt;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4637;&amp;#4633;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4923;&amp;#4853;&amp;#4675;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</add><det>Mention of the commissioner Täklä Haymanot, of his wife Wälättä Mädḫәn, his spiritual father Zä-Wäldä Maryam and other members of his family.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 60vb, l.8-19: Donation note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 60vb, l. 8: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4936;&amp;#4675;&amp;#4851;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4925;&amp;#4624;&amp;#4942;&amp;#4961; &amp;#4704;&amp;#4757;&amp;#4811;&amp;#4841;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4635;&amp;#4758;&amp;#4725;&amp;#4961; &amp;#4808;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4709;&amp;#4773;&amp;#4658;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4741;&amp;#4757;&amp;#4961; &amp;#4704;&amp;#4637;&amp;#4781;&amp;#4648;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4632;&amp;#4757;&amp;#4936;&amp;#4659;&amp;#4810;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4845;&amp;#4961; &amp;#4661;&amp;#4632;&amp;#4961; &amp;#4768;&amp;#4705;&amp;#4609;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4653;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4633;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4961; &amp;#4739;&amp;#4648;&amp;#4843;&amp;#4961; &amp;#4808;&amp;#4813;&amp;#4617;&amp;#4849;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4624;&amp;#4811;&amp;#4653;&amp;#4843;&amp;#4961; &amp;#4720;&amp;#4781;&amp;#4616;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4778;&amp;#4851;&amp;#4752;&amp;#4961;&lt;/span&gt; [fol. 67ra] &lt;span style="font-size: large;"&gt;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4808;&amp;#4773;&amp;#4637;&amp;#4633;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4923;&amp;#4853;&amp;#4675;&amp;#4757;&amp;#4961;&lt;/span&gt;&lt;/p&gt;</add><det>Mention of the commissioner Täklä Haymanot, of his wife Wälättä Mädḫən, his spiritual father Zä-Wäldä Maryam and other members of his family.</det></additional>
 </additionals>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>
@@ -145,13 +145,13 @@ On the incipit page of Texts I, II, III (fols. 4r, 57r, 61r), a few lines are ru
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Decorated notes in the upper margins indicating the readings for monthly commemorations of the Text I as follows:&#13;
-Fol. 11r: zä-Ḫәdar;&#13;
+Fol. 11r: zä-Ḫədar;&#13;
 Fol. 16r: zä-Taḥśaś;&#13;
-Fol. 20v: zä-Ṭәrr;&#13;
+Fol. 20v: zä-Ṭərr;&#13;
 Fol. 25r: zä-Yäkätit;&#13;
 Fol. 28: zä-Mäggabit;&#13;
 Fol. 32r: Miyazya;&#13;
-Fol. 35r: zä-Gәnbot;&#13;
+Fol. 35r: zä-Gənbot;&#13;
 Fol. 40v: zä-Säne;&#13;
 Fol. 45r: Ḥamle;&#13;
 Fol. 48v: zä-Näḥise [sic];&#13;
@@ -159,7 +159,7 @@ Fol. 53r: zä-Mäskäräm.&#13;
 -Written in the upper margin, information concerning Text II, in blue pen, as follows:&#13;
 Fol. 54r: yä-qal kidan;&#13;
 Fol. 56r: lä-qoqawmotu (?);&#13;
-Fol. 66r: zä-ʿәlätä ʿәräftu.</txfindingaid>
+Fol. 66r: zä-ʿəlätä ʿəräftu.</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 4r: Horizontal coloured (green, yellow, red, black) ornamental band (interlaces).</frame>
 </frames>

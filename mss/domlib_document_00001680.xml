@@ -20,9 +20,9 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="ʾAraʿro Täklä Haymanot / ATH"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAṣfä Krәstos</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAṣfä Krəstos</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe was possibly ʾA[ṣ]fä Krәstos who is mentioned on fol. 25vb in the colophon of the work. The angular hand is similar in style to Zä-Dǝngǝl of MR-040.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe was possibly ʾA[ṣ]fä Krəstos who is mentioned on fol. 25vb in the colophon of the work. The angular hand is similar in style to Zä-Dǝngǝl of MR-040.</copyist>
 </copyists>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -88,14 +88,14 @@ In some folios, the script does not follow the ruling lines (esp. fols. 2r, 2v, 
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting is characterized by angular, broad letters' shapes.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; name of the scribe; directives to the ministers and their abbreviations; titles of the books to be read; ʾәgäle, qәbaʾ; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; name of the scribe; directives to the ministers and their abbreviations; titles of the books to be read; ʾəgäle, qəbaʾ; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;
 ይዲ፡ for ይብል፡ ዲያቆን፡&#13;
 ይሕ፡ for ይብል፡ ሕዝብ፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭәmqät on fol. 1r.&#13;
-- Text I contains an embedded colophon (fol. 25v) which mentions the Coptic, Arabic and Gǝʿǝz languages (but it is unclear, probably corrupted) and possibly the name of the scribe, ʾAṣfä Krәstos.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭəmqät on fol. 1r.&#13;
+- Text I contains an embedded colophon (fol. 25v) which mentions the Coptic, Arabic and Gǝʿǝz languages (but it is unclear, probably corrupted) and possibly the name of the scribe, ʾAṣfä Krəstos.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

@@ -10,11 +10,11 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaslәṭi, Lectionary for the entire year / Excerpt from a liturgical book</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾasləṭi, Lectionary for the entire year / Excerpt from a liturgical book</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following texts:&#13;
-I) Mäṣḥafä ʾaslәṭi, Lectionary for the entire year (fols. 3ra-34vb)&#13;
-II) Excerpt from a liturgical book (Mäṣḥafä qәddase  “Missal”, or Mäṣḥafä gǝṣṣawe [?]) (fols. 34ra-38vb)&#13;
+I) Mäṣḥafä ʾasləṭi, Lectionary for the entire year (fols. 3ra-34vb)&#13;
+II) Excerpt from a liturgical book (Mäṣḥafä qəddase  “Missal”, or Mäṣḥafä gǝṣṣawe [?]) (fols. 34ra-38vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
@@ -26,7 +26,7 @@ Additiones 1-2.</shortcontent>
 </locationlinks>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The scribe is not mentioned by name, but the hand is somewhat similar to that one attested in Ms. MY-019 (production unit 1).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫәn (?) (s. supplication formula, fol. 33rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫən (?) (s. supplication formula, fol. 33rb).</donor>
 </donors>
 <owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">Originally the Ms. might be in possession of another church, ʾAbaʾko (Maryam) (s. Additio 1).</owner>
 </owners>
@@ -140,7 +140,7 @@ In the incipit page of Text I (fol. 3r), a few lines are rubricated (alternating
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 32vb, l. 19: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 32vb, l. 19: &lt;span style="font-size: large;"&gt;ዝመጽሀፍ፡ ዘማርያም፡ አባእኮ፡ ዘሰረቆ፡ ወዘፈ&lt;/span&gt; [fol. 33ra] &lt;span style="font-size: large;"&gt;ሀቆ፡ ውጉዞ፡ ይኩን፡ በስልጣነ፡ ጴጥሮስ፡ ወጦውሎስ&lt;/span&gt;[sic]&lt;span style="font-size: large;"&gt;፡ ለዝንቱ፡ ቅፉፍ፡ ዘጸሀፋ፡ አፍቅርዮ፡ ለገብርኪ፡ ገብረ፡ መድኅን፡ በነፍስየ፡&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt; መ&lt;/span&gt;ሐርኒ፡ በስጋየ፡ ጸግን፡ ለገብርኪ፡ ገብረ፡ መድኅን፡ ፍቁርኪ፡ ማርያም።&lt;/span&gt;&lt;/p&gt;</add><det>The Ms. was in possession of the church ʾAbaʾko (Maryam). Mention of the name of the probable donor, Gäbrä Mädḫәn.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 32vb, l. 19: Ownership note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 32vb, l. 19: &lt;span style="font-size: large;"&gt;ዝመጽሀፍ፡ ዘማርያም፡ አባእኮ፡ ዘሰረቆ፡ ወዘፈ&lt;/span&gt; [fol. 33ra] &lt;span style="font-size: large;"&gt;ሀቆ፡ ውጉዞ፡ ይኩን፡ በስልጣነ፡ ጴጥሮስ፡ ወጦውሎስ&lt;/span&gt;[sic]&lt;span style="font-size: large;"&gt;፡ ለዝንቱ፡ ቅፉፍ፡ ዘጸሀፋ፡ አፍቅርዮ፡ ለገብርኪ፡ ገብረ፡ መድኅን፡ በነፍስየ፡&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt; መ&lt;/span&gt;ሐርኒ፡ በስጋየ፡ ጸግን፡ ለገብርኪ፡ ገብረ፡ መድኅን፡ ፍቁርኪ፡ ማርያም።&lt;/span&gt;&lt;/p&gt;</add><det>The Ms. was in possession of the church ʾAbaʾko (Maryam). Mention of the name of the probable donor, Gäbrä Mädḫən.</det></additional>
 <additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fols. 33ra, l.13-33vb: Excerpt from the Gospel of Matthew (Parable of the Ten Virgins, Mt. 25:1-13).&lt;/p&gt;</cont></additional>
 </additionals>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>

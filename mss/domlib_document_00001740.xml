@@ -14,8 +14,8 @@
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Liturgical miscellanea (fols. 1v-29r)&#13;
 - ʾƎsäggǝd läki wä-ʾǝweddǝsäki... “I worship Thee…” (fols. 3ra-4v)&#13;
-- Ṣalotä ʿәṭan “Prayer of Incense” (fols. 6ra-8ra)&#13;
-- Fәtḥat zä-wäld “Absolution of the Son” (fols. 13va-15ra)&#13;
+- Ṣalotä ʿəṭan “Prayer of Incense” (fols. 6ra-8ra)&#13;
+- Fətḥat zä-wäld “Absolution of the Son” (fols. 13va-15ra)&#13;
 II) Täʾamrä Maryam “Miracles of Mary” (fols. 30r-42v)&#13;
 II-1) Introductory exhortation (fols. 30r-34r)&#13;
 II-2) Täʾamrä Maryam: 5 miracles (fols. 34v-42r)</shortcontent>
@@ -23,11 +23,11 @@ II-2) Täʾamrä Maryam: 5 miracles (fols. 34v-42r)</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mәḥrät / MKL"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mәḥrät / MKL"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Śәlṭanä Krәstos is mentioned in supplications (fols. 30r, 34r, 34v, 35v, 36r, 37v, 39r, 41r). Two other names appear in supplications, Ḫadarä Maryam (in fols. 39r, 41r) and Gäbrä ʾAmlak (fol. 42r).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Śəlṭanä Krəstos is mentioned in supplications (fols. 30r, 34r, 34v, 35v, 36r, 37v, 39r, 41r). Two other names appear in supplications, Ḫadarä Maryam (in fols. 39r, 41r) and Gäbrä ʾAmlak (fol. 42r).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
 </fdatings>
@@ -148,7 +148,7 @@ The bottom line is written above the ruling.</ruling>
 </phandwritings>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">The handwriting is characterized by thick strokes, pronounced hairlines, bifurcated serifs.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; initial lines or words of readings in Text I; directives to the ministers and their abbreviations in Text I; word “әmare” and its abbreviation in fols. 9v; incipit of Text II-1); incipit of the subsections of Text II-2); elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; initial lines or words of readings in Text I; directives to the ministers and their abbreviations in Text I; word “əmare” and its abbreviation in fols. 9v; incipit of Text II-1); incipit of the subsections of Text II-2); elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይዲ፡ for ይቤ፡ ዲያቆን፡ &#13;
 ይካ፡ for ይቤ፡ ካህን፡ &#13;

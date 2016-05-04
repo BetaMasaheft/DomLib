@@ -14,7 +14,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Liturgical miscellanea</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Liturgical miscellanea (fols. 2r-18r), incomplete &#13;
-- Fәtḥat zä-wäld “Absolution of the Son” (fols. 3r-4v)</shortcontent>
+- Fətḥat zä-wäld “Absolution of the Son” (fols. 3r-4v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
@@ -22,13 +22,13 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ʿAddäqaḥarsi Ṗäraqliṭos / AP"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä ʾƎgziʾ, Wälättä Mikaʾel and Gäbrä ʾƎgziʾabәḥer are mentioned in the supplication formula on fol. 15v.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä ʾƎgziʾ, Wälättä Mikaʾel and Gäbrä ʾƎgziʾabəḥer are mentioned in the supplication formula on fol. 15v.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1929</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1954</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Yәsḥaq, Bishop of Tǝgray (in tenure in 1929-54) is mentioned on fol. 6r.</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Yəsḥaq, Bishop of Tǝgray (in tenure in 1929-54) is mentioned on fol. 6r.</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
 </catstates>
