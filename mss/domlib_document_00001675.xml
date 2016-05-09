@@ -18,11 +18,11 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥədo Qəddəst Maryam / KTM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥǝdo Qǝddǝst Maryam / KTM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥədo Qəddəst Maryam / KTM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥǝdo Qǝddǝst Maryam / KTM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Haymanot (s. Additio 1); he and Nəgəśtä Maryam are also mentioned in the supplication formula on fol. 39v.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Täklä Haymanot (s. Additio 1); he and Nǝgǝśtä Maryam are also mentioned in the supplication formula on fol. 39v.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -109,7 +109,7 @@ On the incipit page of Text I (fol. 2r), two lines are rubricated (alternating w
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;
 ይዲ፡ for ይብል፡ ዲያቆን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭəmqät in fols. 2r and 3v.</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭǝmqät in fols. 2r and 3v.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

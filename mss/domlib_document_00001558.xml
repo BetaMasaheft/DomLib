@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following text:&#13;
-I) Mäṣḥafä gəbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-150rc)&#13;
+I) Mäṣḥafä gǝbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-150rc)&#13;
 I-1) Introduction (fols. 3ra-6rc) &#13;
 I-2) Palm Sunday (fols. 6rc-11rc) &#13;
 I-3) Monday (fols. 11rc-25va) &#13;
@@ -40,11 +40,11 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qəddus Mikaʾel  / DMB"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qǝddus Mikaʾel  / DMB"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qəddus Mikaʾel  / DMB"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000131" xlink:title="Bäʿatti Qǝddus Mikaʾel  / DMB"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam is the name mentioned in Additio 1 as the one who most probably sold the Ms. to the church Bäʿatti Qəddus Mikaʾel.&#13;
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam is the name mentioned in Additio 1 as the one who most probably sold the Ms. to the church Bäʿatti Qǝddus Mikaʾel.&#13;
 His name is also written in some supplication formulas within the text (e.g., fol. 6va-b).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
@@ -145,7 +145,7 @@ Elements of the punctuation signs; Ethiopic numbers or their elements; elements 
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: small;"&gt;&lt;span lang="EN-US" style="line-height: 115%; font-family: "&gt;Fols. 150rc-150va: Purchase note.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</cont><det>The note is written both in Gǝʿǝz and in Amharic.&#13;
-The note states that the church Bäʿatti Qəddus Mikaʾel purchased the book (in the month of Mäggabit) from most probably such a Gäbrä Maryam. During the moment of the purchase witnesses from both sides, whose the names are given, were present.&#13;
+The note states that the church Bäʿatti Qǝddus Mikaʾel purchased the book (in the month of Mäggabit) from most probably such a Gäbrä Maryam. During the moment of the purchase witnesses from both sides, whose the names are given, were present.&#13;
 Gäbrä Maryam is also mentioned in some supplication formulas within the Text (e.g., fol. 6va-c).</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpts of hymns for the Good Friday (?) are written (in a faded black ink) in the upper margins, or interlineally, in fols. 83v, 89v-90r, 101v, 102r, 109r.&#13;

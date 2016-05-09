@@ -24,9 +24,9 @@ Additiones 1-4.</shortcontent>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub01"/>
 <subject inherited="0" classid="domlib_class_00000002" categid="Sub18"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mǝḥrät / MKL"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mǝḥrät / MKL"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Wäldä Śǝllase (?)</nmcopyist>
 </nmcopyists>
@@ -152,7 +152,7 @@ Throughout Text I-4b:&#13;
 ለዓ፡ ዓለ፡ for ለዓለመ፡ ዓለም፡</abbreviation>
 </abbreviations>
 <otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">Text I-3 is preceded by:&#13;
-- Ṣälotä zä-yǝtbähal ʾǝmqǝdmä yǝtnäbbäb täʾamriha lä-ʾəgzǝʾtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary ..." (fols. 4ra-?).&#13;
+- Ṣälotä zä-yǝtbähal ʾǝmqǝdmä yǝtnäbbäb täʾamriha lä-ʾǝgzǝʾtǝnä Maryam ... "Prayer recited before reading the Miracles of our Lady Mary ..." (fols. 4ra-?).&#13;
 &#13;
 All miracles of Text I-4a are numbered.</otherdetail>
 </otherdetails>

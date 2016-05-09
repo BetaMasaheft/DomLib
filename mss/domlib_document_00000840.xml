@@ -27,7 +27,7 @@ Additio 1.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="Ë&#129;Ura Qirqos / UQ"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">For quires I-V, Gäbrä Dəngəl, Zärʾa Haymanot and Wälättä Bərhan (s. Additio 1 and the supplication formula in fol. 45rb). For quires VI and VII, Kəflä Maryam (s. the supplication formulas in fol. 47ra and elsewhere).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">For quires I-V, Gäbrä Dǝngǝl, Zärʾa Haymanot and Wälättä Bǝrhan (s. Additio 1 and the supplication formula in fol. 45rb). For quires VI and VII, Kǝflä Maryam (s. the supplication formulas in fol. 47ra and elsewhere).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -131,7 +131,7 @@ The bottom line is written above the ruling.</ruling>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: quires I-V.&#13;
 Hand b: quires VI-VII.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; the words məʿəraf, nägär and täʾamr; incipit of Text I-1; the word ʾəsäggəd in Text I-1; incipits of subsections of Texts I-2 and I-3; notes in the upper margins; elements of the punctuation signs; Ethiopic numerals; in the incipit page of Text I-1 lines are rubricated, alternating with black lines (s. fol. 2r).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; the words mǝʿǝraf, nägär and täʾamr; incipit of Text I-1; the word ʾǝsäggǝd in Text I-1; incipits of subsections of Texts I-2 and I-3; notes in the upper margins; elements of the punctuation signs; Ethiopic numerals; in the incipit page of Text I-1 lines are rubricated, alternating with black lines (s. fol. 2r).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

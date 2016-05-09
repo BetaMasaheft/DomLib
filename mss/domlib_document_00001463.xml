@@ -21,11 +21,11 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mədrä Ruba Səllase /MR"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mǝdrä Ruba Sǝllase /MR"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mədrä Ruba Səllase /MR"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mǝdrä Ruba Sǝllase /MR"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabəḥer is mentioned as the donor in Additio 1; his wife Wälättä Śəllase is also mentioned.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä ʾƎgziʾabǝḥer is mentioned as the donor in Additio 1; his wife Wälättä Śǝllase is also mentioned.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1930</fdating>
 </fdatings>
@@ -133,7 +133,7 @@ On the incipit page of Text I (fol.3r), a few lines are rubricated (alternating 
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 40rb: Donation note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 40rb: &lt;span style="font-size: large;"&gt;ዛቲ፡ መጽሐፍ፡ ዘወሀባ፡ ገብረ፡ እግዚአብሔር፡ ምስለ፡ ብእሲቱ፡ ወለተ፡ ሥላሴ፡ ለታቦተ፡ አቡነ፡ ሊባኖስ፡ መስጥሕ፡ ከመ፡ ትኵኖሙ፡ መርሐ፡ ለመንግሥተ፡ ሰማያት፡ ዘሠረቃ፡ ወዘፈሐቋ፡ በሥልጣነ፡ ጴጥሮስ፡ ወጳውሎስ፡ ውጉዘ፡ ለይኩን።&lt;/span&gt;&lt;/p&gt;</add><det>Written by the same hand as that of the main text. The note mentions the names of the donor, Gäbrä ʾƎgziʾabəḥer as well as his wife Wälättä Śəllase. It reports also that the Ms. was donated to the church of Libanos of Mäsṭǝḥ.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 40rb: Donation note.&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 40rb: &lt;span style="font-size: large;"&gt;ዛቲ፡ መጽሐፍ፡ ዘወሀባ፡ ገብረ፡ እግዚአብሔር፡ ምስለ፡ ብእሲቱ፡ ወለተ፡ ሥላሴ፡ ለታቦተ፡ አቡነ፡ ሊባኖስ፡ መስጥሕ፡ ከመ፡ ትኵኖሙ፡ መርሐ፡ ለመንግሥተ፡ ሰማያት፡ ዘሠረቃ፡ ወዘፈሐቋ፡ በሥልጣነ፡ ጴጥሮስ፡ ወጳውሎስ፡ ውጉዘ፡ ለይኩን።&lt;/span&gt;&lt;/p&gt;</add><det>Written by the same hand as that of the main text. The note mentions the names of the donor, Gäbrä ʾƎgziʾabǝḥer as well as his wife Wälättä Śǝllase. It reports also that the Ms. was donated to the church of Libanos of Mäsṭǝḥ.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Crude notes and pen trials: fols. 1r, 1v, 41r, 41v.&#13;
 - Unusual punctuation sign in the shape of chevrons, written in the margins (e.g. fol. 16r).</extra>

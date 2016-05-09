@@ -22,9 +22,9 @@ Additiones 1-2.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub22"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahəl Qəddus Mikaʾel Bet Mäḵaʿ / DSM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahǝl Qǝddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahəl Qəddus Mikaʾel Bet Mäḵaʿ / DSM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165" xlink:title="Däbrä Sahǝl Qǝddus Mikaʾel Bet Mäḵaʿ / DSM"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">According to Additio 1, haläqa Täsfay Kaḥsay is the donor (?).</donor>
 </donors>
@@ -92,15 +92,15 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I and its sections; titles of the books to be read; one initial word of prayers to be read; prayer numbers; directives to the ministers and their abbreviation; the words ʾəgäle, əgälit, märʿawi and märʿat; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I and its sections; titles of the books to be read; one initial word of prayers to be read; prayer numbers; directives to the ministers and their abbreviation; the words ʾǝgäle, ǝgälit, märʿawi and märʿat; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይበል፡ ካህን፡ &#13;
 ይሕ፡ for ይበል፡ ሕዝብ፡</abbreviation>
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 35r: Donation or ownership note (?).&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 35r: &lt;span style="font-size: large;"&gt;&amp;#4845;&amp;#4613;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4611;&amp;#4941;&amp;#4961; &amp;#4708;&amp;#4720;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4722;&amp;#4843;&amp;#4757;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4708;&amp;#4725;&amp;#4961; &amp;#4637;&amp;#4779;&amp;#4773;&amp;#4961; &amp;#4720;&amp;#4672;&amp;#4707;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4616;&amp;#4675;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4845;&amp;#4961; &amp;#4779;&amp;#4629;&amp;#4659;&amp;#4845;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>Crudely written in pencil. The recent note states that the Ms. is in the possession of Mikaʾel church of Bet Məkaʾə and was received from (?) haläqa Täsfay Kaḥsay (s. also Varia).</det></additional>
-<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 36ra-rb: &amp;#704;And&amp;#1241;mta-commentary on an unidentified G&amp;#601;&amp;#705;&amp;#601;z text, incomplete.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic with quotation in Gəʿəz; incomplete, starting abruptly.</det></additional>
+<additionals class="DLAdditional" heritable="false" notinherit="false"><additional xml:lang="en" inherited="0"><cont>&lt;p&gt;Fol. 35r: Donation or ownership note (?).&lt;/p&gt;</cont><add>&lt;p&gt;Fol. 35r: &lt;span style="font-size: large;"&gt;&amp;#4845;&amp;#4613;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4611;&amp;#4941;&amp;#4961; &amp;#4708;&amp;#4720;&amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4722;&amp;#4843;&amp;#4757;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4708;&amp;#4725;&amp;#4961; &amp;#4637;&amp;#4779;&amp;#4773;&amp;#4961; &amp;#4720;&amp;#4672;&amp;#4707;&amp;#4616;&amp;#4961; &amp;#4611;&amp;#4616;&amp;#4675;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4845;&amp;#4961; &amp;#4779;&amp;#4629;&amp;#4659;&amp;#4845;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</add><det>Crudely written in pencil. The recent note states that the Ms. is in the possession of Mikaʾel church of Bet Mǝkaʾǝ and was received from (?) haläqa Täsfay Kaḥsay (s. also Varia).</det></additional>
+<additional xml:lang="en" inherited="0"><cont>&lt;p&gt;&lt;span style="font-size: small;"&gt;Fol. 36ra-rb: &amp;#704;And&amp;#1241;mta-commentary on an unidentified G&amp;#601;&amp;#705;&amp;#601;z text, incomplete.&lt;/span&gt;&lt;/p&gt;</cont><det>In Amharic with quotation in Gǝʿǝz; incomplete, starting abruptly.</det></additional>
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- List of names (?) crudely written in pencil and hardly legible: fol. 2r.&#13;
 - Crude note written in the upper margin: fols. 18v-19r mentioning the donor of the Ms.(?): አቶ፡ ሃለቃ፡ ተስፋይ፡ ቅድስት(?)፡ ካሕሳይ.&#13;

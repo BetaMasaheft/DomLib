@@ -10,15 +10,15 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkəʾa ṣadəqan [zä-Baräknaha] “Image of the Righteous Ones [of Baräknaha]”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mälkǝʾa ṣadǝqan [zä-Baräknaha] “Image of the Righteous Ones [of Baräknaha]”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkəʾa ṣadəqan [zä-Baräknaha] “Image of the Righteous Ones [of Baräknaha]”:  9 strophes (fols. 2r-3v), incomplete.</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mälkǝʾa ṣadǝqan [zä-Baräknaha] “Image of the Righteous Ones [of Baräknaha]”:  9 strophes (fols. 2r-3v), incomplete.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub07"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qəddus Yoḥannəs / MY"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qǝddus Yoḥannǝs / MY"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qəddus Yoḥannəs / MY"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="Däbrä Maʿṣo Qǝddus Yoḥannǝs / MY"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -83,9 +83,9 @@ Several ruled lines (2-3) at the bottom were not used by the scribe.</rl-info></
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Crude.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">The words sälam and Ṣadəqan (ʾo-Ṣadəqan) throughout the text and the word ʾamḫa on fol. 4v. Elements of the punctuation signs.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">The words sälam and Ṣadǝqan (ʾo-Ṣadǝqan) throughout the text and the word ʾamḫa on fol. 4v. Elements of the punctuation signs.</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In the Ms., the group of Ṣadəqan to whom the text is dedicated is in not named; however, the text is the same as the "Mälkəʾa Ṣadəqan [zä-Baräknaha]" in DSM-017, fols. 19ra-22va. In MY-026b the beginning strophes (= strophes nos. 1-23 in DSM-017) are missing.&#13;
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- In the Ms., the group of Ṣadǝqan to whom the text is dedicated is in not named; however, the text is the same as the "Mälkǝʾa Ṣadǝqan [zä-Baräknaha]" in DSM-017, fols. 19ra-22va. In MY-026b the beginning strophes (= strophes nos. 1-23 in DSM-017) are missing.&#13;
 - Fols. 1r-1v, 4r-6v are blank but ruled.</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

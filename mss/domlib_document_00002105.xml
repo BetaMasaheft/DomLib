@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəṣṣəw, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝṣṣǝw, Lectionary for the entire year</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gəṣṣəw, Lectionary for the entire year (3ra-105ra)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝṣṣǝw, Lectionary for the entire year (3ra-105ra)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
@@ -20,7 +20,7 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000144" xlink:title="Ḥarennät Gäbäzäyti Qǝddǝst Maryam / MHG"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ʾAbrəham and Wälättä Śəllase are mentioned in the supplication formulas (s. fols. 3va, 100rb, 101ra, 101va).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Wäldä ʾAbrǝham and Wälättä Śǝllase are mentioned in the supplication formulas (s. fols. 3va, 100rb, 101ra, 101va).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

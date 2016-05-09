@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaśləṭi, Lectionary for the entire year / Barəkännä ʾəgziʾo… “Bless us, O Lord…”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaślǝṭi, Lectionary for the entire year / Barǝkännä ʾǝgziʾo… “Bless us, O Lord…”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaśləṭi, Lectionary for the entire year (fols. 1va-67vb)&#13;
-II) Barəkännä ʾəgziʾo… “Bless us, O Lord…” (Blessing prayer) (fol. 68ra-68vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaślǝṭi, Lectionary for the entire year (fols. 1va-67vb)&#13;
+II) Barǝkännä ʾǝgziʾo… “Bless us, O Lord…” (Blessing prayer) (fol. 68ra-68vb)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
@@ -23,17 +23,17 @@ Colophon.</shortcontent>
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000115" xlink:title="GÃ¤naá¸¥ti QÓ&#153;ddÓ&#153;st Maryam / GMG"/>
 </locationlinks>
-<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫən</nmcopyist>
+<nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Mädḫǝn</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Gäbrä Mädḫən (hand b), is mentioned in the colophon and in supplication formulas on fols. 18va, 33vb, 38va. The name of another scribe (hand a) is not mentioned.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">The name of the scribe, Gäbrä Mädḫǝn (hand b), is mentioned in the colophon and in supplication formulas on fols. 18va, 33vb, 38va. The name of another scribe (hand a) is not mentioned.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾArägawi and Wälättä Giyorgis (s. the colophon and supplication formulas in e.g., fols. 1va, 2rb, 35ra, 38ra, 56vb, 58rb, 68vb). Other individuals are mentioned in supplication formulas: Mäzgäbä Śəllase (e.g., fols. 4rb, 11ra, 22ra, 25ra); Wälättä Yoḥannəs (e.g., fols. 19rb, 29vb, 32vb, 38rb); Wäldä Ḥəywät (e.g. fols. 21rb, 23rb, 26vb, 28ra); Wälättä Kidan (fols. 14ra, 23ra, 46rb); Wälättä Gäbrəʾel (fols. 16ra, 31ra, 45rb); Wälättä Mikaʾel (fols. 23vb, 30ra, 45ra); Wälättä Ṣadqan (fols. 47ra, 48rb); Wälättä Täklä Haymanot (fol. 16rb); Gäbrä ʾƎgziʾabəḥer (fol. 22rb).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ʾArägawi and Wälättä Giyorgis (s. the colophon and supplication formulas in e.g., fols. 1va, 2rb, 35ra, 38ra, 56vb, 58rb, 68vb). Other individuals are mentioned in supplication formulas: Mäzgäbä Śǝllase (e.g., fols. 4rb, 11ra, 22ra, 25ra); Wälättä Yoḥannǝs (e.g., fols. 19rb, 29vb, 32vb, 38rb); Wäldä Ḥǝywät (e.g. fols. 21rb, 23rb, 26vb, 28ra); Wälättä Kidan (fols. 14ra, 23ra, 46rb); Wälättä Gäbrǝʾel (fols. 16ra, 31ra, 45rb); Wälättä Mikaʾel (fols. 23vb, 30ra, 45ra); Wälättä Ṣadqan (fols. 47ra, 48rb); Wälättä Täklä Haymanot (fol. 16rb); Gäbrä ʾƎgziʾabǝḥer (fol. 22rb).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1943</fdating>
 </fdatings>
 <tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1944</tdating>
 </tdatings>
-<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon mentions the date 1936 A.M. (= 1943/44 A.D.) and the name of King Ḫaylä Śəllase I (r. 1930-74).</dcomment>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The colophon mentions the date 1936 A.M. (= 1943/44 A.D.) and the name of King Ḫaylä Śǝllase I (r. 1930-74).</dcomment>
 </dcomments>
 <catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
 </catstates>
@@ -119,20 +119,20 @@ The bottom line is written above the ruling.</ruling>
 <pchangeofhands class="MCRMetaLangText" heritable="false" notinherit="false"><pchangeofhand xml:lang="en" inherited="0" form="plain">Hand a: fols. 9ra-67vb&#13;
 Hand b: fols. 1va-8ra, 68ra-68vb</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and the scribe; incipit of Text I; directives to the ministers; abbreviations of the directives yəbəl kahən “the priest says”, yəbəl diyaqon “the deacon says”; titles of books to be read; initial line of the readings; the two initial letters of the word “Barəkännä… “Bless us, Lord…” in Text II; notes written in the upper margin; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors and the scribe; incipit of Text I; directives to the ministers; abbreviations of the directives yǝbǝl kahǝn “the priest says”, yǝbǝl diyaqon “the deacon says”; titles of books to be read; initial line of the readings; the two initial letters of the word “Barǝkännä… “Bless us, Lord…” in Text II; notes written in the upper margin; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit pages of Text I (fols.9ra), a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይብል፡ ካህን፡ &#13;
 ይዲ፡ for ይብል፡ ዲያቆን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The text is called Mäṣḥafä ʾasləṭi in the incipit of Text I (fol. 9ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">The text is called Mäṣḥafä ʾaslǝṭi in the incipit of Text I (fol. 9ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
 <colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;Fol. 67vb: &lt;span style="font-size: large;"&gt;&amp;#4845;&amp;#4725;&amp;#4707;&amp;#4648;&amp;#4781;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4768;&amp;#4709;&amp;#4628;&amp;#4653;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4754;&amp;#4961; &amp;#4616;&amp;#4824;&amp;#4722;&amp;#4961;  &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4704;&amp;#4851;&amp;#4741;&amp;#4755;&amp;#4961; &amp;#4808;&amp;#4704;&amp;#4656;&amp;#4619;&amp;#4637;&amp;#4961; &amp;#4808;&amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4920;&amp;#4624;&amp;#4938;&amp;#4609;&amp;#4961; &amp;#4739;&amp;#4901;&amp;#4773;&amp;#4961; &amp;#4808;&amp;#4768;&amp;#4707;&amp;#4658;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4632;&amp;#4853;&amp;#4741;&amp;#4757;&amp;#4961; &amp;#4808;&amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4872;&amp;#4709;&amp;#4649;&amp;#4961; &amp;#4768;&amp;#4648;&amp;#4875;&amp;#4810;&amp;#4961;  &amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4773;&amp;#4632;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4616;&amp;#4720;&amp;#4961; &amp;#4874;&amp;#4846;&amp;#4653;&amp;#4874;&amp;#4661;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4636;&amp;#4757;&amp;#4961; &amp;#4720;&amp;#4936;&amp;#4920;&amp;#4632;&amp;#4961; &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4704;&amp;#4978;&amp;#4977;&amp;#4987;&amp;#4980;&amp;#4974;&amp;#4961; &amp;#4819;&amp;#4632;&amp;#4720;&amp;#4961;  &amp;#4637;&amp;#4629;&amp;#4648;&amp;#4725;&amp;#4961; &amp;#4720;&amp;#4925;&amp;#4624;&amp;#4936;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4704;&amp;#4752;&amp;#4961; &amp;#4617;&amp;#4675;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4876;&amp;#4619;&amp;#4810;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4704;&amp;#4752;&amp;#4961; &amp;#4757;&amp;#4873;&lt;/span&gt; [fol. 68ra] &lt;span style="font-size: large;"&gt;&amp;#4645;&amp;#4752;&amp;#4961; &amp;#4611;&amp;#4845;&amp;#4616;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</col><tran>&lt;p&gt;&lt;span style="font-size: large;"&gt;&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt;</tran><det>The note mentions the name of a scribe, Gäbrä Mädḫən, and the names of ʾArägawi and Wälättä Giyorgis who most probably are the donors. The date 1936 A.M. (=1943/44 A.D.) and the reference to King Ḫaylä Śəllase I(1930-74) were added probably by the same hand.</det></colophon>
+&lt;/span&gt;&lt;/p&gt;</tran><det>The note mentions the name of a scribe, Gäbrä Mädḫǝn, and the names of ʾArägawi and Wälättä Giyorgis who most probably are the donors. The date 1936 A.M. (=1943/44 A.D.) and the reference to King Ḫaylä Śǝllase I(1930-74) were added probably by the same hand.</det></colophon>
 </colophons>
-<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Alternative title of the text “zä-Yoḥannəs ʾəskä Yoḥannəs gəṣṣəw” is written in the upper margin: fol. 9r&#13;
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Alternative title of the text “zä-Yoḥannǝs ʾǝskä Yoḥannǝs gǝṣṣǝw” is written in the upper margin: fol. 9r&#13;
 - Crude note about a feast of Mary is written in pencil in the upper margin: fol. 16r&#13;
 - Pen trials: fols. 23vb, 70v.</extra>
 </extras>

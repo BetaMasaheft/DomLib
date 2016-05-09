@@ -13,7 +13,7 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣalotä ˤǝṭan “Prayer of Incense”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Ṣalotä ˤǝṭan “Prayer of Incense” (fols. 1r-47v). &#13;
-- Prayer of Incense for Sunday (bäʾəḥud) (fols. 34r-47v)</shortcontent>
+- Prayer of Incense for Sunday (bäʾǝḥud) (fols. 34r-47v)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.4"/>
 </subjects>
@@ -21,7 +21,7 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000177" xlink:title="Soṭa Däbrä Sälam Qǝddus Mikaʾel / SDM"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam and Wätättä Maryam are mentioned in supplication formulas on fols. 15v, 22v, 23r, 30v, 34r. The father of Wälättä Maryam (?), Wäldä Śəllase, and her (?) sister Ṣägga Zäʾab are also mentioned on fol. 22v.</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Maryam and Wätättä Maryam are mentioned in supplication formulas on fols. 15v, 22v, 23r, 30v, 34r. The father of Wälättä Maryam (?), Wäldä Śǝllase, and her (?) sister Ṣägga Zäʾab are also mentioned on fol. 22v.</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1881</fdating>
 </fdatings>
@@ -88,7 +88,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Mediocre but careful</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; incipit of Text I; incipit of the prayers to be read; directives to the ministers; word yəbärəkəwwo (fols. 3v-4v) and its two first letters; words säbbuḥni (fols. 3v-4r), lä-ʾəgziʾabəḥer (fols. 4v-5r) and their abbreviations; sentence nəsebbəḥakä ʾəgziʾo and its abbreviation (fols. 24v-29r); words yətʾakkwät, its two first letters and its abbreviation (fols. 31r-31v); elements of the punctuation signs; Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; names of the donors; incipit of Text I; incipit of the prayers to be read; directives to the ministers; word yǝbärǝkǝwwo (fols. 3v-4v) and its two first letters; words säbbuḥni (fols. 3v-4r), lä-ʾǝgziʾabǝḥer (fols. 4v-5r) and their abbreviations; sentence nǝsebbǝḥakä ʾǝgziʾo and its abbreviation (fols. 24v-29r); words yǝtʾakkwät, its two first letters and its abbreviation (fols. 31r-31v); elements of the punctuation signs; Ethiopic numerals.</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

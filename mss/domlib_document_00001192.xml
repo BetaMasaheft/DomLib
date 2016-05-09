@@ -12,9 +12,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəṣṣawe, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝṣṣawe, Lectionary for the entire year</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gəṣṣawe, Lectionary for the entire year (fols. 3ra-135rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝṣṣawe, Lectionary for the entire year (fols. 3ra-135rb)&#13;
 I-1) Daily scriptural readings for the entire year (fols. 3ra-111rb)&#13;
 - Mäskäräm (1st month): fols. 3ra-13rb &#13;
 - Ṭǝqǝmt (2nd month): fols. 13rb-22rb&#13;
@@ -29,7 +29,7 @@ I-1) Daily scriptural readings for the entire year (fols. 3ra-111rb)&#13;
 - Ḥamle (11th month): fols. 93ra-101va &#13;
 - Näḥase (12th month): fols. 101va-110ra &#13;
 - Ṗagwǝmen (intercalary month): fols. 110ra-111rb&#13;
-I-2) Scriptural readings for Saturdays (sänbätä ʾayhud) and Sundays (sänbätä krəstiyan)  (for the entire year) (fols. 111va-135rb)&#13;
+I-2) Scriptural readings for Saturdays (sänbätä ʾayhud) and Sundays (sänbätä krǝstiyan)  (for the entire year) (fols. 111va-135rb)&#13;
 - Mäskäräm (1st month): fols. 111va-113rb &#13;
 - Ṭǝqǝmt (2nd month): fols. 113rb-114va&#13;
 - Ḫǝdar (3rd month): fols. 114va-117ra&#13;
@@ -42,7 +42,7 @@ I-2) Scriptural readings for Saturdays (sänbätä ʾayhud) and Sundays (sänbä
 - Easter: fols. 127va-129rb&#13;
 - Ascension: fols. 129rb-130ra&#13;
 - Pentecost: fols. 130ra-130rb&#13;
-- Gənbot (9th month): fols. 130va-130vb&#13;
+- Gǝnbot (9th month): fols. 130va-130vb&#13;
 - Säne (10th month): fols. 130vb-132ra &#13;
 - Ḥamle (11th month): fols. 132ra-133rb &#13;
 - Näḥase (12th month): fols. 133rb-134vb &#13;
@@ -129,7 +129,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful.</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Name of the donor; incipit of Text I-1; initial line or word śäräqä introducing the month; Ethiopic numeral of the day; words indicating the time of reading: bä-mäḥatəw, zä-nägh, qədmä wangel; titles of books to be read; incipit of Text I-2 and its sections; elements of the punctuation signs; elements of Ethiopic numerals; the directives to the ministers ʾəskä ḫabä yəbəl “let him say till”; names of months Mäskäräm, Ṭǝqǝmt, Näḥase and Ṗagwǝmen written in the upper margin (the others are in black).&#13;
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Name of the donor; incipit of Text I-1; initial line or word śäräqä introducing the month; Ethiopic numeral of the day; words indicating the time of reading: bä-mäḥatǝw, zä-nägh, qǝdmä wangel; titles of books to be read; incipit of Text I-2 and its sections; elements of the punctuation signs; elements of Ethiopic numerals; the directives to the ministers ʾǝskä ḫabä yǝbǝl “let him say till”; names of months Mäskäräm, Ṭǝqǝmt, Näḥase and Ṗagwǝmen written in the upper margin (the others are in black).&#13;
 On the incipit page of Texts I-1 and I-2, a few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>

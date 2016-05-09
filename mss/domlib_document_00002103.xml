@@ -17,9 +17,9 @@
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qəddəst Maryam / GMS"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qǝddǝst Maryam / GMS"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qəddəst Maryam / GMS"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000125" xlink:title="Siʿet Qǝddǝst Maryam / GMS"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>
@@ -91,7 +91,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 </ptypeofscripts>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Poor, irregular</phandwriting>
 </phandwritings>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; titles or the initial word of the prayers; directives to the ministers; abbreviation of the words zə-ʿəṭan; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; titles or the initial word of the prayers; directives to the ministers; abbreviation of the words zǝ-ʿǝṭan; elements of the punctuation signs; elements of Ethiopic numerals.</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ዝዕ፡ for ዝዕጣን፡ (e.g., fols. 7v-8r)</abbreviation>
 </abbreviations>

@@ -10,17 +10,17 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəṣṣəw "Lectionary for the entire year"</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝṣṣǝw "Lectionary for the entire year"</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəṣṣəw “Lectionary for the entire year”&#13;
-I) Blessing prayer, Barəkännä ʾǝgziʾo… “Bless us, Lord…” (fols. 3ra-4va)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝṣṣǝw “Lectionary for the entire year”&#13;
+I) Blessing prayer, Barǝkännä ʾǝgziʾo… “Bless us, Lord…” (fols. 3ra-4va)&#13;
 II) Scriptural readings for liturgical periods, fasts and feasts for the entire year (fols. 5r-30v).</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mǝḥrät / MKL"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Məḥrät / MKL"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000123" xlink:title="Läqay Kidanä Mǝḥrät / MKL"/>
 </locationlinks>
 <donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">The name Täsfa is crossed out in the supplication formula on fol. 28v.</donor>
 </donors>
@@ -96,7 +96,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 Hand b: fols. 5r-30v (quires II-V), somewhat earlier than hand a (first half of the 19th cent.?).&#13;
 The quality of handwriting and the size of the script change throughout the Ms.: the text on the incipit page of Text II is executed more carefully than the rest.</pchangeofhand>
 </pchangeofhands>
-<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I and Text II, alternating with black lines; titles of books to be read; a few lines on the incipit page of 1 Corinthians 15 (fol. 25r); abbreviation of yəbəl kahən nəfq (fol. 29r); elements of the punctuation signs and text dividers; elements of Ethiopic numerals in Text I; the word barəkännä (fols. 3vab, 4ra).</rubrication>
+<rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; a few lines on the incipit page of Text I and Text II, alternating with black lines; titles of books to be read; a few lines on the incipit page of 1 Corinthians 15 (fol. 25r); abbreviation of yǝbǝl kahǝn nǝfq (fol. 29r); elements of the punctuation signs and text dividers; elements of Ethiopic numerals in Text I; the word barǝkännä (fols. 3vab, 4ra).</rubrication>
 </rubrications>
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ ንፍቅ for ይብል፡ ካህን፡ ንፍቅ (fol. 29r).</abbreviation>
 </abbreviations>

@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaśləṭi, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaślǝṭi, Lectionary for the entire year</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaśləṭi, Lectionary for the entire year (fols. 1r-36v), most probably incomplete (incipit is missing)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaślǝṭi, Lectionary for the entire year (fols. 1r-36v), most probably incomplete (incipit is missing)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
@@ -20,7 +20,7 @@
 </originlinks>
 <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000099" xlink:title="ʾAḥzära  Maryam /DMA"/>
 </locationlinks>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in supplication formulas added interlineally, in a secondary hand: Gäbrä Ṣadəq (fols. 2r, 13v, 16v, 27v, 31v, 32r, 35r, 35v), Wäldä Gäbrəʾel (fols. 12v, 15r, 17v, 23v, 30r, 35r, 35v), Wälättä Haymanot (fols. 21v, 33v, 35r), Täklä Haymanot (fols. 35r, 35v).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Several individuals are mentioned in supplication formulas added interlineally, in a secondary hand: Gäbrä Ṣadǝq (fols. 2r, 13v, 16v, 27v, 31v, 32r, 35r, 35v), Wäldä Gäbrǝʾel (fols. 12v, 15r, 17v, 23v, 30r, 35r, 35v), Wälättä Haymanot (fols. 21v, 33v, 35r), Täklä Haymanot (fols. 35r, 35v).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
 </fdatings>
@@ -99,7 +99,7 @@ Hand b: fols. 5r-6v, 9r-23v, 26r-35r, 36r-b. Smaller, more elegant letters.</pch
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; incipit of Text I; titles of books to be read; directives to the ministers; element of the punctuation signs; element of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 1r), few lines are rubricated (alternating with black lines).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The work (Text I) is called ʾAsləṭi on the incipit (fol. 1ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- The work (Text I) is called ʾAslǝṭi on the incipit (fol. 1ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

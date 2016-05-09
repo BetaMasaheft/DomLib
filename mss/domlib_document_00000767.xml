@@ -10,14 +10,14 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot” / Mälkəʾa Täklä Haymanot “Image of Täklä Haymanot”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Täklä Haymanot “Vita of Täklä Haymanot” / Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” / Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot” / Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols.  5ra-116rb)&#13;
 - Introduction (fols. 5ra-9vb)&#13;
 - Gädlä Täklä Haymanot “Vita of Täklä Haymanot” (fols. 10ra-105ra)&#13;
 II) Mäṣḥafä fǝlsätu lä-ʾabunä Täklä Haymanot “Book of the Translation of ʾabunä Täklä Haymanot” (fols. 105ra-111rb)&#13;
 III) Täʾamrä Täklä Haymanot “Miracles of Täklä Haymanot” – 64 miracles (fols. 111rb-163va)&#13;
-IV) Mälkəʾa Täklä Haymanot “Image of Täklä Haymanot” (fols. 163va-vb, 165ra-170rb)&#13;
+IV) Mälkǝʾa Täklä Haymanot “Image of Täklä Haymanot” (fols. 163va-vb, 165ra-170rb)&#13;
 &#13;
 Additiones 1-8; colophon.</shortcontent>
 </shortcontents>
@@ -146,7 +146,7 @@ On the incipit pages of Texts I, II and III (fols. 5ra, 105ra, 111ra, 116rb, 165
 </additionals>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Excerpt from the Ethiopian syllabary, probably a writing exercise: fol. 2ra. &#13;
 - Writing exercise: fol. 3r.&#13;
-- Ownership note in the upper margin, in Təgrəñña: fol. 164r, ገድልናሐሬነት፡ “The Vita of Ḥarennät”.</extra>
+- Ownership note in the upper margin, in Tǝgrǝñña: fol. 164r, ገድልናሐሬነት፡ “The Vita of Ḥarennät”.</extra>
 </extras>
 <cbquiremarks class="MCRMetaBoolean" heritable="false" notinherit="false"><cbquiremark xml:lang="en" inherited="0">true</cbquiremark>
 </cbquiremarks>
@@ -163,12 +163,12 @@ Fol. 37r: zä-räbʿ;&#13;
 Fol. 53r: zä-ḥamus;&#13;
 Fol. 69r: wä-ʿarb,&#13;
 Fol. 85r: zä-qädämit;&#13;
-Fol. 99r: zä-ʾəḫud.&#13;
+Fol. 99r: zä-ʾǝḫud.&#13;
 - Notes in the upper margin of some fols. indicate other occasions for the reading from the Vita of Täklä Haymanot as follows:&#13;
-Fol. 27r: zä-lədätu;&#13;
+Fol. 27r: zä-lǝdätu;&#13;
 Fol. 94v: zä-Näḥase;&#13;
-Fol. 111r: zä-lədätu;&#13;
-Fol. 118v: zä-lədätu.</txfindingaid>
+Fol. 111r: zä-lǝdätu;&#13;
+Fol. 118v: zä-lǝdätu.</txfindingaid>
 </txfindingaids>
 <frames class="MCRMetaLangText" heritable="false" notinherit="false"><frame xml:lang="en" inherited="0" form="plain">- Fol. 5ra: narrow coloured (red, black) ornamental band; geometric motifs.&#13;
 - Fol. 5rb: narrow coloured (red, black) ornamental band; geometric motifs.&#13;

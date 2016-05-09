@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krəstənna “Book of the Christening”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä krǝstǝnna “Book of the Christening”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä krəstənna “Book of the Christening” (fols. 3ra-31vb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä krǝstǝnna “Book of the Christening” (fols. 3ra-31vb)&#13;
 &#13;
 Additiones 1-2.</shortcontent>
 </shortcontents>
@@ -113,7 +113,7 @@ On the incipit page of Text I (fol. 3r), two lines are rubricated (alternating w
 <abbreviations class="MCRMetaLangText" heritable="false" notinherit="false"><abbreviation xml:lang="en" inherited="0" form="plain">ይካ፡ for ይበል፡ ካህን፡&#13;
 ይዲ፡ for ይበል፡ ዲያቆን፡</abbreviation>
 </abbreviations>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭəmqät on the incipit (s. fol. 3ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ṭǝmqät on the incipit (s. fol. 3ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>

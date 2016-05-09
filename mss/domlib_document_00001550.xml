@@ -10,10 +10,10 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝbrä ḥǝmamat “Book of the Rite of the Holy Week”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">The Ms. contains the following text: &#13;
-I) Mäṣḥafä gəbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-128vc)&#13;
+I) Mäṣḥafä gǝbrä ḥǝmamat “Book of the Rite of the Holy Week” (fols. 3ra-128vc)&#13;
 I-1) Introduction (fols. 3ra-4va)&#13;
 I-2) Eve of Palm Sunday (fols. 4va-6va)&#13;
 I-3) Palm Sunday (fols. 6va-11vb)&#13;
@@ -39,9 +39,9 @@ Additio 1.</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥədo Qəddəst Maryam / KTM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥǝdo Qǝddǝst Maryam / KTM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥədo Qəddəst Maryam / KTM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000137" xlink:title="Kädiḥ Däbrä Täwaḥǝdo Qǝddǝst Maryam / KTM"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">ʾAkälä Mäsqäl</nmcopyist>
 </nmcopyists>

@@ -24,16 +24,16 @@
             <wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
         </wsystems>
         <titles class="MCRMetaLangText" heritable="false" notinherit="false">
-            <title xml:lang="en" inherited="0" form="plain">Gädlä Ṣadəqan [zä-Baräknaha] “Vita of
-                the Righteous Ones [of Baräknaha]” / Mälkəʾa Ṣadəqan [zä-Baräknaha] “Image of the
-                Righteous Ones [of Baräknaha]” / Dərsanä sänbätä krəstiyan “Homily on the Christian
+            <title xml:lang="en" inherited="0" form="plain">Gädlä Ṣadǝqan [zä-Baräknaha] “Vita of
+                the Righteous Ones [of Baräknaha]” / Mälkǝʾa Ṣadǝqan [zä-Baräknaha] “Image of the
+                Righteous Ones [of Baräknaha]” / Dǝrsanä sänbätä krǝstiyan “Homily on the Christian
                 Sabbath”</title>
         </titles>
         <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false">
-            <shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä ṣadəqan [zä-Baräknaha]
-                “Vita of the Righteous Ones [of Baräknaha]” (fols. 3a-17va)&#13; II) Mälkəʾa ṣadəqan
+            <shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä ṣadǝqan [zä-Baräknaha]
+                “Vita of the Righteous Ones [of Baräknaha]” (fols. 3a-17va)&#13; II) Mälkǝʾa ṣadǝqan
                 [zä-Baräknaha] “Image of the Righteous Ones [of Baräknaha]”: 32 strophes (fols.
-                19ra-22va)&#13; III) Dərsanä sänbätä krəstiyan “Homily on the Christian Sabbath”
+                19ra-22va)&#13; III) Dǝrsanä sänbätä krǝstiyan “Homily on the Christian Sabbath”
                 (Homily on the observance of Sunday, ascribed to Jacob of Serug) (fols.
                 27r–42v)&#13; &#13; Colophon.</shortcontent>
         </shortcontents>
@@ -43,23 +43,23 @@
         </subjects>
         <originlinks class="MCRMetaLinkID" heritable="false" notinherit="false">
             <originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000165"
-                xlink:title="Däbrä Sahəl Qəddus Mikaʾel Bet Mäḵaʿ / DSM"/>
+                xlink:title="Däbrä Sahǝl Qǝddus Mikaʾel Bet Mäḵaʿ / DSM"/>
         </originlinks>
         <locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false">
             <locationlink inherited="0" xlink:type="locator"
                 xlink:href="domlib_institution_00000165"
-                xlink:title="Däbrä Sahəl Qəddus Mikaʾel Bet Mäḵaʿ / DSM"/>
+                xlink:title="Däbrä Sahǝl Qǝddus Mikaʾel Bet Mäḵaʿ / DSM"/>
         </locationlinks>
         <donors class="MCRMetaLangText" heritable="false" notinherit="false">
             <donor xml:lang="en" inherited="0" form="plain">ʾaläqa Rädda Mälläs is mentioned as the
-                donor according to the colophon. Gäbrä Śəllase is mentioned in supplication formulas
+                donor according to the colophon. Gäbrä Śǝllase is mentioned in supplication formulas
                 (e.g., s. fols. 3ra, l.15; 10rb, ls. 19-19; 17va; 33r, ls. 10-11; 42v, ls. 19-20).
                 Besides, in the colophon and elsewhere many other individuals (his relatives) are
-                mentioned: ʿAmätä Krəstos (e.g., fols. 3ra, ls. 15-16; 12ra, ls. 24-25; 17va);
-                Wälättä Maryam (fols. 3ra, ls. 16-17; 10rb, ls. 21-22); Wälättä Krəstos (fol. 10rb,
-                ls. 20-21); ʿAmätä Maryam (fols. 17vb; 41r, ls. 2-3; 43r, l.4); ʿAmätä Yoḥannəs
-                (fol. 17vb); Wälättä Śəllase (fol. 17vb); Wälättä Ṣadqan (fols. 17vb); Ḫirutä
-                Śəllase (fol. 17vb); Gäbrä Waḥəd (fol. 17vb).</donor>
+                mentioned: ʿAmätä Krǝstos (e.g., fols. 3ra, ls. 15-16; 12ra, ls. 24-25; 17va);
+                Wälättä Maryam (fols. 3ra, ls. 16-17; 10rb, ls. 21-22); Wälättä Krǝstos (fol. 10rb,
+                ls. 20-21); ʿAmätä Maryam (fols. 17vb; 41r, ls. 2-3; 43r, l.4); ʿAmätä Yoḥannǝs
+                (fol. 17vb); Wälättä Śǝllase (fol. 17vb); Wälättä Ṣadqan (fols. 17vb); Ḫirutä
+                Śǝllase (fol. 17vb); Gäbrä Waḥǝd (fol. 17vb).</donor>
         </donors>
         <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false">
             <fdating inherited="0">1850</fdating>
@@ -258,14 +258,14 @@
                 19r) of Text II, divided into three groups, alternating with black lines; seven
                 lines on the incipit page (fol. 27r) of Text III divided into four groups,
                 alternating with black lines; some lines (1-3) in the paragraph beginning of Text I
-                and Text III; the word Ṣadəqan (in Text I); the words sänbät, sänbätä krəstiyan and
-                sänbätəyä (in Text III); elements of the punctuation signs; elements of Ethiopic
+                and Text III; the word Ṣadǝqan (in Text I); the words sänbät, sänbätä krǝstiyan and
+                sänbätǝyä (in Text III); elements of the punctuation signs; elements of Ethiopic
                 numerals.</rubrication>
         </rubrications>
         <desccontents class="DLMetaContent" heritable="false" notinherit="false">
             <desccontent xml:lang="en" inherited="0">
                 <nm>I.</nm>
-                <text>I. Gädlä Ṣadəqan [zä-Baräknaha] “Vita of the Righteous Ones [of
+                <text>I. Gädlä Ṣadǝqan [zä-Baräknaha] “Vita of the Righteous Ones [of
                     Baräknaha]”</text>
                 <completeness>Complete</completeness>
                 <folios>3ra-17va</folios>
@@ -294,7 +294,7 @@
                         <text>A. BRITA, I racconti tradizionali sulla «seconda cristianizzazione»
                             dell’Etiopia. Il ciclo agiografico dei nove santi”, Napoli 2010 (Studi
                             Africanistici. Serie Etiopica 7) 3-8.&#13; BHO 177.&#13; EAE IV,
-                            “Ṣadəqan”.&#13; KinBibl 87.&#13; O. RAINERI, “Ṣādqān”, in: EncSan vol.
+                            “Ṣadǝqan”.&#13; KinBibl 87.&#13; O. RAINERI, “Ṣādqān”, in: EncSan vol.
                             2, 918.&#13; S. HABLE-SELLASSE, “Ṣadqan”, in: DicEthBio 140-41.</text>
                     </literature>
                 </literatures>
@@ -394,7 +394,7 @@
             </desccontent>
             <desccontent xml:lang="en" inherited="0">
                 <nm>II.</nm>
-                <text>II. Mälkəʾa Ṣadəqan [zä-Baräknaha] “Image of the Righteous Ones [of
+                <text>II. Mälkǝʾa Ṣadǝqan [zä-Baräknaha] “Image of the Righteous Ones [of
                     Baräknaha]”</text>
                 <completeness>Complete</completeness>
                 <folios>19ra - 22va</folios>
@@ -483,7 +483,7 @@
             </desccontent>
             <desccontent xml:lang="en" inherited="0">
                 <nm>III.</nm>
-                <text>III. Dərsanä sänbätä krəstiyan “Homily on the christian Sabbath” (Homily on
+                <text>III. Dǝrsanä sänbätä krǝstiyan “Homily on the christian Sabbath” (Homily on
                     the observance of Sunday, ascribed to Jaqob of Serug)</text>
                 <completeness>Complete</completeness>
                 <folios>27r - 43r</folios>
@@ -493,10 +493,10 @@
                     of Sarug”&#13; (EMML II, 93; Church of St. Gabriel, quarter of Mäkkakäläña,
                     Addis Abäba).&#13; EMML no. 400 (late 19th cent.),&#13; fols. 3r-36v: “Homily on
                     the observance of Sunday [Dersāna sanbat], ascribed to James of Sarug”&#13;
-                    (EMML II, 116; Bookseller, Wälga Məḥrätu, quarter of Täklä Haymanot, Addis
+                    (EMML II, 116; Bookseller, Wälga Mǝḥrätu, quarter of Täklä Haymanot, Addis
                     Abäba).&#13; EMML no. 624 (1908),&#13; fols. 3r-36v: “Homily on the observance
                     of Sunday [Dersāna sanbat], ascribed to James of Sarug”&#13; (EMML II, 372;
-                    Bookseller, Wälga Məḥrätu, quarter of Täklä Haymanot, Addis Abäba).&#13; EMML
+                    Bookseller, Wälga Mǝḥrätu, quarter of Täklä Haymanot, Addis Abäba).&#13; EMML
                     no. 885 (1916/30),&#13; fols. 3r-19r: “Homily of James of Sarug on the
                     observance of the Sabbath [Dersāna sanbat]”&#13; (EMML III, 210; Church of
                     Qwǝsqwam, quarter of ʾƎnṭoṭṭo, Addis Abäba).&#13; EMML no. 1512 (18th
@@ -518,17 +518,17 @@
                     222r-228r: “Homily of James of Sarug on the observance of Sunday”&#13; (EMML VI,
                     463; Church of Miṭaq Täklä Haymanot, Ankobärr, Shoa).&#13; EMML no. 2726
                     (1775-1809),&#13; fols. 4r-5r: “Homily of James of Sarug on the observance of
-                    Sunday [Dersāna sanbat]”&#13; (EMML VII, 117; Church of Ḥarr ʾAmba Yoḥannəs,
+                    Sunday [Dersāna sanbat]”&#13; (EMML VII, 117; Church of Ḥarr ʾAmba Yoḥannǝs,
                     Ankobärr, Shoa).&#13; EMML no. 3200 (17th cent.),&#13; fols. 2r-4v, 5r-6v, 15rv,
                     17rv, 18rv, 20r-21r, 22r-23v: “Homily on the Sabbath [Dersāna sanbat] ascribed
                     to James of Sarug”&#13; (EMML VIII, 150; Church of Sarya Mikaʾel, Zanǧira,
                     Wärana Basso, Shoa).&#13; EMML no. 3341 (1755/69, 1769/96),&#13; fols. 48v-63v:
                     “Homily of James of Sarug about Christian Sabbath”&#13; (EMML VIII, 215; Church
-                    of Gädam Maryam, ʾAsagərt, Shoa).&#13; EMML no. 3472 (18th cent.),&#13; fols.
+                    of Gädam Maryam, ʾAsagǝrt, Shoa).&#13; EMML no. 3472 (18th cent.),&#13; fols.
                     146rv, 135r-145v, 147r-149v: “Homily of James of Sarug on Christian
                     Sabbath”&#13; (EMML VIII, 286; Church of Gubbalafto Täklä Haymanot, Yäǧǧu,
                     Wällo).&#13; EMML no. 3965 (20th cent.),&#13; fols. 2r-3v: “Homily by James of
-                    Sarug on Christian Sabbath”&#13; (EMML IX, 256; Church of Laǧǧa Gənd Giyorgis,
+                    Sarug on Christian Sabbath”&#13; (EMML IX, 256; Church of Laǧǧa Gǝnd Giyorgis,
                     Wärana Baso, Shoa).&#13; EMML no. 4017 (18th/19th cent.),&#13; fols. 122r-147v:
                     “Homily by James of Sarug on the Christian Sabbath [Dersāna sanbat]”&#13; (EMML
                     X, 9; Church of Mäsḉa Maryam, ʾAnkobärr, Shoa).&#13; EMML no. 4362 (19th
@@ -536,7 +536,7 @@
                     ascribed to James of Sarug”&#13; (EMML X, 125; Church of ʾƎllägänd Mikaʾel,
                     ʾAnkobärr, Shoa).&#13; EMML no. 4435 (1891),&#13; fols. 182r-186r: “Homily on
                     Sunday [Dersāna sanbat], ascribed to James of Sarug”&#13; (EMML X, 152; Church
-                    of Sälla Dənqay Marqos, Moǧa and Wädärra, Shoa).&#13; BritLib Orient. 18,&#13;
+                    of Sälla Dǝnqay Marqos, Moǧa and Wädärra, Shoa).&#13; BritLib Orient. 18,&#13;
                     fols. 121r-138v: “Homilia Jacobi Sarugensis de Sabbatho”&#13; (DillmLond
                     22).&#13; JRyM 7 (17th/18th cent.),&#13; fols. 44v-49r: “Sermon of Jacob of
                     Serug”&#13; (StrJRyM 14).&#13; BritLib ANLin Conti Rossini 71 (19th/20th
@@ -552,7 +552,7 @@
                 <literatures class="DLBibliography">
                     <literature xml:lang="en" inherited="0">
                         <isLink>no</isLink>
-                        <text>EAE II, “Dərsanä sänbät”.</text>
+                        <text>EAE II, “Dǝrsanä sänbät”.</text>
                     </literature>
                 </literatures>
                 <incipit>&lt;p style="text-align: justify"&gt;&lt;span style="font-size:
@@ -934,8 +934,8 @@
                     lang="EN-US" style="line-height: 115%"&gt;excommunicated thought the power of
                     the Father and the Son and Holy
                     Spirit&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</tran>
-                <det>The book is here entitled “Gädlomu lä-Ṣadəqan zä-Bet Məkaʾ”, “Vita of the
-                    Righteous Ones of the church of Məkaʾ”. However, the text is the same as the
+                <det>The book is here entitled “Gädlomu lä-Ṣadǝqan zä-Bet Mǝkaʾ”, “Vita of the
+                    Righteous Ones of the church of Mǝkaʾ”. However, the text is the same as the
                     text included in the Ms. from the church of Baräknaha (Eritrea) and published by
                     Conti Rossini (Ms. from the church of Baräknaha (Eritrea), &#13; (publ. Conti
                     Rossini 1903; tr. Rainieri 1979)).</det>

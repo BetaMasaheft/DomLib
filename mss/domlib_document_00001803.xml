@@ -10,16 +10,16 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gəṣṣəw, Lectionary for the week / Barəkännä ʾəgziʾo… “Bless us, O Lord…”</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä gǝṣṣǝw, Lectionary for the week / Barǝkännä ʾǝgziʾo… “Bless us, O Lord…”</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gəṣṣəw, Lectionary for the week (fols. 3ra-37rb)&#13;
-II) Barəkännä ʾəgziʾo… “Bless us, O Lord…” (Blessing prayer) (fols. 37v-39r)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä gǝṣṣǝw, Lectionary for the week (fols. 3ra-37rb)&#13;
+II) Barǝkännä ʾǝgziʾo… “Bless us, O Lord…” (Blessing prayer) (fols. 37v-39r)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
-<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qəddus Mikaʾel  Märgaḥəya / QMM"/>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qǝddus Mikaʾel  Märgaḥǝya / QMM"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qəddus Mikaʾel  Märgaḥəya / QMM"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000178" xlink:title="Qǝddus Mikaʾel  Märgaḥǝya / QMM"/>
 </locationlinks>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
 </fdatings>

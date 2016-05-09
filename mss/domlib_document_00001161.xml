@@ -10,12 +10,12 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śəllase "Vita of Mäzgäbä Śəllase" / Täʾamrä Mäzgäbä Śəllase "Miracles of Mäzgäbä Śəllase" / Mälkəʾa Mäzgäbä Śəllase "Image of Mäzgäbä Śəllase" / Sälam-hymn for Mäzgäbä Śəllase</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Gädlä Mäzgäbä Śǝllase "Vita of Mäzgäbä Śǝllase" / Täʾamrä Mäzgäbä Śǝllase "Miracles of Mäzgäbä Śǝllase" / Mälkǝʾa Mäzgäbä Śǝllase "Image of Mäzgäbä Śǝllase" / Sälam-hymn for Mäzgäbä Śǝllase</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śəllase “Vita of Mäzgäbä Śəllase” (fols. 5ra-66ra)&#13;
-II) Täʾamrä Mäzgäbä Śəllase “Miracles of Mäzgäbä Śəllase – 14 miracles (fols. 66rb-76vb)&#13;
-III) Mälkəʾa Mäzgäbä Śəllase “Image of Mäzgäbä Śəllase” (fols. 77ra-79ra)&#13;
-IV) Sälam-hymn for Mäzgäbä Śəllase (fols. 79ra-79rb)&#13;
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gädlä Mäzgäbä Śǝllase “Vita of Mäzgäbä Śǝllase” (fols. 5ra-66ra)&#13;
+II) Täʾamrä Mäzgäbä Śǝllase “Miracles of Mäzgäbä Śǝllase – 14 miracles (fols. 66rb-76vb)&#13;
+III) Mälkǝʾa Mäzgäbä Śǝllase “Image of Mäzgäbä Śǝllase” (fols. 77ra-79ra)&#13;
+IV) Sälam-hymn for Mäzgäbä Śǝllase (fols. 79ra-79rb)&#13;
 &#13;
 Colophon.</shortcontent>
 </shortcontents>
@@ -27,9 +27,9 @@ Colophon.</shortcontent>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Gäbrä Maryam</nmcopyist>
 </nmcopyists>
-<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Scribe's signature (Gä[brä]/Mä[ryam] zä-bə[ḥərä] Ləgät)in fol. 79va. See also Colophon.</copyist>
+<copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Scribe's signature (Gä[brä]/Mä[ryam] zä-bǝ[ḥǝrä] Lǝgät)in fol. 79va. See also Colophon.</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäzgäbo ʾAṣbəḥa (s. colophon).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäzgäbo ʾAṣbǝḥa (s. colophon).</donor>
 </donors>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">2003</fdating>
 </fdatings>
@@ -110,31 +110,31 @@ On the incipit page of Text I (fols. 5r), a few lines are rubricated (alternatin
 </abbreviations>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
-<colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;Fol. 79va, l.1: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4872;&amp;#4704;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4808;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4709;&amp;#4653;&amp;#4611;&amp;#4757;&amp;#4961; &amp;#4677;&amp;#4853;&amp;#4661;&amp;#4725;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4936;&amp;#4675;&amp;#4851;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4768;&amp;#4726;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4872;&amp;#4710;&amp;#4961; &amp;#4768;&amp;#4925;&amp;#4709;&amp;#4624;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4629;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4789;&amp;#4617;&amp;#4961; &amp;#4661;&amp;#4709;&amp;#4768;&amp;#4961; &amp;#4708;&amp;#4721;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4962; &amp;#4704;&amp;#4978;&amp;#4987;&amp;#4808;&amp;#4977;&amp;#4987;&amp;#4986;&amp;#4808;&amp;#4974;&amp;#4961; &amp;#4819;&lt;/span&gt;[&lt;span style="font-size: large;"&gt;&amp;#4632;&amp;#4720;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4961; &amp;#4637;&lt;/span&gt; [&lt;span style="font-size: large;"&gt;&amp;#4629;&amp;#4648;&amp;#4725;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4876;&amp;#4619;&amp;#4810;&amp;#4962; &amp;#4808;&amp;#4920;&amp;#4624;&amp;#4940;&amp;#4961; &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4961; &amp;#4629;&amp;#4848;&amp;#4961; &amp;#4872;&amp;#4961; &amp;#4635;&amp;#4961; &amp;#4824;&amp;#4709;&amp;#4961; &amp;#4621;&amp;#4872;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</col><det>Mention of the name of the donor, Mäzgäbä ʾAṣbəḥa, the date, 1996 A.M. (= 2003/04 A.D.), and the abbreviated name of the scribe, Gäbrä Maryam (?) of Legät (also known as Lǝgat).</det></colophon>
+<colophons class="DLColophon" heritable="false" notinherit="false"><colophon xml:lang="en" inherited="0"><col>&lt;p&gt;Fol. 79va, l.1: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4925;&amp;#4624;&amp;#4941;&amp;#4961; &amp;#4824;&amp;#4723;&amp;#4710;&amp;#4720;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4872;&amp;#4704;&amp;#4961; &amp;#4645;&amp;#4619;&amp;#4660;&amp;#4961; &amp;#4808;&amp;#4848;&amp;#4709;&amp;#4648;&amp;#4961; &amp;#4709;&amp;#4653;&amp;#4611;&amp;#4757;&amp;#4961; &amp;#4677;&amp;#4853;&amp;#4661;&amp;#4725;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4936;&amp;#4675;&amp;#4851;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4710;&amp;#4961; &amp;#4768;&amp;#4726;&amp;#4961; &amp;#4632;&amp;#4829;&amp;#4872;&amp;#4710;&amp;#4961; &amp;#4768;&amp;#4925;&amp;#4709;&amp;#4624;&amp;#4961; &amp;#4845;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4629;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4961; &amp;#4637;&amp;#4661;&amp;#4616;&amp;#4961; &amp;#4789;&amp;#4617;&amp;#4961; &amp;#4661;&amp;#4709;&amp;#4768;&amp;#4961; &amp;#4708;&amp;#4721;&amp;#4961; &amp;#4616;&amp;#4819;&amp;#4616;&amp;#4632;&amp;#4961; &amp;#4819;&amp;#4616;&amp;#4637;&amp;#4962; &amp;#4704;&amp;#4978;&amp;#4987;&amp;#4808;&amp;#4977;&amp;#4987;&amp;#4986;&amp;#4808;&amp;#4974;&amp;#4961; &amp;#4819;&lt;/span&gt;[&lt;span style="font-size: large;"&gt;&amp;#4632;&amp;#4720;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4961; &amp;#4637;&lt;/span&gt; [&lt;span style="font-size: large;"&gt;&amp;#4629;&amp;#4648;&amp;#4725;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752;&amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&amp;#4961; &amp;#4808;&amp;#4757;&amp;#4876;&amp;#4619;&amp;#4810;&amp;#4962; &amp;#4808;&amp;#4920;&amp;#4624;&amp;#4940;&amp;#4961; &amp;#4829;&amp;#4757;&amp;#4721;&amp;#4961; &amp;#4632;&amp;#4961; &amp;#4629;&amp;#4848;&amp;#4961; &amp;#4872;&amp;#4961; &amp;#4635;&amp;#4961; &amp;#4824;&amp;#4709;&amp;#4961; &amp;#4621;&amp;#4872;&amp;#4725;&amp;#4962;&lt;/span&gt;&lt;/p&gt;</col><det>Mention of the name of the donor, Mäzgäbä ʾAṣbǝḥa, the date, 1996 A.M. (= 2003/04 A.D.), and the abbreviated name of the scribe, Gäbrä Maryam (?) of Legät (also known as Lǝgat).</det></colophon>
 </colophons>
 <extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">- Commentaries written with a red pen, in the margins all throughout the Ms. (e.g. fols. 8v, 9r, 18v, 20r, 22r, 23r, 24v, 26r, etc.).&#13;
 - Immediate corrections indicated by red dashes above and below the words: fols. 69vb, 70vb.&#13;
 - A portion of the text marked by a black line: fol. 70ra.&#13;
-- Scribe´s signature (Gä[brä]/Mä[ryam] zä-Bə[ḥər] Ləgät): fol. 79va.</extra>
+- Scribe´s signature (Gä[brä]/Mä[ryam] zä-Bǝ[ḥǝr] Lǝgät): fol. 79va.</extra>
 </extras>
 <cbfindingaids class="MCRMetaBoolean" heritable="false" notinherit="false"><cbfindingaid xml:lang="en" inherited="0">true</cbfindingaid>
 </cbfindingaids>
 <txfindingaids class="MCRMetaLangText" heritable="false" notinherit="false"><txfindingaid xml:lang="en" inherited="0" form="plain">- Written in the upper margins, decorated notes indicating the monthly and other readings as follows:&#13;
-Fol. 18v: zä-Ḫədar;&#13;
+Fol. 18v: zä-Ḫǝdar;&#13;
 Fol. 24r: zä-Taḥśaś;&#13;
-Fol. 29r: zä-Ṭərr;&#13;
+Fol. 29r: zä-Ṭǝrr;&#13;
 Fol. 33v: zä-Yäkätit;&#13;
 Fol. 37v: zä-Mäggabit;&#13;
 Fol. 40v: zä-Miyazya;&#13;
-Fol. 43v: zä-Gənbot;&#13;
+Fol. 43v: zä-Gǝnbot;&#13;
 Fol. 49r: zä-Säne;&#13;
 Fol. 53v: zä-Ḥamle;&#13;
 Fol. 57r: zä-Näḥase;&#13;
 Fol. 61v: zä-Mäskäräm;&#13;
 Fol. 64v: säqoqawä motu;&#13;
-Fol. 66r: täʾamər;&#13;
-Fol. 73v: zä-ʿəlätä ʿəräftu;&#13;
-Fol. 74r: zä-ʿəlätä ʿəräftu;&#13;
-Fol. 77r: täräfä mälkəʾ.</txfindingaid>
+Fol. 66r: täʾamǝr;&#13;
+Fol. 73v: zä-ʿǝlätä ʿǝräftu;&#13;
+Fol. 74r: zä-ʿǝlätä ʿǝräftu;&#13;
+Fol. 77r: täräfä mälkǝʾ.</txfindingaid>
 </txfindingaids>
 </metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-01-17T14:21:23.508Z</servdate><servdate inherited="0" type="modifydate">2014-11-10T17:16:10.516Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

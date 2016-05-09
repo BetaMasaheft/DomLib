@@ -13,18 +13,18 @@
 <titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ʾArbaʿtu wängel “Four Gospels”</title>
 </titles>
 <shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Gospel of Matthew (fols. 3ra – 35va [l.1])&#13;
-- Bəsratä  Matewos “Gospel of Matthew” (fols. 3ra – 35ra [l.1])&#13;
+- Bǝsratä  Matewos “Gospel of Matthew” (fols. 3ra – 35ra [l.1])&#13;
 - List of “tituli” for the Gospel of Mark – 48 titles (fol. 35ra [l.3] – 35rb [l.23])&#13;
 - Short postscript (fols. 35rb [ls. 25] – 35va [l.1]).&#13;
 II) Gospel of Mark  (fols. 36ra – 53[a]ra)&#13;
-- Bəsratä Marqos “Gospel of Mark” (fols. 36ra – 53rb [l.19])&#13;
+- Bǝsratä Marqos “Gospel of Mark” (fols. 36ra – 53rb [l.19])&#13;
 - List of “tituli” for the Gospel of Luke – 82 titles (fols. 53rb [l.21] – 53[a]ra).&#13;
 III) Gospel of Luke (fols. 53rb  [l.21] – 84[a]ra [l.15])&#13;
 - List of “tituli” for the Gospel of Luke – 82 titles (fols. 53rb [l.21] – 53[a]ra).&#13;
-- Bəsratä Luqas “Gospel of Luke” (fols. 54ra – 84[a]ra [l.7])&#13;
+- Bǝsratä Luqas “Gospel of Luke” (fols. 54ra – 84[a]ra [l.7])&#13;
 - Short postscript (fol. 84[a]ra [ls. 10-15]).&#13;
 IV) Gospel of John (fols. 85ra – 108va [l.6])&#13;
-- Bəsratä Yoḥannəs “Gospel of John” (fols. 85ra – 108rb [l.6])&#13;
+- Bǝsratä Yoḥannǝs “Gospel of John” (fols. 85ra – 108rb [l.6])&#13;
 - List of “tituli” for the Gospel of John – 19 titles (fols. 108rb [l.8] – 108va [l.2])&#13;
 - Short postscript (fol. 108va [ls. 4-6]).&#13;
 &#13;
@@ -34,15 +34,15 @@ Additiones 1-3; Colophon.</shortcontent>
 </subjects>
 <originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000214" xlink:title="Ë&#129;Ad á¸¤É&#153;yaw QÉ&#153;ddus MikaË&#128;el"/>
 </originlinks>
-<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mədrä Ruba /MR"/>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="Mǝdrä Ruba /MR"/>
 </locationlinks>
 <nmcopyists class="MCRMetaLangText" heritable="false" notinherit="false"><nmcopyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam</nmcopyist>
 </nmcopyists>
 <copyists class="MCRMetaLangText" heritable="false" notinherit="false"><copyist xml:lang="en" inherited="0" form="plain">Zä-Wäldä Maryam is mentioned as the scribe in the concluding supplication formula (fol. 108va, ls. 14-15, 20-21).</copyist>
 </copyists>
-<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zärʾa Krəstos  and  his mother Goytana Maryam (s. fol. 108va, l.9-10).</donor>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zärʾa Krǝstos  and  his mother Goytana Maryam (s. fol. 108va, l.9-10).</donor>
 </donors>
-<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">As some other books of Mədrä Ruba, MR-033 previously was in possession of a church called (Däbrä Mikaʾel) ʾƎnba Ḥarisa(y) ʾAd Ḥǝyaw (Additio 3).</owner>
+<owners class="MCRMetaLangText" heritable="false" notinherit="false"><owner xml:lang="en" inherited="0" form="plain">As some other books of Mǝdrä Ruba, MR-033 previously was in possession of a church called (Däbrä Mikaʾel) ʾƎnba Ḥarisa(y) ʾAd Ḥǝyaw (Additio 3).</owner>
 </owners>
 <fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1730</fdating>
 </fdatings>
@@ -118,7 +118,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <phandwritings class="MCRMetaLangText" heritable="false" notinherit="false"><phandwriting xml:lang="en" inherited="0" form="plain">Careful</phandwriting>
 </phandwritings>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; &#13;
-the word məʿəraf;&#13;
+the word mǝʿǝraf;&#13;
 six lines (both columns) of the incipit page of each text (fols. 3rab, 36rab, 54rab, 85rab), divided into three groups, alternating with black lines;&#13;
 some lines (1-3) within “short postscript” of the each text;&#13;
 two initial lines of the list of “tituli” for the Gospel of John (fol. 108rb [ls. 8-9]);&#13;

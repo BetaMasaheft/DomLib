@@ -10,9 +10,9 @@
 </languages>
 <wsystems class="MCRMetaClassification" heritable="false" notinherit="false"><wsystem inherited="0" classid="domlib_class_00000006" categid="WS04"/>
 </wsystems>
-<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾasləṭi, Lectionary for the entire year</title>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäṣḥafä ʾaslǝṭi, Lectionary for the entire year</title>
 </titles>
-<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾasləṭi, Lectionary for the entire year (fols. 3ra-56vb)</shortcontent>
+<shortcontents class="MCRMetaLangText" heritable="false" notinherit="false"><shortcontent xml:lang="en" inherited="0" form="plain">I) Mäṣḥafä ʾaslǝṭi, Lectionary for the entire year (fols. 3ra-56vb)</shortcontent>
 </shortcontents>
 <subjects class="MCRMetaClassification" heritable="false" notinherit="false"><subject inherited="0" classid="domlib_class_00000002" categid="Sub16.2"/>
 </subjects>
@@ -90,7 +90,7 @@ The bottom line is written above the ruling.</rl-info></taunit>
 <rubrications class="MCRMetaLangText" heritable="false" notinherit="false"><rubrication xml:lang="en" inherited="0" form="plain">Nomina sacra; titles of books to be read; elements of the punctuation signs; elements of Ethiopic numerals.&#13;
 On the incipit page of Text I (fol. 3r), few lines are rubricated (alternating with back lines).</rubrication>
 </rubrications>
-<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ʾasləṭi in the incipit (fol. 3ra).</otherdetail>
+<otherdetails class="MCRMetaLangText" heritable="false" notinherit="false"><otherdetail xml:lang="en" inherited="0" form="plain">- Text I is called Mäṣḥafä ʾaslǝṭi in the incipit (fol. 3ra).</otherdetail>
 </otherdetails>
 <desccontents class="DLMetaContent" heritable="false" notinherit="false"><desccontent xml:lang="en" inherited="0"><editions class="DLBibliography"><edition xml:lang="en" inherited="0"><isLink>no</isLink></edition></editions><literatures class="DLBibliography"><literature xml:lang="en" inherited="0"><isLink>no</isLink></literature></literatures></desccontent>
 </desccontents>
