@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000051" label="domlib_artitem_00000051" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MAC-object 1</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-06</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="á¸&#136;Ã¤hat MÃ¤dá¸«ane Ë&#129;AlÃ¤m / MAC"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="á¸&#136;Ã¤hat MÃ¤dá¸«ane Ë&#129;AlÃ¤m / MAC"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood.</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">9.0</measurement>
+<measurement xml:lang="en" inherited="0">9.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1850</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A diptych wing: &lt;span style="font-size: large;"&gt;&amp;#4661;&amp;#4821;&amp;#4616; &amp;#4961; &amp;#4725;&amp;#4757;&amp;#4643;&amp;#4772; &lt;span style="font-size: small;"&gt;|&lt;/span&gt; &amp;#4829;&amp;#4661;&amp;#4821;&amp;#4619; &amp;#4961; &amp;#4616;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637; &lt;span style="font-size: small;"&gt;(?) | &lt;/span&gt;&amp;#4768;&amp;#4851;&amp;#4637; &amp;#4808;&amp;#4612;&amp;#4811;&amp;#4757; &lt;span style="font-size: small;"&gt;Side B diptych wing:&lt;/span&gt; &amp;#4720;&amp;#4781;&amp;#4616; &amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A diptych wing: image of Resurrection | this is the picture of Mary (?) | Adam and Eve Side B diptych wing: T&amp;#228;kl&amp;#228; Maryam&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Small neck double diptych with engravings of decorated squares and crosses on the outer sides of the diptych wings.&#13;
+&#13;
+Side A, diptych body: Depiction of the crucifixion. Jesus on a cross surrounded by yellow light. Mary with one hand visible out of her blue cloak, looking up at Jesus on the left side of the picture, an unidentified male figure (John the Evangelist) crossing his hands over his chest on the right side. All figures feature yellow nimbi; the background is painted red and green. &#13;
+Side A, diptych wing: A man with a nimbus in red garb with a red-and-yellow cloak (Jesus) grabbing two naked persons (Adam and Eve) shown from the waist up at the lower edge of the picture by their fists. The background alternates from red to green to red.  &#13;
+&#13;
+Side B, diptych body: Mary with the Child in a blue maphrion over a red tunic, her hands clasped in front of her child, Jesus sitting on the left side of her body in a yellow tunic extending his right hand in blessing while holding a book in his left hand. Two winged angels with their hands raised to their chest in the background. &#13;
+Side B, diptych wing: St. George on a white horse slaying the dragon. The saint is clad in yellow and red tunic and cloak with blue underclothes, the horse has its front hoofs raised from the ground. The dragon, green with a yellow belly, is lying on its back, struck in the throat with the saint’s spear. The background is painted red.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-15T07:15:22.006Z</servdate><servdate inherited="0" type="modifydate">2013-08-13T09:22:14.142Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">VKrebs</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

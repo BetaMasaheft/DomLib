@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000078" label="domlib_artitem_00000078" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">EMQ-object 1</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-05-12</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Brass.</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">31.0</measurement>
+<measurement xml:lang="en" inherited="0">44.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">ˀƎngədayu Lä-ˀAb, ˀabba</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1730</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1755</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The inscription mentions King ˀIyasu, possibly ˀIyasu II (r. 1730-55)</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621; &amp;#4824;&amp;#4720;&amp;#4656;&amp;#4653;&amp;#4624; &amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752; &amp;#4961; &amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4721; &amp;#4961; &amp;#4616;&amp;#4757;&amp;#4873; | &amp;#4829;&amp;#4757;&amp;#4721; &amp;#4961; &amp;#4632;&amp;#4661;&lt;/span&gt;[&lt;span style="font-size: large;"&gt;&amp;#4672;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4621; &amp;#4961; &amp;#4824;&amp;#4720;&amp;#4656;&amp;#4653;&amp;#4608; &amp;#4961; &amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752; &amp;#4961; &amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645;&amp;#4721; &amp;#4961; &amp;#4616;&amp;#4757;&amp;#4873; | &amp;#4645; &amp;#4961; &amp;#4770;&amp;#4843;&amp;#4657; &amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4704; &amp;#4961; &amp;#4768;&amp;#4707; &amp;#4961; &amp;#4773;&amp;#4757;&amp;#4877;&amp;#4851;&amp;#4841; &amp;#4961; &amp;#4616;&amp;#4768;&amp;#4709; &lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Side B: &lt;span style="font-size: large;"&gt;&amp;#4808;&amp;#4632;&amp;#4637;&amp;#4613;&amp;#4653;&amp;#4610; &amp;#4961; &amp;#4672;&amp;#4661;&amp;#4961; &amp;#4848;&amp;#4677;&amp;#4661;&amp;#4846;&amp;#4661; | &amp;#4768;&amp;#4706;&amp;#4845; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773; &amp;#4961; &amp;#4824;&amp;#4672;&amp;#4651;&amp;#4653;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: This is a cross which was made during the reign of the king; This is a cross which was made during the reign of King &amp;#704;Iyasu. The one who gave it was &amp;#704;abba &amp;#704;&amp;#398;ng&amp;#601;dayu L&amp;#228;-&amp;#704;Ab Side B: and also the m&amp;#228;mh&amp;#601;r [l.n.] D&amp;#228;qs&amp;#601;yos (?); Great Lord of Q&amp;#228;rrar&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Lozenge-shaped processional cross. &#13;
+An inscribed square at the centre branches out into intricate strapwork with engraved double lines. Three small cross-shaped finials are extending from the outmost row of strapwork.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-29T10:27:47.473Z</servdate><servdate inherited="0" type="modifydate">2015-07-14T11:18:55.838Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

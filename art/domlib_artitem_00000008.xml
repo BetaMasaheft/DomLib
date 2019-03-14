@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000008" label="domlib_artitem_00000008" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MY-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-05-10</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäsqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="DÃ¤brÃ¤ MaË&#129;á¹£o QÓ&#153;ddus Yoá¸¥annÓ&#153;s / MY"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000039" xlink:title="DÃ¤brÃ¤ MaË&#129;á¹£o QÓ&#153;ddus Yoá¸¥annÓ&#153;s / MY"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Brass.</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">27.0</measurement>
+<measurement xml:lang="en" inherited="0">44.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<datings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><dating inherited="0">1800</dating>
+</datings>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Somewhat corroded; small fissures between left and right arm of the centre cross and the finials.</txstate>
+</txstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Strapwork processional cross. Centre piece either a somewhat loopy Greek or rather undefined pattée cross with big, elaborate triangular strapwork finials. Centre piece and side arm strapwork of criss-crossing engraved lines; superior arm strapwork of a more organic pattern. Lower arm two semi-circles surrounding the shaft. Small lozenge-shaped side arm crosses and finial-extensions all over.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-08T13:36:10.550Z</servdate><servdate inherited="0" type="modifydate">2013-07-20T11:28:14.011Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000089" label="domlib_artitem_00000089" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">AP-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-05</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Silver / Steel ?</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">32.0</measurement>
+<measurement xml:lang="en" inherited="0">52.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Zä-Yoḥannəs, gäbäz</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1980</tdating>
+</tdatings>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;div&gt;Side a:&amp;#160; &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4824;&amp;#4708;&amp;#4720;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4912;&amp;#4651;&amp;#4677;&amp;#4618;&amp;#4902;&amp;#4661;&lt;/span&gt;&lt;span style="font-size: large;"&gt;| &amp;#4872;&amp;#4704;&amp;#4824;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4676;&amp;#4661;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4824;&amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661;&lt;/span&gt;&lt;/div&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side a: "This cross is of the house of &amp;#7766;&amp;#228;raqli&amp;#7789;os| g&amp;#228;b&amp;#228;z&amp;#228; qes Z&amp;#228;-Yo&amp;#7717;ann&amp;#601;s".&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Silver-coloured Greek processional cross with elaborate finials and figurative engravings. &#13;
+Centre piece is a Greek cross filled with cord strapwork and five figurative engravings on square plates. Very wide and elaborate strapwork finials on all three upper arms, as well as a two strapwork semi-circles surrounding shaft from the inferior arm down. &#13;
+Inscriptions on superior arm of the cross on Side A. &#13;
+&#13;
+Engravings (five figurative engravings on square plates in the shape of a cross, from top down and left to right):&#13;
+Side A: Crucifixion with Jesus on the cross and two cupolas of Ethiopian churches in the background; angel with sword; Mary with the Child; angel with sword; angel. All figures are depicted in front view.&#13;
+Side B: Exact repetition of iconographic program of Side A.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-05T09:32:30.647Z</servdate><servdate inherited="0" type="modifydate">2013-08-10T12:57:41.056Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

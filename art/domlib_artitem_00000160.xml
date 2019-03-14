@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000160" label="domlib_artitem_00000160" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">ETH-object 4</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-11-19</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Diptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000078" xlink:title="ˁƎmbäyto Täklä Haymanot / ETH"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">100.0</measurement>
+<measurement xml:lang="en" inherited="0">80.0</measurement>
+<measurement xml:lang="en" inherited="0">3.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1980</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">2000</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Diptych gesso on wood in own wooden frame.&#13;
+ &#13;
+Left wing shows Mary with the Child seated in front of a canopy; two armed angels standing behind her in the upper background. Two small figures (donors) are next to the edges of her maphrion in the lower foreground. Mary is depicted as wearing a very brightly blue maphrion, the Child is depicted in a brightly lead-white tunic on her left arm. Their hands are clasped. &#13;
+&#13;
+Right wing shows St. George killing the dragon with Birutawit standing in a tree looking on. St. George's spear is pointing downwards as if going in for the kill; dragon is already slain with a spear, however. &#13;
+Two figures of saints are depicted in the lower register of the right wing. &#13;
+&#13;
+All colours very bright (mostly bright blue and bright white as well as bright yellow and brown), all dresses and backgrounds brightly coloured and ornamented; paint probably late 20th century, recent artwork.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-06T14:21:02.867Z</servdate><servdate inherited="0" type="modifydate">2013-08-09T09:34:55.261Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

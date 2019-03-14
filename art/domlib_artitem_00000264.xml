@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000264" label="domlib_artitem_00000264" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">AFMM-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Ṣəwwaˁ</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Chalice</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000266" xlink:title="ˀAf Məhyaw Qəddəst Maryam / AFMM"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000266" xlink:title="ˀAf Məhyaw Qəddəst Maryam / AFMM"/>
+</locationlinks>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mikaˀel, däğğazmač</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The inscription probably refers to däğğazmač Mikaˀel Səhul (ca. 1691-1777).</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St03"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Either originally welded together or severely re-welded in later times.</txstate>
+</txstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Inscription around the object:&amp;#160;&lt;span style="font-size: large;"&gt; &lt;span lang="AMH" style="line-height: 115%; font-family: Nyala;"&gt;&amp;#4829;&amp;#4925;&amp;#4811;&amp;#4821;&amp;#4961; &amp;#4824;&amp;#4848;&amp;#4867;&amp;#4829;&amp;#4635;&amp;#4733;&amp;#4961; &amp;#4634;&amp;#4779;&amp;#4772;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707;&amp;#4961; &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773;&amp;#4725;&amp;#4752;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4824;&amp;#4757;&amp;#4941;&amp;#4961; &amp;#4637;&amp;#4613;&amp;#4843;&amp;#4813;&amp;#4961; &amp;#4776;&amp;#4632;&amp;#4961; &amp;#4845;&amp;#4789;&amp;#4758;&amp;#4961; &amp;#4616;&amp;#4613;&amp;#4845;&amp;#4808;&amp;#4720;&amp;#4961; &amp;#4645;&amp;#4875;&amp;#4961; &amp;#4808;&amp;#4752;&amp;#4941;&amp;#4661;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Inscription around the object: "This chalice is of d&amp;#228;&amp;#287;&amp;#287;azma&amp;#269; Mika&amp;#704;el which he gave to Our Lady Mary of &amp;#704;Anf M&amp;#601;hyaw so that it might be for him for the life of soul and flesh".&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Brass chalice. Semi-circular upper part with an extended lip welded onto a circular hollow shaft welded onto a small, slightly concave foot. Inscription running around upper part.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-12T15:02:27.736Z</servdate><servdate inherited="0" type="modifydate">2013-08-13T08:40:59.163Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">VKrebs</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

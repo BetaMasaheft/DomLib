@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000152" label="domlib_artitem_00000152" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">DMD-object 4</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-09</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">110.0</measurement>
+<measurement xml:lang="en" inherited="0">65.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1950</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Wooden triptych, gesso on wood in own frame, wings significantly thinner and smaller than centre panel. &#13;
+&#13;
+Left wing upper half: Enthroned Christ (depicted as an old man) in front of a stark blue background surrounded by the four animals of the Evangelists. &#13;
+Left wing lower half: The Visitation of Mary. Mary, in rich blue and red garments, is standing on the left while a scaled down figure of Anne, in red with a blue headdress, is standing on the right. &#13;
+&#13;
+Centre panel: St. George killing the dragon. St. George, in flowered blue garments with a red shawl, is seated on a white steed with elaborate red and gold tack. His spear is slanted downwards in the process of killing a green dragon with red wings that is showing its tongue to St. George. Birutawit is standing in a tree on the right side of the Centre panel. The background alternates from yellow to green to yellow. &#13;
+&#13;
+Right wing upper half: The Second Coming of Christ: Christ, Mary and armies of angels in front of a canopy, Christ's arms are spread open in welcome while seraphim rest at his feet. &#13;
+Right wing lower half: The Final Judgement: The empty cross with the arma Christi, with an army of angels on the left side of the cross and an army of blue devils on the right side of the cross. One specifically big devil is approaching the cross. &#13;
+&#13;
+Interesting iconography, very unusal. Style is very firmly Gondar II and well executed.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-06T13:58:50.521Z</servdate><servdate inherited="0" type="modifydate">2013-08-09T09:31:43.371Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

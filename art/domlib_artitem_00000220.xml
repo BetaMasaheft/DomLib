@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000220" label="domlib_artitem_00000220" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">KY-object 6</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2011-05-06</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000171" xlink:title="Koholo Yoḥannǝs Däbrä Betel / KY"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000171" xlink:title="Koholo Yoḥannǝs Däbrä Betel / KY"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">75.0</measurement>
+<measurement xml:lang="en" inherited="0">40.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1950</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Severe damage to gesso layer throughout.</txstate>
+</txstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Wooden triptych, gesso on wood in own frame, wings attached with broad iron hinges, heavy damage to gesso priming throughout. &#13;
+&#13;
+Left wing upper half: The resurrected Christ standing on clouds, carrying the flag of resurrection. Coffin below him.  &#13;
+Left wing lower half: St. George in the process of killing the Dragon. Birutawit is standing in a tree to his right, looking on. &#13;
+&#13;
+Centre panel: Typically early 20th century type Virgin with the Child. Seated on a cushion in front of a canopy, Mary has the Child on her left arm. Her garments are bright blue and bright yellow with decoration throughout, she is wearing a heavily ornamented crown. Her arms are crossed in front of her body. Jesus is dressed in yellow, holding a book and extending his right arm in blessing. Both have multicoloured ray halos. Two angels are holding the star-studded canopy in the background. &#13;
+A donor figure is lying prone under Mary and the Child. &#13;
+&#13;
+Right wing upper half: Jesus crowned with thorns (Kwerata Re'esu). &#13;
+Right wing lower half: Crucifixion. The crucified Christ is bleeding profusely on the cross, a weeping Mary and a sorrowful John next to him under the cross. In the dichotomous background, yellow stars are falling on the bright blue background.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-08T16:50:45.980Z</servdate><servdate inherited="0" type="modifydate">2013-08-12T11:09:51.925Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">VKrebs</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

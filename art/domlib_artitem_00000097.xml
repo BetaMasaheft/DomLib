@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000097" label="domlib_artitem_00000097" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">SMM-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-15</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000054" xlink:title="Sämaz Maryam / SMM"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000054" xlink:title="Sämaz Maryam / SMM"/>
+</locationlinks>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">14.0</measurement>
+<measurement xml:lang="en" inherited="0">19.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1980</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Rectangular neck double diptych with decorative coloured and carved ornamentation on the outer sides of the diptych wings, both of a yellow Greek pattée cross on a green background surrounded by smaller red cross ornamentation. Set in a yellow frame with cord carvings. &#13;
+&#13;
+Side A, diptych body: Frontal view of Mary with the Child on her lap flanked by two angels armed with swords holding a red canopy. Both Mary and the Child are adorned with red and yellow double nimbi and depicted in rich garments: Mary is wearing a blue maphrion with flower ornamentation over red, striped undergarments. A bright yellow cross is adorning the front of the maphrion; a star is painted over her right shoulder. Jesus is garbed in striped yellow, with a green book in his left and extending his right hand in a gesture of blessing. In the background, the faces of the angels are shown in near frontal view with their swords framing Mary and the Child. &#13;
+&#13;
+Side A, diptych wing: St. George killing the dragon. St. George, in striped green garments with a yellow and red shawl, is seated on a white steed with elaborate red tack. His spear is slanted downwards in the process of killing a green and yellow dragon with blue wings. A second figure in blue and red garb is in the right background (Birutawit). The background alternates from yellow to green to red. &#13;
+&#13;
+Side B, diptych body: Scene from the Tortures of Christ: "Kwərˁatä Rəˀəsu" (Christ with the Crown of Thorns) surrounded by four henchmen who torture him. The haloed, bloodied Christ is depicted naked except for a green cloak; the torturers are dressed in bright, colourful clothing and tying his hands with rope or applying nails to his head. Plain yellow background. &#13;
+&#13;
+Side B, diptych wing: Two haloed saints. Two saints in elaborate red and yellow clothing with white turbans each holding a cross and a book. Plain green background.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-05T09:39:53.273Z</servdate><servdate inherited="0" type="modifydate">2013-08-09T09:06:52.711Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000014" label="domlib_artitem_00000014" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MR-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-13</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäsqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="MÓ&#153;drÃ¤ Ruba /MR"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="MÓ&#153;drÃ¤ Ruba /MR"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Silver</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">17.0</measurement>
+<measurement xml:lang="en" inherited="0">38.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1850</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Style of engravings mirrors early 17th cent. painting.</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;MR-object 2b: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&amp;#4961; &amp;#4824;&amp;#4768;&amp;#4705;&amp;#4752;&amp;#4961; &amp;#4618;&amp;#4707;&amp;#4758;&amp;#4661;&amp;#4961; &amp;#4632;&amp;#4661;&amp;#4901;&amp;#4629;&amp;#160;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;MR-object 2b: This cross is of &amp;#704;abun&amp;#228; Libanos, the one who spreads.&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Diamond-shaped hand cross with narrow staff and double engraved square base. Hollow centre of strapwork with engraved lines surrounded by lozenge-shaped frame with cord strapwork extending into trefoil finials. Small side-arms of interlaced lines in a pattée cross shape. &#13;
+Two engraved birds on lower arms, surmounted on side A by a small engraved face. Staff stamped with impressed dots on side A and roped double lines on side B. &#13;
+Square base engraved with full-frontal views of figures: &#13;
+Side A: Virgin and the Child in voluminous robes; Side B: Full-body depiction of a saint carrying a staff and a hand cross surrounded by an inscription.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-08T15:15:13.797Z</servdate><servdate inherited="0" type="modifydate">2013-08-13T08:46:58.284Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">VKrebs</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

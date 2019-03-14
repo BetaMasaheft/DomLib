@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000042" label="domlib_artitem_00000042" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">QDS-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-02</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Icon</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000110" xlink:title="QiË&#129;at DÃ¤brÃ¤ á¹¢Ç&#157;yon QÇ&#157;ddÇ&#157;st Maryam / QDS"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000110" xlink:title="QiË&#129;at DÃ¤brÃ¤ á¹¢Ç&#157;yon QÇ&#157;ddÇ&#157;st Maryam / QDS"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">28.0</measurement>
+<measurement xml:lang="en" inherited="0">20.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1500</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1600</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Greek portable icon / Ethiopian storage box in a ‘triptych’ style with painted wings. &#13;
+Greek portable icon of the ‘Psychosostria’ (Saviour of souls) type depicting Mary and the Child on a golden background; two small figures of saints in the right and left upper corner. Mary is depicted wearing a burgundy robe over a green tunic; Christ is garbed in yellow dress with green ornamental bands.&#13;
+The very small portable icon has been encased in a modified wooden storage box that unfolds ‘triptych’ style wings upon opening. &#13;
+Due to the left wing of the ‘triptych’ having become loose, the original set-up of the box has been disturbed: The depiction what is now the left wing was originally part of the painting adorning closed outside of the box; now, it has become part of the opened triptych itself. The ‘wings’ of the triptych are adorned with crudely executed paintings in black and red outlines on wood: &#13;
+Left wing open: The crucifixion and a weeping Mary are depicted on what is now the left wing of the ‘triptych’ box, however, due to the change of the original set-up the depiction of the crucified Christ has been cut in half so that only the right side of his body is visible. &#13;
+Right wing open: A figure of a saint is depicted under a canopy on the right open wing of the ‘triptych’ box, with ornaments in the background. &#13;
+Right wing closed: The second part of the Crucifixion scene depicted on Left wing open with a male figure (John?) under the right side of the cross.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-13T14:19:01.998Z</servdate><servdate inherited="0" type="modifydate">2014-10-10T11:36:07.368Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

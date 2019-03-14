@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000012" label="domlib_artitem_00000012" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MR-object 1</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-13</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="MÓ&#153;drÃ¤ Ruba /MR"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000042" xlink:title="MÓ&#153;drÃ¤ Ruba /MR"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Silver</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">25.0</measurement>
+<measurement xml:lang="en" inherited="0">43.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<artists class="MCRMetaLangText" heritable="false" notinherit="false"><artist xml:lang="en" inherited="0" form="plain">ˀato Täkulu.</artist>
+</artists>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1907</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1908</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Dating according to the inscription. Apparently it contains the date 1900 E.C. (?) (1907/08 A.D.) and refers to Metropolitan Matewos [here Matəyos] (1881-1926).</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;MR-object 1a: &lt;span style="font-size: large;"&gt;&amp;#4704;&amp;#4704;&amp;#4824;&amp;#4632;&amp;#4752; &amp;#4768;&amp;#4705;&amp;#4752; &amp;#4635;&amp;#4725;&amp;#4846;&amp;#4661; &amp;#4720;&amp;#4672;&amp;#4931;&amp;#4650; &amp;#4768;&amp;#4726; &amp;#4720;&amp;#4777;&amp;#4617;&lt;/span&gt; || &lt;span style="font-size: large;"&gt;&amp;#4824;&amp;#4720;&amp;#4656;&amp;#4653;&amp;#4611; &amp;#4704;&amp;#4877;&amp;#4709;&amp;#4829;&amp;#4755; : &amp;#4676;&amp;#4661; &amp;#4808;&amp;#4616;&amp;#4653;&amp;#4941;&amp;#4772;&amp;#4621;&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;MR-object 1b: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621; &amp;#4723;&amp;#4710;&amp;#4720; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637; &amp;#4768;&amp;#4704;&amp;#4773;&amp;#4782;&lt;/span&gt; || &lt;span style="font-size: large;"&gt;&amp;#4782;&amp;#4848;&amp;#4616; &amp;#4704;&amp;#4669;&amp;#4629;&amp;#4757; &amp;#4977; &amp;#4637;&amp;#4773;&amp;#4722; &amp;#4824;&amp;#4632;&amp;#4757;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;MR-object 1a: in the time of &amp;#704;abun&amp;#228; Mat&amp;#601;yos by the employee &amp;#704;ato T&amp;#228;kulu was made during the office of the qes g&amp;#228;b&amp;#228;z W&amp;#228;l&amp;#228;r&amp;#601;f&amp;#704;el (W&amp;#228;ld&amp;#228; Rufa&amp;#704;el ?).&lt;/p&gt;&#13;
+&lt;p&gt;MR-object 1b: This cross, (of the) tabot of Maryam &amp;#704;Ab&amp;#228;&amp;#704;ko, Kod&amp;#228;l&amp;#228; (?) in the time (one) thousand (?) and nine hundred (years).&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Diamond-shaped Gondarine style processional cross. Pattée cross with engraved figures and a strapwork centre point extending into elaborate surmounting cross finials.  Elaborate strapwork on centre cross interstices extending into further surmounting cross finials. Inscribed lower arms curling inwards into trident points. Shaft with rope ornamentation. &#13;
+All engravings in full-frontal view. Side A: superior arm: Mary cradling Christ to her chest with both hands; angels with swords on left and right arm of the cross. Side B: superior arm: Crucified Christ with halo of rays surmounted by sun and moon; crying figures with crossed arms on left and right arm of the cross.</detail>
+</details>
+<extras class="MCRMetaLangText" heritable="false" notinherit="false"><extra xml:lang="en" inherited="0" form="plain">The inscription starts on the side B&#13;
+The form Kodälä (Kodälo, Kodälu ?) is unclear. It may be a verb form or a proper name.</extra>
+</extras>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-08T15:11:51.347Z</servdate><servdate inherited="0" type="modifydate">2015-07-14T11:16:45.248Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

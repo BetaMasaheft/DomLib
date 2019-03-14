@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000144" label="domlib_artitem_00000144" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">DMD-object 1</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-09</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000129" xlink:title="Dǝbla Yoḥannǝs Mäṭmǝq / DMD"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">120.0</measurement>
+<measurement xml:lang="en" inherited="0">75.0</measurement>
+<measurement xml:lang="en" inherited="0">3.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1850</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1950</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Severe abrasions and loss of colour.</txstate>
+</txstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Wooden triptych, gesso on wood in own frame, wings significantly thinner and smaller than centre panel, heavy damage to gesso priming on wings. &#13;
+&#13;
+Left wing upper half: Orans Gebre Menfes Queddus on yellow to green background. &#13;
+Left wing lower half: The baptism of Christ. Interesting depiction with St. John the Baptist holding a cross-topped staff while sitting on the water. Jesus is immersed up to the waist in the water, John's hand is resting on Jesus' head (which is surrounded by a multicoloured halo). In the upper right corner, God the Father looks on from the clouds, with a dove poised in flight below him.  &#13;
+&#13;
+Centre panel: Typically Gondar II type Virgin with the Child. Seated on a cushion in front of a canopy, Mary has the Child on her left arm. Her garments are blue with a green lining and richly ornamented. A handkerchief is in her left hand. Jesus is dressed in red, holding a book and extending his right arm in blessing. Both have multicoloured ray halos. Two armed angels are standing in the background. &#13;
+&#13;
+&#13;
+Right wing upper half (badly damaged): The Last Supper? Many figures seated (among them possibly a crowned Mary?!) at a long table, with one figure standing on the left side with one arm raised.&#13;
+Right wing lower half (badly damaged): The Beheading of John the Baptist. A figure with a blue turban holds a long sword in their right hand and a severed head by its hair in their left arm and hands it to a second figure on the right, who is carrying a basket. A headless body (John) with a naked torso is in the process of falling to the ground, the blood still spouting from the neck. &#13;
+&#13;
+Interesting iconography, very unusal. Style is very firmly Gondar II and well executed.</detail>
+</details>
+<references class="MCRMetaLangText" heritable="false" notinherit="false"><reference xml:lang="en" inherited="0" form="plain">Companion piece to DMD-object 4?</reference>
+</references>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-06T13:46:18.312Z</servdate><servdate inherited="0" type="modifydate">2013-08-09T09:29:51.291Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

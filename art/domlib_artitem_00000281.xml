@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000281" label="domlib_artitem_00000281" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">AP-object 4</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2014-02-03</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">ˀAklil</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Votive crown</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000030" xlink:title="ˁAddäqaḥarsi Ṗäraqliṭos / AP"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Silver alloy</material>
+</materials>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1900</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1950</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Good to worn.</txstate>
+</txstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Elaborate silver ceremonial crown in a tiered domed shape with cross finial. &#13;
+Three-tiered structure with small ornamental fringe bells, mirroring a church dome in design. One halfmoon-shaped lip protruding from lowest tier.&#13;
+Ornate, well-executed decorations and depictions of Biblical Scenes as well as Saints on lowest tier. Depictions include: Crucifixion (facing the lip), Angels, St. George slaying the Dragon and saving Birutawit, a saint (Säble?), a saint riding a lion (St. Mamas or St. Samuˀel), Gäbrä Mänfäs Qəddus, Gäbrä Mäsqäl, the Virgin with Child, Birds of Paradise (on lip).&#13;
+Middle part of the vertical connectors with filled with strapwork / interlaced bands, upper part solid with etchings in geometric knot designs reminiscent of haräg designs. Uppermost part solid half-round with small moving elements (some missing). One medium-sized lozenge-shaped cross finial with strapwork and a Greek cross centre element in cutout relief. &#13;
+The crown is obviously a "mirror object" for AP-object 5, which is of lower craftsmanship and presumably a later date, modelled after AP-object 4. This is particularly visible in the execution of the strapwork and the etching of the narrative scenes. In direct comparison between AP-4 and AP-5, the depictions on AP-5 deviate in key elements from Biblical Scenes carefully etched into AP-4: In AP-5, the Angels behind Mary and the Child are missing entirely, the cartouche for “qəddus Säble” has been moved while the cartouches for Gäbrä Mänfäs Qəddus and one angel are missing entirely; a warrior saint and a female saint have been added. &#13;
+This indicates AP-4 served as a model for AP-5, a finding also substantiated by the heavier Second Gondarene style employed in AP-5. Lastly, state of preservation of AP-5 is better than that of AP-4, indicating that AP-4 enjoyed heavier use or is indeed the older vorlage.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2015-05-29T10:43:38.098Z</servdate><servdate inherited="0" type="modifydate">2015-05-29T10:43:38.098Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

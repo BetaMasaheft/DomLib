@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000095" label="domlib_artitem_00000095" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">DZ-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-05-06</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000034" xlink:title="Däbrä Zäyt / DZ"/>
+</locationlinks>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">7.0</measurement>
+<measurement xml:lang="en" inherited="0">12.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Second Gondarene Style</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Small neck double diptych with decorative coloured ornamentation on the outer sides of the diptych wings, both of a yellow Greek pattée cross on a green background surrounded by a red rectangle with yellow dot decoration set in a green, dotted frame.&#13;
+&#13;
+Side A, diptych body: Frontal view of Mary with the Child on her lap flanked by two angels holding a red canopy. Both Mary and the Child are adorned with elaborate, brown and yellow radiant nimbi and depicted in rich garments: Mary is wearing a blue maphrion over red undergarments. A cross is adorning the front of the maphrion; a star is painted over her right shoulder. Jesus is garbed in yellow, with a green-covered book in his left and extending his right hand in a gesture of blessing. In the background, the faces of the angels are shown in near frontal view next an elaborate red canopy studded with yellow stars, framing Mary and the Child. &#13;
+&#13;
+Side A, diptych wing: St. George killing the dragon. St. George, in star-studded blue garments with a red shawl, is seated on a grey steed with elaborate red tack. His spear is slanted downwards in the process of killing a blue dragon with red wings. The background alternates from yellow to green to yellow. &#13;
+&#13;
+Side B, diptych body: "Kwərˁatä Rəˀəsu" (Christ with the Crown of Thorns), Jesus with a crown of thorns and a yellow nail and ray nimbus, his hands raised in prayer. Plain green background. &#13;
+&#13;
+Side B, diptych wing: Saint with wings (Gebre Tekle Haymanot). The saint is wearing white garments crisscrossed by red bands and has his hands raised in prayer; six muliticoloured wings fold out behind him. Plain green background.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-05T09:38:21.855Z</servdate><servdate inherited="0" type="modifydate">2013-08-09T09:03:33.017Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SAncel</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

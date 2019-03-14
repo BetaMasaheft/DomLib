@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000111" label="domlib_artitem_00000111" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">UM-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-04-30</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000017" xlink:title="ˁUra Qirqos / UM"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Bronze</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">12.0</measurement>
+<measurement xml:lang="en" inherited="0">28.0</measurement>
+<measurement xml:lang="en" inherited="0">2.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1200</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1700</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">"Lalibela" type of cross first originated in the 12th century in Lasta; shape popular throughout following centuries.</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;The inscription starts (side A) possibly with an abbreviated word (the reading of the last letter is a matter of interpretation): &lt;span style="font-size: large;"&gt;&amp;#4845;&amp;#4635;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;|&lt;/span&gt;&amp;#4773;&lt;br /&gt;&#13;
+&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Then the word&lt;/span&gt;&lt;span style="font-size: large;"&gt;&amp;#160;&amp;#4781;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;|&lt;/span&gt;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661; &lt;span style="font-size: small;"&gt;follows, all letters except the first having been written around the shaft. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: small;"&gt;Side B:&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: large;"&gt; &amp;#4720;&amp;#4661;&amp;#4939;  |&amp;#4709;&amp;#4752;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;br /&gt;&#13;
+&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A+B: "Christ, (you are) our hope, (have mercy upon us)". (?)&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Bronze framed processional cross of the "Lalibela" type. &#13;
+Elongated cross pattée central element surrounded by a frame shaped like an inverted pear, with bird-head designs at the lower part of the surrounding frame. Small triangle decoration with looped circles on top. Inscription on upper base on both Side A and Side B.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-05T09:50:08.789Z</servdate><servdate inherited="0" type="modifydate">2014-09-12T21:46:59.470Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

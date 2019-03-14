@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000083" label="domlib_artitem_00000083" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">EMQ-object 3</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-05-12</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</locationlinks>
+<artists class="MCRMetaLangText" heritable="false" notinherit="false"><artist xml:lang="en" inherited="0" form="plain">Täsfa Maryam,bäǧərond</artist>
+</artists>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Mäkwännən, ras</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1889</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1898</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">Ras Mäkwännən (Wäldä Mikaˀel?) lived in 1852-1906; he received the title of ras in 1889, and was for a short period appointed the governor of Təgray in 1898 (cp. EAE III, 686-87).</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">Excellent state of preservation.</txstate>
+</txstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621;&amp;#4961;&lt;/span&gt; &lt;span style="font-size: large;"&gt;&amp;#4824;&amp;#4651;&amp;#4661;&amp;#4961; &amp;#4632;&amp;#4784;&amp;#4757;&amp;#4757;&amp;#4961; &amp;#4824;&amp;#4661;&amp;#4632;&amp;#4961; &amp;#4901;&amp;#4637; | &amp;#4672;&amp;#4721;&amp;#4961; &amp;#4808;&amp;#4621;&amp;#4848;&amp;#4961; &amp;#4768;&amp;#4637;&amp;#4619;&amp;#4781;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707;&amp;#4961; &amp;#4616;&amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4680;&amp;#4651; | &amp;#4653;&amp;#4961; &amp;#4776;&amp;#4632; &amp;#4725;&amp;#4777;&amp;#4758;&amp;#4961; &amp;#4632;&amp;#4653;&amp;#4611;&amp;#4961; &amp;#4616;&amp;#4632;&amp;#4757;&amp;#4877;&amp;#4645; | &amp;#4720;&amp;#4961; &amp;#4656;&amp;#4635;&amp;#4843;&amp;#4725;&amp;#4968; &amp;#4656;&amp;#4650;&amp;#4813; &amp;#4961; &amp;#4704;&amp;#4869;&amp;#4654;&amp;#4757;&amp;#4853;&amp;#4961; &amp;#4720;&amp;#4661;&amp;#4939;&amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637;&amp;#4961; &amp;#4768;&amp;#4853;&amp;#4811; &amp;#4968;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: This is a cross of ras M&amp;#228;kw&amp;#228;nn&amp;#601;n whose baptismal name is W&amp;#228;ld&amp;#228; &amp;#704;Amlak, who gave (it) to Maryam of Qw&amp;#228;rar so that it might be for him the guide to the Kingdom of Heaven. The maker is b&amp;#228;&amp;#487;&amp;#601;rond T&amp;#228;sfa Maryam. &amp;#704;Adwa.&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Gold-plated silver processional cross in a diamond / Gondarene shape with high quality engravings. &#13;
+Centre element is a cross pattée with flared, wide finial extensions featuring gold-plated engravings. Small cross ornaments in the interstices. Ornamented side finials in an ornamented Greek cross shape. Long semi-circular side arms with inscription surround inferior arm and connect to the round shaft of the cross.&#13;
+Engravings: &#13;
+Side A: Gondar II style Mary with the child surrounded by angels on upper arm, male and female saint surrounded by seraphim on side arms, bird and angel on inferior arm. Rope pattern engravings throughout. &#13;
+Side B: Western iconography style Crucifixion surrounded by stars and one angel on upper arm, Mary and John surrounded by seraphim on side arms, ox and lion on inferior arm. Rope pattern engravings throughout.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-29T10:59:36.027Z</servdate><servdate inherited="0" type="modifydate">2015-07-14T11:20:23.237Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

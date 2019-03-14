@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000071" label="domlib_artitem_00000071" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MM-object 1</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2011-05-11</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross.</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000141" xlink:title="Maryam MÃ¤kan/MM"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000141" xlink:title="Maryam MÃ¤kan/MM"/>
+</locationlinks>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1700</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1800</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: &lt;span style="font-size: large;"&gt;&amp;#4704;&amp;#4776;&amp;#4632; &amp;#4720;&amp;#4635;&amp;#4741;&amp;#4928;&amp;#4752; &lt;/span&gt;[&lt;span style="font-size: large;"&gt;&amp;#4768;&lt;/span&gt;]&lt;span style="font-size: large;"&gt;&amp;#4637;&amp;#4848; &amp;#4961; &amp;#4925;&amp;#4846;&amp;#4757;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: How &amp;#704;Amd&amp;#228; &amp;#7778;&amp;#601;yon entrusted himself.&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Silver processional cross in a diamond / Gondarene shape with engravings. &#13;
+Centre element is a cross pattée with flared, wide finial extensions featuring engravings. Small cross ornaments in the interstices. Ornamented side finials in an ornamented pattée cross shape. Long semi-circular side arms surround inferior arm and connect to the round shaft of the cross.&#13;
+Engravings: &#13;
+Side A: Trinity with Evangelist symbols on upper arm, St. George and Mary with the Child with an angel on side arms, saints and inscription on inferior arm. Donor figure in cross centre. &#13;
+Side B: Crucifixion with moon and sun as well as Mary and John surrounded by angels on upper arm, Man of Sorrows / Kwerata Re'esu and Jesus teaching his disciples with angels on side arms, saints on inferior arm. Entombment of Christ in cross centre.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-17T16:03:59.763Z</servdate><servdate inherited="0" type="modifydate">2013-08-05T14:19:28.573Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SDege</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

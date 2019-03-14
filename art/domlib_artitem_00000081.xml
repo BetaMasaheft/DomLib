@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000081" label="domlib_artitem_00000081" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">EMQ-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2012-05-12</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="Ë&#128;Æ&#142;nda Maryam Qorrar / EMQ"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Brass.</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">49.0</measurement>
+<measurement xml:lang="en" inherited="0">72.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Krəstos (s. inscription).</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St02"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">The cross has been repaired. Two finial arms have been re-attached, small signs of welding are visible on small finialis.</txstate>
+</txstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: &lt;span style="font-size: large;"&gt;&amp;#4829;&amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621; &amp;#4961; &amp;#4824;&amp;#4872;&amp;#4709;&amp;#4648; &amp;#4961; &amp;#4781;&amp;#4653;&amp;#4661;&amp;#4726;&amp;#4661;&amp;#4726;&amp;#4661; &lt;/span&gt;[sic] &lt;span style="font-size: large;"&gt;&amp;#4961; &amp;#4824;&amp;#4808;&amp;#4608;&amp;#4707; &amp;#4961; &amp;#4616;&amp;#4672;&amp;#4651;&amp;#4653;&lt;/span&gt; | [l.n.] &lt;span style="font-size: large;"&gt;&amp;#4616; &amp;#4961; &amp;#4808;&amp;#4621;&amp;#4849; &amp;#4961; &amp;#4824;&amp;#4808;&amp;#4621;&amp;#4848; &amp;#4961; &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637; | &amp;#4808;&amp;#4709;&amp;#4773;&amp;#4658;&amp;#4721; &amp;#4653;&amp;#4877;&amp;#4704; &amp;#4961; &amp;#4851;&amp;#4810;&amp;#4725;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: This is a cross of G&amp;#228;br&amp;#228; Kr&amp;#601;stos who gave (it) to Q&amp;#228;rrar | [l.n.] son of W&amp;#228;ld&amp;#228; Maryam | and his wife is R&amp;#601;gb&amp;#228; Dawit&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Diamond-shaped Gondarine form cross with joined arms ending in a multitude of cross-shaped finials. Engraved strapwork lines and floral engravings all over.&#13;
+Engravings on Side A: Trinity surrounded by the four beasts on the superior arm, St. George rescuing Brtawit on the left arm, Mary with the Child surrounded by angels on the right arm. &#13;
+Engravings on Side B: Crucifixion with Mary and John on the superior arm, Jesus teaching his disciples on the right arm, GMQ surrounded by two lions on the right arm.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-29T10:43:10.374Z</servdate><servdate inherited="0" type="modifydate">2015-07-14T11:19:19.300Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

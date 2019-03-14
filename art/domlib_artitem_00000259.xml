@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000259" label="domlib_artitem_00000259" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">EMQ-object 5</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäsqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="ˀƎnda Maryam Qorrar / EMQ"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000219" xlink:title="ˀƎnda Maryam Qorrar / EMQ"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Silver / Steel ?</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">49.0</measurement>
+<measurement xml:lang="en" inherited="0">69.0</measurement>
+<measurement xml:lang="en" inherited="0">3.0</measurement>
+</measurements>
+<donors class="MCRMetaLangText" heritable="false" notinherit="false"><donor xml:lang="en" inherited="0" form="plain">Gäbrä Śəllase Gäbrä Kidan, ˀabba qes gäbäz ˀabba</donor>
+</donors>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1800</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1900</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Inscription, side a:&lt;span style="font-size: large;"&gt;&amp;#160;&amp;#4829;&amp;#4632;&amp;#4656;&amp;#4672;&amp;#4621;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4824;&amp;#4676;&amp;#4661;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4872;&amp;#4704;&amp;#4829;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4768;&amp;#4707;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4872;&amp;#4709;&amp;#4648;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4645;&amp;#4619;&amp;#4660;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4872;&amp;#4709;&amp;#4648;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt; &amp;#4778;&amp;#4851;&amp;#4757;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Inscription, side a: "This cross is of qes g&amp;#228;b&amp;#228;z &amp;#704;abba G&amp;#228;br&amp;#228; &amp;#346;&amp;#601;llase G&amp;#228;br&amp;#228; Kidan".&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Very well preserved Greek processional cross filled with strapwork and big, elaborate finials. Central, very broad strapwork Greek cross with a solid square in its middle. Inscriptions on upper and side bars of the Greek cross on Side A. Central cross extends into very elaborate, sizable trefoil finials with extended tips. Two strapwork semi-circles surround the shaft at the inferior arm of the cross. Very detailed, carefully executed strapwork throughout, ranging from rope patterns within the central cross to circular and parallel lines in the finials. Engraved ornaments in rope-patterns and line and dot decoration throughout.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2013-08-12T12:01:48.329Z</servdate><servdate inherited="0" type="modifydate">2013-08-13T08:46:20.804Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">DNosnitsin</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">VKrebs</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

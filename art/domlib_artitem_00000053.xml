@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000053" label="domlib_artitem_00000053" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">ATH-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-11-17</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Səˁəl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Triptych</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="Ë&#128;AraË&#129;ro TÃ¤klÃ¤ Haymanot / ATH"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000095" xlink:title="Ë&#128;AraË&#129;ro TÃ¤klÃ¤ Haymanot / ATH"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Wood</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">10.0</measurement>
+<measurement xml:lang="en" inherited="0">10.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<datings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><dating inherited="0">1800</dating>
+</datings>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1750</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1850</tdating>
+</tdatings>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A, diptych body: &amp;#4645;&amp;#4821;&amp;#4616; &amp;#4961; &amp;#4661;&amp;#4677;&amp;#4616;&amp;#4725; | &amp;#4677;&amp;#4849;&amp;#4661; &amp;#4961; &amp;#4846;&amp;#4624;&amp;#4757;&amp;#4661; | &amp;#4635;&amp;#4653;&amp;#4843;&amp;#4637; Side A, diptych wing: &amp;#4645;&amp;#4821;&amp;#4616; &amp;#4961; &amp;#4725;&amp;#4757;&amp;#4643;&amp;#4772; &amp;#4962; Side B, diptych body: &amp;#4789;&amp;#4653;&amp;#4768;&amp;#4720; &amp;#4961; &amp;#4653;&amp;#4773;&amp;#4657;  Side B, diptych wing: &amp;#4773;&amp;#4877;&amp;#4826;&amp;#4773;&amp;#4752; &amp;#4961; &amp;#4704;&amp;#4776;&amp;#4632; &amp;#4961; &amp;#4926;&amp;#4648; &amp;#4961; &amp;#4768;&amp;#4653;&amp;#4817;&amp;#4720; &amp;#4961; &amp;#4632;&amp;#4661;&amp;#4672;&amp;#4621; &amp;#4962;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A, diptych body: Image of crucifixion | Saint John | Mary Side A, diptych wing: Image of Resurrection Side B, diptych body: kw&amp;#601;r&amp;#704;at&amp;#228; r&amp;#601;&amp;#704;&amp;#601;su (striking of His head) Side B, diptych wing: Our Lord, as He bore the yoke of the cross&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Small neck double diptych with engravings on the outer sides of the diptych wings, one of three flowered crosses, one of a decorated square. &#13;
+&#13;
+Side A, diptych body: Depiction of the crucifixion. Jesus, bleeding and with a crown of thorns on a cross surrounded by clouds. Mary with raised hands on the left side of the picture, an unidentified male figure (John the Evangelist) clasping his hands behind his neck on the right side. All figures feature yellow nimbi lined with red; the background is painted blue. &#13;
+Side A, diptych wing: A man with a triple-lined nimbus in red garb with a red-and-yellow cloak (Jesus) grabbing two naked persons (Adam and Eve) depicted at the lower edge of the picture by their arms. A cross flagstaff with a red-and-white flag leans behind him. The background alternates from red to green to red.  &#13;
+&#13;
+Side B, diptych body: "Kwərˁatä Rəˀəsu" (Christ with the Crown of Thorns), Jesus with a crown of thorns and a multicoloured nail and ray nimbus, his hands raised in prayer. Two bearded figures in the left and right background are holding small axes and strips of cloth. &#13;
+Side B, diptych wing: A prone figure of a man on his knees (Jesus), carrying a cross on his shoulder, with the left arm wrapped around one arm of the cross. His head is depicted in an awkward upright-frontal position. Three figures, one carrying a sword, the other a type of leash, in the background. The background of Side B is universally green.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-15T07:58:40.136Z</servdate><servdate inherited="0" type="modifydate">2013-07-20T12:08:40.533Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">DNosnitsin</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>

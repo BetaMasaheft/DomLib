@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" ID="domlib_artitem_00000049" label="domlib_artitem_00000049" version="2.0" xsi:noNamespaceSchemaLocation="datamodel-artitem.xsd"><structure/><metadata xml:lang="de"><signatures class="MCRMetaLangText" heritable="false" notinherit="false"><signature xml:lang="en" inherited="0" form="plain">MAC-object 2</signature>
+</signatures>
+<regbys class="MCRMetaLangText" heritable="false" notinherit="false"><regby xml:lang="en" inherited="0" form="plain">D.N.</regby>
+</regbys>
+<regdates class="MCRMetaISO8601Date" heritable="false" notinherit="false"><regdate inherited="0">2010-12-06</regdate>
+</regdates>
+<titles class="MCRMetaLangText" heritable="false" notinherit="false"><title xml:lang="en" inherited="0" form="plain">Mäsqäl/ yäṣor mäṣqäl</title>
+</titles>
+<otitles class="MCRMetaLangText" heritable="false" notinherit="false"><otitle xml:lang="en" inherited="0" form="plain">Processional cross.</otitle>
+</otitles>
+<originlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><originlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="á¸&#136;Ã¤hat MÃ¤dá¸«ane Ë&#129;AlÃ¤m / MAC"/>
+</originlinks>
+<locationlinks class="MCRMetaLinkID" heritable="false" notinherit="false"><locationlink inherited="0" xlink:type="locator" xlink:href="domlib_institution_00000121" xlink:title="á¸&#136;Ã¤hat MÃ¤dá¸«ane Ë&#129;AlÃ¤m / MAC"/>
+</locationlinks>
+<materials class="MCRMetaLangText" heritable="false" notinherit="false"><material xml:lang="en" inherited="0" form="plain">Brass.</material>
+</materials>
+<measurements class="MCRMetaNumber" heritable="false" notinherit="false"><measurement xml:lang="en" inherited="0">51.0</measurement>
+<measurement xml:lang="en" inherited="0">65.0</measurement>
+<measurement xml:lang="en" inherited="0">1.0</measurement>
+</measurements>
+<fdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><fdating inherited="0">1936</fdating>
+</fdatings>
+<tdatings class="MCRMetaISO8601Date" heritable="false" notinherit="false"><tdating inherited="0">1937</tdating>
+</tdatings>
+<dcomments class="MCRMetaLangText" heritable="false" notinherit="false"><dcomment xml:lang="en" inherited="0" form="plain">The inscription on the side B mentions a date which can be read as 1929 E.C. (1936/37 A.D.) or 1829 E.C. (1836/37 A.D.).</dcomment>
+</dcomments>
+<catstates class="MCRMetaClassification" heritable="false" notinherit="false"><catstate inherited="0" classid="domlib_class_00000005" categid="St01"/>
+</catstates>
+<txstates class="MCRMetaLangText" heritable="false" notinherit="false"><txstate xml:lang="en" inherited="0" form="plain">The broad trefoil finials were re-attached onto the main cross body through reinforcements and screwed-on plates.</txstate>
+</txstates>
+<inscriptions class="MCRMetaLangText" heritable="false" notinherit="false"><inscription xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A:&lt;span style="font-size: large;"&gt; &amp;#4829;&amp;#4632;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4661;&amp;#4672;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4621; &amp;#4961; &amp;#4824;&amp;#4704;&amp;#4616; &lt;span style="font-size: small;"&gt;[l.n ]&lt;/span&gt;&amp;#4632;&amp;#4617; &amp;#4961;&lt;span style="font-size: small;"&gt; [l.n.]&lt;/span&gt;&amp;#4677;  &amp;#4961; &lt;span style="font-size: small;"&gt;| &lt;/span&gt;&amp;#4824;&amp;#4808;&amp;#4624;&amp;#4710; &amp;#4961; &amp;#4616;&amp;#4632; &lt;span style="font-size: small;"&gt;|&lt;/span&gt; &amp;#4808;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4661;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4632; &amp;#4961; &amp;#4901;&amp;#4637;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4672;&amp;#4721;&lt;span style="font-size: small;"&gt;]&lt;/span&gt; &amp;#4872;&amp;#4709;&amp;#4648;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4626;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4808;&amp;#4725; &lt;span style="font-size: small;"&gt; Side B:&lt;/span&gt; &amp;#4776;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4632;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&amp;#4961;&lt;/span&gt;&lt;span style="font-size: large;"&gt;&lt;span style="font-size: small;"&gt;]&lt;/span&gt; &amp;#4845;&amp;#4777;&amp;#4758; &lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4961; &amp;#4632;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4853;&amp;#4624;&amp;#4754;&amp;#4720; &amp;#4961; &amp;#4661;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4875; &amp;#4961; &amp;#4808;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4752;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4941;&amp;#4661;&lt;span style="font-size: small;"&gt;]|&lt;/span&gt; &amp;#4978;&lt;span style="font-size: small;"&gt;[l.n.]&lt;/span&gt;&amp;#4979;&amp;#4977; &amp;#4768;&amp;#4632;&lt;span style="font-size: small;"&gt;[&lt;/span&gt;&amp;#4720; &amp;#4637;&lt;span style="font-size: small;"&gt;]&lt;/span&gt;&amp;#4629;&amp;#4648;&amp;#4725; &amp;#4961;&lt;/span&gt;&lt;/p&gt;</inscription>
+</inscriptions>
+<itranslations class="MCRMetaLangText" heritable="false" notinherit="false"><itranslation xml:lang="en" inherited="0" form="plain">&lt;p&gt;Side A: This cross which [l.n.] which was given to M&amp;#228;[d&amp;#7723;ane Al&amp;#228;m] by [l.n.] and his baptismal name is G&amp;#228;br&amp;#228; [&amp;#7716;i]w&amp;#228;t. Side B: so that it becomes the salvation of his flesh and soul, 1[l.n.]29 Year of Grace.&lt;/p&gt;</itranslation>
+</itranslations>
+<details class="MCRMetaLangText" heritable="false" notinherit="false"><detail xml:lang="en" inherited="0" form="plain">Broad lozenge-shaped processional cross. &#13;
+A Christian cross with a small second crossbar within a broad, short-armed Greek cross filled with strapwork of interlaced bands. Three big trefoil finials with elaborate vegetal and circular strapwork extend from the Greek cross. Originally inscribed, the inscription on the outer part of the Greek cross has been rendered mostly unintelligible due to repair work and re-attachment of the finials with screwed-on plates.</detail>
+</details>
+</metadata><service><servdates class="MCRMetaISO8601Date"><servdate inherited="0" type="createdate">2012-08-15T07:13:32.780Z</servdate><servdate inherited="0" type="modifydate">2013-08-05T09:32:06.789Z</servdate></servdates><servflags class="MCRMetaLangText"><servflag xml:lang="en" inherited="0" form="plain" type="creator">SAncel</servflag><servflag xml:lang="en" inherited="0" form="plain" type="editor">SDege</servflag></servflags><servacls class="MCRMetaAccessRule"><servacl permission="deletedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioadmins"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl><servacl permission="read"><condition format="xml"><boolean operator="true"/></condition></servacl><servacl permission="writedb"><condition format="xml"><boolean operator="and"><boolean operator="or"><condition field="group" operator="=" value="admingroup"/><condition field="group" operator="=" value="ethioleaders"/></boolean><boolean operator="true"/><boolean operator="true"/></boolean></condition></servacl></servacls></service></mycoreobject>
